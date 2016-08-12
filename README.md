@@ -45,7 +45,7 @@ Tutti i campi sono di tipo stringa.
 }
 ```
 
-### Provincia presente, città metropolitana assente
+### Provincia assente, città metropolitana presente
 
 ```json
 {
