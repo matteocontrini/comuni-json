@@ -1,7 +1,7 @@
 # comuni-json
 Database comuni italiani con informazioni ISTAT e CAP
 
-La lista è aggiornata al 01/07/2016. Comprende i [nuovi comuni 2016](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2016/) e i [nuovi CAP](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016.pdf) operativi dal 18/04/2016.
+La lista dei comuni è aggiornata al 01/07/2016. Comprende i [nuovi comuni 2016](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2016/) con relativi CAP comunicati da Poste (vedi [aggiornamenti](#aggiornamenti)). In attesa dei nuovi CAP ufficiali, i dati non comprendono i [nuovi comuni 2017](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2017/).
 
 * Nome (campo `nome`)
 * Codice ISTAT (campo `codice`)
@@ -140,4 +140,9 @@ Tutti i campi sono di tipo stringa.
 
 ## Fonti
 
-Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789), nella versione 01/07/2016, ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli aggiornamenti di CAP del 18/04/2016 (vedi link sopra).
+Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](http://www.poste.it/postali/cap.shtml) effettuati in seguito alle fusioni del 2016.
+
+## Aggiornamenti
+
+I dati sono aggiornati al 01/07/2016.
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [18/04/2016](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016.pdf) e il [21/11/2016](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016-II.pdf).
