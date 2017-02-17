@@ -1,0 +1,23 @@
+{
+	"nome": "Cremona",
+	"codice": "019036",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "019",
+		"nome": "Cremona"
+	},
+	"sigla": "CR",
+	"codiceCatastale": "D150",
+	"cap": "26100"
+}

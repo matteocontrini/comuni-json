@@ -1,0 +1,23 @@
+{
+	"nome": "Pietranico",
+	"codice": "068032",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "G621",
+	"cap": "65020"
+}

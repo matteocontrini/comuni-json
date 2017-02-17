@@ -1,0 +1,23 @@
+{
+	"nome": "Villesse",
+	"codice": "031025",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "031",
+		"nome": "Gorizia"
+	},
+	"sigla": "GO",
+	"codiceCatastale": "M043",
+	"cap": "34070"
+}

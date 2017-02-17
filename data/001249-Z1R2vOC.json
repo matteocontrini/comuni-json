@@ -1,0 +1,23 @@
+{
+	"nome": "San Mauro Torinese",
+	"codice": "001249",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"cm": {
+		"codice": "201",
+		"nome": "Torino"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": ""
+	},
+	"sigla": "TO",
+	"codiceCatastale": "I030",
+	"cap": "10099"
+}

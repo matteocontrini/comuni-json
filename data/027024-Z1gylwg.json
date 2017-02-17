@@ -1,0 +1,23 @@
+{
+	"nome": "Mirano",
+	"codice": "027024",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "227",
+		"nome": "Venezia"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": ""
+	},
+	"sigla": "VE",
+	"codiceCatastale": "F241",
+	"cap": "30035"
+}

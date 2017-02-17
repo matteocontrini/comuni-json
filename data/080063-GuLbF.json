@@ -1,0 +1,39 @@
+{
+	"nome": "Reggio di Calabria",
+	"codice": "080063",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "280",
+		"nome": "Reggio di Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": ""
+	},
+	"sigla": "RC",
+	"codiceCatastale": "H224",
+	"cap": [
+		"89121",
+		"89122",
+		"89123",
+		"89124",
+		"89125",
+		"89126",
+		"89127",
+		"89128",
+		"89129",
+		"89130",
+		"89131",
+		"89132",
+		"89133",
+		"89134",
+		"89135"
+	]
+}

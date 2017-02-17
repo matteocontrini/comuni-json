@@ -1,0 +1,23 @@
+{
+	"nome": "Covo",
+	"codice": "016087",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "D126",
+	"cap": "24050"
+}

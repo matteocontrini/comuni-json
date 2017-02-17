@@ -1,0 +1,23 @@
+{
+	"nome": "Diano Arentino",
+	"codice": "008025",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "D293",
+	"cap": "18013"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Carmignano",
+	"codice": "100002",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "100",
+		"nome": "Prato"
+	},
+	"sigla": "PO",
+	"codiceCatastale": "B794",
+	"cap": "59015"
+}

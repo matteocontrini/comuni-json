@@ -1,0 +1,23 @@
+{
+	"nome": "Celle di Bulgheria",
+	"codice": "065038",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "C444",
+	"cap": "84040"
+}

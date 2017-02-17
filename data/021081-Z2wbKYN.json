@@ -1,0 +1,23 @@
+{
+	"nome": "San Lorenzo di Sebato",
+	"codice": "021081",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "021",
+		"nome": "Bolzano/Bozen"
+	},
+	"sigla": "BZ",
+	"codiceCatastale": "H956",
+	"cap": "39030"
+}

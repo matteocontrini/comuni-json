@@ -1,0 +1,23 @@
+{
+	"nome": "Povegliano Veronese",
+	"codice": "023060",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "G945",
+	"cap": "37064"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Battaglia Terme",
+	"codice": "028011",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "028",
+		"nome": "Padova"
+	},
+	"sigla": "PD",
+	"codiceCatastale": "A714",
+	"cap": "35041"
+}

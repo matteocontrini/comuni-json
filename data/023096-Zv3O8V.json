@@ -1,0 +1,23 @@
+{
+	"nome": "Villafranca di Verona",
+	"codice": "023096",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "023",
+		"nome": "Verona"
+	},
+	"sigla": "VR",
+	"codiceCatastale": "L949",
+	"cap": "37069"
+}

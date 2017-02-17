@@ -1,0 +1,23 @@
+{
+	"nome": "Siliqua",
+	"codice": "111084",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "",
+	"codiceCatastale": "I734",
+	"cap": "09010"
+}

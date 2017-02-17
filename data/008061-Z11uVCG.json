@@ -1,0 +1,23 @@
+{
+	"nome": "Triora",
+	"codice": "008061",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "L430",
+	"cap": "18010"
+}

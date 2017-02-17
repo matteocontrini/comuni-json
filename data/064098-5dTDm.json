@@ -1,0 +1,23 @@
+{
+	"nome": "Senerchia",
+	"codice": "064098",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "064",
+		"nome": "Avellino"
+	},
+	"sigla": "AV",
+	"codiceCatastale": "I606",
+	"cap": "83050"
+}

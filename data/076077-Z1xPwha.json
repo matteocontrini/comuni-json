@@ -1,0 +1,23 @@
+{
+	"nome": "San Martino d'Agri",
+	"codice": "076077",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "17",
+		"nome": "Basilicata"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "076",
+		"nome": "Potenza"
+	},
+	"sigla": "PZ",
+	"codiceCatastale": "H994",
+	"cap": "85030"
+}

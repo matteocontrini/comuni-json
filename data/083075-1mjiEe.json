@@ -1,0 +1,23 @@
+{
+	"nome": "Rodì Milici",
+	"codice": "083075",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "283",
+		"nome": "Messina"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": ""
+	},
+	"sigla": "ME",
+	"codiceCatastale": "H479",
+	"cap": "98059"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Mafalda",
+	"codice": "070036",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "070",
+		"nome": "Campobasso"
+	},
+	"sigla": "CB",
+	"codiceCatastale": "E799",
+	"cap": "86030"
+}

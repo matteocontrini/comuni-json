@@ -1,0 +1,23 @@
+{
+	"nome": "Pietracatella",
+	"codice": "070053",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "070",
+		"nome": "Campobasso"
+	},
+	"sigla": "CB",
+	"codiceCatastale": "G609",
+	"cap": "86040"
+}

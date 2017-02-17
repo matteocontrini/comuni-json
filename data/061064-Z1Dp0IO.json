@@ -1,0 +1,23 @@
+{
+	"nome": "Pratella",
+	"codice": "061064",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "061",
+		"nome": "Caserta"
+	},
+	"sigla": "CE",
+	"codiceCatastale": "G995",
+	"cap": "81010"
+}

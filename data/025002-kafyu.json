@@ -1,0 +1,23 @@
+{
+	"nome": "Alano di Piave",
+	"codice": "025002",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "025",
+		"nome": "Belluno"
+	},
+	"sigla": "BL",
+	"codiceCatastale": "A121",
+	"cap": "32031"
+}

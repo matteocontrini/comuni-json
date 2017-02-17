@@ -1,0 +1,23 @@
+{
+	"nome": "Radicofani",
+	"codice": "052024",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "052",
+		"nome": "Siena"
+	},
+	"sigla": "SI",
+	"codiceCatastale": "H156",
+	"cap": "53040"
+}

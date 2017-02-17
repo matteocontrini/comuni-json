@@ -1,0 +1,23 @@
+{
+	"nome": "Torre di Ruggiero",
+	"codice": "079148",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "079",
+		"nome": "Catanzaro"
+	},
+	"sigla": "CZ",
+	"codiceCatastale": "L240",
+	"cap": "88060"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Macerata Feltria",
+	"codice": "041023",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "E785",
+	"cap": "61023"
+}

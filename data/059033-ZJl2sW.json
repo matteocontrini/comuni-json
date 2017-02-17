@@ -1,0 +1,23 @@
+{
+	"nome": "Ventotene",
+	"codice": "059033",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "059",
+		"nome": "Latina"
+	},
+	"sigla": "LT",
+	"codiceCatastale": "L742",
+	"cap": "04020"
+}

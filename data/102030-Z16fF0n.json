@@ -1,0 +1,23 @@
+{
+	"nome": "Ricadi",
+	"codice": "102030",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "102",
+		"nome": "Vibo Valentia"
+	},
+	"sigla": "VV",
+	"codiceCatastale": "H271",
+	"cap": "89866"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Penna San Giovanni",
+	"codice": "043035",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "G436",
+	"cap": "62020"
+}

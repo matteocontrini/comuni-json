@@ -1,0 +1,23 @@
+{
+	"nome": "Belmonte del Sannio",
+	"codice": "094004",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "A761",
+	"cap": "86080"
+}

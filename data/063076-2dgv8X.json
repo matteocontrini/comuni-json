@@ -1,0 +1,23 @@
+{
+	"nome": "Saviano",
+	"codice": "063076",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "263",
+		"nome": "Napoli"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": ""
+	},
+	"sigla": "NA",
+	"codiceCatastale": "I469",
+	"cap": "80039"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Serrenti",
+	"codice": "111078",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "",
+	"codiceCatastale": "I667",
+	"cap": "09027"
+}

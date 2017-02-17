@@ -1,0 +1,23 @@
+{
+	"nome": "Militello in Val di Catania",
+	"codice": "087025",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "287",
+		"nome": "Catania"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": ""
+	},
+	"sigla": "CT",
+	"codiceCatastale": "F209",
+	"cap": "95043"
+}

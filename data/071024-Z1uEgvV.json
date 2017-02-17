@@ -1,0 +1,26 @@
+{
+	"nome": "Foggia",
+	"codice": "071024",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "071",
+		"nome": "Foggia"
+	},
+	"sigla": "FG",
+	"codiceCatastale": "D643",
+	"cap": [
+		"71121",
+		"71122"
+	]
+}

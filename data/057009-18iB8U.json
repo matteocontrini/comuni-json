@@ -1,0 +1,23 @@
+{
+	"nome": "Cantalice",
+	"codice": "057009",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "057",
+		"nome": "Rieti"
+	},
+	"sigla": "RI",
+	"codiceCatastale": "B627",
+	"cap": "02014"
+}

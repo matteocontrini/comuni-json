@@ -1,0 +1,23 @@
+{
+	"nome": "Monforte San Giorgio",
+	"codice": "083054",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "283",
+		"nome": "Messina"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": ""
+	},
+	"sigla": "ME",
+	"codiceCatastale": "F359",
+	"cap": "98041"
+}

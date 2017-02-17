@@ -1,0 +1,23 @@
+{
+	"nome": "San Valentino in Abruzzo Citeriore",
+	"codice": "068038",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "I376",
+	"cap": "65020"
+}

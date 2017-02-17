@@ -1,0 +1,23 @@
+{
+	"nome": "Stornarella",
+	"codice": "071055",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "071",
+		"nome": "Foggia"
+	},
+	"sigla": "FG",
+	"codiceCatastale": "I963",
+	"cap": "71048"
+}

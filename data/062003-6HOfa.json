@@ -1,0 +1,23 @@
+{
+	"nome": "Apice",
+	"codice": "062003",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "062",
+		"nome": "Benevento"
+	},
+	"sigla": "BN",
+	"codiceCatastale": "A328",
+	"cap": "82021"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Fabrica di Roma",
+	"codice": "056024",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "056",
+		"nome": "Viterbo"
+	},
+	"sigla": "VT",
+	"codiceCatastale": "D452",
+	"cap": "01034"
+}

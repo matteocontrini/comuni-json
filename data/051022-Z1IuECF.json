@@ -1,0 +1,23 @@
+{
+	"nome": "Marciano della Chiana",
+	"codice": "051022",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "051",
+		"nome": "Arezzo"
+	},
+	"sigla": "AR",
+	"codiceCatastale": "E933",
+	"cap": "52047"
+}

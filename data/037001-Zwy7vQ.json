@@ -1,0 +1,23 @@
+{
+	"nome": "Anzola dell'Emilia",
+	"codice": "037001",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"cm": {
+		"codice": "237",
+		"nome": "Bologna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": ""
+	},
+	"sigla": "BO",
+	"codiceCatastale": "A324",
+	"cap": "40011"
+}

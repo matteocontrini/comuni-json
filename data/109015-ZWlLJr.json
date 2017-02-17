@@ -1,0 +1,23 @@
+{
+	"nome": "Montefortino",
+	"codice": "109015",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "109",
+		"nome": "Fermo"
+	},
+	"sigla": "FM",
+	"codiceCatastale": "F509",
+	"cap": "63858"
+}

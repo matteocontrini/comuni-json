@@ -1,0 +1,23 @@
+{
+	"nome": "Castiadas",
+	"codice": "111011",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "",
+	"codiceCatastale": "M288",
+	"cap": "09040"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Sillano Giuncugnano",
+	"codice": "046037",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "M347",
+	"cap": "55039"
+}

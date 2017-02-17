@@ -1,0 +1,23 @@
+{
+	"nome": "Mongiana",
+	"codice": "102022",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "102",
+		"nome": "Vibo Valentia"
+	},
+	"sigla": "VV",
+	"codiceCatastale": "F364",
+	"cap": "89823"
+}

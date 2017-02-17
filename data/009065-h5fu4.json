@@ -1,0 +1,23 @@
+{
+	"nome": "Varazze",
+	"codice": "009065",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "009",
+		"nome": "Savona"
+	},
+	"sigla": "SV",
+	"codiceCatastale": "L675",
+	"cap": "17019"
+}

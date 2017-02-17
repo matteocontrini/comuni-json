@@ -1,0 +1,23 @@
+{
+	"nome": "Vallo Torinese",
+	"codice": "001286",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"cm": {
+		"codice": "201",
+		"nome": "Torino"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": ""
+	},
+	"sigla": "TO",
+	"codiceCatastale": "L629",
+	"cap": "10070"
+}

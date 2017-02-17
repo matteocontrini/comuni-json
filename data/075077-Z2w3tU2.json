@@ -1,0 +1,23 @@
+{
+	"nome": "Specchia",
+	"codice": "075077",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "075",
+		"nome": "Lecce"
+	},
+	"sigla": "LE",
+	"codiceCatastale": "I887",
+	"cap": "73040"
+}

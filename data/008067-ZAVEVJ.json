@@ -1,0 +1,23 @@
+{
+	"nome": "Villa Faraldi",
+	"codice": "008067",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "L943",
+	"cap": "18010"
+}

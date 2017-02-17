@@ -1,0 +1,23 @@
+{
+	"nome": "Scandale",
+	"codice": "101024",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "101",
+		"nome": "Crotone"
+	},
+	"sigla": "KR",
+	"codiceCatastale": "I494",
+	"cap": "88831"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Trevignano Romano",
+	"codice": "058107",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "258",
+		"nome": "Roma"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": ""
+	},
+	"sigla": "RM",
+	"codiceCatastale": "L401",
+	"cap": "00069"
+}

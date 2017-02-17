@@ -1,0 +1,30 @@
+{
+	"nome": "Parma",
+	"codice": "034027",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "034",
+		"nome": "Parma"
+	},
+	"sigla": "PR",
+	"codiceCatastale": "G337",
+	"cap": [
+		"43121",
+		"43122",
+		"43123",
+		"43124",
+		"43125",
+		"43126"
+	]
+}

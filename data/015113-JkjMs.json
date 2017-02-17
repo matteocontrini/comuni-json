@@ -1,0 +1,23 @@
+{
+	"nome": "Inveruno",
+	"codice": "015113",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "215",
+		"nome": "Milano"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": ""
+	},
+	"sigla": "MI",
+	"codiceCatastale": "E313",
+	"cap": "20010"
+}

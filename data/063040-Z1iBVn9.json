@@ -1,0 +1,23 @@
+{
+	"nome": "Liveri",
+	"codice": "063040",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "263",
+		"nome": "Napoli"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": ""
+	},
+	"sigla": "NA",
+	"codiceCatastale": "E620",
+	"cap": "80030"
+}

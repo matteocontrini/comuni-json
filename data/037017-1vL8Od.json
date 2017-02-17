@@ -1,0 +1,23 @@
+{
+	"nome": "Castello d'Argile",
+	"codice": "037017",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"cm": {
+		"codice": "237",
+		"nome": "Bologna"
+	},
+	"provincia": {
+		"codice": "037",
+		"nome": ""
+	},
+	"sigla": "BO",
+	"codiceCatastale": "C185",
+	"cap": "40050"
+}

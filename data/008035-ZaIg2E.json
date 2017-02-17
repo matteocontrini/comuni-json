@@ -1,0 +1,23 @@
+{
+	"nome": "Molini di Triora",
+	"codice": "008035",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "008",
+		"nome": "Imperia"
+	},
+	"sigla": "IM",
+	"codiceCatastale": "F290",
+	"cap": "18010"
+}

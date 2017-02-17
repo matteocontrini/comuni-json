@@ -1,0 +1,23 @@
+{
+	"nome": "Bitetto",
+	"codice": "072010",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "272",
+		"nome": "Bari"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": ""
+	},
+	"sigla": "BA",
+	"codiceCatastale": "A892",
+	"cap": "70020"
+}

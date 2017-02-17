@@ -1,0 +1,23 @@
+{
+	"nome": "Campomarino",
+	"codice": "070010",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "070",
+		"nome": "Campobasso"
+	},
+	"sigla": "CB",
+	"codiceCatastale": "B550",
+	"cap": "86042"
+}

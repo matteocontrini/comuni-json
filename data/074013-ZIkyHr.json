@@ -1,0 +1,23 @@
+{
+	"nome": "San Donaci",
+	"codice": "074013",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "074",
+		"nome": "Brindisi"
+	},
+	"sigla": "BR",
+	"codiceCatastale": "H822",
+	"cap": "72025"
+}

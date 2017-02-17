@@ -1,0 +1,39 @@
+{
+	"nome": "Perugia",
+	"codice": "054039",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "G478",
+	"cap": [
+		"06121",
+		"06122",
+		"06123",
+		"06124",
+		"06125",
+		"06126",
+		"06127",
+		"06128",
+		"06129",
+		"06130",
+		"06131",
+		"06132",
+		"06133",
+		"06134",
+		"06135"
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Bagnara Calabra",
+	"codice": "080007",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "280",
+		"nome": "Reggio di Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": ""
+	},
+	"sigla": "RC",
+	"codiceCatastale": "A552",
+	"cap": "89011"
+}

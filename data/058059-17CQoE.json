@@ -1,0 +1,23 @@
+{
+	"nome": "Mentana",
+	"codice": "058059",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "258",
+		"nome": "Roma"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": ""
+	},
+	"sigla": "RM",
+	"codiceCatastale": "F127",
+	"cap": "00013"
+}

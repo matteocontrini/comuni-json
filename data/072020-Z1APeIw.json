@@ -1,0 +1,23 @@
+{
+	"nome": "Corato",
+	"codice": "072020",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "272",
+		"nome": "Bari"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": ""
+	},
+	"sigla": "BA",
+	"codiceCatastale": "C983",
+	"cap": "70033"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Grumo Appula",
+	"codice": "072024",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "272",
+		"nome": "Bari"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": ""
+	},
+	"sigla": "BA",
+	"codiceCatastale": "E223",
+	"cap": "70025"
+}

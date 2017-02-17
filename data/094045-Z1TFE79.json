@@ -1,0 +1,23 @@
+{
+	"nome": "Santa Maria del Molise",
+	"codice": "094045",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "14",
+		"nome": "Molise"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "094",
+		"nome": "Isernia"
+	},
+	"sigla": "IS",
+	"codiceCatastale": "I238",
+	"cap": "86096"
+}

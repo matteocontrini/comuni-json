@@ -1,0 +1,23 @@
+{
+	"nome": "Santa Margherita Ligure",
+	"codice": "010054",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "210",
+		"nome": "Genova"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": ""
+	},
+	"sigla": "GE",
+	"codiceCatastale": "I225",
+	"cap": "16038"
+}

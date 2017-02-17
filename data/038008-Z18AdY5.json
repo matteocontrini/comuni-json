@@ -1,0 +1,28 @@
+{
+	"nome": "Ferrara",
+	"codice": "038008",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "038",
+		"nome": "Ferrara"
+	},
+	"sigla": "FE",
+	"codiceCatastale": "D548",
+	"cap": [
+		"44121",
+		"44122",
+		"44123",
+		"44124"
+	]
+}

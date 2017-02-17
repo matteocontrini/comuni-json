@@ -1,0 +1,23 @@
+{
+	"nome": "Gruaro",
+	"codice": "027018",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "227",
+		"nome": "Venezia"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": ""
+	},
+	"sigla": "VE",
+	"codiceCatastale": "E215",
+	"cap": "30020"
+}

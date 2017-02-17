@@ -1,0 +1,23 @@
+{
+	"nome": "Fabbriche di Vergemoli",
+	"codice": "046036",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "046",
+		"nome": "Lucca"
+	},
+	"sigla": "LU",
+	"codiceCatastale": "M319",
+	"cap": "55021"
+}

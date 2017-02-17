@@ -1,0 +1,23 @@
+{
+	"nome": "Castrignano de' Greci",
+	"codice": "075018",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "075",
+		"nome": "Lecce"
+	},
+	"sigla": "LE",
+	"codiceCatastale": "C335",
+	"cap": "73020"
+}

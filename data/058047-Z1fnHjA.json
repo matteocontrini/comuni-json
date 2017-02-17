@@ -1,0 +1,23 @@
+{
+	"nome": "Guidonia Montecelio",
+	"codice": "058047",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "258",
+		"nome": "Roma"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": ""
+	},
+	"sigla": "RM",
+	"codiceCatastale": "E263",
+	"cap": "00012"
+}

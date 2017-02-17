@@ -1,0 +1,27 @@
+{
+	"nome": "Trento",
+	"codice": "022205",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "04",
+		"nome": "Trentino-Alto Adige/Südtirol"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "022",
+		"nome": "Trento"
+	},
+	"sigla": "TN",
+	"codiceCatastale": "L378",
+	"cap": [
+		"38121",
+		"38122",
+		"38123"
+	]
+}

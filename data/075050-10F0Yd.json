@@ -1,0 +1,23 @@
+{
+	"nome": "Morciano di Leuca",
+	"codice": "075050",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "075",
+		"nome": "Lecce"
+	},
+	"sigla": "LE",
+	"codiceCatastale": "F716",
+	"cap": "73040"
+}

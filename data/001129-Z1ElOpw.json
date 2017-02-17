@@ -1,0 +1,23 @@
+{
+	"nome": "Lauriano",
+	"codice": "001129",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"cm": {
+		"codice": "201",
+		"nome": "Torino"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": ""
+	},
+	"sigla": "TO",
+	"codiceCatastale": "E484",
+	"cap": "10020"
+}

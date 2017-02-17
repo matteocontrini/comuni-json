@@ -1,0 +1,23 @@
+{
+	"nome": "Gravina in Puglia",
+	"codice": "072023",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "272",
+		"nome": "Bari"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": ""
+	},
+	"sigla": "BA",
+	"codiceCatastale": "E155",
+	"cap": "70024"
+}

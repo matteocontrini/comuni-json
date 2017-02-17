@@ -1,0 +1,23 @@
+{
+	"nome": "San Donà di Piave",
+	"codice": "027033",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "227",
+		"nome": "Venezia"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": ""
+	},
+	"sigla": "VE",
+	"codiceCatastale": "H823",
+	"cap": "30027"
+}

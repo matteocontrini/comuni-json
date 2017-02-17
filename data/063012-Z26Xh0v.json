@@ -1,0 +1,23 @@
+{
+	"nome": "Calvizzano",
+	"codice": "063012",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "263",
+		"nome": "Napoli"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": ""
+	},
+	"sigla": "NA",
+	"codiceCatastale": "B452",
+	"cap": "80012"
+}

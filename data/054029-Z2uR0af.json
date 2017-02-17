@@ -1,0 +1,23 @@
+{
+	"nome": "Monte Castello di Vibio",
+	"codice": "054029",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "F456",
+	"cap": "06057"
+}

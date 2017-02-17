@@ -1,0 +1,23 @@
+{
+	"nome": "Carovigno",
+	"codice": "074002",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "074",
+		"nome": "Brindisi"
+	},
+	"sigla": "BR",
+	"codiceCatastale": "B809",
+	"cap": "72012"
+}

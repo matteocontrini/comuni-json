@@ -1,0 +1,23 @@
+{
+	"nome": "Villaricca",
+	"codice": "063087",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "263",
+		"nome": "Napoli"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": ""
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G309",
+	"cap": "80010"
+}

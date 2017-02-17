@@ -1,0 +1,23 @@
+{
+	"nome": "Roccaforzata",
+	"codice": "073023",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "073",
+		"nome": "Taranto"
+	},
+	"sigla": "TA",
+	"codiceCatastale": "H409",
+	"cap": "74020"
+}

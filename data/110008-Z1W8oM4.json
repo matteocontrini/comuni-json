@@ -1,0 +1,23 @@
+{
+	"nome": "Spinazzola",
+	"codice": "110008",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "110",
+		"nome": "Barletta-Andria-Trani"
+	},
+	"sigla": "BT",
+	"codiceCatastale": "I907",
+	"cap": "76014"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Castiglione di Sicilia",
+	"codice": "087014",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "287",
+		"nome": "Catania"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": ""
+	},
+	"sigla": "CT",
+	"codiceCatastale": "C297",
+	"cap": "95012"
+}

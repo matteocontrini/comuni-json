@@ -1,0 +1,39 @@
+{
+	"nome": "Salerno",
+	"codice": "065116",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "065",
+		"nome": "Salerno"
+	},
+	"sigla": "SA",
+	"codiceCatastale": "H703",
+	"cap": [
+		"84121",
+		"84122",
+		"84123",
+		"84124",
+		"84125",
+		"84126",
+		"84127",
+		"84128",
+		"84129",
+		"84130",
+		"84131",
+		"84132",
+		"84133",
+		"84134",
+		"84135"
+	]
+}

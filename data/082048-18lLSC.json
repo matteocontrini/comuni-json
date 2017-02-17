@@ -1,0 +1,23 @@
+{
+	"nome": "Misilmeri",
+	"codice": "082048",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "282",
+		"nome": "Palermo"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": ""
+	},
+	"sigla": "PA",
+	"codiceCatastale": "F246",
+	"cap": "90036"
+}

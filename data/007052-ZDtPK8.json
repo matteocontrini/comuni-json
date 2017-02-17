@@ -1,0 +1,23 @@
+{
+	"nome": "Pont-Saint-Martin",
+	"codice": "007052",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "02",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "007",
+		"nome": "Valle d'Aosta/Vallée d'Aoste"
+	},
+	"sigla": "AO",
+	"codiceCatastale": "G854",
+	"cap": "11026"
+}

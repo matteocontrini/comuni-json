@@ -1,0 +1,23 @@
+{
+	"nome": "Portoscuso",
+	"codice": "111057",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "",
+	"codiceCatastale": "G922",
+	"cap": "09010"
+}

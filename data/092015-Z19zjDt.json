@@ -1,0 +1,23 @@
+{
+	"nome": "Decimomannu",
+	"codice": "092015",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "292",
+		"nome": "Cagliari"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": ""
+	},
+	"sigla": "CA",
+	"codiceCatastale": "D259",
+	"cap": "09033"
+}

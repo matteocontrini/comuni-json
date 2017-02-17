@@ -1,0 +1,23 @@
+{
+	"nome": "Taurianova",
+	"codice": "080093",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "280",
+		"nome": "Reggio di Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": ""
+	},
+	"sigla": "RC",
+	"codiceCatastale": "L063",
+	"cap": "89029"
+}

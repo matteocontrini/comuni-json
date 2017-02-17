@@ -1,0 +1,23 @@
+{
+	"nome": "Sant'Elia Fiumerapido",
+	"codice": "060068",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "060",
+		"nome": "Frosinone"
+	},
+	"sigla": "FR",
+	"codiceCatastale": "I321",
+	"cap": "03049"
+}

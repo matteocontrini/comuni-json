@@ -1,0 +1,23 @@
+{
+	"nome": "Cascia",
+	"codice": "054007",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "B948",
+	"cap": "06043"
+}

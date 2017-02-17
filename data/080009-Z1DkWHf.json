@@ -1,0 +1,23 @@
+{
+	"nome": "Bianco",
+	"codice": "080009",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "280",
+		"nome": "Reggio di Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": ""
+	},
+	"sigla": "RC",
+	"codiceCatastale": "A843",
+	"cap": "89032"
+}

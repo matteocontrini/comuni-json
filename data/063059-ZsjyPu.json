@@ -1,0 +1,23 @@
+{
+	"nome": "Portici",
+	"codice": "063059",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "263",
+		"nome": "Napoli"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": ""
+	},
+	"sigla": "NA",
+	"codiceCatastale": "G902",
+	"cap": "80055"
+}

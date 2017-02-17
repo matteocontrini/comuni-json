@@ -1,0 +1,23 @@
+{
+	"nome": "Delianuova",
+	"codice": "080031",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "18",
+		"nome": "Calabria"
+	},
+	"cm": {
+		"codice": "280",
+		"nome": "Reggio di Calabria"
+	},
+	"provincia": {
+		"codice": "080",
+		"nome": ""
+	},
+	"sigla": "RC",
+	"codiceCatastale": "D268",
+	"cap": "89012"
+}

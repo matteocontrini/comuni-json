@@ -1,0 +1,23 @@
+{
+	"nome": "Avegno",
+	"codice": "010002",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "210",
+		"nome": "Genova"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": ""
+	},
+	"sigla": "GE",
+	"codiceCatastale": "A506",
+	"cap": "16036"
+}

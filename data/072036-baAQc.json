@@ -1,0 +1,23 @@
+{
+	"nome": "Putignano",
+	"codice": "072036",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "272",
+		"nome": "Bari"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": ""
+	},
+	"sigla": "BA",
+	"codiceCatastale": "H096",
+	"cap": "70017"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Sant'Eusanio del Sangro",
+	"codice": "069085",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "069",
+		"nome": "Chieti"
+	},
+	"sigla": "CH",
+	"codiceCatastale": "I335",
+	"cap": "66037"
+}

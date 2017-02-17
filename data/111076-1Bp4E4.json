@@ -1,0 +1,23 @@
+{
+	"nome": "Serdiana",
+	"codice": "111076",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "111",
+		"nome": "Sud Sardegna"
+	},
+	"sigla": "",
+	"codiceCatastale": "I624",
+	"cap": "09040"
+}

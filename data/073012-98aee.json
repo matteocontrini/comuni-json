@@ -1,0 +1,23 @@
+{
+	"nome": "Manduria",
+	"codice": "073012",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "073",
+		"nome": "Taranto"
+	},
+	"sigla": "TA",
+	"codiceCatastale": "E882",
+	"cap": "74024"
+}

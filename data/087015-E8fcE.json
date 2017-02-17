@@ -1,0 +1,35 @@
+{
+	"nome": "Catania",
+	"codice": "087015",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "287",
+		"nome": "Catania"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": ""
+	},
+	"sigla": "CT",
+	"codiceCatastale": "C351",
+	"cap": [
+		"95121",
+		"95122",
+		"95123",
+		"95124",
+		"95125",
+		"95126",
+		"95127",
+		"95128",
+		"95129",
+		"95130",
+		"95131"
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Pieve Ligure",
+	"codice": "010043",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "210",
+		"nome": "Genova"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": ""
+	},
+	"sigla": "GE",
+	"codiceCatastale": "G646",
+	"cap": "16031"
+}

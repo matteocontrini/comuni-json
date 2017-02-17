@@ -1,0 +1,33 @@
+{
+	"nome": "Bergamo",
+	"codice": "016024",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "016",
+		"nome": "Bergamo"
+	},
+	"sigla": "BG",
+	"codiceCatastale": "A794",
+	"cap": [
+		"24121",
+		"24122",
+		"24123",
+		"24124",
+		"24125",
+		"24126",
+		"24127",
+		"24128",
+		"24129"
+	]
+}

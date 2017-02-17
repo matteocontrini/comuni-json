@@ -1,0 +1,23 @@
+{
+	"nome": "Pozzuolo Martesana",
+	"codice": "015178",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "215",
+		"nome": "Milano"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": ""
+	},
+	"sigla": "MI",
+	"codiceCatastale": "G965",
+	"cap": "20060"
+}

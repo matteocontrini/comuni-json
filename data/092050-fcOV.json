@@ -1,0 +1,23 @@
+{
+	"nome": "Pula",
+	"codice": "092050",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "292",
+		"nome": "Cagliari"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": ""
+	},
+	"sigla": "CA",
+	"codiceCatastale": "H088",
+	"cap": "09010"
+}

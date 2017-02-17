@@ -1,0 +1,23 @@
+{
+	"nome": "Camerata Nuova",
+	"codice": "058014",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "258",
+		"nome": "Roma"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": ""
+	},
+	"sigla": "RM",
+	"codiceCatastale": "B472",
+	"cap": "00020"
+}

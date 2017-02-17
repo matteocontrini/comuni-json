@@ -1,0 +1,23 @@
+{
+	"nome": "Ciampino",
+	"codice": "058118",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "12",
+		"nome": "Lazio"
+	},
+	"cm": {
+		"codice": "258",
+		"nome": "Roma"
+	},
+	"provincia": {
+		"codice": "058",
+		"nome": ""
+	},
+	"sigla": "RM",
+	"codiceCatastale": "M272",
+	"cap": "00043"
+}

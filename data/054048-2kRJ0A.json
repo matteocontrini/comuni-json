@@ -1,0 +1,23 @@
+{
+	"nome": "Sellano",
+	"codice": "054048",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "054",
+		"nome": "Perugia"
+	},
+	"sigla": "PG",
+	"codiceCatastale": "I585",
+	"cap": "06030"
+}

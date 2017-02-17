@@ -1,0 +1,23 @@
+{
+	"nome": "Sestu",
+	"codice": "092074",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "292",
+		"nome": "Cagliari"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": ""
+	},
+	"sigla": "CA",
+	"codiceCatastale": "I695",
+	"cap": "09028"
+}

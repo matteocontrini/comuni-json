@@ -1,0 +1,23 @@
+{
+	"nome": "Pettineo",
+	"codice": "083067",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "283",
+		"nome": "Messina"
+	},
+	"provincia": {
+		"codice": "083",
+		"nome": ""
+	},
+	"sigla": "ME",
+	"codiceCatastale": "G522",
+	"cap": "98070"
+}

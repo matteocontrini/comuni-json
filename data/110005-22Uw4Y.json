@@ -1,0 +1,23 @@
+{
+	"nome": "Margherita di Savoia",
+	"codice": "110005",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "110",
+		"nome": "Barletta-Andria-Trani"
+	},
+	"sigla": "BT",
+	"codiceCatastale": "E946",
+	"cap": "76016"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Cassina de' Pecchi",
+	"codice": "015060",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "215",
+		"nome": "Milano"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": ""
+	},
+	"sigla": "MI",
+	"codiceCatastale": "C014",
+	"cap": "20060"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Montemurlo",
+	"codice": "100003",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "100",
+		"nome": "Prato"
+	},
+	"sigla": "PO",
+	"codiceCatastale": "F572",
+	"cap": "59013"
+}

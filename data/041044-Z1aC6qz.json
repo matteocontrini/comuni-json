@@ -1,0 +1,26 @@
+{
+	"nome": "Pesaro",
+	"codice": "041044",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "041",
+		"nome": "Pesaro e Urbino"
+	},
+	"sigla": "PU",
+	"codiceCatastale": "G479",
+	"cap": [
+		"61121",
+		"61122"
+	]
+}

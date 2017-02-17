@@ -1,0 +1,23 @@
+{
+	"nome": "Acquasparta",
+	"codice": "055001",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "10",
+		"nome": "Umbria"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "055",
+		"nome": "Terni"
+	},
+	"sigla": "TR",
+	"codiceCatastale": "A045",
+	"cap": "05021"
+}

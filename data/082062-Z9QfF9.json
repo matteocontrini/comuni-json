@@ -1,0 +1,23 @@
+{
+	"nome": "Roccapalumba",
+	"codice": "082062",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "282",
+		"nome": "Palermo"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": ""
+	},
+	"sigla": "PA",
+	"codiceCatastale": "H428",
+	"cap": "90020"
+}

@@ -1,0 +1,36 @@
+{
+	"nome": "Bari",
+	"codice": "072006",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "272",
+		"nome": "Bari"
+	},
+	"provincia": {
+		"codice": "072",
+		"nome": ""
+	},
+	"sigla": "BA",
+	"codiceCatastale": "A662",
+	"cap": [
+		"70121",
+		"70122",
+		"70123",
+		"70124",
+		"70125",
+		"70126",
+		"70127",
+		"70128",
+		"70129",
+		"70130",
+		"70131",
+		"70132"
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"nome": "Taranto",
+	"codice": "073027",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "16",
+		"nome": "Puglia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "073",
+		"nome": "Taranto"
+	},
+	"sigla": "TA",
+	"codiceCatastale": "L049",
+	"cap": [
+		"74121",
+		"74122",
+		"74123"
+	]
+}

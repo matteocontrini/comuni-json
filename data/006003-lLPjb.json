@@ -1,0 +1,26 @@
+{
+	"nome": "Alessandria",
+	"codice": "006003",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "006",
+		"nome": "Alessandria"
+	},
+	"sigla": "AL",
+	"codiceCatastale": "A182",
+	"cap": [
+		"15121",
+		"15122"
+	]
+}

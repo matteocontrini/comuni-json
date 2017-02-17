@@ -1,0 +1,23 @@
+{
+	"nome": "Vaprio d'Adda",
+	"codice": "015230",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "215",
+		"nome": "Milano"
+	},
+	"provincia": {
+		"codice": "015",
+		"nome": ""
+	},
+	"sigla": "MI",
+	"codiceCatastale": "L667",
+	"cap": "20069"
+}

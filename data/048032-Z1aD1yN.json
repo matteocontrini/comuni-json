@@ -1,0 +1,23 @@
+{
+	"nome": "Pelago",
+	"codice": "048032",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "09",
+		"nome": "Toscana"
+	},
+	"cm": {
+		"codice": "248",
+		"nome": "Firenze"
+	},
+	"provincia": {
+		"codice": "048",
+		"nome": ""
+	},
+	"sigla": "FI",
+	"codiceCatastale": "G420",
+	"cap": "50060"
+}

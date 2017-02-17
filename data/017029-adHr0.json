@@ -1,0 +1,40 @@
+{
+	"nome": "Brescia",
+	"codice": "017029",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "017",
+		"nome": "Brescia"
+	},
+	"sigla": "BS",
+	"codiceCatastale": "B157",
+	"cap": [
+		"25121",
+		"25122",
+		"25123",
+		"25124",
+		"25125",
+		"25126",
+		"25127",
+		"25128",
+		"25129",
+		"25130",
+		"25131",
+		"25132",
+		"25133",
+		"25134",
+		"25135",
+		"25136"
+	]
+}

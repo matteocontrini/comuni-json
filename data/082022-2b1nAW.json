@@ -1,0 +1,23 @@
+{
+	"nome": "Castelbuono",
+	"codice": "082022",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "282",
+		"nome": "Palermo"
+	},
+	"provincia": {
+		"codice": "082",
+		"nome": ""
+	},
+	"sigla": "PA",
+	"codiceCatastale": "C067",
+	"cap": "90013"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Orero",
+	"codice": "010042",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "210",
+		"nome": "Genova"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": ""
+	},
+	"sigla": "GE",
+	"codiceCatastale": "G093",
+	"cap": "16040"
+}

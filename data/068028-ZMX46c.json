@@ -1,0 +1,33 @@
+{
+	"nome": "Pescara",
+	"codice": "068028",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "13",
+		"nome": "Abruzzo"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "068",
+		"nome": "Pescara"
+	},
+	"sigla": "PE",
+	"codiceCatastale": "G482",
+	"cap": [
+		"65121",
+		"65122",
+		"65123",
+		"65124",
+		"65125",
+		"65126",
+		"65127",
+		"65128",
+		"65129"
+	]
+}

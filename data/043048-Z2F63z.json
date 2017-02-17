@@ -1,0 +1,23 @@
+{
+	"nome": "Sant'Angelo in Pontano",
+	"codice": "043048",
+	"zona": {
+		"nome": "Centro",
+		"codice": "3"
+	},
+	"regione": {
+		"codice": "11",
+		"nome": "Marche"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "043",
+		"nome": "Macerata"
+	},
+	"sigla": "MC",
+	"codiceCatastale": "I286",
+	"cap": "62020"
+}

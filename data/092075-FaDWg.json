@@ -1,0 +1,23 @@
+{
+	"nome": "Settimo San Pietro",
+	"codice": "092075",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "292",
+		"nome": "Cagliari"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": ""
+	},
+	"sigla": "CA",
+	"codiceCatastale": "I699",
+	"cap": "09040"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "San Gregorio di Catania",
+	"codice": "087042",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "19",
+		"nome": "Sicilia"
+	},
+	"cm": {
+		"codice": "287",
+		"nome": "Catania"
+	},
+	"provincia": {
+		"codice": "087",
+		"nome": ""
+	},
+	"sigla": "CT",
+	"codiceCatastale": "H940",
+	"cap": "95027"
+}

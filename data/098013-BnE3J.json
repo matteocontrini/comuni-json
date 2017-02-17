@@ -1,0 +1,23 @@
+{
+	"nome": "Castelnuovo Bocca d'Adda",
+	"codice": "098013",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "03",
+		"nome": "Lombardia"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "098",
+		"nome": "Lodi"
+	},
+	"sigla": "LO",
+	"codiceCatastale": "C228",
+	"cap": "26843"
+}

@@ -1,0 +1,23 @@
+{
+	"nome": "Santo Stefano d'Aveto",
+	"codice": "010056",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "07",
+		"nome": "Liguria"
+	},
+	"cm": {
+		"codice": "210",
+		"nome": "Genova"
+	},
+	"provincia": {
+		"codice": "010",
+		"nome": ""
+	},
+	"sigla": "GE",
+	"codiceCatastale": "I368",
+	"cap": "16049"
+}

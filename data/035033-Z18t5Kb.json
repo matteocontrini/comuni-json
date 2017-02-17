@@ -1,0 +1,28 @@
+{
+	"nome": "Reggio nell'Emilia",
+	"codice": "035033",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "035",
+		"nome": "Reggio nell'Emilia"
+	},
+	"sigla": "RE",
+	"codiceCatastale": "H223",
+	"cap": [
+		"42121",
+		"42122",
+		"42123",
+		"42124"
+	]
+}

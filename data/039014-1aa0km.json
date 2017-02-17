@@ -1,0 +1,29 @@
+{
+	"nome": "Ravenna",
+	"codice": "039014",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "08",
+		"nome": "Emilia-Romagna"
+	},
+	"cm": {
+		"codice": "",
+		"nome": ""
+	},
+	"provincia": {
+		"codice": "039",
+		"nome": "Ravenna"
+	},
+	"sigla": "RA",
+	"codiceCatastale": "H199",
+	"cap": [
+		"48121",
+		"48122",
+		"48123",
+		"48124",
+		"48125"
+	]
+}

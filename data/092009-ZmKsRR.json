@@ -1,0 +1,38 @@
+{
+	"nome": "Cagliari",
+	"codice": "092009",
+	"zona": {
+		"nome": "Isole",
+		"codice": "5"
+	},
+	"regione": {
+		"codice": "20",
+		"nome": "Sardegna"
+	},
+	"cm": {
+		"codice": "292",
+		"nome": "Cagliari"
+	},
+	"provincia": {
+		"codice": "092",
+		"nome": ""
+	},
+	"sigla": "CA",
+	"codiceCatastale": "B354",
+	"cap": [
+		"09121",
+		"09122",
+		"09123",
+		"09124",
+		"09125",
+		"09126",
+		"09127",
+		"09128",
+		"09129",
+		"09130",
+		"09131",
+		"09132",
+		"09133",
+		"09134"
+	]
+}

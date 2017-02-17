@@ -1,0 +1,23 @@
+{
+	"nome": "Dolo",
+	"codice": "027012",
+	"zona": {
+		"nome": "Nord-est",
+		"codice": "2"
+	},
+	"regione": {
+		"codice": "05",
+		"nome": "Veneto"
+	},
+	"cm": {
+		"codice": "227",
+		"nome": "Venezia"
+	},
+	"provincia": {
+		"codice": "027",
+		"nome": ""
+	},
+	"sigla": "VE",
+	"codiceCatastale": "D325",
+	"cap": "30031"
+}

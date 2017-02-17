@@ -1,0 +1,23 @@
+{
+	"nome": "San Giuseppe Vesuviano",
+	"codice": "063068",
+	"zona": {
+		"nome": "Sud",
+		"codice": "4"
+	},
+	"regione": {
+		"codice": "15",
+		"nome": "Campania"
+	},
+	"cm": {
+		"codice": "263",
+		"nome": "Napoli"
+	},
+	"provincia": {
+		"codice": "063",
+		"nome": ""
+	},
+	"sigla": "NA",
+	"codiceCatastale": "H931",
+	"cap": "80047"
+}
