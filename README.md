@@ -1,7 +1,9 @@
 # comuni-json
-Database comuni italiani con informazioni ISTAT e CAP
+Database comuni italiani con informazioni ISTAT e CAP.
 
-La lista dei comuni è aggiornata al 01/07/2016. Comprende i [nuovi comuni 2016](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2016/) con relativi CAP comunicati da Poste (vedi [aggiornamenti](#aggiornamenti)). In attesa dei nuovi CAP ufficiali, i dati non comprendono i [nuovi comuni 2017](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2017/).
+Il file JSON con tutti i 7983 comuni è `comuni.json`.
+
+La lista dei comuni è aggiornata al 01/01/2017. Comprende i [nuovi comuni 2017](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2017/) con relativi CAP provvisori (vedi [aggiornamenti](#aggiornamenti)).
 
 * Nome (campo `nome`)
 * Codice ISTAT (campo `codice`)
@@ -32,8 +34,8 @@ Tutti i campi sono di tipo stringa.
         "nome": "Lombardia"
     },
     "cm": {
-        "codice": "-",
-        "nome": "-"
+        "codice": "",
+        "nome": ""
     },
     "provincia": {
         "codice": "098",
@@ -65,7 +67,7 @@ Tutti i campi sono di tipo stringa.
     },
     "provincia": {
         "codice": "001",
-        "nome": "-"
+        "nome": ""
     },
     "sigla": "TO",
     "codiceCatastale": "A074",
@@ -93,7 +95,7 @@ Tutti i campi sono di tipo stringa.
     },
     "provincia": {
         "codice": "001",
-        "nome": "-"
+        "nome": ""
     },
     "sigla": "TO",
     "codiceCatastale": "L219",
@@ -142,7 +144,11 @@ Tutti i campi sono di tipo stringa.
 
 Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](http://www.poste.it/postali/cap.shtml) effettuati in seguito alle fusioni del 2016.
 
+L'aggiornamento di questa repository del 17 febbraio 2017 corregge i CAP di qualche decina di comuni, che erano e sono tuttora sbagliati sul sito dell'ANCI.
+
 ## Aggiornamenti
 
-I dati sono aggiornati al 01/07/2016.
-Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [18/04/2016](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016.pdf) e il [21/11/2016](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016-II.pdf).
+I dati sono aggiornati al 01/01/2017.
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [18/04/2016](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016.pdf) e il [21/11/2016](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016-II.pdf). I CAP per i nuovi comuni istituiti il 01/01/2017 non sono ancora stati comunicati da Poste Italiane.
+
+L'aggiornamento di questa repository del 17 febbraio introduce un nuovo metodo di generazione del file `comuni.json`, ma non modifica la struttura del file JSON, che è confermata e validata tramite apposito script. Variano invece leggermente i valori di alcuni campi: in particolare quando il nome/codice della provincia/cm è assente, il campo è una stringa vuota anziché il carattere `-`.
