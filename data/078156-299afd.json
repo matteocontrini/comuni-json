@@ -1,6 +1,6 @@
 {
-	"nome": "Trenta",
-	"codice": "078151",
+	"nome": "Casali del Manco",
+	"codice": "078156",
 	"zona": {
 		"nome": "Sud",
 		"codice": "4"
@@ -18,6 +18,6 @@
 		"nome": "Cosenza"
 	},
 	"sigla": "CS",
-	"codiceCatastale": "L375",
+	"codiceCatastale": "M385",
 	"cap": "87050"
 }

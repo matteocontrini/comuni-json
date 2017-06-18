@@ -1,6 +1,6 @@
 {
-	"nome": "Grancona",
-	"codice": "024045",
+	"nome": "Val Liona",
+	"codice": "024123",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,6 +18,6 @@
 		"nome": "Vicenza"
 	},
 	"sigla": "VI",
-	"codiceCatastale": "E138",
+	"codiceCatastale": "M384",
 	"cap": "36040"
 }
