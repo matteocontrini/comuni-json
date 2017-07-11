@@ -1,0 +1,23 @@
+{
+	"nome": "Borgaro Torinese",
+	"codice": "001028",
+	"zona": {
+		"nome": "Nord-ovest",
+		"codice": "1"
+	},
+	"regione": {
+		"codice": "01",
+		"nome": "Piemonte"
+	},
+	"cm": {
+		"codice": "201",
+		"nome": "Torino"
+	},
+	"provincia": {
+		"codice": "001",
+		"nome": ""
+	},
+	"sigla": "TO",
+	"codiceCatastale": "A990",
+	"cap": "10071"
+}
