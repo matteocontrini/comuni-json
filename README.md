@@ -5,6 +5,8 @@ Il file JSON con tutti i 7978 comuni è `comuni.json`.
 
 La lista dei comuni è aggiornata al 2017-05-05. Comprende i [nuovi comuni 2017](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2017/), con relativi [nuovi CAP](https://www.poste.it/cap-aggiornamento-2017.pdf), e le successive modifiche (fusioni e cambio denominazione) avvenute [nel corso del 2017](https://www.istat.it/it/files/2011/01/Riepilogo-novita-2017.pdf), fino al 2017-05-05, con CAP provvisori.
 
+**Attenzione: dal 2017-09-14 il campo CAP è sempre un array**
+
 Vedi anche [Aggiornamenti](#aggiornamenti).
 
 * Nome (campo `nome`)
@@ -15,7 +17,7 @@ Vedi anche [Aggiornamenti](#aggiornamenti).
 * Città metropolitana/CM (campo `cm` con sottocampi `nome` e `codice`)
 * Sigla automobilistica (campo `sigla`)
 * Codice catastale (campo `codiceCatastale`)
-* Codice di Avviamento Postale (campo `cap`). In caso di comune multi-CAP (41 in totale), il campo è un array che specifica tutti i CAP per il comune
+* Codice di Avviamento Postale (campo `cap`). Sia in caso di comuni con CAP singolo che comuni multi-CAP (41 in totale), il campo è un array che specifica tutti i CAP per il comune
 
 Tutti i campi sono di tipo stringa.
 
@@ -45,7 +47,7 @@ Tutti i campi sono di tipo stringa.
     },
     "sigla": "LO",
     "codiceCatastale": "L125",
-    "cap": "26827"
+    "cap": ["26827"]
 }
 ```
 
@@ -73,7 +75,7 @@ Tutti i campi sono di tipo stringa.
     },
     "sigla": "TO",
     "codiceCatastale": "A074",
-    "cap": "10011"
+    "cap": ["10011"]
 }
 ```
 
@@ -154,3 +156,5 @@ I dati sono aggiornati al 2017-05-05.
 Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016-II.pdf) e il [2017-05-08](https://www.poste.it/cap-aggiornamento-2017.pdf). I CAP per i comuni istituiti (per fusione o incorporamento) durante il 2017 (in seguito al 2017-01-01) non sono ancora stati comunicati da Poste Italiane.
 
 L'aggiornamento di questa repository del 17 febbraio introduce un nuovo metodo di generazione del file `comuni.json`, ma non modifica la struttura del file JSON, che è confermata e validata tramite apposito script. Variano invece leggermente i valori di alcuni campi: in particolare quando il nome/codice della provincia/cm è assente, il campo è una stringa vuota anziché il carattere `-`.
+
+A partire dal 2017-09-14 il campo CAP è sempre un array, anche nel caso in cui il comune abbia un solo CAP.
