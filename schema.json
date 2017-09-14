@@ -83,19 +83,11 @@
 			"pattern": "^[A-Z]{1}[0-9]{3}$"
 		},
 		"cap": {
-			"anyOf": [
-				{
-					"type": "string",
-					"pattern": "^[0-9]{5}$"
-				},
-				{
-					"type": "array",
-					"items": {
-						"type": "string",
-						"pattern": "^[0-9]{5}$"
-					}
-				}
-			]
+			"type": "array",
+			"items": {
+				"type": "string",
+				"pattern": "^[0-9]{5}$"
+			}
 		}
 	},
 	"required": ["nome", "codice", "zona", "regione", "cm", "provincia", "sigla", "codiceCatastale", "cap"]
