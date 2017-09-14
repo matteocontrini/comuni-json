@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "E395",
-	"cap": "20084"
+	"cap": [
+		"20084"
+	]
 }

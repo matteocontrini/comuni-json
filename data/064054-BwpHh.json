@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F506",
-	"cap": "83024"
+	"cap": [
+		"83024"
+	]
 }

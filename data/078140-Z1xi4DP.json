@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I642",
-	"cap": "87030"
+	"cap": [
+		"87030"
+	]
 }

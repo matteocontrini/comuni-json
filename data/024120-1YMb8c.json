@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "M170",
-	"cap": "36050"
+	"cap": [
+		"36050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A520",
-	"cap": "38063"
+	"cap": [
+		"38063"
+	]
 }

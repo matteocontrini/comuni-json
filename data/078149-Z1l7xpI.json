@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "L305",
-	"cap": "87020"
+	"cap": [
+		"87020"
+	]
 }

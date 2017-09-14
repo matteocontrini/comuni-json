@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "F382",
-	"cap": "35043"
+	"cap": [
+		"35043"
+	]
 }

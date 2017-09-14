@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "G993",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

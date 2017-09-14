@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "D863",
-	"cap": "73044"
+	"cap": [
+		"73044"
+	]
 }

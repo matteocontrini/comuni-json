@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F369",
-	"cap": "13888"
+	"cap": [
+		"13888"
+	]
 }

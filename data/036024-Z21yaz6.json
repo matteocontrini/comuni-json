@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F484",
-	"cap": "41025"
+	"cap": [
+		"41025"
+	]
 }

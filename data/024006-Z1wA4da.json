@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A377",
-	"cap": "36057"
+	"cap": [
+		"36057"
+	]
 }

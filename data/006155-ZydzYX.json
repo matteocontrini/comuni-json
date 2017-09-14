@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I150",
-	"cap": "15056"
+	"cap": [
+		"15056"
+	]
 }

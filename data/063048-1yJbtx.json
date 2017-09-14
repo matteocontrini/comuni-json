@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "F799",
-	"cap": "80018"
+	"cap": [
+		"80018"
+	]
 }

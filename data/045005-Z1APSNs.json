@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "C914",
-	"cap": "54015"
+	"cap": [
+		"54015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "L020",
-	"cap": "46029"
+	"cap": [
+		"46029"
+	]
 }

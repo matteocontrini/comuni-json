@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "M374",
-	"cap": "32012"
+	"cap": [
+		"32012"
+	]
 }

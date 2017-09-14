@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "G364",
-	"cap": "81050"
+	"cap": [
+		"81050"
+	]
 }

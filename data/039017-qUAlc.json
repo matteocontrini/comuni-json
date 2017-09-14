@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "I196",
-	"cap": "48020"
+	"cap": [
+		"48020"
+	]
 }

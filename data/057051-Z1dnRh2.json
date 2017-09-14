@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G756",
-	"cap": "02018"
+	"cap": [
+		"02018"
+	]
 }

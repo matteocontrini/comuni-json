@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "L125",
-	"cap": "26827"
+	"cap": [
+		"26827"
+	]
 }

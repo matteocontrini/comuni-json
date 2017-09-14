@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "G185",
-	"cap": "26032"
+	"cap": [
+		"26032"
+	]
 }

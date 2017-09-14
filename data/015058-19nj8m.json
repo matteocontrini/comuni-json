@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "B989",
-	"cap": "20010"
+	"cap": [
+		"20010"
+	]
 }

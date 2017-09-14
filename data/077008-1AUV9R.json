@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "D547",
-	"cap": "75013"
+	"cap": [
+		"75013"
+	]
 }

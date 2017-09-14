@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "L401",
-	"cap": "00069"
+	"cap": [
+		"00069"
+	]
 }

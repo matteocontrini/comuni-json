@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E666",
-	"cap": "21015"
+	"cap": [
+		"21015"
+	]
 }

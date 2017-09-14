@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "E803",
-	"cap": "28014"
+	"cap": [
+		"28014"
+	]
 }

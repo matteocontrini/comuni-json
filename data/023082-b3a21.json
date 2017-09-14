@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I821",
-	"cap": "37066"
+	"cap": [
+		"37066"
+	]
 }

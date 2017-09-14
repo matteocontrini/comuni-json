@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G779",
-	"cap": "25060"
+	"cap": [
+		"25060"
+	]
 }

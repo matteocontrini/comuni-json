@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "L356",
-	"cap": "28069"
+	"cap": [
+		"28069"
+	]
 }

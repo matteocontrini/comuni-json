@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "F646",
-	"cap": "65015"
+	"cap": [
+		"65015"
+	]
 }

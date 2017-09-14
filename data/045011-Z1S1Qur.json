@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "F679",
-	"cap": "54038"
+	"cap": [
+		"54038"
+	]
 }

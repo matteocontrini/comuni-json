@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "D134",
-	"cap": "28852"
+	"cap": [
+		"28852"
+	]
 }

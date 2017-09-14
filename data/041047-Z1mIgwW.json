@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "G551",
-	"cap": "61026"
+	"cap": [
+		"61026"
+	]
 }

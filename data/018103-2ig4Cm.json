@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "F891",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

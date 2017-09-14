@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A523",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

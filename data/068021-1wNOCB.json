@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "E691",
-	"cap": "65014"
+	"cap": [
+		"65014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C803",
-	"cap": "10050"
+	"cap": [
+		"10050"
+	]
 }

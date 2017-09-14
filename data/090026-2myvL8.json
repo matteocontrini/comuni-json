@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "C818",
-	"cap": "07040"
+	"cap": [
+		"07040"
+	]
 }

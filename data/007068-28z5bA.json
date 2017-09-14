@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "L582",
-	"cap": "11010"
+	"cap": [
+		"11010"
+	]
 }

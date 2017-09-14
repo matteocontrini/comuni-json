@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "A471",
-	"cap": "31011"
+	"cap": [
+		"31011"
+	]
 }

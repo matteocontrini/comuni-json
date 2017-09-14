@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "A747",
-	"cap": "47814"
+	"cap": [
+		"47814"
+	]
 }

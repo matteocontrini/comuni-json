@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "D514",
-	"cap": "92026"
+	"cap": [
+		"92026"
+	]
 }

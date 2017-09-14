@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F330",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

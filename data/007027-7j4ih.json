@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "D537",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

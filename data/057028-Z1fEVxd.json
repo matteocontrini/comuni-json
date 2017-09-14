@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "D560",
-	"cap": "02023"
+	"cap": [
+		"02023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "D591",
-	"cap": "03010"
+	"cap": [
+		"03010"
+	]
 }

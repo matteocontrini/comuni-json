@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "B295",
-	"cap": "86010"
+	"cap": [
+		"86010"
+	]
 }

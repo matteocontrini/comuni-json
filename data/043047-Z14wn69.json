@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "I156",
-	"cap": "62027"
+	"cap": [
+		"62027"
+	]
 }

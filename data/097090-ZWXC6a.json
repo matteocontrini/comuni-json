@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L866",
-	"cap": "23897"
+	"cap": [
+		"23897"
+	]
 }

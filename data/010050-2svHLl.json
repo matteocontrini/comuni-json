@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "H546",
-	"cap": "16025"
+	"cap": [
+		"16025"
+	]
 }

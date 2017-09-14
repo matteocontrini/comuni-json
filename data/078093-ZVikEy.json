@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G331",
-	"cap": "87040"
+	"cap": [
+		"87040"
+	]
 }

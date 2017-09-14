@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "L040",
-	"cap": "32010"
+	"cap": [
+		"32010"
+	]
 }

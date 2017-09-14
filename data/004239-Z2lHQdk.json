@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L771",
-	"cap": "12019"
+	"cap": [
+		"12019"
+	]
 }

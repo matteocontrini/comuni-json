@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F651",
-	"cap": "10020"
+	"cap": [
+		"10020"
+	]
 }

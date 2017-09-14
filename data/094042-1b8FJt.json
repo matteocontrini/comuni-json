@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "H458",
-	"cap": "86070"
+	"cap": [
+		"86070"
+	]
 }

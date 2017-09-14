@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "B238",
-	"cap": "66011"
+	"cap": [
+		"66011"
+	]
 }

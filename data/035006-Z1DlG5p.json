@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B156",
-	"cap": "42041"
+	"cap": [
+		"42041"
+	]
 }

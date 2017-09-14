@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "E854",
-	"cap": "95035"
+	"cap": [
+		"95035"
+	]
 }

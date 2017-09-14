@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A904",
-	"cap": "22028"
+	"cap": [
+		"22028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "E729",
-	"cap": "05020"
+	"cap": [
+		"05020"
+	]
 }

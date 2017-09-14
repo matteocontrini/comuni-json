@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "L689",
-	"cap": "43049"
+	"cap": [
+		"43049"
+	]
 }

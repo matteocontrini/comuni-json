@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A459",
-	"cap": "36071"
+	"cap": [
+		"36071"
+	]
 }

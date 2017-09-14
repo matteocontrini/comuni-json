@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F304",
-	"cap": "23847"
+	"cap": [
+		"23847"
+	]
 }

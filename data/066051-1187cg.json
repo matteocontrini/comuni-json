@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "E723",
-	"cap": "67056"
+	"cap": [
+		"67056"
+	]
 }

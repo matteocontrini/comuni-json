@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "F793",
-	"cap": "62034"
+	"cap": [
+		"62034"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "E472",
-	"cap": "04100"
+	"cap": [
+		"04100"
+	]
 }

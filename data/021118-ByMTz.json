@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I603",
-	"cap": "39010"
+	"cap": [
+		"39010"
+	]
 }

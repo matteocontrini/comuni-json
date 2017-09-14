@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F182",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "F059",
-	"cap": "71030"
+	"cap": [
+		"71030"
+	]
 }

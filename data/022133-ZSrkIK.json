@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "G296",
-	"cap": "38050"
+	"cap": [
+		"38050"
+	]
 }

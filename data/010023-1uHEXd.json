@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "D512",
-	"cap": "16040"
+	"cap": [
+		"16040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "D798",
-	"cap": "83040"
+	"cap": [
+		"83040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "E591",
-	"cap": "20812"
+	"cap": [
+		"20812"
+	]
 }

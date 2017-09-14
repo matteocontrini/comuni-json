@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B974",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

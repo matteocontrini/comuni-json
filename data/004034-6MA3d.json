@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B285",
-	"cap": "12022"
+	"cap": [
+		"12022"
+	]
 }

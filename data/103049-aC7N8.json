@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "G007",
-	"cap": "28824"
+	"cap": [
+		"28824"
+	]
 }

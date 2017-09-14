@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H606",
-	"cap": "37050"
+	"cap": [
+		"37050"
+	]
 }

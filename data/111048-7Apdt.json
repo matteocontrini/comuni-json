@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "F986",
-	"cap": "08035"
+	"cap": [
+		"08035"
+	]
 }

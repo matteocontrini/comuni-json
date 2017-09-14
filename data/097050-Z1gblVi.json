@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F265",
-	"cap": "23817"
+	"cap": [
+		"23817"
+	]
 }

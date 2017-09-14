@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F101",
-	"cap": "73026"
+	"cap": [
+		"73026"
+	]
 }

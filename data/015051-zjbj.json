@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "B850",
-	"cap": "20061"
+	"cap": [
+		"20061"
+	]
 }

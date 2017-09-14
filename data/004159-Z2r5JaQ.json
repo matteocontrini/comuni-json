@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G302",
-	"cap": "12087"
+	"cap": [
+		"12087"
+	]
 }

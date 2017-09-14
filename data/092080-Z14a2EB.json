@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "I752",
-	"cap": "09048"
+	"cap": [
+		"09048"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "I436",
-	"cap": "62028"
+	"cap": [
+		"62028"
+	]
 }

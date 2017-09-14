@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "F126",
-	"cap": "92013"
+	"cap": [
+		"92013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "F398",
-	"cap": "50050"
+	"cap": [
+		"50050"
+	]
 }

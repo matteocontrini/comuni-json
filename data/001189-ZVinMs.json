@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G559",
-	"cap": "10044"
+	"cap": [
+		"10044"
+	]
 }

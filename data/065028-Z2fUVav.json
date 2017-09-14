@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B895",
-	"cap": "84040"
+	"cap": [
+		"84040"
+	]
 }

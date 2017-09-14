@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G763",
-	"cap": "02047"
+	"cap": [
+		"02047"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "L157",
-	"cap": "36016"
+	"cap": [
+		"36016"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "L681",
-	"cap": "19028"
+	"cap": [
+		"19028"
+	]
 }

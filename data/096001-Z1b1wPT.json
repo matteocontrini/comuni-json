@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "A107",
-	"cap": "13861"
+	"cap": [
+		"13861"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "G143",
-	"cap": "19034"
+	"cap": [
+		"19034"
+	]
 }

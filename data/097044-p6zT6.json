@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E656",
-	"cap": "23871"
+	"cap": [
+		"23871"
+	]
 }

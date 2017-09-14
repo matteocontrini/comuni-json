@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "B428",
-	"cap": "95041"
+	"cap": [
+		"95041"
+	]
 }

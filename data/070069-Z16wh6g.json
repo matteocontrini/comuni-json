@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "H990",
-	"cap": "86046"
+	"cap": [
+		"86046"
+	]
 }

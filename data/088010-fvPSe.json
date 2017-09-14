@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "I178",
-	"cap": "97017"
+	"cap": [
+		"97017"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "F844",
-	"cap": "05035"
+	"cap": [
+		"05035"
+	]
 }

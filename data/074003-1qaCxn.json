@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "C424",
-	"cap": "72013"
+	"cap": [
+		"72013"
+	]
 }

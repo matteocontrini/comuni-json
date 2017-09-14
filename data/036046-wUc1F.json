@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "L885",
-	"cap": "41058"
+	"cap": [
+		"41058"
+	]
 }

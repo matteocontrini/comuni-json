@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L126",
-	"cap": "85030"
+	"cap": [
+		"85030"
+	]
 }

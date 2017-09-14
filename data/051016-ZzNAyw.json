@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "C774",
-	"cap": "52041"
+	"cap": [
+		"52041"
+	]
 }

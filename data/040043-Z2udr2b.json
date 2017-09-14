@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "I310",
-	"cap": "47018"
+	"cap": [
+		"47018"
+	]
 }

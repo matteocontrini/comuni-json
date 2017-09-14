@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "D350",
-	"cap": "13881"
+	"cap": [
+		"13881"
+	]
 }

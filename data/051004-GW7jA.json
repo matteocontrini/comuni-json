@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "A851",
-	"cap": "52011"
+	"cap": [
+		"52011"
+	]
 }

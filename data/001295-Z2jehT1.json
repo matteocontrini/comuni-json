@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L811",
-	"cap": "10030"
+	"cap": [
+		"10030"
+	]
 }

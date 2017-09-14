@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "H258",
-	"cap": "16048"
+	"cap": [
+		"16048"
+	]
 }

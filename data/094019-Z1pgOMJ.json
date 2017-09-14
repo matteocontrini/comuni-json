@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "D595",
-	"cap": "86074"
+	"cap": [
+		"86074"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "A339",
-	"cap": "71011"
+	"cap": [
+		"71011"
+	]
 }

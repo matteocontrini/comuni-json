@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G463",
-	"cap": "10063"
+	"cap": [
+		"10063"
+	]
 }

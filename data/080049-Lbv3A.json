@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "F106",
-	"cap": "89020"
+	"cap": [
+		"89020"
+	]
 }

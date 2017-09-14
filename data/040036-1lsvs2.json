@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "H437",
-	"cap": "47017"
+	"cap": [
+		"47017"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "G749",
-	"cap": "03026"
+	"cap": [
+		"03026"
+	]
 }

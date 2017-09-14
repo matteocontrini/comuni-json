@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "L704",
-	"cap": "20854"
+	"cap": [
+		"20854"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C441",
-	"cap": "12020"
+	"cap": [
+		"12020"
+	]
 }

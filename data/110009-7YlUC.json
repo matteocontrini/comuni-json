@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "L328",
-	"cap": "76125"
+	"cap": [
+		"76125"
+	]
 }

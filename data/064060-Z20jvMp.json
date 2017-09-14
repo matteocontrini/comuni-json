@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F660",
-	"cap": "83049"
+	"cap": [
+		"83049"
+	]
 }

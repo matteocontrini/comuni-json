@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "D593",
-	"cap": "85020"
+	"cap": [
+		"85020"
+	]
 }

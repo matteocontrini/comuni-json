@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "B844",
-	"cap": "36050"
+	"cap": [
+		"36050"
+	]
 }

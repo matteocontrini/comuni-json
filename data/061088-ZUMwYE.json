@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I676",
-	"cap": "81037"
+	"cap": [
+		"81037"
+	]
 }

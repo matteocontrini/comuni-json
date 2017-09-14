@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "C820",
-	"cap": "20815"
+	"cap": [
+		"20815"
+	]
 }

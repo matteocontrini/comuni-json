@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "A281",
-	"cap": "73032"
+	"cap": [
+		"73032"
+	]
 }

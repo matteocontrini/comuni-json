@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "L802",
-	"cap": "88819"
+	"cap": [
+		"88819"
+	]
 }

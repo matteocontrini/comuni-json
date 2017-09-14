@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I203",
-	"cap": "27046"
+	"cap": [
+		"27046"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I705",
-	"cap": "09029"
+	"cap": [
+		"09029"
+	]
 }

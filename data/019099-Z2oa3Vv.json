@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I865",
-	"cap": "26048"
+	"cap": [
+		"26048"
+	]
 }

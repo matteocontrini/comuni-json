@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "D815",
-	"cap": "50054"
+	"cap": [
+		"50054"
+	]
 }

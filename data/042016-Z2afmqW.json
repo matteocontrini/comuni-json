@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "D211",
-	"cap": "60034"
+	"cap": [
+		"60034"
+	]
 }

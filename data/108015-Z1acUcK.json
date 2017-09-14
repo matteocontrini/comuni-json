@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B729",
-	"cap": "20841"
+	"cap": [
+		"20841"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I831",
-	"cap": "25048"
+	"cap": [
+		"25048"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "M333",
-	"cap": "24038"
+	"cap": [
+		"24038"
+	]
 }

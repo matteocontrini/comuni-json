@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "E838",
-	"cap": "47862"
+	"cap": [
+		"47862"
+	]
 }

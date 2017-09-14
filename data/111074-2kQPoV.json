@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I582",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

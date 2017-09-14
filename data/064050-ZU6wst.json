@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F230",
-	"cap": "83036"
+	"cap": [
+		"83036"
+	]
 }

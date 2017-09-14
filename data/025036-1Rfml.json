@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "G404",
-	"cap": "32034"
+	"cap": [
+		"32034"
+	]
 }

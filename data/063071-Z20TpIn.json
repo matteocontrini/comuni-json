@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I208",
-	"cap": "80065"
+	"cap": [
+		"80065"
+	]
 }

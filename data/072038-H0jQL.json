@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "H645",
-	"cap": "70037"
+	"cap": [
+		"70037"
+	]
 }

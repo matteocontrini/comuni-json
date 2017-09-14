@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "C807",
-	"cap": "14023"
+	"cap": [
+		"14023"
+	]
 }

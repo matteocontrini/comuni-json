@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "A479",
-	"cap": "14100"
+	"cap": [
+		"14100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "M086",
-	"cap": "01030"
+	"cap": [
+		"01030"
+	]
 }

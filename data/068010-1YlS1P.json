@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "C354",
-	"cap": "65011"
+	"cap": [
+		"65011"
+	]
 }

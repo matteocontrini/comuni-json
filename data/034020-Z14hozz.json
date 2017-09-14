@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "F082",
-	"cap": "43014"
+	"cap": [
+		"43014"
+	]
 }

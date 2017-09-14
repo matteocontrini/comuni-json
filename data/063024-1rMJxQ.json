@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "C129",
-	"cap": "80053"
+	"cap": [
+		"80053"
+	]
 }

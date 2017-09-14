@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "I365",
-	"cap": "18010"
+	"cap": [
+		"18010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E809",
-	"cap": "12050"
+	"cap": [
+		"12050"
+	]
 }

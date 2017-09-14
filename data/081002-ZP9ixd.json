@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "B288",
-	"cap": "91012"
+	"cap": [
+		"91012"
+	]
 }

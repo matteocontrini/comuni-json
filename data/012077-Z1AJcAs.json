@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E079",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "D121",
-	"cap": "48033"
+	"cap": [
+		"48033"
+	]
 }

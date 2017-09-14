@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "D293",
-	"cap": "18013"
+	"cap": [
+		"18013"
+	]
 }

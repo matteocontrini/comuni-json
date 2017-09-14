@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L253",
-	"cap": "66050"
+	"cap": [
+		"66050"
+	]
 }

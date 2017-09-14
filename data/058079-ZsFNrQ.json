@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "G811",
-	"cap": "00071"
+	"cap": [
+		"00071"
+	]
 }

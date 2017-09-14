@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "H670",
-	"cap": "11023"
+	"cap": [
+		"11023"
+	]
 }

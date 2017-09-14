@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "L981",
-	"cap": "11018"
+	"cap": [
+		"11018"
+	]
 }

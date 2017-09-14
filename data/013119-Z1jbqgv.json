@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E405",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

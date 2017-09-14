@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "A265",
-	"cap": "82031"
+	"cap": [
+		"82031"
+	]
 }

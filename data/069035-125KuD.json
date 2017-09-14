@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D763",
-	"cap": "66023"
+	"cap": [
+		"66023"
+	]
 }

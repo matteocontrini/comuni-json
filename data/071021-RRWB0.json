@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "C633",
-	"cap": "71010"
+	"cap": [
+		"71010"
+	]
 }

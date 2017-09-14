@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "C637",
-	"cap": "27013"
+	"cap": [
+		"27013"
+	]
 }

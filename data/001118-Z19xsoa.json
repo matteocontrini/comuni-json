@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E199",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

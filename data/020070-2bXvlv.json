@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "M125",
-	"cap": "46049"
+	"cap": [
+		"46049"
+	]
 }

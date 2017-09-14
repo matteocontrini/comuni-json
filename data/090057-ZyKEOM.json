@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G740",
-	"cap": "07017"
+	"cap": [
+		"07017"
+	]
 }

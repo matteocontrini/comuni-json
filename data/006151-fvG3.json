@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "H694",
-	"cap": "15045"
+	"cap": [
+		"15045"
+	]
 }

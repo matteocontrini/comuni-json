@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "C675",
-	"cap": "80033"
+	"cap": [
+		"80033"
+	]
 }

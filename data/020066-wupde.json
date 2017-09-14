@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "L826",
-	"cap": "46019"
+	"cap": [
+		"46019"
+	]
 }

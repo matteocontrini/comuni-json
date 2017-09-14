@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L569",
-	"cap": "01018"
+	"cap": [
+		"01018"
+	]
 }

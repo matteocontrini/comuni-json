@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "H518",
-	"cap": "28068"
+	"cap": [
+		"28068"
+	]
 }

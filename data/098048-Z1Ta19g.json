@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "I012",
-	"cap": "26817"
+	"cap": [
+		"26817"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "A453",
-	"cap": "07021"
+	"cap": [
+		"07021"
+	]
 }

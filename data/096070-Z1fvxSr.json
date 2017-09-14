@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L436",
-	"cap": "13835"
+	"cap": [
+		"13835"
+	]
 }

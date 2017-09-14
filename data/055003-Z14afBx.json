@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "A242",
-	"cap": "05020"
+	"cap": [
+		"05020"
+	]
 }

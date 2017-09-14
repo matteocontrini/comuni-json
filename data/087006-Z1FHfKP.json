@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "A056",
-	"cap": "95031"
+	"cap": [
+		"95031"
+	]
 }

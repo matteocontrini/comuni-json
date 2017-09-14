@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E387",
-	"cap": "08044"
+	"cap": [
+		"08044"
+	]
 }

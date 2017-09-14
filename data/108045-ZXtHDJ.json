@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "L677",
-	"cap": "20814"
+	"cap": [
+		"20814"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I489",
-	"cap": "87029"
+	"cap": [
+		"87029"
+	]
 }

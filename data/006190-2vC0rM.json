@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "M123",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

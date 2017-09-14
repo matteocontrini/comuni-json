@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "M028",
-	"cap": "13010"
+	"cap": [
+		"13010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F305",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

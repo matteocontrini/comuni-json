@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "D029",
-	"cap": "26842"
+	"cap": [
+		"26842"
+	]
 }

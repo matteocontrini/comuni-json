@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D759",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "E843",
-	"cap": "26030"
+	"cap": [
+		"26030"
+	]
 }

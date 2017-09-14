@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G170",
-	"cap": "25035"
+	"cap": [
+		"25035"
+	]
 }

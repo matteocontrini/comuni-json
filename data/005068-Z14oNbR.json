@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F325",
-	"cap": "14058"
+	"cap": [
+		"14058"
+	]
 }

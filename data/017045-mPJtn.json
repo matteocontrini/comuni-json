@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C332",
-	"cap": "25030"
+	"cap": [
+		"25030"
+	]
 }

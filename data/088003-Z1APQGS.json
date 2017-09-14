@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "C927",
-	"cap": "97013"
+	"cap": [
+		"97013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B297",
-	"cap": "10053"
+	"cap": [
+		"10053"
+	]
 }

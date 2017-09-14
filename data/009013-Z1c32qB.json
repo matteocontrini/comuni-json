@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "B005",
-	"cap": "17022"
+	"cap": [
+		"17022"
+	]
 }

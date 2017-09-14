@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I908",
-	"cap": "30038"
+	"cap": [
+		"30038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "D269",
-	"cap": "71026"
+	"cap": [
+		"71026"
+	]
 }

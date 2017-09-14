@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "C510",
-	"cap": "17023"
+	"cap": [
+		"17023"
+	]
 }

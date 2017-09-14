@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D920",
-	"cap": "12075"
+	"cap": [
+		"12075"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "G587",
-	"cap": "35016"
+	"cap": [
+		"35016"
+	]
 }

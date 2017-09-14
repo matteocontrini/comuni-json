@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "L838",
-	"cap": "50039"
+	"cap": [
+		"50039"
+	]
 }

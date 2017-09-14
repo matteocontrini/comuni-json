@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "E016",
-	"cap": "97010"
+	"cap": [
+		"97010"
+	]
 }

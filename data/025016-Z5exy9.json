@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A266",
-	"cap": "32043"
+	"cap": [
+		"32043"
+	]
 }

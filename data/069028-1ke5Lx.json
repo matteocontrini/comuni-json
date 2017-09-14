@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D209",
-	"cap": "66051"
+	"cap": [
+		"66051"
+	]
 }

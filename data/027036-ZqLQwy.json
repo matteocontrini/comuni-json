@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I373",
-	"cap": "30029"
+	"cap": [
+		"30029"
+	]
 }

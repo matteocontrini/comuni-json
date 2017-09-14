@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I914",
-	"cap": "26016"
+	"cap": [
+		"26016"
+	]
 }

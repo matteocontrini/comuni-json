@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L017",
-	"cap": "01015"
+	"cap": [
+		"01015"
+	]
 }

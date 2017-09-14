@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "G271",
-	"cap": "66017"
+	"cap": [
+		"66017"
+	]
 }

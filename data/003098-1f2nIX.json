@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "F191",
-	"cap": "28010"
+	"cap": [
+		"28010"
+	]
 }

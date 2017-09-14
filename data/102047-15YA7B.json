@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "F537",
-	"cap": "89900"
+	"cap": [
+		"89900"
+	]
 }

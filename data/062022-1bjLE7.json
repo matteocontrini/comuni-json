@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C476",
-	"cap": "82014"
+	"cap": [
+		"82014"
+	]
 }

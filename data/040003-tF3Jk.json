@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "A809",
-	"cap": "47032"
+	"cap": [
+		"47032"
+	]
 }

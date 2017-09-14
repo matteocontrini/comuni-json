@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "E122",
-	"cap": "61012"
+	"cap": [
+		"61012"
+	]
 }

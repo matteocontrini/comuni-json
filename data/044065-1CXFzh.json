@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "H588",
-	"cap": "63071"
+	"cap": [
+		"63071"
+	]
 }

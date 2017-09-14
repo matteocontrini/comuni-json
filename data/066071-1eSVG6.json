@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G524",
-	"cap": "67034"
+	"cap": [
+		"67034"
+	]
 }

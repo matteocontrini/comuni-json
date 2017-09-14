@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G398",
-	"cap": "10020"
+	"cap": [
+		"10020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "A429",
-	"cap": "28041"
+	"cap": [
+		"28041"
+	]
 }

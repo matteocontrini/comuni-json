@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "A228",
-	"cap": "83011"
+	"cap": [
+		"83011"
+	]
 }

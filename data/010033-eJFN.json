@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F098",
-	"cap": "16010"
+	"cap": [
+		"16010"
+	]
 }

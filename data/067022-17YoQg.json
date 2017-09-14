@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "D076",
-	"cap": "64040"
+	"cap": [
+		"64040"
+	]
 }

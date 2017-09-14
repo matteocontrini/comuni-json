@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "M136",
-	"cap": "12020"
+	"cap": [
+		"12020"
+	]
 }

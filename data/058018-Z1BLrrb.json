@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "B649",
-	"cap": "00060"
+	"cap": [
+		"00060"
+	]
 }

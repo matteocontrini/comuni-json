@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "B934",
-	"cap": "02030"
+	"cap": [
+		"02030"
+	]
 }

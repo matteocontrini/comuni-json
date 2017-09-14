@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G298",
-	"cap": "87060"
+	"cap": [
+		"87060"
+	]
 }

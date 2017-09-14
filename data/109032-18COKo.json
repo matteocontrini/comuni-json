@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "G873",
-	"cap": "63845"
+	"cap": [
+		"63845"
+	]
 }

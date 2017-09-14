@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "A452",
-	"cap": "11011"
+	"cap": [
+		"11011"
+	]
 }

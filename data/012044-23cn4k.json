@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C273",
-	"cap": "21050"
+	"cap": [
+		"21050"
+	]
 }

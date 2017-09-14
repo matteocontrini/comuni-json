@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "I291",
-	"cap": "91029"
+	"cap": [
+		"91029"
+	]
 }

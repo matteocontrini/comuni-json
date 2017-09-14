@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "E253",
-	"cap": "42016"
+	"cap": [
+		"42016"
+	]
 }

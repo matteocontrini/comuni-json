@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "G682",
-	"cap": "61046"
+	"cap": [
+		"61046"
+	]
 }

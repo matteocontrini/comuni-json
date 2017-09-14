@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "H887",
-	"cap": "29019"
+	"cap": [
+		"29019"
+	]
 }

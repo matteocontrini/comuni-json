@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G196",
-	"cap": "10056"
+	"cap": [
+		"10056"
+	]
 }

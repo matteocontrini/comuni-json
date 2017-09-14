@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I183",
-	"cap": "87020"
+	"cap": [
+		"87020"
+	]
 }

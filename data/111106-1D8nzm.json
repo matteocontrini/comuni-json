@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "M025",
-	"cap": "09034"
+	"cap": [
+		"09034"
+	]
 }

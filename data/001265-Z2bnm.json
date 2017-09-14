@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I703",
-	"cap": "10036"
+	"cap": [
+		"10036"
+	]
 }

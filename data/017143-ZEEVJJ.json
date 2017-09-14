@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G710",
-	"cap": "25055"
+	"cap": [
+		"25055"
+	]
 }

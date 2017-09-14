@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "A914",
-	"cap": "13022"
+	"cap": [
+		"13022"
+	]
 }

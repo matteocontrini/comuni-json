@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L807",
-	"cap": "14059"
+	"cap": [
+		"14059"
+	]
 }

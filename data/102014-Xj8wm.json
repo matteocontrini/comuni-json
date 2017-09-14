@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "D762",
-	"cap": "89815"
+	"cap": [
+		"89815"
+	]
 }

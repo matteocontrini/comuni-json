@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "D691",
-	"cap": "63086"
+	"cap": [
+		"63086"
+	]
 }

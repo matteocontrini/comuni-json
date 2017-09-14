@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "B816",
-	"cap": "61021"
+	"cap": [
+		"61021"
+	]
 }

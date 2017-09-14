@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D859",
-	"cap": "08040"
+	"cap": [
+		"08040"
+	]
 }

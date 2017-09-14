@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "C594",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

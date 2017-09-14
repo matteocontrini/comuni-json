@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A278",
-	"cap": "17051"
+	"cap": [
+		"17051"
+	]
 }

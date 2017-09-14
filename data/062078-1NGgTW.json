@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "F557",
-	"cap": "82021"
+	"cap": [
+		"82021"
+	]
 }

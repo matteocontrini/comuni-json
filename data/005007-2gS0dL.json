@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "A588",
-	"cap": "14011"
+	"cap": [
+		"14011"
+	]
 }

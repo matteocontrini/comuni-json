@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C194",
-	"cap": "38053"
+	"cap": [
+		"38053"
+	]
 }

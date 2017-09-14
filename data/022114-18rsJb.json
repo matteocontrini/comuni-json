@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "F168",
-	"cap": "38020"
+	"cap": [
+		"38020"
+	]
 }

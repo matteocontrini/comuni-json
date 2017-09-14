@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "D728",
-	"cap": "43045"
+	"cap": [
+		"43045"
+	]
 }

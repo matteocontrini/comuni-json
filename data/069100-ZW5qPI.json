@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L961",
-	"cap": "66020"
+	"cap": [
+		"66020"
+	]
 }

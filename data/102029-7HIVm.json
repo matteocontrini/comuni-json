@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "G785",
-	"cap": "89813"
+	"cap": [
+		"89813"
+	]
 }

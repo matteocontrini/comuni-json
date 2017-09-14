@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E700",
-	"cap": "08040"
+	"cap": [
+		"08040"
+	]
 }

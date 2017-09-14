@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E674",
-	"cap": "98070"
+	"cap": [
+		"98070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "A940",
-	"cap": "20021"
+	"cap": [
+		"20021"
+	]
 }

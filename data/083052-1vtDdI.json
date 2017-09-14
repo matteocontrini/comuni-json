@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F251",
-	"cap": "98073"
+	"cap": [
+		"98073"
+	]
 }

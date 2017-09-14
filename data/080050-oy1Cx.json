@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "F112",
-	"cap": "89063"
+	"cap": [
+		"89063"
+	]
 }

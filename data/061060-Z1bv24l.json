@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "G661",
-	"cap": "81052"
+	"cap": [
+		"81052"
+	]
 }

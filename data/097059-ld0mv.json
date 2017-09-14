@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G030",
-	"cap": "23854"
+	"cap": [
+		"23854"
+	]
 }

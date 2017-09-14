@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "B675",
-	"cap": "09012"
+	"cap": [
+		"09012"
+	]
 }

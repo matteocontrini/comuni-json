@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L690",
-	"cap": "27057"
+	"cap": [
+		"27057"
+	]
 }

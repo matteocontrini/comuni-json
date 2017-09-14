@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "B392",
-	"cap": "56012"
+	"cap": [
+		"56012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G352",
-	"cap": "33037"
+	"cap": [
+		"33037"
+	]
 }

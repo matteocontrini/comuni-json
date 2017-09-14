@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C111",
-	"cap": "31033"
+	"cap": [
+		"31033"
+	]
 }

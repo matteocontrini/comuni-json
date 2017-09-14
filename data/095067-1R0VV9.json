@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "L393",
-	"cap": "09079"
+	"cap": [
+		"09079"
+	]
 }

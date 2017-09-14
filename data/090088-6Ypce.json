@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "M292",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

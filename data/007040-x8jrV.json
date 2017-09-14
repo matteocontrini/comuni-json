@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "E458",
-	"cap": "11015"
+	"cap": [
+		"11015"
+	]
 }

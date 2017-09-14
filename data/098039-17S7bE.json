@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "F149",
-	"cap": "26833"
+	"cap": [
+		"26833"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "E563",
-	"cap": "73045"
+	"cap": [
+		"73045"
+	]
 }

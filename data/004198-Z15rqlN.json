@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H633",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

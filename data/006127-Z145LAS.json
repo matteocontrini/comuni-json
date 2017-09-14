@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G367",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

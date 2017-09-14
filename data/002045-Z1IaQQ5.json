@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "C884",
-	"cap": "13030"
+	"cap": [
+		"13030"
+	]
 }

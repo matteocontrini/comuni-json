@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F999",
-	"cap": "31046"
+	"cap": [
+		"31046"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D407",
-	"cap": "36052"
+	"cap": [
+		"36052"
+	]
 }

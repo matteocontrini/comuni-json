@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "M315",
-	"cap": "22015"
+	"cap": [
+		"22015"
+	]
 }

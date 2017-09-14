@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C878",
-	"cap": "86073"
+	"cap": [
+		"86073"
+	]
 }

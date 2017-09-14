@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A371",
-	"cap": "21051"
+	"cap": [
+		"21051"
+	]
 }

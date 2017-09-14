@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "F766",
-	"cap": "39013"
+	"cap": [
+		"39013"
+	]
 }

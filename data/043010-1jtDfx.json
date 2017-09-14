@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "C267",
-	"cap": "62039"
+	"cap": [
+		"62039"
+	]
 }

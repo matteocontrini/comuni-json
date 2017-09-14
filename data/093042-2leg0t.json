@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "I621",
-	"cap": "33090"
+	"cap": [
+		"33090"
+	]
 }

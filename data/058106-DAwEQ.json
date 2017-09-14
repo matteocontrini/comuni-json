@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "L302",
-	"cap": "00060"
+	"cap": [
+		"00060"
+	]
 }

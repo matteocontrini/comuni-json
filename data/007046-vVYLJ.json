@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "G045",
-	"cap": "11010"
+	"cap": [
+		"11010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "B154",
-	"cap": "37010"
+	"cap": [
+		"37010"
+	]
 }

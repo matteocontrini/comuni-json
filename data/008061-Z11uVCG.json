@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L430",
-	"cap": "18010"
+	"cap": [
+		"18010"
+	]
 }

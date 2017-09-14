@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "L598",
-	"cap": "03020"
+	"cap": [
+		"03020"
+	]
 }

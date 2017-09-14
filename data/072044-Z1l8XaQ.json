@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "L220",
-	"cap": "70020"
+	"cap": [
+		"70020"
+	]
 }

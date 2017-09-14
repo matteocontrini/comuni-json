@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "I122",
-	"cap": "86020"
+	"cap": [
+		"86020"
+	]
 }

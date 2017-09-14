@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "F671",
-	"cap": "29010"
+	"cap": [
+		"29010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "A028",
-	"cap": "95024"
+	"cap": [
+		"95024"
+	]
 }

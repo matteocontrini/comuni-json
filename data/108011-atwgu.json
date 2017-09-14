@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B187",
-	"cap": "20836"
+	"cap": [
+		"20836"
+	]
 }

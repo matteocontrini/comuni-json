@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "C070",
-	"cap": "63839"
+	"cap": [
+		"63839"
+	]
 }

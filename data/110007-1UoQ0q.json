@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "H839",
-	"cap": "76017"
+	"cap": [
+		"76017"
+	]
 }

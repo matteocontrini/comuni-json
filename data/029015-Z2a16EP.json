@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "C500",
-	"cap": "45010"
+	"cap": [
+		"45010"
+	]
 }

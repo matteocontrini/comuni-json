@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "L502",
-	"cap": "24059"
+	"cap": [
+		"24059"
+	]
 }

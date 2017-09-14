@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "A799",
-	"cap": "25030"
+	"cap": [
+		"25030"
+	]
 }

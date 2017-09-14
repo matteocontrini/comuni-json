@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I690",
-	"cap": "20099"
+	"cap": [
+		"20099"
+	]
 }

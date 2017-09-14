@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "E578",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

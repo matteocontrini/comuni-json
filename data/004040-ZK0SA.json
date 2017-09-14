@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B719",
-	"cap": "12023"
+	"cap": [
+		"12023"
+	]
 }

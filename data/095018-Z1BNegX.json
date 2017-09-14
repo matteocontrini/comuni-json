@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "B314",
-	"cap": "09072"
+	"cap": [
+		"09072"
+	]
 }

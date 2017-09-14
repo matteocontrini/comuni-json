@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "A292",
-	"cap": "37050"
+	"cap": [
+		"37050"
+	]
 }

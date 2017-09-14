@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "I526",
-	"cap": "66045"
+	"cap": [
+		"66045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "I905",
-	"cap": "89864"
+	"cap": [
+		"89864"
+	]
 }

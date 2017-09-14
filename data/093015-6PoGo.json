@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "C790",
-	"cap": "33080"
+	"cap": [
+		"33080"
+	]
 }

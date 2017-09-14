@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I306",
-	"cap": "81030"
+	"cap": [
+		"81030"
+	]
 }

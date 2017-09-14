@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "M348",
-	"cap": "23888"
+	"cap": [
+		"23888"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "D472",
-	"cap": "60015"
+	"cap": [
+		"60015"
+	]
 }

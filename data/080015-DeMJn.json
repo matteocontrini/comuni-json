@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B234",
-	"cap": "89030"
+	"cap": [
+		"89030"
+	]
 }

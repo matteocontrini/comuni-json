@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F173",
-	"cap": "16046"
+	"cap": [
+		"16046"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "E230",
-	"cap": "06023"
+	"cap": [
+		"06023"
+	]
 }

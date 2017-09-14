@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "B317",
-	"cap": "86086"
+	"cap": [
+		"86086"
+	]
 }

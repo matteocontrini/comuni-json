@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "M311",
-	"cap": "33040"
+	"cap": [
+		"33040"
+	]
 }

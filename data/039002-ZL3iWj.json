@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "A547",
-	"cap": "48012"
+	"cap": [
+		"48012"
+	]
 }

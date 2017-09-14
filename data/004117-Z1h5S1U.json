@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E939",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

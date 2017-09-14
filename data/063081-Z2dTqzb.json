@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I978",
-	"cap": "80040"
+	"cap": [
+		"80040"
+	]
 }

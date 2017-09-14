@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C984",
-	"cap": "84010"
+	"cap": [
+		"84010"
+	]
 }

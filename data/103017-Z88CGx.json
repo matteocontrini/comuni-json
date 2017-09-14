@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "B615",
-	"cap": "28822"
+	"cap": [
+		"28822"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F214",
-	"cap": "95010"
+	"cap": [
+		"95010"
+	]
 }

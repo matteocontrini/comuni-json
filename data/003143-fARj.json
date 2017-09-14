@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "L007",
-	"cap": "28019"
+	"cap": [
+		"28019"
+	]
 }

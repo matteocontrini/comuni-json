@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "B711",
-	"cap": "25031"
+	"cap": [
+		"25031"
+	]
 }

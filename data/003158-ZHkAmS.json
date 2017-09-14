@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "L808",
-	"cap": "28079"
+	"cap": [
+		"28079"
+	]
 }

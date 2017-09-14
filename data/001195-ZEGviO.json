@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G705",
-	"cap": "10060"
+	"cap": [
+		"10060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "A059",
-	"cap": "45011"
+	"cap": [
+		"45011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B476",
-	"cap": "84059"
+	"cap": [
+		"84059"
+	]
 }

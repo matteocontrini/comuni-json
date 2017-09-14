@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H398",
-	"cap": "81040"
+	"cap": [
+		"81040"
+	]
 }

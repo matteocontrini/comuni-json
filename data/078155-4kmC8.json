@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "M202",
-	"cap": "87040"
+	"cap": [
+		"87040"
+	]
 }

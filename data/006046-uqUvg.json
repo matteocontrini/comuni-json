@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C142",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

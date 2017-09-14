@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "D703",
-	"cap": "86084"
+	"cap": [
+		"86084"
+	]
 }

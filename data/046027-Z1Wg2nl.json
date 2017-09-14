@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "I142",
-	"cap": "55038"
+	"cap": [
+		"55038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "E982",
-	"cap": "33035"
+	"cap": [
+		"33035"
+	]
 }

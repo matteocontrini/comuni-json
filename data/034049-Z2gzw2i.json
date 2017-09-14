@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "M325",
-	"cap": "43018"
+	"cap": [
+		"43018"
+	]
 }

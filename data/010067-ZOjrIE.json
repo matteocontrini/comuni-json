@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "M182",
-	"cap": "16035"
+	"cap": [
+		"16035"
+	]
 }

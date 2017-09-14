@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B435",
-	"cap": "10014"
+	"cap": [
+		"10014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C376",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

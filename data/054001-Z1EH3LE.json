@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "A475",
-	"cap": "06081"
+	"cap": [
+		"06081"
+	]
 }

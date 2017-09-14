@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "D105",
-	"cap": "45023"
+	"cap": [
+		"45023"
+	]
 }

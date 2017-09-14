@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "B269",
-	"cap": "53022"
+	"cap": [
+		"53022"
+	]
 }

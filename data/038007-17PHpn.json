@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "C980",
-	"cap": "44034"
+	"cap": [
+		"44034"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L620",
-	"cap": "13847"
+	"cap": [
+		"13847"
+	]
 }

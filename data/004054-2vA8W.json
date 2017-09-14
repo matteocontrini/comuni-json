@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C214",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

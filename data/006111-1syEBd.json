@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F737",
-	"cap": "15075"
+	"cap": [
+		"15075"
+	]
 }

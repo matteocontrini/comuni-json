@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I826",
-	"cap": "37060"
+	"cap": [
+		"37060"
+	]
 }

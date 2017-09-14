@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "F826",
-	"cap": "30024"
+	"cap": [
+		"30024"
+	]
 }

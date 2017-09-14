@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "G084",
-	"cap": "08026"
+	"cap": [
+		"08026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "L673",
-	"cap": "89010"
+	"cap": [
+		"89010"
+	]
 }

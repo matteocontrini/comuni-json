@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F374",
-	"cap": "15059"
+	"cap": [
+		"15059"
+	]
 }

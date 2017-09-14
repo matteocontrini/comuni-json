@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A594",
-	"cap": "23811"
+	"cap": [
+		"23811"
+	]
 }

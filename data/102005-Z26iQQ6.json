@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "B655",
-	"cap": "89818"
+	"cap": [
+		"89818"
+	]
 }

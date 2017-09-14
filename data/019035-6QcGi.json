@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "D142",
-	"cap": "26013"
+	"cap": [
+		"26013"
+	]
 }

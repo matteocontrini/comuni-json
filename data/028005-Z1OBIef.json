@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "A434",
-	"cap": "35032"
+	"cap": [
+		"35032"
+	]
 }

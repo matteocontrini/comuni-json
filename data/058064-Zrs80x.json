@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F590",
-	"cap": "00078"
+	"cap": [
+		"00078"
+	]
 }

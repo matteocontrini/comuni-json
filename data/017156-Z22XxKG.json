@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "H078",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

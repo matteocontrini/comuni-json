@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G965",
-	"cap": "20060"
+	"cap": [
+		"20060"
+	]
 }

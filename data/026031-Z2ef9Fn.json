@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "D854",
-	"cap": "31018"
+	"cap": [
+		"31018"
+	]
 }

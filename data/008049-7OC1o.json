@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "H257",
-	"cap": "18026"
+	"cap": [
+		"18026"
+	]
 }

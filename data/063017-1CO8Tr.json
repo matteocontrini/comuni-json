@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B905",
-	"cap": "80013"
+	"cap": [
+		"80013"
+	]
 }

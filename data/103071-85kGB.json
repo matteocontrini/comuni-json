@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "L691",
-	"cap": "28868"
+	"cap": [
+		"28868"
+	]
 }

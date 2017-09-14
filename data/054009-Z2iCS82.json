@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "C309",
-	"cap": "06061"
+	"cap": [
+		"06061"
+	]
 }

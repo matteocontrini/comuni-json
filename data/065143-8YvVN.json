@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "M253",
-	"cap": "84029"
+	"cap": [
+		"84029"
+	]
 }

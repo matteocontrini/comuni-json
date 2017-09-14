@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "C669",
-	"cap": "42026"
+	"cap": [
+		"42026"
+	]
 }

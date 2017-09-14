@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A123",
-	"cap": "03011"
+	"cap": [
+		"03011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "E348",
-	"cap": "58012"
+	"cap": [
+		"58012"
+	]
 }

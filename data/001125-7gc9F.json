@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E379",
-	"cap": "10015"
+	"cap": [
+		"10015"
+	]
 }

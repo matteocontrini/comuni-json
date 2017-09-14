@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I825",
-	"cap": "27048"
+	"cap": [
+		"27048"
+	]
 }

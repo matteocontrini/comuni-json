@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "I580",
-	"cap": "09047"
+	"cap": [
+		"09047"
+	]
 }

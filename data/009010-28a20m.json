@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A796",
-	"cap": "17028"
+	"cap": [
+		"17028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L195",
-	"cap": "33028"
+	"cap": [
+		"33028"
+	]
 }

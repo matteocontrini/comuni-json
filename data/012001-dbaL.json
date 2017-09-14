@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A085",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

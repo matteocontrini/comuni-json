@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L599",
-	"cap": "18019"
+	"cap": [
+		"18019"
+	]
 }

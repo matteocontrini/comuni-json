@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C300",
-	"cap": "21043"
+	"cap": [
+		"21043"
+	]
 }

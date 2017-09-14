@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "H790",
-	"cap": "53040"
+	"cap": [
+		"53040"
+	]
 }

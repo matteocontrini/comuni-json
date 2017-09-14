@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "D570",
-	"cap": "05016"
+	"cap": [
+		"05016"
+	]
 }

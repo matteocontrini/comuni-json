@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I392",
-	"cap": "32046"
+	"cap": [
+		"32046"
+	]
 }

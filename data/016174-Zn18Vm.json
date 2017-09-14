@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "H020",
-	"cap": "24060"
+	"cap": [
+		"24060"
+	]
 }

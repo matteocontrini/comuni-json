@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "D719",
-	"cap": "33024"
+	"cap": [
+		"33024"
+	]
 }

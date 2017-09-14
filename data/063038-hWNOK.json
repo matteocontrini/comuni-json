@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E396",
-	"cap": "80076"
+	"cap": [
+		"80076"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "C197",
-	"cap": "86031"
+	"cap": [
+		"86031"
+	]
 }

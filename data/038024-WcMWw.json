@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "L390",
-	"cap": "44039"
+	"cap": [
+		"44039"
+	]
 }

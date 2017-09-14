@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "E821",
-	"cap": "13887"
+	"cap": [
+		"13887"
+	]
 }

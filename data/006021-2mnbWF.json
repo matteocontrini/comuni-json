@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B071",
-	"cap": "15062"
+	"cap": [
+		"15062"
+	]
 }

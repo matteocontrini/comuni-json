@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "L122",
-	"cap": "09098"
+	"cap": [
+		"09098"
+	]
 }

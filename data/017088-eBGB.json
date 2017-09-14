@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E526",
-	"cap": "25024"
+	"cap": [
+		"25024"
+	]
 }

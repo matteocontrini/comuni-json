@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D243",
-	"cap": "38030"
+	"cap": [
+		"38030"
+	]
 }

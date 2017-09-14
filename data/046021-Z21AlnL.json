@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "F452",
-	"cap": "55015"
+	"cap": [
+		"55015"
+	]
 }

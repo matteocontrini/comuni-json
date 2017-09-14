@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "A576",
-	"cap": "54021"
+	"cap": [
+		"54021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "D265",
-	"cap": "19013"
+	"cap": [
+		"19013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "L347",
-	"cap": "33090"
+	"cap": [
+		"33090"
+	]
 }

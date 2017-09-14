@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "H803",
-	"cap": "20078"
+	"cap": [
+		"20078"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "F288",
-	"cap": "40062"
+	"cap": [
+		"40062"
+	]
 }

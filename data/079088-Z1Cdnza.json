@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "G034",
-	"cap": "88067"
+	"cap": [
+		"88067"
+	]
 }

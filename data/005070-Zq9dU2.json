@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F343",
-	"cap": "14024"
+	"cap": [
+		"14024"
+	]
 }

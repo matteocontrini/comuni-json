@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "M212",
-	"cap": "00055"
+	"cap": [
+		"00055"
+	]
 }

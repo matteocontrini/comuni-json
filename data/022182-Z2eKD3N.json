@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I949",
-	"cap": "38070"
+	"cap": [
+		"38070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "G639",
-	"cap": "27037"
+	"cap": [
+		"27037"
+	]
 }

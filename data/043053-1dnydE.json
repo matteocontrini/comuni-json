@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "L191",
-	"cap": "62029"
+	"cap": [
+		"62029"
+	]
 }

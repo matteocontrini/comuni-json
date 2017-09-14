@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "C993",
-	"cap": "33075"
+	"cap": [
+		"33075"
+	]
 }

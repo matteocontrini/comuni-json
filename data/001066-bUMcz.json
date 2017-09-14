@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C133",
-	"cap": "10081"
+	"cap": [
+		"10081"
+	]
 }

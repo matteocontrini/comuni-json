@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D491",
-	"cap": "24058"
+	"cap": [
+		"24058"
+	]
 }

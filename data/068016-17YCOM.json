@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "D078",
-	"cap": "65020"
+	"cap": [
+		"65020"
+	]
 }

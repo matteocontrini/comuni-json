@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "E778",
-	"cap": "86070"
+	"cap": [
+		"86070"
+	]
 }

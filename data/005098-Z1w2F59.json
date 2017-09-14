@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "H899",
-	"cap": "14059"
+	"cap": [
+		"14059"
+	]
 }

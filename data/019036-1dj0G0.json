@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "D150",
-	"cap": "26100"
+	"cap": [
+		"26100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "I045",
-	"cap": "72018"
+	"cap": [
+		"72018"
+	]
 }

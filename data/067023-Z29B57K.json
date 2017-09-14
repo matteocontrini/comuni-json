@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "D179",
-	"cap": "64043"
+	"cap": [
+		"64043"
+	]
 }

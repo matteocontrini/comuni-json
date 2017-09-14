@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B946",
-	"cap": "80020"
+	"cap": [
+		"80020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "A634",
-	"cap": "27041"
+	"cap": [
+		"27041"
+	]
 }

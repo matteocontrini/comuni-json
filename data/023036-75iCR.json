@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "D915",
-	"cap": "37016"
+	"cap": [
+		"37016"
+	]
 }

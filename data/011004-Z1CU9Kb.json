@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "A932",
-	"cap": "19020"
+	"cap": [
+		"19020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I600",
-	"cap": "89028"
+	"cap": [
+		"89028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A340",
-	"cap": "87051"
+	"cap": [
+		"87051"
+	]
 }

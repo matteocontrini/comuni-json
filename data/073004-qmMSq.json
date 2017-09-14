@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "D171",
-	"cap": "74012"
+	"cap": [
+		"74012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F614",
-	"cap": "63825"
+	"cap": [
+		"63825"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E581",
-	"cap": "23827"
+	"cap": [
+		"23827"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E640",
-	"cap": "24030"
+	"cap": [
+		"24030"
+	]
 }

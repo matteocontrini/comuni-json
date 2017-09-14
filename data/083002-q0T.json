@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "A194",
-	"cap": "98020"
+	"cap": [
+		"98020"
+	]
 }

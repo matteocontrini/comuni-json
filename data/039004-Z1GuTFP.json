@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "B188",
-	"cap": "48013"
+	"cap": [
+		"48013"
+	]
 }

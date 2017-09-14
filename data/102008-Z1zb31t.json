@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "D303",
-	"cap": "89833"
+	"cap": [
+		"89833"
+	]
 }

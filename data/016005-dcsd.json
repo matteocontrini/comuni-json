@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A214",
-	"cap": "24011"
+	"cap": [
+		"24011"
+	]
 }

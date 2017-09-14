@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "L851",
-	"cap": "00029"
+	"cap": [
+		"00029"
+	]
 }

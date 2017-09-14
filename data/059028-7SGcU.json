@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "I712",
-	"cap": "04018"
+	"cap": [
+		"04018"
+	]
 }

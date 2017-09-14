@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "G802",
-	"cap": "35020"
+	"cap": [
+		"35020"
+	]
 }

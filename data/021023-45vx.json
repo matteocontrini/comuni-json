@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B799",
-	"cap": "39053"
+	"cap": [
+		"39053"
+	]
 }

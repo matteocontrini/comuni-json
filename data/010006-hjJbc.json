@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "B282",
-	"cap": "16012"
+	"cap": [
+		"16012"
+	]
 }

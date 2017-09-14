@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "H743",
-	"cap": "92017"
+	"cap": [
+		"92017"
+	]
 }

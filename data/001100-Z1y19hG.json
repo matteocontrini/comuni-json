@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "D433",
-	"cap": "10050"
+	"cap": [
+		"10050"
+	]
 }

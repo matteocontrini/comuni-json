@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "G699",
-	"cap": "98060"
+	"cap": [
+		"98060"
+	]
 }

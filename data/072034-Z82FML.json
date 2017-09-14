@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "G769",
-	"cap": "70020"
+	"cap": [
+		"70020"
+	]
 }

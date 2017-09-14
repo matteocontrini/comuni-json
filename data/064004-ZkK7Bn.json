@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "A347",
-	"cap": "83041"
+	"cap": [
+		"83041"
+	]
 }

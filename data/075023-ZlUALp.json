@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "D006",
-	"cap": "73022"
+	"cap": [
+		"73022"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B261",
-	"cap": "23892"
+	"cap": [
+		"23892"
+	]
 }

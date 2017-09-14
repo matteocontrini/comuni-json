@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D777",
-	"cap": "15035"
+	"cap": [
+		"15035"
+	]
 }

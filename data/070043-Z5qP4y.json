@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "F495",
-	"cap": "86033"
+	"cap": [
+		"86033"
+	]
 }

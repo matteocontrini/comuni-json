@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "A772",
-	"cap": "88824"
+	"cap": [
+		"88824"
+	]
 }

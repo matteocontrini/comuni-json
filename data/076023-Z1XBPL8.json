@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "C201",
-	"cap": "85040"
+	"cap": [
+		"85040"
+	]
 }

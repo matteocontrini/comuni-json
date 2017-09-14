@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "C576",
-	"cap": "83020"
+	"cap": [
+		"83020"
+	]
 }

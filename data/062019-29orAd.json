@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C280",
-	"cap": "82037"
+	"cap": [
+		"82037"
+	]
 }

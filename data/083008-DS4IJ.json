@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "B660",
-	"cap": "98031"
+	"cap": [
+		"98031"
+	]
 }

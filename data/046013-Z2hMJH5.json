@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "D730",
-	"cap": "55042"
+	"cap": [
+		"55042"
+	]
 }

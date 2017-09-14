@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "C823",
-	"cap": "16016"
+	"cap": [
+		"16016"
+	]
 }

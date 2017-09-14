@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "F508",
-	"cap": "37032"
+	"cap": [
+		"37032"
+	]
 }

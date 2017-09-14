@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "F268",
-	"cap": "62010"
+	"cap": [
+		"62010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I527",
-	"cap": "36060"
+	"cap": [
+		"36060"
+	]
 }

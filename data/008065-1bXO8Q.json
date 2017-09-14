@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L741",
-	"cap": "18039"
+	"cap": [
+		"18039"
+	]
 }

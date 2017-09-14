@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "L361",
-	"cap": "47019"
+	"cap": [
+		"47019"
+	]
 }

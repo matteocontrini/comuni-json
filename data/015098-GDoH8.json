@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "D231",
-	"cap": "20095"
+	"cap": [
+		"20095"
+	]
 }

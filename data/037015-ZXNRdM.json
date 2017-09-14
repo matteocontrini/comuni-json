@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "B969",
-	"cap": "40030"
+	"cap": [
+		"40030"
+	]
 }

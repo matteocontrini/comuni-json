@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L874",
-	"cap": "85059"
+	"cap": [
+		"85059"
+	]
 }

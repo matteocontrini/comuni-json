@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "D818",
-	"cap": "37022"
+	"cap": [
+		"37022"
+	]
 }

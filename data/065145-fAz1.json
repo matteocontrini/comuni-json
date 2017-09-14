@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I960",
-	"cap": "84075"
+	"cap": [
+		"84075"
+	]
 }

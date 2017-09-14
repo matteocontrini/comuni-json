@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I476",
-	"cap": "25040"
+	"cap": [
+		"25040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D897",
-	"cap": "36053"
+	"cap": [
+		"36053"
+	]
 }

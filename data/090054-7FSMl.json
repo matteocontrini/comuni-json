@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G258",
-	"cap": "07020"
+	"cap": [
+		"07020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "A731",
-	"cap": "43041"
+	"cap": [
+		"43041"
+	]
 }

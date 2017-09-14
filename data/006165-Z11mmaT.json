@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I901",
-	"cap": "15018"
+	"cap": [
+		"15018"
+	]
 }

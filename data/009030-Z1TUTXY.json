@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "D927",
-	"cap": "17033"
+	"cap": [
+		"17033"
+	]
 }

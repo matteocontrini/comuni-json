@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "G344",
-	"cap": "05010"
+	"cap": [
+		"05010"
+	]
 }

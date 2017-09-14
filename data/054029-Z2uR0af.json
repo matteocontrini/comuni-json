@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F456",
-	"cap": "06057"
+	"cap": [
+		"06057"
+	]
 }

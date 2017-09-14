@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "L744",
-	"cap": "20843"
+	"cap": [
+		"20843"
+	]
 }

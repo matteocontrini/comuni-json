@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "C308",
-	"cap": "65020"
+	"cap": [
+		"65020"
+	]
 }

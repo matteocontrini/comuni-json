@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "L086",
-	"cap": "82037"
+	"cap": [
+		"82037"
+	]
 }

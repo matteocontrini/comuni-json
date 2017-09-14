@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "H768",
-	"cap": "45020"
+	"cap": [
+		"45020"
+	]
 }

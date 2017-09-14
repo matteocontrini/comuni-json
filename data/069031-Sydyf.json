@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D495",
-	"cap": "66015"
+	"cap": [
+		"66015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "D872",
-	"cap": "28066"
+	"cap": [
+		"28066"
+	]
 }

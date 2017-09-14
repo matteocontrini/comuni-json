@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F881",
-	"cap": "73040"
+	"cap": [
+		"73040"
+	]
 }

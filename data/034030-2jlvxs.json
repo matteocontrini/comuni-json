@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "H384",
-	"cap": "43010"
+	"cap": [
+		"43010"
+	]
 }

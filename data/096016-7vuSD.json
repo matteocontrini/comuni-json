@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "C363",
-	"cap": "13881"
+	"cap": [
+		"13881"
+	]
 }

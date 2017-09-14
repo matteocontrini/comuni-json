@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E233",
-	"cap": "98040"
+	"cap": [
+		"98040"
+	]
 }

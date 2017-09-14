@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C589",
-	"cap": "12073"
+	"cap": [
+		"12073"
+	]
 }

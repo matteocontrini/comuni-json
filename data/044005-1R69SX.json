@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "A335",
-	"cap": "63083"
+	"cap": [
+		"63083"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "E003",
-	"cap": "28823"
+	"cap": [
+		"28823"
+	]
 }

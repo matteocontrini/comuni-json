@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "E626",
-	"cap": "13046"
+	"cap": [
+		"13046"
+	]
 }

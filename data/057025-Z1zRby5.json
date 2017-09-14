@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "C969",
-	"cap": "02043"
+	"cap": [
+		"02043"
+	]
 }

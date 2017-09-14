@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "F551",
-	"cap": "50056"
+	"cap": [
+		"50056"
+	]
 }

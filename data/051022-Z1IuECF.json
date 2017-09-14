@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "E933",
-	"cap": "52047"
+	"cap": [
+		"52047"
+	]
 }

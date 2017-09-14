@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "G698",
-	"cap": "04015"
+	"cap": [
+		"04015"
+	]
 }

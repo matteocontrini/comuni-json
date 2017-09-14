@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B355",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

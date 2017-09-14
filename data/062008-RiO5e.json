@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "A783",
-	"cap": "82100"
+	"cap": [
+		"82100"
+	]
 }

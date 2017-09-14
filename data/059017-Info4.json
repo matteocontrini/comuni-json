@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "G865",
-	"cap": "04014"
+	"cap": [
+		"04014"
+	]
 }

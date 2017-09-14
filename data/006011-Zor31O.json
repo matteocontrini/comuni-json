@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A605",
-	"cap": "15031"
+	"cap": [
+		"15031"
+	]
 }

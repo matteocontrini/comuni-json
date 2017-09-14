@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "E196",
-	"cap": "29025"
+	"cap": [
+		"29025"
+	]
 }

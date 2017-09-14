@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I030",
-	"cap": "10099"
+	"cap": [
+		"10099"
+	]
 }

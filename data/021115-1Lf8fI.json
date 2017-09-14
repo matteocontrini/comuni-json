@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "M067",
-	"cap": "39049"
+	"cap": [
+		"39049"
+	]
 }

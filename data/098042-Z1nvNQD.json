@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "G107",
-	"cap": "26863"
+	"cap": [
+		"26863"
+	]
 }

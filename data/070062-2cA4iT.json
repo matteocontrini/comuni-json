@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "H693",
-	"cap": "86026"
+	"cap": [
+		"86026"
+	]
 }

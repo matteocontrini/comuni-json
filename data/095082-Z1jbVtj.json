@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "E400",
-	"cap": "08034"
+	"cap": [
+		"08034"
+	]
 }

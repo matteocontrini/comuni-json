@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "A366",
-	"cap": "60011"
+	"cap": [
+		"60011"
+	]
 }

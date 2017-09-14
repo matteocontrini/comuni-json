@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "C224",
-	"cap": "02031"
+	"cap": [
+		"02031"
+	]
 }

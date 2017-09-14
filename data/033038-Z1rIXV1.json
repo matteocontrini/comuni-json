@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "H350",
-	"cap": "29029"
+	"cap": [
+		"29029"
+	]
 }

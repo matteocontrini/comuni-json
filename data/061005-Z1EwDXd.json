@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "A512",
-	"cap": "81031"
+	"cap": [
+		"81031"
+	]
 }

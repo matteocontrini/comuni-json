@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I749",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

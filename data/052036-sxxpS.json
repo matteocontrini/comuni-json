@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "L384",
-	"cap": "53020"
+	"cap": [
+		"53020"
+	]
 }

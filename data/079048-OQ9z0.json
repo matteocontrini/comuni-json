@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D544",
-	"cap": "88040"
+	"cap": [
+		"88040"
+	]
 }

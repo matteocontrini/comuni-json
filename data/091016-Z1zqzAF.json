@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D287",
-	"cap": "08032"
+	"cap": [
+		"08032"
+	]
 }

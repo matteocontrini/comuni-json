@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C311",
-	"cap": "64042"
+	"cap": [
+		"64042"
+	]
 }

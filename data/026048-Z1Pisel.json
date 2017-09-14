@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F729",
-	"cap": "31010"
+	"cap": [
+		"31010"
+	]
 }

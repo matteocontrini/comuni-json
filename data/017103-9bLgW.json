@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E884",
-	"cap": "25025"
+	"cap": [
+		"25025"
+	]
 }

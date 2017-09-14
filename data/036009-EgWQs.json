@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "C398",
-	"cap": "41032"
+	"cap": [
+		"41032"
+	]
 }

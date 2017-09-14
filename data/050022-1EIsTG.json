@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "F686",
-	"cap": "56020"
+	"cap": [
+		"56020"
+	]
 }

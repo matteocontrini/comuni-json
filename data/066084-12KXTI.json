@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H434",
-	"cap": "67037"
+	"cap": [
+		"67037"
+	]
 }

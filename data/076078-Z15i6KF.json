@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "I157",
-	"cap": "85030"
+	"cap": [
+		"85030"
+	]
 }

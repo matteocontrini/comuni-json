@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B453",
-	"cap": "15030"
+	"cap": [
+		"15030"
+	]
 }

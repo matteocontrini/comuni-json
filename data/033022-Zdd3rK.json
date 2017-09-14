@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "D958",
-	"cap": "29010"
+	"cap": [
+		"29010"
+	]
 }

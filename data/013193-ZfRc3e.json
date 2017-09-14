@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H094",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "E479",
-	"cap": "89023"
+	"cap": [
+		"89023"
+	]
 }

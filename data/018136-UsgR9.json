@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "H885",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

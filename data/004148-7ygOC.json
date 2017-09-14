@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F863",
-	"cap": "12052"
+	"cap": [
+		"12052"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H521",
-	"cap": "22027"
+	"cap": [
+		"22027"
+	]
 }

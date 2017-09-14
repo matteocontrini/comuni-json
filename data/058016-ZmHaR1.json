@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "B576",
-	"cap": "00060"
+	"cap": [
+		"00060"
+	]
 }

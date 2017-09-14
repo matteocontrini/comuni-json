@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "E927",
-	"cap": "02020"
+	"cap": [
+		"02020"
+	]
 }

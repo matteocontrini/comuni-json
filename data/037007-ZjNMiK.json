@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "B044",
-	"cap": "40021"
+	"cap": [
+		"40021"
+	]
 }

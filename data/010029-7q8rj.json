@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "E519",
-	"cap": "16040"
+	"cap": [
+		"16040"
+	]
 }

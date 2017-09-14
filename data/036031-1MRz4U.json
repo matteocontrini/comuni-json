@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "G649",
-	"cap": "41027"
+	"cap": [
+		"41027"
+	]
 }

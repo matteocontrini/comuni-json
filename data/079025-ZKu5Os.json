@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "C472",
-	"cap": "88067"
+	"cap": [
+		"88067"
+	]
 }

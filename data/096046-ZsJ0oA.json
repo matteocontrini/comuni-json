@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G798",
-	"cap": "13814"
+	"cap": [
+		"13814"
+	]
 }

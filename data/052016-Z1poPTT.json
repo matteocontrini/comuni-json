@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "F598",
-	"cap": "53035"
+	"cap": [
+		"53035"
+	]
 }

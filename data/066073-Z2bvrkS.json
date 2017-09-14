@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G766",
-	"cap": "67026"
+	"cap": [
+		"67026"
+	]
 }

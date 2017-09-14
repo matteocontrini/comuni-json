@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G087",
-	"cap": "10043"
+	"cap": [
+		"10043"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "H661",
-	"cap": "08010"
+	"cap": [
+		"08010"
+	]
 }

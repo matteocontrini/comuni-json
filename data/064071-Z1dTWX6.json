@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "G519",
-	"cap": "83010"
+	"cap": [
+		"83010"
+	]
 }

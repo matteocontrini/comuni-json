@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "D214",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

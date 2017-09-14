@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "B326",
-	"cap": "21031"
+	"cap": [
+		"21031"
+	]
 }

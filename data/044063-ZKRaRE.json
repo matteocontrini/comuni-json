@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "H321",
-	"cap": "63065"
+	"cap": [
+		"63065"
+	]
 }

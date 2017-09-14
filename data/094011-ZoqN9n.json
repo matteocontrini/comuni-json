@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C247",
-	"cap": "86090"
+	"cap": [
+		"86090"
+	]
 }

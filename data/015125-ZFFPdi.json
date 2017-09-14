@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "E639",
-	"cap": "20085"
+	"cap": [
+		"20085"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G316",
-	"cap": "20090"
+	"cap": [
+		"20090"
+	]
 }

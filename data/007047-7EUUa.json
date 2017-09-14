@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "G012",
-	"cap": "11010"
+	"cap": [
+		"11010"
+	]
 }

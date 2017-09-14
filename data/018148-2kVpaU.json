@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I599",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

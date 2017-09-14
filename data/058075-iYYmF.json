@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "G293",
-	"cap": "00018"
+	"cap": [
+		"00018"
+	]
 }

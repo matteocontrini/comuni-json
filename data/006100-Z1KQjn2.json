@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F365",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

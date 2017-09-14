@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G623",
-	"cap": "85010"
+	"cap": [
+		"85010"
+	]
 }

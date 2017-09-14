@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E597",
-	"cap": "12015"
+	"cap": [
+		"12015"
+	]
 }

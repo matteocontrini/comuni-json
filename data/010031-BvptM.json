@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "E737",
-	"cap": "16024"
+	"cap": [
+		"16024"
+	]
 }

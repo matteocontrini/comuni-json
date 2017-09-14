@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "H754",
-	"cap": "38059"
+	"cap": [
+		"38059"
+	]
 }

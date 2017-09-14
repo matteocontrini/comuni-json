@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "F861",
-	"cap": "37024"
+	"cap": [
+		"37024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "A096",
-	"cap": "20886"
+	"cap": [
+		"20886"
+	]
 }

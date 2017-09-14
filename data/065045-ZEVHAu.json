@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C973",
-	"cap": "84020"
+	"cap": [
+		"84020"
+	]
 }

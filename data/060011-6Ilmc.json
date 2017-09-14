@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A486",
-	"cap": "03042"
+	"cap": [
+		"03042"
+	]
 }

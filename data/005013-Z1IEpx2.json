@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B376",
-	"cap": "14042"
+	"cap": [
+		"14042"
+	]
 }

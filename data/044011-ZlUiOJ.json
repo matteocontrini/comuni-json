@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "C093",
-	"cap": "63082"
+	"cap": [
+		"63082"
+	]
 }

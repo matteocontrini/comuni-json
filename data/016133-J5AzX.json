@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E987",
-	"cap": "24057"
+	"cap": [
+		"24057"
+	]
 }

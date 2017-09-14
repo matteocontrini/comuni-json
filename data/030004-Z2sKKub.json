@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A346",
-	"cap": "33051"
+	"cap": [
+		"33051"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F512",
-	"cap": "83030"
+	"cap": [
+		"83030"
+	]
 }

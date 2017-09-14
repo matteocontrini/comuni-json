@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "E160",
-	"cap": "02045"
+	"cap": [
+		"02045"
+	]
 }

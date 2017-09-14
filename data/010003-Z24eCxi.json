@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "A658",
-	"cap": "16021"
+	"cap": [
+		"16021"
+	]
 }

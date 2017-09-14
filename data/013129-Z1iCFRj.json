@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E607",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

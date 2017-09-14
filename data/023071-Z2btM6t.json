@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H924",
-	"cap": "37057"
+	"cap": [
+		"37057"
+	]
 }

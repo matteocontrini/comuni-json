@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "I110",
-	"cap": "40018"
+	"cap": [
+		"40018"
+	]
 }

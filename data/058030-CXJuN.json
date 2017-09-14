@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C677",
-	"cap": "00020"
+	"cap": [
+		"00020"
+	]
 }

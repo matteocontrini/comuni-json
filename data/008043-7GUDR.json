@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G660",
-	"cap": "18037"
+	"cap": [
+		"18037"
+	]
 }

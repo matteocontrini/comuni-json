@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "H516",
-	"cap": "89841"
+	"cap": [
+		"89841"
+	]
 }

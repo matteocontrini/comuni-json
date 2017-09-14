@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "H729",
-	"cap": "73050"
+	"cap": [
+		"73050"
+	]
 }

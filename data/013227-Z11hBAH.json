@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L470",
-	"cap": "22078"
+	"cap": [
+		"22078"
+	]
 }

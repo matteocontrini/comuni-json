@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C317",
-	"cap": "12053"
+	"cap": [
+		"12053"
+	]
 }

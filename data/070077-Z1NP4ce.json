@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "L069",
-	"cap": "86030"
+	"cap": [
+		"86030"
+	]
 }

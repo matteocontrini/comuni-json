@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "F845",
-	"cap": "92028"
+	"cap": [
+		"92028"
+	]
 }

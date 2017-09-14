@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H522",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

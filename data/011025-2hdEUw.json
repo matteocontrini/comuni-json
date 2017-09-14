@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "H461",
-	"cap": "19020"
+	"cap": [
+		"19020"
+	]
 }

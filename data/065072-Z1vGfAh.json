@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F480",
-	"cap": "84090"
+	"cap": [
+		"84090"
+	]
 }

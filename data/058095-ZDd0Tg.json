@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "H942",
-	"cap": "00010"
+	"cap": [
+		"00010"
+	]
 }

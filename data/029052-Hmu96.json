@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "G926",
-	"cap": "45014"
+	"cap": [
+		"45014"
+	]
 }

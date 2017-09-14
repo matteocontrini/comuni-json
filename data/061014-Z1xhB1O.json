@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B704",
-	"cap": "81014"
+	"cap": [
+		"81014"
+	]
 }

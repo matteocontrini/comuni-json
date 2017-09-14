@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G927",
-	"cap": "13833"
+	"cap": [
+		"13833"
+	]
 }

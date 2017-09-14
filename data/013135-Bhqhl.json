@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E735",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

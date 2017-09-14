@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A960",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

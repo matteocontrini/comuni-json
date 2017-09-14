@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "D228",
-	"cap": "81040"
+	"cap": [
+		"81040"
+	]
 }

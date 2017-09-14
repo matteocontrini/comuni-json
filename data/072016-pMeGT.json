@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "B998",
-	"cap": "70020"
+	"cap": [
+		"70020"
+	]
 }

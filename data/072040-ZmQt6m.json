@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "I053",
-	"cap": "70028"
+	"cap": [
+		"70028"
+	]
 }

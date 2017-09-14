@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "I405",
-	"cap": "33030"
+	"cap": [
+		"33030"
+	]
 }

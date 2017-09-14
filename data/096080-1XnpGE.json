@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "M098",
-	"cap": "13886"
+	"cap": [
+		"13886"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L727",
-	"cap": "10078"
+	"cap": [
+		"10078"
+	]
 }

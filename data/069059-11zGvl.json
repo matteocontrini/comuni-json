@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "G237",
-	"cap": "66020"
+	"cap": [
+		"66020"
+	]
 }

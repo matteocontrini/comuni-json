@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "G119",
-	"cap": "08028"
+	"cap": [
+		"08028"
+	]
 }

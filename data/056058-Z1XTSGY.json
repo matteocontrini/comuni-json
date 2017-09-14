@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L882",
-	"cap": "01039"
+	"cap": [
+		"01039"
+	]
 }

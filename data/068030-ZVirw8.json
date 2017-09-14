@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "G555",
-	"cap": "65019"
+	"cap": [
+		"65019"
+	]
 }

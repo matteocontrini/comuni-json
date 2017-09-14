@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L027",
-	"cap": "15070"
+	"cap": [
+		"15070"
+	]
 }

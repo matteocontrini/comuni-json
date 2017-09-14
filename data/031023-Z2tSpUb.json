@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "I939",
-	"cap": "34079"
+	"cap": [
+		"34079"
+	]
 }

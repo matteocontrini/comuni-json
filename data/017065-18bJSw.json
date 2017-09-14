@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D251",
-	"cap": "25047"
+	"cap": [
+		"25047"
+	]
 }

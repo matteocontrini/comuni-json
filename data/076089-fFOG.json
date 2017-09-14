@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L181",
-	"cap": "85050"
+	"cap": [
+		"85050"
+	]
 }

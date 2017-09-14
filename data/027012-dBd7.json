@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "D325",
-	"cap": "30031"
+	"cap": [
+		"30031"
+	]
 }

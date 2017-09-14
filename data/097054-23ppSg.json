@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F674",
-	"cap": "23876"
+	"cap": [
+		"23876"
+	]
 }

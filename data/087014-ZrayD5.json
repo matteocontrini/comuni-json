@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "C297",
-	"cap": "95012"
+	"cap": [
+		"95012"
+	]
 }

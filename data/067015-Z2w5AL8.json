@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C449",
-	"cap": "64036"
+	"cap": [
+		"64036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "H678",
-	"cap": "40010"
+	"cap": [
+		"40010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "H122",
-	"cap": "42020"
+	"cap": [
+		"42020"
+	]
 }

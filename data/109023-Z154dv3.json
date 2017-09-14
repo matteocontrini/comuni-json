@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F626",
-	"cap": "63815"
+	"cap": [
+		"63815"
+	]
 }

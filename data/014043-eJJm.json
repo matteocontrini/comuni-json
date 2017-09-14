@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "F153",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

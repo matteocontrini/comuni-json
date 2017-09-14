@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B902",
-	"cap": "15052"
+	"cap": [
+		"15052"
+	]
 }

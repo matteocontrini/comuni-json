@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "E504",
-	"cap": "20824"
+	"cap": [
+		"20824"
+	]
 }

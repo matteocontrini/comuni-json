@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F120",
-	"cap": "22017"
+	"cap": [
+		"22017"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "G297",
-	"cap": "37050"
+	"cap": [
+		"37050"
+	]
 }

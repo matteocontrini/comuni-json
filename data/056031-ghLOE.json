@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "E330",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

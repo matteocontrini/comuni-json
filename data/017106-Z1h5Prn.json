@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E967",
-	"cap": "25054"
+	"cap": [
+		"25054"
+	]
 }

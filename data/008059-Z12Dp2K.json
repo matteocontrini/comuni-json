@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L024",
-	"cap": "18018"
+	"cap": [
+		"18018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "A354",
-	"cap": "33090"
+	"cap": [
+		"33090"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "G780",
-	"cap": "33070"
+	"cap": [
+		"33070"
+	]
 }

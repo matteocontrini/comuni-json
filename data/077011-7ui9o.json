@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "E147",
-	"cap": "75014"
+	"cap": [
+		"75014"
+	]
 }

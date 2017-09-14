@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "L298",
-	"cap": "16029"
+	"cap": [
+		"16029"
+	]
 }

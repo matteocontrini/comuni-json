@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "H632",
-	"cap": "73049"
+	"cap": [
+		"73049"
+	]
 }

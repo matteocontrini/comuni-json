@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "H302",
-	"cap": "48025"
+	"cap": [
+		"48025"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "A988",
-	"cap": "42022"
+	"cap": [
+		"42022"
+	]
 }

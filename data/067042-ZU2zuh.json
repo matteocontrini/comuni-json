@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "L207",
-	"cap": "64010"
+	"cap": [
+		"64010"
+	]
 }

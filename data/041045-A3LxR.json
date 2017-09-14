@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "G514",
-	"cap": "61020"
+	"cap": [
+		"61020"
+	]
 }

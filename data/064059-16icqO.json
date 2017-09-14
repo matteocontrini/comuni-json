@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F566",
-	"cap": "83038"
+	"cap": [
+		"83038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "A014",
-	"cap": "97011"
+	"cap": [
+		"97011"
+	]
 }

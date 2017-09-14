@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "E715",
-	"cap": "55100"
+	"cap": [
+		"55100"
+	]
 }

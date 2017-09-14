@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E111",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

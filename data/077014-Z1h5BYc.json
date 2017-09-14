@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "F052",
-	"cap": "75100"
+	"cap": [
+		"75100"
+	]
 }

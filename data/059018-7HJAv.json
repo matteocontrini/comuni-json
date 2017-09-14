@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "G871",
-	"cap": "04027"
+	"cap": [
+		"04027"
+	]
 }

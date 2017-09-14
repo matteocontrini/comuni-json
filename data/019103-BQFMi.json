@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I935",
-	"cap": "26049"
+	"cap": [
+		"26049"
+	]
 }

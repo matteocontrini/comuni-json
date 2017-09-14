@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A745",
-	"cap": "23822"
+	"cap": [
+		"23822"
+	]
 }

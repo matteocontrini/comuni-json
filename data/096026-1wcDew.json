@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "D848",
-	"cap": "13894"
+	"cap": [
+		"13894"
+	]
 }

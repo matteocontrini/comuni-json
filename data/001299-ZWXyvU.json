@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L898",
-	"cap": "10067"
+	"cap": [
+		"10067"
+	]
 }

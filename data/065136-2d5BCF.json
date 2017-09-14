@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I451",
-	"cap": "84038"
+	"cap": [
+		"84038"
+	]
 }

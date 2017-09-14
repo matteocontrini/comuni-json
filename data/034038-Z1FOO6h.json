@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "E548",
-	"cap": "43040"
+	"cap": [
+		"43040"
+	]
 }

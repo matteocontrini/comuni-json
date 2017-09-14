@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G796",
-	"cap": "84068"
+	"cap": [
+		"84068"
+	]
 }

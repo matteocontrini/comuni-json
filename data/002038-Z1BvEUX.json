@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "C450",
-	"cap": "13024"
+	"cap": [
+		"13024"
+	]
 }

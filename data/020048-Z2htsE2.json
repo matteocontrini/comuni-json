@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "H218",
-	"cap": "46010"
+	"cap": [
+		"46010"
+	]
 }

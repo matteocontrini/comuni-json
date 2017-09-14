@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D291",
-	"cap": "12055"
+	"cap": [
+		"12055"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "A296",
-	"cap": "35022"
+	"cap": [
+		"35022"
+	]
 }

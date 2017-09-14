@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "H366",
-	"cap": "14018"
+	"cap": [
+		"14018"
+	]
 }

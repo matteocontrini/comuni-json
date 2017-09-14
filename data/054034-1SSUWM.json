@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F911",
-	"cap": "06025"
+	"cap": [
+		"06025"
+	]
 }

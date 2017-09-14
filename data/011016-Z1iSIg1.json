@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "E542",
-	"cap": "19032"
+	"cap": [
+		"19032"
+	]
 }

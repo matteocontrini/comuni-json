@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "L844",
-	"cap": "81039"
+	"cap": [
+		"81039"
+	]
 }

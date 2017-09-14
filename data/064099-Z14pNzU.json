@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "I630",
-	"cap": "83028"
+	"cap": [
+		"83028"
+	]
 }

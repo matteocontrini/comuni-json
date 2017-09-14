@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D086",
-	"cap": "87100"
+	"cap": [
+		"87100"
+	]
 }

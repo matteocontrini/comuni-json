@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "M338",
-	"cap": "27056"
+	"cap": [
+		"27056"
+	]
 }

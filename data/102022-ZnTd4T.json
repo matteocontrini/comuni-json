@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "F364",
-	"cap": "89823"
+	"cap": [
+		"89823"
+	]
 }

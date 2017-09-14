@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "E842",
-	"cap": "19010"
+	"cap": [
+		"19010"
+	]
 }

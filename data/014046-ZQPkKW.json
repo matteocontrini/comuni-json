@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "F956",
-	"cap": "23025"
+	"cap": [
+		"23025"
+	]
 }

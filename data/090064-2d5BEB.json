@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "I452",
-	"cap": "07100"
+	"cap": [
+		"07100"
+	]
 }

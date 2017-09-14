@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "C405",
-	"cap": "42025"
+	"cap": [
+		"42025"
+	]
 }

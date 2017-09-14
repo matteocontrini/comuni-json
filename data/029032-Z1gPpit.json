@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "F095",
-	"cap": "45037"
+	"cap": [
+		"45037"
+	]
 }

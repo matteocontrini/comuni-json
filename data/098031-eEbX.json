@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "E648",
-	"cap": "26900"
+	"cap": [
+		"26900"
+	]
 }

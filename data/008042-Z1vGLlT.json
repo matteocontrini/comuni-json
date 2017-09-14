@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G632",
-	"cap": "18026"
+	"cap": [
+		"18026"
+	]
 }

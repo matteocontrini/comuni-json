@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "H446",
-	"cap": "02026"
+	"cap": [
+		"02026"
+	]
 }

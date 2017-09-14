@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "F475",
-	"cap": "86032"
+	"cap": [
+		"86032"
+	]
 }

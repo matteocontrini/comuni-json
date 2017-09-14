@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G805",
-	"cap": "10063"
+	"cap": [
+		"10063"
+	]
 }

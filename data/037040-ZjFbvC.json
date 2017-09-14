@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "F363",
-	"cap": "40063"
+	"cap": [
+		"40063"
+	]
 }

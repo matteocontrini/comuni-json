@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "G429",
-	"cap": "38079"
+	"cap": [
+		"38079"
+	]
 }

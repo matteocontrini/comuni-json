@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "L710",
-	"cap": "35030"
+	"cap": [
+		"35030"
+	]
 }

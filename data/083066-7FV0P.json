@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "G377",
-	"cap": "98066"
+	"cap": [
+		"98066"
+	]
 }

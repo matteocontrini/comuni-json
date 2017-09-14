@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "M183",
-	"cap": "41059"
+	"cap": [
+		"41059"
+	]
 }

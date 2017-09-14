@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I869",
-	"cap": "24039"
+	"cap": [
+		"24039"
+	]
 }

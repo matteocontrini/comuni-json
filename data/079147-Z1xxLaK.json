@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "L177",
-	"cap": "88056"
+	"cap": [
+		"88056"
+	]
 }

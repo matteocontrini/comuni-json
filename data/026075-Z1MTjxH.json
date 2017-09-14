@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "I221",
-	"cap": "31025"
+	"cap": [
+		"31025"
+	]
 }

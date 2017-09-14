@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E571",
-	"cap": "98064"
+	"cap": [
+		"98064"
+	]
 }

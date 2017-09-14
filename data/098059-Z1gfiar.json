@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "L572",
-	"cap": "26859"
+	"cap": [
+		"26859"
+	]
 }

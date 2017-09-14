@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L738",
-	"cap": "85029"
+	"cap": [
+		"85029"
+	]
 }

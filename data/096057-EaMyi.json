@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "H681",
-	"cap": "13884"
+	"cap": [
+		"13884"
+	]
 }

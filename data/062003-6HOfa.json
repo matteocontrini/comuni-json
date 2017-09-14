@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "A328",
-	"cap": "82021"
+	"cap": [
+		"82021"
+	]
 }

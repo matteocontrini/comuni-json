@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "G775",
-	"cap": "28076"
+	"cap": [
+		"28076"
+	]
 }

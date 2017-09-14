@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "H311",
-	"cap": "86040"
+	"cap": [
+		"86040"
+	]
 }

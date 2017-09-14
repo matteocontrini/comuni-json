@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "D843",
-	"cap": "04024"
+	"cap": [
+		"04024"
+	]
 }

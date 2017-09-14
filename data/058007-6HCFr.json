@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "A323",
-	"cap": "00042"
+	"cap": [
+		"00042"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "G913",
-	"cap": "16034"
+	"cap": [
+		"16034"
+	]
 }

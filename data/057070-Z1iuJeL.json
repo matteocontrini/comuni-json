@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "L286",
-	"cap": "02049"
+	"cap": [
+		"02049"
+	]
 }

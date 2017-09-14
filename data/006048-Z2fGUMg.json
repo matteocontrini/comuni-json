@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C156",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

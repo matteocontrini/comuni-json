@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "I314",
-	"cap": "95010"
+	"cap": [
+		"95010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "C002",
-	"cap": "87011"
+	"cap": [
+		"87011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "A777",
-	"cap": "23010"
+	"cap": [
+		"23010"
+	]
 }

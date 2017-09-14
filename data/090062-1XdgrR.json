@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "H848",
-	"cap": "07020"
+	"cap": [
+		"07020"
+	]
 }

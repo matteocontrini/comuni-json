@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F281",
-	"cap": "15074"
+	"cap": [
+		"15074"
+	]
 }

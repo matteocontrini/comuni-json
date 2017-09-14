@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B212",
-	"cap": "20861"
+	"cap": [
+		"20861"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I367",
-	"cap": "12058"
+	"cap": [
+		"12058"
+	]
 }

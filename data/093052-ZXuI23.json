@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "M265",
-	"cap": "33080"
+	"cap": [
+		"33080"
+	]
 }

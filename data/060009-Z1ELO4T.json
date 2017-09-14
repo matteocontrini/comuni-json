@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A421",
-	"cap": "03020"
+	"cap": [
+		"03020"
+	]
 }

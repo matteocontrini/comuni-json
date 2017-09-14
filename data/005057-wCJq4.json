@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "E159",
-	"cap": "14035"
+	"cap": [
+		"14035"
+	]
 }

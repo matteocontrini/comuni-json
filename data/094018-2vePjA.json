@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C941",
-	"cap": "86070"
+	"cap": [
+		"86070"
+	]
 }

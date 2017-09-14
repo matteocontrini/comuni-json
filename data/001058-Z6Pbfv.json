@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B777",
-	"cap": "10041"
+	"cap": [
+		"10041"
+	]
 }

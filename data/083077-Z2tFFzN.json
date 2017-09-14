@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H842",
-	"cap": "98044"
+	"cap": [
+		"98044"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "I224",
-	"cap": "92018"
+	"cap": [
+		"92018"
+	]
 }

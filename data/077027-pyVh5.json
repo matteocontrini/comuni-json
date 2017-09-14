@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "I954",
-	"cap": "75018"
+	"cap": [
+		"75018"
+	]
 }

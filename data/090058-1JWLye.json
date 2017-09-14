@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G924",
-	"cap": "07046"
+	"cap": [
+		"07046"
+	]
 }

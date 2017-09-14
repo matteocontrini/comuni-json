@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "E082",
-	"cap": "26020"
+	"cap": [
+		"26020"
+	]
 }

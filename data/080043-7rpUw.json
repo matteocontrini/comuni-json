@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "D976",
-	"cap": "89044"
+	"cap": [
+		"89044"
+	]
 }

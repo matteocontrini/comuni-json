@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B118",
-	"cap": "89036"
+	"cap": [
+		"89036"
+	]
 }

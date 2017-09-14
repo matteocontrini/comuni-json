@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "L259",
-	"cap": "80059"
+	"cap": [
+		"80059"
+	]
 }

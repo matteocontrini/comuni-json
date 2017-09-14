@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "B979",
-	"cap": "54014"
+	"cap": [
+		"54014"
+	]
 }

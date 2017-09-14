@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "C091",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

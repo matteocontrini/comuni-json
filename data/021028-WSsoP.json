@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D311",
-	"cap": "39034"
+	"cap": [
+		"39034"
+	]
 }

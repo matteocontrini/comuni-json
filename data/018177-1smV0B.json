@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L872",
-	"cap": "27029"
+	"cap": [
+		"27029"
+	]
 }

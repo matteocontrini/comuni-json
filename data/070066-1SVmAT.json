@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "H920",
-	"cap": "86010"
+	"cap": [
+		"86010"
+	]
 }

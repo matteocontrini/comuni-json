@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E851",
-	"cap": "25053"
+	"cap": [
+		"25053"
+	]
 }

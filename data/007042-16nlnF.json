@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "E587",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "E356",
-	"cap": "26031"
+	"cap": [
+		"26031"
+	]
 }

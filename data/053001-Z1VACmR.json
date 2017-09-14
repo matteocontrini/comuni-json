@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "A369",
-	"cap": "58031"
+	"cap": [
+		"58031"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C900",
-	"cap": "00030"
+	"cap": [
+		"00030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G542",
-	"cap": "17058"
+	"cap": [
+		"17058"
+	]
 }

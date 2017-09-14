@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F500",
-	"cap": "64030"
+	"cap": [
+		"64030"
+	]
 }

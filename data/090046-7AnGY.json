@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "F977",
-	"cap": "07032"
+	"cap": [
+		"07032"
+	]
 }

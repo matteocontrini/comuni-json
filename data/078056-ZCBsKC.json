@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D764",
-	"cap": "87072"
+	"cap": [
+		"87072"
+	]
 }

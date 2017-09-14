@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "E695",
-	"cap": "16045"
+	"cap": [
+		"16045"
+	]
 }

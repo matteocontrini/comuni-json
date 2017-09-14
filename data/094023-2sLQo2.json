@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "E335",
-	"cap": "86170"
+	"cap": [
+		"86170"
+	]
 }

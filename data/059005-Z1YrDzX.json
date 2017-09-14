@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "C740",
-	"cap": "04012"
+	"cap": [
+		"04012"
+	]
 }

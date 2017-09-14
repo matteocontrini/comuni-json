@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "H324",
-	"cap": "03027"
+	"cap": [
+		"03027"
+	]
 }

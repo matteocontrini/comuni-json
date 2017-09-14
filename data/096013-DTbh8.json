@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "B708",
-	"cap": "13864"
+	"cap": [
+		"13864"
+	]
 }

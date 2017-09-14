@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D304",
-	"cap": "87045"
+	"cap": [
+		"87045"
+	]
 }

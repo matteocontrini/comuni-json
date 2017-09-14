@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "D884",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

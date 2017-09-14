@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "L897",
-	"cap": "29020"
+	"cap": [
+		"29020"
+	]
 }

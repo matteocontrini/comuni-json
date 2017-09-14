@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A491",
-	"cap": "33040"
+	"cap": [
+		"33040"
+	]
 }

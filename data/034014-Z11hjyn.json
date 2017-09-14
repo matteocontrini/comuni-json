@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "B034",
-	"cap": "43036"
+	"cap": [
+		"43036"
+	]
 }

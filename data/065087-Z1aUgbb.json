@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G226",
-	"cap": "84034"
+	"cap": [
+		"84034"
+	]
 }

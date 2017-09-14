@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E333",
-	"cap": "25049"
+	"cap": [
+		"25049"
+	]
 }

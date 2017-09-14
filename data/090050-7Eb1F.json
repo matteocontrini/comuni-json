@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G156",
-	"cap": "07033"
+	"cap": [
+		"07033"
+	]
 }

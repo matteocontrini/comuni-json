@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "L245",
-	"cap": "80058"
+	"cap": [
+		"80058"
+	]
 }

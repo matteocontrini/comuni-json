@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I261",
-	"cap": "81050"
+	"cap": [
+		"81050"
+	]
 }

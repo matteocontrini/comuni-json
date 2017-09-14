@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "F442",
-	"cap": "36054"
+	"cap": [
+		"36054"
+	]
 }

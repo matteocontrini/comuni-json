@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F221",
-	"cap": "73027"
+	"cap": [
+		"73027"
+	]
 }

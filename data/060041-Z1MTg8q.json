@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "E057",
-	"cap": "03020"
+	"cap": [
+		"03020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "I522",
-	"cap": "06027"
+	"cap": [
+		"06027"
+	]
 }

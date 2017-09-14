@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "D339",
-	"cap": "13893"
+	"cap": [
+		"13893"
+	]
 }

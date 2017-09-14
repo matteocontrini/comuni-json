@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "L846",
-	"cap": "65010"
+	"cap": [
+		"65010"
+	]
 }

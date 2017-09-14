@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G307",
-	"cap": "87050"
+	"cap": [
+		"87050"
+	]
 }

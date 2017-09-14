@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "M288",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

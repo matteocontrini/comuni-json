@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "E958",
-	"cap": "00047"
+	"cap": [
+		"00047"
+	]
 }

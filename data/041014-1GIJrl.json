@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "D541",
-	"cap": "61033"
+	"cap": [
+		"61033"
+	]
 }

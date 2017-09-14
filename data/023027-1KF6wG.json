@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "C890",
-	"cap": "37044"
+	"cap": [
+		"37044"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "F437",
-	"cap": "58019"
+	"cap": [
+		"58019"
+	]
 }

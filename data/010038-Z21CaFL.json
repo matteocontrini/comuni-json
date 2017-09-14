@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F445",
-	"cap": "16025"
+	"cap": [
+		"16025"
+	]
 }

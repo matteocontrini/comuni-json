@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "G520",
-	"cap": "28028"
+	"cap": [
+		"28028"
+	]
 }

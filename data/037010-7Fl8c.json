@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "B572",
-	"cap": "40032"
+	"cap": [
+		"40032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "M214",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

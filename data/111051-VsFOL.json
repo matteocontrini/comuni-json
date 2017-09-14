@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "G133",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

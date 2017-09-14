@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "I496",
-	"cap": "42019"
+	"cap": [
+		"42019"
+	]
 }

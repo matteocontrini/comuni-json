@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "F301",
-	"cap": "89010"
+	"cap": [
+		"89010"
+	]
 }

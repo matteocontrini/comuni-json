@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "I138",
-	"cap": "18038"
+	"cap": [
+		"18038"
+	]
 }

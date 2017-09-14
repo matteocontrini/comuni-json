@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "I644",
-	"cap": "93010"
+	"cap": [
+		"93010"
+	]
 }

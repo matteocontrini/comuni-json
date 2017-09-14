@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "L776",
-	"cap": "73029"
+	"cap": [
+		"73029"
+	]
 }

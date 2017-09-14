@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A206",
-	"cap": "32022"
+	"cap": [
+		"32022"
+	]
 }

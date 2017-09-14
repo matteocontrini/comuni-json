@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "B293",
-	"cap": "43011"
+	"cap": [
+		"43011"
+	]
 }

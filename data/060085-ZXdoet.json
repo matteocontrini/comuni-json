@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "L780",
-	"cap": "03029"
+	"cap": [
+		"03029"
+	]
 }

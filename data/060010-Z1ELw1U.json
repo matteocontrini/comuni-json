@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A433",
-	"cap": "03033"
+	"cap": [
+		"03033"
+	]
 }

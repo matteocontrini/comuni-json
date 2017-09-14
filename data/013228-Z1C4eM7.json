@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L487",
-	"cap": "22029"
+	"cap": [
+		"22029"
+	]
 }

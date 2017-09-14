@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A447",
-	"cap": "33022"
+	"cap": [
+		"33022"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "F027",
-	"cap": "74016"
+	"cap": [
+		"74016"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "H357",
-	"cap": "26027"
+	"cap": [
+		"26027"
+	]
 }

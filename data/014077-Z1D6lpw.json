@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L907",
-	"cap": "23029"
+	"cap": [
+		"23029"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D156",
-	"cap": "36070"
+	"cap": [
+		"36070"
+	]
 }

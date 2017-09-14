@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "B539",
-	"cap": "41011"
+	"cap": [
+		"41011"
+	]
 }

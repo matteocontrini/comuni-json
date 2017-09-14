@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "I337",
-	"cap": "13048"
+	"cap": [
+		"13048"
+	]
 }

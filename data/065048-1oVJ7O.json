@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "D011",
-	"cap": "84020"
+	"cap": [
+		"84020"
+	]
 }

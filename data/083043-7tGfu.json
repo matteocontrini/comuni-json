@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E855",
-	"cap": "98050"
+	"cap": [
+		"98050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E403",
-	"cap": "36010"
+	"cap": [
+		"36010"
+	]
 }

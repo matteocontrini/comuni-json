@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "L709",
-	"cap": "20837"
+	"cap": [
+		"20837"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "G028",
-	"cap": "21057"
+	"cap": [
+		"21057"
+	]
 }

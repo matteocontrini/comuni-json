@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B996",
-	"cap": "23893"
+	"cap": [
+		"23893"
+	]
 }

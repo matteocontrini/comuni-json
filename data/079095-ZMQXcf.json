@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "G518",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

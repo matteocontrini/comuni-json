@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H423",
-	"cap": "81035"
+	"cap": [
+		"81035"
+	]
 }

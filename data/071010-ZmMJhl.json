@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "B724",
-	"cap": "71041"
+	"cap": [
+		"71041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "M371",
-	"cap": "13853"
+	"cap": [
+		"13853"
+	]
 }

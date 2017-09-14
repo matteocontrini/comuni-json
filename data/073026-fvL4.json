@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "I467",
-	"cap": "74028"
+	"cap": [
+		"74028"
+	]
 }

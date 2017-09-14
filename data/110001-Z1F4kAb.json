@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "A285",
-	"cap": "76123"
+	"cap": [
+		"76123"
+	]
 }

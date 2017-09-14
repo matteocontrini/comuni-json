@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D918",
-	"cap": "25063"
+	"cap": [
+		"25063"
+	]
 }

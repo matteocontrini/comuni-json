@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E043",
-	"cap": "98063"
+	"cap": [
+		"98063"
+	]
 }

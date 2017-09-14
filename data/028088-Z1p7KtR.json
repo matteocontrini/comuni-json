@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "I938",
-	"cap": "35048"
+	"cap": [
+		"35048"
+	]
 }

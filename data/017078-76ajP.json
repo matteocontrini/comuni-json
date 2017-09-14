@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D999",
-	"cap": "25016"
+	"cap": [
+		"25016"
+	]
 }

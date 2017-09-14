@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "E466",
-	"cap": "50055"
+	"cap": [
+		"50055"
+	]
 }

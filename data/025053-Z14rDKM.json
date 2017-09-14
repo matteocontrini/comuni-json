@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I563",
-	"cap": "32036"
+	"cap": [
+		"32036"
+	]
 }

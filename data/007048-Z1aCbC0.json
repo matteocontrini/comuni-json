@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "G459",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

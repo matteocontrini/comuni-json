@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L065",
-	"cap": "33010"
+	"cap": [
+		"33010"
+	]
 }

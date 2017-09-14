@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "E246",
-	"cap": "85010"
+	"cap": [
+		"85010"
+	]
 }

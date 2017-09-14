@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "A403",
-	"cap": "81021"
+	"cap": [
+		"81021"
+	]
 }

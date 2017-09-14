@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "D708",
-	"cap": "04023"
+	"cap": [
+		"04023"
+	]
 }

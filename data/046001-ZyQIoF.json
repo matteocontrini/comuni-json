@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "A241",
-	"cap": "55011"
+	"cap": [
+		"55011"
+	]
 }

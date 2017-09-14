@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G964",
-	"cap": "80078"
+	"cap": [
+		"80078"
+	]
 }

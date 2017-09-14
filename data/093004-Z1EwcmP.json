@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "A516",
-	"cap": "33081"
+	"cap": [
+		"33081"
+	]
 }

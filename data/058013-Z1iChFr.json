@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "B114",
-	"cap": "00062"
+	"cap": [
+		"00062"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "L986",
-	"cap": "09020"
+	"cap": [
+		"09020"
+	]
 }

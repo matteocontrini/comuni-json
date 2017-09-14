@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "H304",
-	"cap": "19017"
+	"cap": [
+		"19017"
+	]
 }

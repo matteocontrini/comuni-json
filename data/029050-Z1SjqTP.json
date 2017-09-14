@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "L985",
-	"cap": "45020"
+	"cap": [
+		"45020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PO",
 	"codiceCatastale": "F572",
-	"cap": "59013"
+	"cap": [
+		"59013"
+	]
 }

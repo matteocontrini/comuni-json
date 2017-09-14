@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M353",
-	"cap": "38079"
+	"cap": [
+		"38079"
+	]
 }

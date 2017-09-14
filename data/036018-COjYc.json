@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "E426",
-	"cap": "41023"
+	"cap": [
+		"41023"
+	]
 }

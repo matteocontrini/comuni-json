@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "C383",
-	"cap": "30014"
+	"cap": [
+		"30014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "A474",
-	"cap": "09032"
+	"cap": [
+		"09032"
+	]
 }

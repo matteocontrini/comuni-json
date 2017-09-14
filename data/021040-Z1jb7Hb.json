@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E421",
-	"cap": "39055"
+	"cap": [
+		"39055"
+	]
 }

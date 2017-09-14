@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I932",
-	"cap": "60039"
+	"cap": [
+		"60039"
+	]
 }

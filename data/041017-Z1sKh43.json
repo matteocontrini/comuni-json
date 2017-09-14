@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "D807",
-	"cap": "61021"
+	"cap": [
+		"61021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "M018",
-	"cap": "89018"
+	"cap": [
+		"89018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "G432",
-	"cap": "05028"
+	"cap": [
+		"05028"
+	]
 }

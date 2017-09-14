@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "F030",
-	"cap": "80061"
+	"cap": [
+		"80061"
+	]
 }

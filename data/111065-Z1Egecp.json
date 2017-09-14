@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I166",
-	"cap": "09026"
+	"cap": [
+		"09026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "E402",
-	"cap": "89050"
+	"cap": [
+		"89050"
+	]
 }

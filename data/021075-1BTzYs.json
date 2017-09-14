@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "H475",
-	"cap": "39037"
+	"cap": [
+		"39037"
+	]
 }

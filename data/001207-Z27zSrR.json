@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G997",
-	"cap": "10080"
+	"cap": [
+		"10080"
+	]
 }

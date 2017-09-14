@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "B016",
-	"cap": "28071"
+	"cap": [
+		"28071"
+	]
 }

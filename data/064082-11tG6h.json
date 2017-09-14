@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "H975",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

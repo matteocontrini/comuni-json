@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F889",
-	"cap": "10042"
+	"cap": [
+		"10042"
+	]
 }

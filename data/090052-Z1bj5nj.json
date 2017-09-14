@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G203",
-	"cap": "07014"
+	"cap": [
+		"07014"
+	]
 }

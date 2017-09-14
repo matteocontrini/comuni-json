@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B836",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

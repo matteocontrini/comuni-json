@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "H245",
-	"cap": "93010"
+	"cap": [
+		"93010"
+	]
 }

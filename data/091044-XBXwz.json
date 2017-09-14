@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E788",
-	"cap": "08015"
+	"cap": [
+		"08015"
+	]
 }

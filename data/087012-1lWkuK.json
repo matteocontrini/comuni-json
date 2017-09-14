@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "B561",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

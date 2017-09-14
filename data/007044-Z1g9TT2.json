@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "F726",
-	"cap": "11017"
+	"cap": [
+		"11017"
+	]
 }

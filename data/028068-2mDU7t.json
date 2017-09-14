@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "G850",
-	"cap": "35029"
+	"cap": [
+		"35029"
+	]
 }

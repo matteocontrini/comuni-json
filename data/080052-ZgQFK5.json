@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "F324",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

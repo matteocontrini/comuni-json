@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "M096",
-	"cap": "33099"
+	"cap": [
+		"33099"
+	]
 }

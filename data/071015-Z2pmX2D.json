@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "C198",
-	"cap": "71025"
+	"cap": [
+		"71025"
+	]
 }

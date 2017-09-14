@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "G771",
-	"cap": "60030"
+	"cap": [
+		"60030"
+	]
 }

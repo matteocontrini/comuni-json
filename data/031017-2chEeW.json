@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "H665",
-	"cap": "34078"
+	"cap": [
+		"34078"
+	]
 }

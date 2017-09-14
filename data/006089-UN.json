@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E712",
-	"cap": "15040"
+	"cap": [
+		"15040"
+	]
 }

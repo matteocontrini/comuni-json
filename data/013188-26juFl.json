@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G847",
-	"cap": "22037"
+	"cap": [
+		"22037"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "F579",
-	"cap": "02040"
+	"cap": [
+		"02040"
+	]
 }

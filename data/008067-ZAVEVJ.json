@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L943",
-	"cap": "18010"
+	"cap": [
+		"18010"
+	]
 }

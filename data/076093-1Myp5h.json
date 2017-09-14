@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L439",
-	"cap": "85018"
+	"cap": [
+		"85018"
+	]
 }

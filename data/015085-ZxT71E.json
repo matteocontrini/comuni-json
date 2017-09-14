@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C986",
-	"cap": "20011"
+	"cap": [
+		"20011"
+	]
 }

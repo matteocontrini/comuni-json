@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "C752",
-	"cap": "23862"
+	"cap": [
+		"23862"
+	]
 }

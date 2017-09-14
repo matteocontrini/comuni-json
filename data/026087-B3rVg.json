@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "L565",
-	"cap": "31049"
+	"cap": [
+		"31049"
+	]
 }

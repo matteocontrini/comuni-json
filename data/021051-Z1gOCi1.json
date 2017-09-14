@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "F132",
-	"cap": "39012"
+	"cap": [
+		"39012"
+	]
 }

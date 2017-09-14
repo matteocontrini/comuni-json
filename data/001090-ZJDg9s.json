@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C860",
-	"cap": "10093"
+	"cap": [
+		"10093"
+	]
 }

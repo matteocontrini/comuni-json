@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B991",
-	"cap": "14032"
+	"cap": [
+		"14032"
+	]
 }

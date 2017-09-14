@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "C509",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

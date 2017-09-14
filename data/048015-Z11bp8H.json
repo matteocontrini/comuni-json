@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "D575",
-	"cap": "50014"
+	"cap": [
+		"50014"
+	]
 }

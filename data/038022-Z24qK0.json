@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "L868",
-	"cap": "44049"
+	"cap": [
+		"44049"
+	]
 }

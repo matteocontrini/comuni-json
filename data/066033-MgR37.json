@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C492",
-	"cap": "67044"
+	"cap": [
+		"67044"
+	]
 }

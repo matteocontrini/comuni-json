@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H478",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

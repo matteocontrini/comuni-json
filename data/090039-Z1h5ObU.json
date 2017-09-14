@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "E992",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

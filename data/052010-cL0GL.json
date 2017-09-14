@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "C661",
-	"cap": "53012"
+	"cap": [
+		"53012"
+	]
 }

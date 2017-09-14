@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "B813",
-	"cap": "87050"
+	"cap": [
+		"87050"
+	]
 }

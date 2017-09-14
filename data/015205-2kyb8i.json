@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I577",
-	"cap": "20090"
+	"cap": [
+		"20090"
+	]
 }

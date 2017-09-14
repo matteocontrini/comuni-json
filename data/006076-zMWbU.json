@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D814",
-	"cap": "15043"
+	"cap": [
+		"15043"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D379",
-	"cap": "36031"
+	"cap": [
+		"36031"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "C566",
-	"cap": "20811"
+	"cap": [
+		"20811"
+	]
 }

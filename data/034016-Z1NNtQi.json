@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "D685",
-	"cap": "43010"
+	"cap": [
+		"43010"
+	]
 }

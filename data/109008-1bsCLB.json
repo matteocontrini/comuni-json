@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "E208",
-	"cap": "63844"
+	"cap": [
+		"63844"
+	]
 }

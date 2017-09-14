@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "A572",
-	"cap": "73020"
+	"cap": [
+		"73020"
+	]
 }

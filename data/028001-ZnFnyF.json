@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "A001",
-	"cap": "35031"
+	"cap": [
+		"35031"
+	]
 }

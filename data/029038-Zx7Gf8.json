@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "G836",
-	"cap": "45030"
+	"cap": [
+		"45030"
+	]
 }

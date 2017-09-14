@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G149",
-	"cap": "25034"
+	"cap": [
+		"25034"
+	]
 }

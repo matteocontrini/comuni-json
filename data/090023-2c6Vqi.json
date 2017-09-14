@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "C272",
-	"cap": "07031"
+	"cap": [
+		"07031"
+	]
 }

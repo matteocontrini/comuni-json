@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "D530",
-	"cap": "32032"
+	"cap": [
+		"32032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D476",
-	"cap": "88042"
+	"cap": [
+		"88042"
+	]
 }

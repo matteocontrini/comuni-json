@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "B436",
-	"cap": "25080"
+	"cap": [
+		"25080"
+	]
 }

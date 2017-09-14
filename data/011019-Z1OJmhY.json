@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "F609",
-	"cap": "19016"
+	"cap": [
+		"19016"
+	]
 }

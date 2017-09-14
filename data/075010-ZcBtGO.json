@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "B413",
-	"cap": "73021"
+	"cap": [
+		"73021"
+	]
 }

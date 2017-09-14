@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "I023",
-	"cap": "86027"
+	"cap": [
+		"86027"
+	]
 }

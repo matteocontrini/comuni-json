@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A571",
-	"cap": "12031"
+	"cap": [
+		"12031"
+	]
 }

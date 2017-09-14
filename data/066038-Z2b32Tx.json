@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C844",
-	"cap": "67040"
+	"cap": [
+		"67040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "E437",
-	"cap": "27015"
+	"cap": [
+		"27015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "D493",
-	"cap": "02032"
+	"cap": [
+		"02032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "H182",
-	"cap": "63831"
+	"cap": [
+		"63831"
+	]
 }

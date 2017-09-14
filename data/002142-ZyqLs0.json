@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "I984",
-	"cap": "13010"
+	"cap": [
+		"13010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B379",
-	"cap": "89050"
+	"cap": [
+		"89050"
+	]
 }

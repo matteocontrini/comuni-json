@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "I169",
-	"cap": "93018"
+	"cap": [
+		"93018"
+	]
 }

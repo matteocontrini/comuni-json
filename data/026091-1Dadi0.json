@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "M048",
-	"cap": "31020"
+	"cap": [
+		"31020"
+	]
 }

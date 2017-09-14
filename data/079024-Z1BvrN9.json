@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "C453",
-	"cap": "88067"
+	"cap": [
+		"88067"
+	]
 }

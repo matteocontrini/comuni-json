@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "A801",
-	"cap": "75012"
+	"cap": [
+		"75012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I668",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

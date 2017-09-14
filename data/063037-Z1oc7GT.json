@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E329",
-	"cap": "80077"
+	"cap": [
+		"80077"
+	]
 }

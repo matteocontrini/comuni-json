@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "B036",
-	"cap": "50032"
+	"cap": [
+		"50032"
+	]
 }

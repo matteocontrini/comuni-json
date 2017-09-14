@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H045",
-	"cap": "81050"
+	"cap": [
+		"81050"
+	]
 }

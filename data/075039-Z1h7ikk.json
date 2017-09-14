@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "E815",
-	"cap": "73024"
+	"cap": [
+		"73024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "C271",
-	"cap": "85031"
+	"cap": [
+		"85031"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "F893",
-	"cap": "89844"
+	"cap": [
+		"89844"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "H805",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

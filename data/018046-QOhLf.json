@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "C541",
-	"cap": "27012"
+	"cap": [
+		"27012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "L025",
-	"cap": "67069"
+	"cap": [
+		"67069"
+	]
 }

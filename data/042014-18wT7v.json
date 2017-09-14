@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "C615",
-	"cap": "60033"
+	"cap": [
+		"60033"
+	]
 }

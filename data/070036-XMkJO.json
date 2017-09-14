@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "E799",
-	"cap": "86030"
+	"cap": [
+		"86030"
+	]
 }

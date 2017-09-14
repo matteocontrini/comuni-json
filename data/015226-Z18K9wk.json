@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "L471",
-	"cap": "20029"
+	"cap": [
+		"20029"
+	]
 }

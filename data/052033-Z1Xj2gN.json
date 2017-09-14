@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "A468",
-	"cap": "53048"
+	"cap": [
+		"53048"
+	]
 }

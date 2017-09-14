@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D107",
-	"cap": "36030"
+	"cap": [
+		"36030"
+	]
 }

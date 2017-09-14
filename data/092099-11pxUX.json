@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "I118",
-	"cap": "09010"
+	"cap": [
+		"09010"
+	]
 }

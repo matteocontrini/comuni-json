@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "L254",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

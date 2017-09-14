@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "D867",
-	"cap": "47010"
+	"cap": [
+		"47010"
+	]
 }

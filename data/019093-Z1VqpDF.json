@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I498",
-	"cap": "26047"
+	"cap": [
+		"26047"
+	]
 }

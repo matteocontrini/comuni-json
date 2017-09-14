@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L686",
-	"cap": "33030"
+	"cap": [
+		"33030"
+	]
 }

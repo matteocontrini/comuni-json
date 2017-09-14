@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "I435",
-	"cap": "31026"
+	"cap": [
+		"31026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "B255",
-	"cap": "23010"
+	"cap": [
+		"23010"
+	]
 }

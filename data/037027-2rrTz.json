@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "D847",
-	"cap": "40041"
+	"cap": [
+		"40041"
+	]
 }

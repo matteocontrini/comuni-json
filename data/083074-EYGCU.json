@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H455",
-	"cap": "98030"
+	"cap": [
+		"98030"
+	]
 }

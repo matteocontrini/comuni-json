@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B179",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

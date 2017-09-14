@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F167",
-	"cap": "13831"
+	"cap": [
+		"13831"
+	]
 }

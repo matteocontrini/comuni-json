@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "E107",
-	"cap": "44020"
+	"cap": [
+		"44020"
+	]
 }

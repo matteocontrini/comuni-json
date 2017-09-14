@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "H365",
-	"cap": "13060"
+	"cap": [
+		"13060"
+	]
 }

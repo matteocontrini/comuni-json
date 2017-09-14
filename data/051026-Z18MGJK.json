@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "F656",
-	"cap": "52025"
+	"cap": [
+		"52025"
+	]
 }

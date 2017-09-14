@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E158",
-	"cap": "81046"
+	"cap": [
+		"81046"
+	]
 }

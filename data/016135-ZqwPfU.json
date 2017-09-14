@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "F243",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

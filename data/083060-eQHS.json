@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F848",
-	"cap": "98074"
+	"cap": [
+		"98074"
+	]
 }

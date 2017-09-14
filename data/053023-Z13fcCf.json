@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "I504",
-	"cap": "58054"
+	"cap": [
+		"58054"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B960",
-	"cap": "10072"
+	"cap": [
+		"10072"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "A264",
-	"cap": "28010"
+	"cap": [
+		"28010"
+	]
 }

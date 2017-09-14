@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C181",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "G803",
-	"cap": "60020"
+	"cap": [
+		"60020"
+	]
 }

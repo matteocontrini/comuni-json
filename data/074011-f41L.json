@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "G098",
-	"cap": "72024"
+	"cap": [
+		"72024"
+	]
 }

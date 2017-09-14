@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L785",
-	"cap": "13871"
+	"cap": [
+		"13871"
+	]
 }

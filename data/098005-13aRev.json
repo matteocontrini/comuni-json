@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "B017",
-	"cap": "26851"
+	"cap": [
+		"26851"
+	]
 }

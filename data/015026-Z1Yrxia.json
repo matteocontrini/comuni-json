@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "A920",
-	"cap": "20010"
+	"cap": [
+		"20010"
+	]
 }

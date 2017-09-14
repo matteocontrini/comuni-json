@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "G576",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

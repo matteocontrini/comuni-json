@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "B950",
-	"cap": "56021"
+	"cap": [
+		"56021"
+	]
 }

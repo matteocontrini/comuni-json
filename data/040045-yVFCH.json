@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "I472",
-	"cap": "47039"
+	"cap": [
+		"47039"
+	]
 }

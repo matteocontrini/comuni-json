@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "D552",
-	"cap": "27032"
+	"cap": [
+		"27032"
+	]
 }

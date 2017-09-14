@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M360",
-	"cap": "38087"
+	"cap": [
+		"38087"
+	]
 }

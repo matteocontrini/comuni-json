@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I995",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

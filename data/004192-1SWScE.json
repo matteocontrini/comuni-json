@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H453",
-	"cap": "12018"
+	"cap": [
+		"12018"
+	]
 }

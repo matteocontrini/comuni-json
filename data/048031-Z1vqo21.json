@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "G270",
-	"cap": "50035"
+	"cap": [
+		"50035"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "A503",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

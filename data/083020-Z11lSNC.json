@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D569",
-	"cap": "98062"
+	"cap": [
+		"98062"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "H269",
-	"cap": "92016"
+	"cap": [
+		"92016"
+	]
 }

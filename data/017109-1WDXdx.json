@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F373",
-	"cap": "25080"
+	"cap": [
+		"25080"
+	]
 }

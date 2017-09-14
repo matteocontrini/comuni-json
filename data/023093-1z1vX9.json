@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "L810",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

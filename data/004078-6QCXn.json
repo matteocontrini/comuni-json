@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D205",
-	"cap": "12100"
+	"cap": [
+		"12100"
+	]
 }

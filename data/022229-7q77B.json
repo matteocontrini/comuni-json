@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M313",
-	"cap": "38067"
+	"cap": [
+		"38067"
+	]
 }

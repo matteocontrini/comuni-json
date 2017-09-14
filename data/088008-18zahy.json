@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "G953",
-	"cap": "97016"
+	"cap": [
+		"97016"
+	]
 }

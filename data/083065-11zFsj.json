@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "G234",
-	"cap": "98020"
+	"cap": [
+		"98020"
+	]
 }

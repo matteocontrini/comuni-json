@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "H862",
-	"cap": "10065"
+	"cap": [
+		"10065"
+	]
 }

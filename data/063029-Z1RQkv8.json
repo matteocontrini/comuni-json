@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "C929",
-	"cap": "80030"
+	"cap": [
+		"80030"
+	]
 }

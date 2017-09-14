@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "B744",
-	"cap": "31030"
+	"cap": [
+		"31030"
+	]
 }

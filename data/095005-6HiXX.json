@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A204",
-	"cap": "09080"
+	"cap": [
+		"09080"
+	]
 }

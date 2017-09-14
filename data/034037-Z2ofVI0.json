@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "I845",
-	"cap": "43058"
+	"cap": [
+		"43058"
+	]
 }

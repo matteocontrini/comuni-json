@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C685",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

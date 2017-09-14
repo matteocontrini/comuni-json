@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "B159",
-	"cap": "27042"
+	"cap": [
+		"27042"
+	]
 }

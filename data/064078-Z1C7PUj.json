@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "H382",
-	"cap": "83016"
+	"cap": [
+		"83016"
+	]
 }

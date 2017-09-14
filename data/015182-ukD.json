@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "H264",
-	"cap": "20017"
+	"cap": [
+		"20017"
+	]
 }

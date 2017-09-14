@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "E971",
-	"cap": "50034"
+	"cap": [
+		"50034"
+	]
 }

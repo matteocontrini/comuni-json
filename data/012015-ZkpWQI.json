@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A891",
-	"cap": "21050"
+	"cap": [
+		"21050"
+	]
 }

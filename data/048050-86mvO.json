@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "M059",
-	"cap": "50059"
+	"cap": [
+		"50059"
+	]
 }

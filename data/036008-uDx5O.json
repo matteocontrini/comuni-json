@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "C287",
-	"cap": "41014"
+	"cap": [
+		"41014"
+	]
 }

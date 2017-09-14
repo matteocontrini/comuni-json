@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "G139",
-	"cap": "52010"
+	"cap": [
+		"52010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D143",
-	"cap": "23894"
+	"cap": [
+		"23894"
+	]
 }

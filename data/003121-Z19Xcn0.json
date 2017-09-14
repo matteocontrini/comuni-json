@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "G809",
-	"cap": "28050"
+	"cap": [
+		"28050"
+	]
 }

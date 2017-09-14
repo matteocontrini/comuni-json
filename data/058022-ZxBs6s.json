@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C116",
-	"cap": "00073"
+	"cap": [
+		"00073"
+	]
 }

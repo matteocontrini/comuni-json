@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "B091",
-	"cap": "25082"
+	"cap": [
+		"25082"
+	]
 }

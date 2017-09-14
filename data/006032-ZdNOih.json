@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B769",
-	"cap": "15051"
+	"cap": [
+		"15051"
+	]
 }

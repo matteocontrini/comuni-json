@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I309",
-	"cap": "87048"
+	"cap": [
+		"87048"
+	]
 }

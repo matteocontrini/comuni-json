@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "A049",
-	"cap": "93010"
+	"cap": [
+		"93010"
+	]
 }

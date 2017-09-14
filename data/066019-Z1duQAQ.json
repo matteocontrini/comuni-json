@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B651",
-	"cap": "67022"
+	"cap": [
+		"67022"
+	]
 }

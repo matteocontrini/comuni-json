@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "E156",
-	"cap": "95030"
+	"cap": [
+		"95030"
+	]
 }

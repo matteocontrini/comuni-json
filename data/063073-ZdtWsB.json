@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I293",
-	"cap": "80029"
+	"cap": [
+		"80029"
+	]
 }

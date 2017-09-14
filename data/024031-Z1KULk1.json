@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "C734",
-	"cap": "36020"
+	"cap": [
+		"36020"
+	]
 }

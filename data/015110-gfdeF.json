@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "E170",
-	"cap": "20056"
+	"cap": [
+		"20056"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "E336",
-	"cap": "08033"
+	"cap": [
+		"08033"
+	]
 }

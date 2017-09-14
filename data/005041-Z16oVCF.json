@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "C804",
-	"cap": "14054"
+	"cap": [
+		"14054"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E308",
-	"cap": "23835"
+	"cap": [
+		"23835"
+	]
 }

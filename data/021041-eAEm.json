@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E434",
-	"cap": "39011"
+	"cap": [
+		"39011"
+	]
 }

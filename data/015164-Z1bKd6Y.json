@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G181",
-	"cap": "20010"
+	"cap": [
+		"20010"
+	]
 }

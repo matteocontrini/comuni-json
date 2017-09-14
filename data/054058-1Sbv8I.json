@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "L627",
-	"cap": "06040"
+	"cap": [
+		"06040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I007",
-	"cap": "26040"
+	"cap": [
+		"26040"
+	]
 }

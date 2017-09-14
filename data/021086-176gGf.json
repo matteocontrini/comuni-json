@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I431",
-	"cap": "39058"
+	"cap": [
+		"39058"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "D713",
-	"cap": "44035"
+	"cap": [
+		"44035"
+	]
 }

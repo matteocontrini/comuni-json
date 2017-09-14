@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "F578",
-	"cap": "66010"
+	"cap": [
+		"66010"
+	]
 }

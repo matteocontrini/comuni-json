@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "G353",
-	"cap": "33087"
+	"cap": [
+		"33087"
+	]
 }

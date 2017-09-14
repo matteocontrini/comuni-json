@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "C613",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

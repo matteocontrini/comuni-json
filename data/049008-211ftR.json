@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "C869",
-	"cap": "57014"
+	"cap": [
+		"57014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "A373",
-	"cap": "19021"
+	"cap": [
+		"19021"
+	]
 }

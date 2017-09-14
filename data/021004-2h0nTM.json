@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "A332",
-	"cap": "39057"
+	"cap": [
+		"39057"
+	]
 }

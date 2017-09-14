@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E566",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

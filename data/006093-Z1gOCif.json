@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F131",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "I661",
-	"cap": "62038"
+	"cap": [
+		"62038"
+	]
 }

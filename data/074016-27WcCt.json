@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "I119",
-	"cap": "72027"
+	"cap": [
+		"72027"
+	]
 }

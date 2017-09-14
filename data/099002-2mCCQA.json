@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "C357",
-	"cap": "47841"
+	"cap": [
+		"47841"
+	]
 }

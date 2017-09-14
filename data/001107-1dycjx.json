@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "D725",
-	"cap": "10084"
+	"cap": [
+		"10084"
+	]
 }

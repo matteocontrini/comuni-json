@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "E689",
-	"cap": "45017"
+	"cap": [
+		"45017"
+	]
 }

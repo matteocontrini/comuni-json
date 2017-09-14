@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "M275",
-	"cap": "07020"
+	"cap": [
+		"07020"
+	]
 }

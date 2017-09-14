@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B656",
-	"cap": "67053"
+	"cap": [
+		"67053"
+	]
 }

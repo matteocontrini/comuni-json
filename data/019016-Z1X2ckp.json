@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "B869",
-	"cap": "26011"
+	"cap": [
+		"26011"
+	]
 }

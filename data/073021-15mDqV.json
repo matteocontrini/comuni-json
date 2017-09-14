@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "G252",
-	"cap": "74019"
+	"cap": [
+		"74019"
+	]
 }

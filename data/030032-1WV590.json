@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "D300",
-	"cap": "33030"
+	"cap": [
+		"33030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "H570",
-	"cap": "57016"
+	"cap": [
+		"57016"
+	]
 }

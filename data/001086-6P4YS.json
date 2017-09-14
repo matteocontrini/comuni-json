@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C722",
-	"cap": "10073"
+	"cap": [
+		"10073"
+	]
 }

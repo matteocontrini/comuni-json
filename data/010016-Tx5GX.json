@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "C673",
-	"cap": "16044"
+	"cap": [
+		"16044"
+	]
 }

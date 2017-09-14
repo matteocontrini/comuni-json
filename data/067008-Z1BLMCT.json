@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "B515",
-	"cap": "64012"
+	"cap": [
+		"64012"
+	]
 }

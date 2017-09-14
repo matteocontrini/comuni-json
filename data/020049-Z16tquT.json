@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "H248",
-	"cap": "46036"
+	"cap": [
+		"46036"
+	]
 }

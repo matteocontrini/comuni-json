@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B825",
-	"cap": "42033"
+	"cap": [
+		"42033"
+	]
 }

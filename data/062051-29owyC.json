@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "G626",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

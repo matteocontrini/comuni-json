@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "I857",
-	"cap": "28010"
+	"cap": [
+		"28010"
+	]
 }

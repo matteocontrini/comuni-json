@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B818",
-	"cap": "15071"
+	"cap": [
+		"15071"
+	]
 }

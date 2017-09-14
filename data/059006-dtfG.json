@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "D003",
-	"cap": "04010"
+	"cap": [
+		"04010"
+	]
 }

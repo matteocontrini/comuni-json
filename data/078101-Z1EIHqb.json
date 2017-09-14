@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G975",
-	"cap": "87028"
+	"cap": [
+		"87028"
+	]
 }

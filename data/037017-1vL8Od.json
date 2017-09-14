@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "C185",
-	"cap": "40050"
+	"cap": [
+		"40050"
+	]
 }

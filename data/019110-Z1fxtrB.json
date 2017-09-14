@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "L426",
-	"cap": "26018"
+	"cap": [
+		"26018"
+	]
 }

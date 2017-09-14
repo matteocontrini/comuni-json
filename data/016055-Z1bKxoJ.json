@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B801",
-	"cap": "24060"
+	"cap": [
+		"24060"
+	]
 }

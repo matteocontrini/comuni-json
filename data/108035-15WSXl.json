@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "F944",
-	"cap": "20834"
+	"cap": [
+		"20834"
+	]
 }

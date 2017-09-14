@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "I025",
-	"cap": "28017"
+	"cap": [
+		"28017"
+	]
 }

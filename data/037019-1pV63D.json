@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "C204",
-	"cap": "40013"
+	"cap": [
+		"40013"
+	]
 }

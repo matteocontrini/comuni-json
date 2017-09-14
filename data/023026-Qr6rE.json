@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "C538",
-	"cap": "37020"
+	"cap": [
+		"37020"
+	]
 }

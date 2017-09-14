@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "F093",
-	"cap": "28046"
+	"cap": [
+		"28046"
+	]
 }

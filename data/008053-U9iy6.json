@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "H780",
-	"cap": "18036"
+	"cap": [
+		"18036"
+	]
 }

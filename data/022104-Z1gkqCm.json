@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E565",
-	"cap": "38056"
+	"cap": [
+		"38056"
+	]
 }

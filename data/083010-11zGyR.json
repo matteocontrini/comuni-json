@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "B695",
-	"cap": "98070"
+	"cap": [
+		"98070"
+	]
 }

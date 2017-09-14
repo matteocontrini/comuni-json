@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "D175",
-	"cap": "16010"
+	"cap": [
+		"16010"
+	]
 }

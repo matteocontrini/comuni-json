@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "L702",
-	"cap": "56019"
+	"cap": [
+		"56019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "A676",
-	"cap": "94012"
+	"cap": [
+		"94012"
+	]
 }

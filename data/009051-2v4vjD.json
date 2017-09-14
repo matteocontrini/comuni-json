@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G866",
-	"cap": "17042"
+	"cap": [
+		"17042"
+	]
 }

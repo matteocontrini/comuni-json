@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "B587",
-	"cap": "27031"
+	"cap": [
+		"27031"
+	]
 }

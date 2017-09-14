@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "E249",
-	"cap": "82034"
+	"cap": [
+		"82034"
+	]
 }

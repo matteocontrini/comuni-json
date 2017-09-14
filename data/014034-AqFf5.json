@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "E201",
-	"cap": "23034"
+	"cap": [
+		"23034"
+	]
 }

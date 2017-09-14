@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L262",
-	"cap": "27011"
+	"cap": [
+		"27011"
+	]
 }

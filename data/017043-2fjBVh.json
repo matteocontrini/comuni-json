@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C293",
-	"cap": "25014"
+	"cap": [
+		"25014"
+	]
 }

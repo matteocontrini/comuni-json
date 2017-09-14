@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "F457",
-	"cap": "05026"
+	"cap": [
+		"05026"
+	]
 }

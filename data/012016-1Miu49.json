@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A918",
-	"cap": "21020"
+	"cap": [
+		"21020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "C662",
-	"cap": "53043"
+	"cap": [
+		"53043"
+	]
 }

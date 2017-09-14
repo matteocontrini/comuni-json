@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "L505",
-	"cap": "86049"
+	"cap": [
+		"86049"
+	]
 }

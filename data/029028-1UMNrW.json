@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "E240",
-	"cap": "45030"
+	"cap": [
+		"45030"
+	]
 }

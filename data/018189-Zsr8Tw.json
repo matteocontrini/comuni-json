@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "M167",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

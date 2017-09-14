@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D020",
-	"cap": "36073"
+	"cap": [
+		"36073"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "A976",
-	"cap": "07043"
+	"cap": [
+		"07043"
+	]
 }

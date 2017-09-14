@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "F028",
-	"cap": "26815"
+	"cap": [
+		"26815"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A422",
-	"cap": "17032"
+	"cap": [
+		"17032"
+	]
 }

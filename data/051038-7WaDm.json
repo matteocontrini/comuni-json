@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "L038",
-	"cap": "52010"
+	"cap": [
+		"52010"
+	]
 }

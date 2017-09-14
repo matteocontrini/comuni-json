@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "C574",
-	"cap": "47042"
+	"cap": [
+		"47042"
+	]
 }

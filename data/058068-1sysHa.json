@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F734",
-	"cap": "00067"
+	"cap": [
+		"00067"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D217",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

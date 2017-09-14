@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "F172",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "D044",
-	"cap": "73033"
+	"cap": [
+		"73033"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C691",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

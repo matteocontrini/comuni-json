@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G281",
-	"cap": "17043"
+	"cap": [
+		"17043"
+	]
 }

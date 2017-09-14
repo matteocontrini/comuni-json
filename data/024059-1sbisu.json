@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "F306",
-	"cap": "36060"
+	"cap": [
+		"36060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "E377",
-	"cap": "07044"
+	"cap": [
+		"07044"
+	]
 }

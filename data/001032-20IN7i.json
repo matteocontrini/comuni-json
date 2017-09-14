@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B024",
-	"cap": "10050"
+	"cap": [
+		"10050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "B347",
-	"cap": "21020"
+	"cap": [
+		"21020"
+	]
 }

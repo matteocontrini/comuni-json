@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "A948",
-	"cap": "08011"
+	"cap": [
+		"08011"
+	]
 }

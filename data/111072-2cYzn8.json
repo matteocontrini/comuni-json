@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I428",
-	"cap": "09030"
+	"cap": [
+		"09030"
+	]
 }

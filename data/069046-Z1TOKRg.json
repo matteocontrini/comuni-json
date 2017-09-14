@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "E435",
-	"cap": "66034"
+	"cap": [
+		"66034"
+	]
 }

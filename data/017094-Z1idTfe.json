@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E698",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

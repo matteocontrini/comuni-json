@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A310",
-	"cap": "03014"
+	"cap": [
+		"03014"
+	]
 }

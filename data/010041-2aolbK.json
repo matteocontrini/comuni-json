@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F862",
-	"cap": "16040"
+	"cap": [
+		"16040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G961",
-	"cap": "15068"
+	"cap": [
+		"15068"
+	]
 }

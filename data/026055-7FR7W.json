@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G229",
-	"cap": "31038"
+	"cap": [
+		"31038"
+	]
 }

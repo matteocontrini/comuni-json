@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "F605",
-	"cap": "53014"
+	"cap": [
+		"53014"
+	]
 }

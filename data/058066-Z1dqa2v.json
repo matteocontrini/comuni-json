@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F692",
-	"cap": "00010"
+	"cap": [
+		"00010"
+	]
 }

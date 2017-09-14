@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "A971",
-	"cap": "86041"
+	"cap": [
+		"86041"
+	]
 }

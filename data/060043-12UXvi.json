@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "E340",
-	"cap": "03036"
+	"cap": [
+		"03036"
+	]
 }

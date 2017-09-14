@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I725",
-	"cap": "89048"
+	"cap": [
+		"89048"
+	]
 }

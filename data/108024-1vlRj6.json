@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "E063",
-	"cap": "20833"
+	"cap": [
+		"20833"
+	]
 }

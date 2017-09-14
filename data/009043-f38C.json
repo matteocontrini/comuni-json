@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G076",
-	"cap": "17037"
+	"cap": [
+		"17037"
+	]
 }

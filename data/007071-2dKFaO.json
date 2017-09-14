@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "L654",
-	"cap": "11028"
+	"cap": [
+		"11028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "C127",
-	"cap": "14033"
+	"cap": [
+		"14033"
+	]
 }

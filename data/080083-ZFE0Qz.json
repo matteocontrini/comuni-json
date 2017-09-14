@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I371",
-	"cap": "89057"
+	"cap": [
+		"89057"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D341",
-	"cap": "22014"
+	"cap": [
+		"22014"
+	]
 }

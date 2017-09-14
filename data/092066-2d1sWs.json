@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "I443",
-	"cap": "09018"
+	"cap": [
+		"09018"
+	]
 }

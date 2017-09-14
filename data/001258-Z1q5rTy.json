@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I465",
-	"cap": "10054"
+	"cap": [
+		"10054"
+	]
 }

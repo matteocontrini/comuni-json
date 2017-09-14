@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "B919",
-	"cap": "03034"
+	"cap": [
+		"03034"
+	]
 }

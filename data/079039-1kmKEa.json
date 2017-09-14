@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D218",
-	"cap": "88022"
+	"cap": [
+		"88022"
+	]
 }

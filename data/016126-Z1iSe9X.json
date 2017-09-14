@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E562",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

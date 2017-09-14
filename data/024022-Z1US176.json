@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "B511",
-	"cap": "36020"
+	"cap": [
+		"36020"
+	]
 }

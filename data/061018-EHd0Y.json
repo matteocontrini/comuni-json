@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B860",
-	"cap": "81022"
+	"cap": [
+		"81022"
+	]
 }

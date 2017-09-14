@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G458",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

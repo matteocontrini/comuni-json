@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "I625",
-	"cap": "20831"
+	"cap": [
+		"20831"
+	]
 }

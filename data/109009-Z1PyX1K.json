@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "E447",
-	"cap": "63823"
+	"cap": [
+		"63823"
+	]
 }

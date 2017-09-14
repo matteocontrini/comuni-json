@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "E248",
-	"cap": "86014"
+	"cap": [
+		"86014"
+	]
 }

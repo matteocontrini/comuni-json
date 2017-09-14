@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G284",
-	"cap": "33057"
+	"cap": [
+		"33057"
+	]
 }

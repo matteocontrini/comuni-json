@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F532",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

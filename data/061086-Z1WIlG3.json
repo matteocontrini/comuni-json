@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I273",
-	"cap": "81017"
+	"cap": [
+		"81017"
+	]
 }

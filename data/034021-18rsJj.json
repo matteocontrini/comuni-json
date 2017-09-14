@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "F174",
-	"cap": "43055"
+	"cap": [
+		"43055"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "D577",
-	"cap": "45024"
+	"cap": [
+		"45024"
+	]
 }

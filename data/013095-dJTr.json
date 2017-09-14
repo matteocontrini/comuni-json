@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D416",
-	"cap": "22036"
+	"cap": [
+		"22036"
+	]
 }

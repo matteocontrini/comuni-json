@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F570",
-	"cap": "63088"
+	"cap": [
+		"63088"
+	]
 }

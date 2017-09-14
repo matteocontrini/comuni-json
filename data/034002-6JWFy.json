@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "A646",
-	"cap": "43032"
+	"cap": [
+		"43032"
+	]
 }

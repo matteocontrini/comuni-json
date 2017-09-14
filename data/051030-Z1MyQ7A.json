@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "G653",
-	"cap": "52036"
+	"cap": [
+		"52036"
+	]
 }

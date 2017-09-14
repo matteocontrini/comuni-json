@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I653",
-	"cap": "60048"
+	"cap": [
+		"60048"
+	]
 }

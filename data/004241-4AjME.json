@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L817",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

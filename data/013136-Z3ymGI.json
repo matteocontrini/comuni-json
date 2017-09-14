@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E749",
-	"cap": "22040"
+	"cap": [
+		"22040"
+	]
 }

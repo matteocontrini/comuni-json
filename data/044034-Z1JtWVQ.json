@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F487",
-	"cap": "63069"
+	"cap": [
+		"63069"
+	]
 }

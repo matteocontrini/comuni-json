@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "I829",
-	"cap": "23100"
+	"cap": [
+		"23100"
+	]
 }

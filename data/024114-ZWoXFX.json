@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "L650",
-	"cap": "36020"
+	"cap": [
+		"36020"
+	]
 }

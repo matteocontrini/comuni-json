@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G590",
-	"cap": "85055"
+	"cap": [
+		"85055"
+	]
 }

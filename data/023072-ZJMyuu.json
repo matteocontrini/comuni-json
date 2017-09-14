@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H944",
-	"cap": "37058"
+	"cap": [
+		"37058"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A720",
-	"cap": "03022"
+	"cap": [
+		"03022"
+	]
 }

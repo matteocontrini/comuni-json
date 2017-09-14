@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F116",
-	"cap": "31057"
+	"cap": [
+		"31057"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G634",
-	"cap": "20090"
+	"cap": [
+		"20090"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "A665",
-	"cap": "40052"
+	"cap": [
+		"40052"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "H922",
-	"cap": "95037"
+	"cap": [
+		"95037"
+	]
 }

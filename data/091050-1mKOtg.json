@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "F933",
-	"cap": "08010"
+	"cap": [
+		"08010"
+	]
 }

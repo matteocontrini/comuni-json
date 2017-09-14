@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "D788",
-	"cap": "45025"
+	"cap": [
+		"45025"
+	]
 }

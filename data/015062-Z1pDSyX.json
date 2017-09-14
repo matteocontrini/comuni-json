@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C052",
-	"cap": "20022"
+	"cap": [
+		"20022"
+	]
 }

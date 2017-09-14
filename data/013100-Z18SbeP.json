@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D531",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

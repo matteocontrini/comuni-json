@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "B067",
-	"cap": "16041"
+	"cap": [
+		"16041"
+	]
 }

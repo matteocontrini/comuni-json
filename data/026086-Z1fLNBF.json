@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "L407",
-	"cap": "31100"
+	"cap": [
+		"31100"
+	]
 }

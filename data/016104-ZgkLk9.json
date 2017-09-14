@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D697",
-	"cap": "24060"
+	"cap": [
+		"24060"
+	]
 }

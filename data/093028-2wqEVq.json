@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "F750",
-	"cap": "33075"
+	"cap": [
+		"33075"
+	]
 }

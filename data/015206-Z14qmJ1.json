@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I602",
-	"cap": "20030"
+	"cap": [
+		"20030"
+	]
 }

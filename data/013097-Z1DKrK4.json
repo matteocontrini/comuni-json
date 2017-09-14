@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D445",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

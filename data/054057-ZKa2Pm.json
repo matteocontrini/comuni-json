@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "L573",
-	"cap": "06029"
+	"cap": [
+		"06029"
+	]
 }

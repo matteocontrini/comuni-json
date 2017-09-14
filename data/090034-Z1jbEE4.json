@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "E401",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

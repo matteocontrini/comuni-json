@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G334",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

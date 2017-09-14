@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "B519",
-	"cap": "86100"
+	"cap": [
+		"86100"
+	]
 }

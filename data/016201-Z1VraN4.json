@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I830",
-	"cap": "24020"
+	"cap": [
+		"24020"
+	]
 }

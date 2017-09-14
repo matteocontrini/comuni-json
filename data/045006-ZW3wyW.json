@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "D590",
-	"cap": "54023"
+	"cap": [
+		"54023"
+	]
 }

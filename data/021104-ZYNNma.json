@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L490",
-	"cap": "39016"
+	"cap": [
+		"39016"
+	]
 }

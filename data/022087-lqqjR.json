@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D651",
-	"cap": "38064"
+	"cap": [
+		"38064"
+	]
 }

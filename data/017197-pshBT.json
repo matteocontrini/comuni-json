@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L812",
-	"cap": "25078"
+	"cap": [
+		"25078"
+	]
 }

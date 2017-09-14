@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "C587",
-	"cap": "53040"
+	"cap": [
+		"53040"
+	]
 }

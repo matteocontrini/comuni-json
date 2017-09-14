@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C610",
-	"cap": "10050"
+	"cap": [
+		"10050"
+	]
 }

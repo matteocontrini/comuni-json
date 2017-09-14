@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L322",
-	"cap": "38068"
+	"cap": [
+		"38068"
+	]
 }

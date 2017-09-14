@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L047",
-	"cap": "66018"
+	"cap": [
+		"66018"
+	]
 }

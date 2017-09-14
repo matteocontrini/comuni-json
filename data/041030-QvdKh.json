@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F450",
-	"cap": "61020"
+	"cap": [
+		"61020"
+	]
 }

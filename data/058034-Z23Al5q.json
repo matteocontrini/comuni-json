@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C858",
-	"cap": "00034"
+	"cap": [
+		"00034"
+	]
 }

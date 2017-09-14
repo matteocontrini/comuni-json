@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "G125",
-	"cap": "71027"
+	"cap": [
+		"71027"
+	]
 }

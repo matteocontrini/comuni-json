@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G241",
-	"cap": "23833"
+	"cap": [
+		"23833"
+	]
 }

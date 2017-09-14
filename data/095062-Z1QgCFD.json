@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I791",
-	"cap": "09077"
+	"cap": [
+		"09077"
+	]
 }

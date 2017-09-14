@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L552",
-	"cap": "39030"
+	"cap": [
+		"39030"
+	]
 }

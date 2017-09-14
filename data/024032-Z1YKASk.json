@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "C824",
-	"cap": "36010"
+	"cap": [
+		"36010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D825",
-	"cap": "98054"
+	"cap": [
+		"98054"
+	]
 }

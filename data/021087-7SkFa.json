@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I519",
-	"cap": "39017"
+	"cap": [
+		"39017"
+	]
 }

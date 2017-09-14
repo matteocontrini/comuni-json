@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B952",
-	"cap": "13030"
+	"cap": [
+		"13030"
+	]
 }

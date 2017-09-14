@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "D096",
-	"cap": "63067"
+	"cap": [
+		"63067"
+	]
 }

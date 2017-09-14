@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "I581",
-	"cap": "02040"
+	"cap": [
+		"02040"
+	]
 }

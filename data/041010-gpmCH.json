@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "B846",
-	"cap": "61030"
+	"cap": [
+		"61030"
+	]
 }

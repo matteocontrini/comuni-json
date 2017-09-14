@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G813",
-	"cap": "80045"
+	"cap": [
+		"80045"
+	]
 }

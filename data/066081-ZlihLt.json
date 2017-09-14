@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H400",
-	"cap": "67047"
+	"cap": [
+		"67047"
+	]
 }

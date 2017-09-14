@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "F892",
-	"cap": "94014"
+	"cap": [
+		"94014"
+	]
 }

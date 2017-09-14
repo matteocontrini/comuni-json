@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "M339",
-	"cap": "21061"
+	"cap": [
+		"21061"
+	]
 }

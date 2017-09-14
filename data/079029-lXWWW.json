@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "C616",
-	"cap": "88064"
+	"cap": [
+		"88064"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "D227",
-	"cap": "46010"
+	"cap": [
+		"46010"
+	]
 }

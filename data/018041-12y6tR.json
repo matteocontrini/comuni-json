@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "C360",
-	"cap": "27051"
+	"cap": [
+		"27051"
+	]
 }

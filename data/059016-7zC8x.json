@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "F937",
-	"cap": "04010"
+	"cap": [
+		"04010"
+	]
 }

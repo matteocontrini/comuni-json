@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A230",
-	"cap": "84045"
+	"cap": [
+		"84045"
+	]
 }

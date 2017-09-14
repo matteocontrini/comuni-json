@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "G453",
-	"cap": "61045"
+	"cap": [
+		"61045"
+	]
 }

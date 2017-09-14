@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "E086",
-	"cap": "09010"
+	"cap": [
+		"09010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "E432",
-	"cap": "51035"
+	"cap": [
+		"51035"
+	]
 }

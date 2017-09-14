@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L964",
-	"cap": "66010"
+	"cap": [
+		"66010"
+	]
 }

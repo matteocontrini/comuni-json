@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I977",
-	"cap": "15019"
+	"cap": [
+		"15019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F828",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

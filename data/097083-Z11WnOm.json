@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L634",
-	"cap": "23868"
+	"cap": [
+		"23868"
+	]
 }

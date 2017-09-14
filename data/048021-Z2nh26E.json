@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "E169",
-	"cap": "50022"
+	"cap": [
+		"50022"
+	]
 }

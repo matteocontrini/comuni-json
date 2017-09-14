@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G831",
-	"cap": "33016"
+	"cap": [
+		"33016"
+	]
 }

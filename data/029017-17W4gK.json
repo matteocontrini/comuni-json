@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "C987",
-	"cap": "45015"
+	"cap": [
+		"45015"
+	]
 }

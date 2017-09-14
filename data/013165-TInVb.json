@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G025",
-	"cap": "22077"
+	"cap": [
+		"22077"
+	]
 }

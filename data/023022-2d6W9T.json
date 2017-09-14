@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "C225",
-	"cap": "37014"
+	"cap": [
+		"37014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "B448",
-	"cap": "20080"
+	"cap": [
+		"20080"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "A470",
-	"cap": "46041"
+	"cap": [
+		"46041"
+	]
 }

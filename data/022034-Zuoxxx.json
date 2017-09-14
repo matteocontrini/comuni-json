@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B404",
-	"cap": "38052"
+	"cap": [
+		"38052"
+	]
 }

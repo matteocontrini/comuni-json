@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "I145",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

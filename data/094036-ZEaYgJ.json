@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "G727",
-	"cap": "86071"
+	"cap": [
+		"86071"
+	]
 }

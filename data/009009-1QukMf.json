@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A647",
-	"cap": "17057"
+	"cap": [
+		"17057"
+	]
 }

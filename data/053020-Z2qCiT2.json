@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "H417",
-	"cap": "58053"
+	"cap": [
+		"58053"
+	]
 }

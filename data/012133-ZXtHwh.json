@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L682",
-	"cap": "21100"
+	"cap": [
+		"21100"
+	]
 }

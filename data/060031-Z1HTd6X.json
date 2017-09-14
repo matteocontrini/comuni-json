@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "D440",
-	"cap": "03045"
+	"cap": [
+		"03045"
+	]
 }

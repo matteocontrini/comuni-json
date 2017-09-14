@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "F802",
-	"cap": "54026"
+	"cap": [
+		"54026"
+	]
 }

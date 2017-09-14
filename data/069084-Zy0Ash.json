@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "I244",
-	"cap": "66030"
+	"cap": [
+		"66030"
+	]
 }

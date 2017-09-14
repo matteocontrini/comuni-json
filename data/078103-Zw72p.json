@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "H416",
-	"cap": "87074"
+	"cap": [
+		"87074"
+	]
 }

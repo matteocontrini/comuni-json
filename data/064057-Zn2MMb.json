@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F546",
-	"cap": "83048"
+	"cap": [
+		"83048"
+	]
 }

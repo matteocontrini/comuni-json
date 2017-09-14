@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L555",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "H967",
-	"cap": "82034"
+	"cap": [
+		"82034"
+	]
 }

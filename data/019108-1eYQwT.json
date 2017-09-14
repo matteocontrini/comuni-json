@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "L296",
-	"cap": "26040"
+	"cap": [
+		"26040"
+	]
 }

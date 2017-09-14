@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "D007",
-	"cap": "60013"
+	"cap": [
+		"60013"
+	]
 }

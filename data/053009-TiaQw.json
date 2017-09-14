@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "D656",
-	"cap": "58022"
+	"cap": [
+		"58022"
+	]
 }

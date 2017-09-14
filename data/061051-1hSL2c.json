@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "F203",
-	"cap": "81049"
+	"cap": [
+		"81049"
+	]
 }

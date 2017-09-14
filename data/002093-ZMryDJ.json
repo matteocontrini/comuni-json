@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "G528",
-	"cap": "13010"
+	"cap": [
+		"13010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A180",
-	"cap": "09091"
+	"cap": [
+		"09091"
+	]
 }

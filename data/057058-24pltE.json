@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G951",
-	"cap": "02030"
+	"cap": [
+		"02030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L778",
-	"cap": "25029"
+	"cap": [
+		"25029"
+	]
 }

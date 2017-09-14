@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E794",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

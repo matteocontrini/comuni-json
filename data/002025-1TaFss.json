@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B505",
-	"cap": "13023"
+	"cap": [
+		"13023"
+	]
 }

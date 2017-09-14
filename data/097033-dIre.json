@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D398",
-	"cap": "23848"
+	"cap": [
+		"23848"
+	]
 }

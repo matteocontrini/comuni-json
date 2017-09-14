@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I037",
-	"cap": "12080"
+	"cap": [
+		"12080"
+	]
 }

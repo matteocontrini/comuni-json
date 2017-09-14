@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "A317",
-	"cap": "28841"
+	"cap": [
+		"28841"
+	]
 }

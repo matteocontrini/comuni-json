@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "B201",
-	"cap": "27043"
+	"cap": [
+		"27043"
+	]
 }

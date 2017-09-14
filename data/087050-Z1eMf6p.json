@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "L355",
-	"cap": "95039"
+	"cap": [
+		"95039"
+	]
 }

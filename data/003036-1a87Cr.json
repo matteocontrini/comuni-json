@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "B823",
-	"cap": "28064"
+	"cap": [
+		"28064"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "E868",
-	"cap": "63085"
+	"cap": [
+		"63085"
+	]
 }

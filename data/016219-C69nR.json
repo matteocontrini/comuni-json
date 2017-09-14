@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "L400",
-	"cap": "24047"
+	"cap": [
+		"24047"
+	]
 }

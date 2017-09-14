@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I896",
-	"cap": "87058"
+	"cap": [
+		"87058"
+	]
 }

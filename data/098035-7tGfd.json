@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "E852",
-	"cap": "26847"
+	"cap": [
+		"26847"
+	]
 }

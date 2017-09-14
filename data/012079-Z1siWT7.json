@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E102",
-	"cap": "21055"
+	"cap": [
+		"21055"
+	]
 }

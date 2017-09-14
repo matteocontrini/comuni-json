@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E649",
-	"cap": "08020"
+	"cap": [
+		"08020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "G690",
-	"cap": "62025"
+	"cap": [
+		"62025"
+	]
 }

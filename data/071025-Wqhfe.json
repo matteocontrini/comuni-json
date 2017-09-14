@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "E332",
-	"cap": "71010"
+	"cap": [
+		"71010"
+	]
 }

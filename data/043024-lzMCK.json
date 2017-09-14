@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "F051",
-	"cap": "62024"
+	"cap": [
+		"62024"
+	]
 }

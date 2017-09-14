@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D079",
-	"cap": "39033"
+	"cap": [
+		"39033"
+	]
 }

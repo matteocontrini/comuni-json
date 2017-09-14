@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H916",
-	"cap": "37035"
+	"cap": [
+		"37035"
+	]
 }

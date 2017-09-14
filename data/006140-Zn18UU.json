@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "H021",
-	"cap": "15077"
+	"cap": [
+		"15077"
+	]
 }

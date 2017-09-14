@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B925",
-	"cap": "80025"
+	"cap": [
+		"80025"
+	]
 }

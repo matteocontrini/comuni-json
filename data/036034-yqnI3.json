@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "H195",
-	"cap": "41017"
+	"cap": [
+		"41017"
+	]
 }

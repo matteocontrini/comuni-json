@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "I453",
-	"cap": "17046"
+	"cap": [
+		"17046"
+	]
 }

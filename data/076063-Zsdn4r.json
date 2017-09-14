@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G942",
-	"cap": "85100"
+	"cap": [
+		"85100"
+	]
 }

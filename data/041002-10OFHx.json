@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "A327",
-	"cap": "61042"
+	"cap": [
+		"61042"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A222",
-	"cap": "10091"
+	"cap": [
+		"10091"
+	]
 }

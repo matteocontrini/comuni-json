@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "I632",
-	"cap": "46028"
+	"cap": [
+		"46028"
+	]
 }

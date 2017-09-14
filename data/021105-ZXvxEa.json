@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L527",
-	"cap": "39051"
+	"cap": [
+		"39051"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "M329",
-	"cap": "52015"
+	"cap": [
+		"52015"
+	]
 }

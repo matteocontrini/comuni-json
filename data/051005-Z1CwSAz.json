@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "B243",
-	"cap": "52021"
+	"cap": [
+		"52021"
+	]
 }

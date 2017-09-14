@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "L019",
-	"cap": "57028"
+	"cap": [
+		"57028"
+	]
 }

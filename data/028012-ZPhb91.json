@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "A906",
-	"cap": "35040"
+	"cap": [
+		"35040"
+	]
 }

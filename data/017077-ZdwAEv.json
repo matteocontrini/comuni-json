@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D940",
-	"cap": "25085"
+	"cap": [
+		"25085"
+	]
 }

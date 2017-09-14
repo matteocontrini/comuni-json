@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "B058",
-	"cap": "13872"
+	"cap": [
+		"13872"
+	]
 }

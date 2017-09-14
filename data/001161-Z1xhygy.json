@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F422",
-	"cap": "10017"
+	"cap": [
+		"10017"
+	]
 }

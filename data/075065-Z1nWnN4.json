@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "H708",
-	"cap": "73015"
+	"cap": [
+		"73015"
+	]
 }

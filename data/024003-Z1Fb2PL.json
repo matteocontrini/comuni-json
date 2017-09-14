@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A220",
-	"cap": "36045"
+	"cap": [
+		"36045"
+	]
 }

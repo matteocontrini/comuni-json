@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "F241",
-	"cap": "30035"
+	"cap": [
+		"30035"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "B094",
-	"cap": "07010"
+	"cap": [
+		"07010"
+	]
 }

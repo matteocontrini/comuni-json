@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H714",
-	"cap": "37056"
+	"cap": [
+		"37056"
+	]
 }

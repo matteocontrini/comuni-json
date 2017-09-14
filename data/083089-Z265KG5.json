@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I311",
-	"cap": "98028"
+	"cap": [
+		"98028"
+	]
 }

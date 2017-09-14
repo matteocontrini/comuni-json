@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "M153",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

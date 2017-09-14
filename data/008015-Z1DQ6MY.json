@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "C110",
-	"cap": "18030"
+	"cap": [
+		"18030"
+	]
 }

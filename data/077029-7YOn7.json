@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "L477",
-	"cap": "75028"
+	"cap": [
+		"75028"
+	]
 }

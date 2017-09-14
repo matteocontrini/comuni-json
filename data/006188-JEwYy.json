@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "M120",
-	"cap": "15059"
+	"cap": [
+		"15059"
+	]
 }

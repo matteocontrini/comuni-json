@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "B562",
-	"cap": "62020"
+	"cap": [
+		"62020"
+	]
 }

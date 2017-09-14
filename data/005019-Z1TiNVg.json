@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B707",
-	"cap": "14014"
+	"cap": [
+		"14014"
+	]
 }

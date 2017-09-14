@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H048",
-	"cap": "37040"
+	"cap": [
+		"37040"
+	]
 }

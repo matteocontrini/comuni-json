@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "G608",
-	"cap": "64047"
+	"cap": [
+		"64047"
+	]
 }

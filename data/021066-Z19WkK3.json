@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "G936",
-	"cap": "39014"
+	"cap": [
+		"39014"
+	]
 }

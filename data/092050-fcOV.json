@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "H088",
-	"cap": "09010"
+	"cap": [
+		"09010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "L434",
-	"cap": "20844"
+	"cap": [
+		"20844"
+	]
 }

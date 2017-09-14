@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "E314",
-	"cap": "28045"
+	"cap": [
+		"28045"
+	]
 }

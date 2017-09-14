@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "D695",
-	"cap": "09083"
+	"cap": [
+		"09083"
+	]
 }

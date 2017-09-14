@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "B918",
-	"cap": "98032"
+	"cap": [
+		"98032"
+	]
 }

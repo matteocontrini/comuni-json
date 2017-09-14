@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "H063",
-	"cap": "23819"
+	"cap": [
+		"23819"
+	]
 }

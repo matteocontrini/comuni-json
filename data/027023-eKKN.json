@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "F229",
-	"cap": "30034"
+	"cap": [
+		"30034"
+	]
 }

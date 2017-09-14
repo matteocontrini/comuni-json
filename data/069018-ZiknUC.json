@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "C114",
-	"cap": "66032"
+	"cap": [
+		"66032"
+	]
 }

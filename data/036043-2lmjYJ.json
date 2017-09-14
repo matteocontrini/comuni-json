@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "I689",
-	"cap": "41029"
+	"cap": [
+		"41029"
+	]
 }

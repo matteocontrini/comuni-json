@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "F774",
-	"cap": "13010"
+	"cap": [
+		"13010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G605",
-	"cap": "17027"
+	"cap": [
+		"17027"
+	]
 }

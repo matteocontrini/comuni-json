@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I113",
-	"cap": "81049"
+	"cap": [
+		"81049"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B763",
-	"cap": "23802"
+	"cap": [
+		"23802"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C384",
-	"cap": "31034"
+	"cap": [
+		"31034"
+	]
 }

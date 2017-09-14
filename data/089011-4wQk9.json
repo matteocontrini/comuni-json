@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "E532",
-	"cap": "96016"
+	"cap": [
+		"96016"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "I917",
-	"cap": "85039"
+	"cap": [
+		"85039"
+	]
 }

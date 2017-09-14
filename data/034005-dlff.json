@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "A987",
-	"cap": "43030"
+	"cap": [
+		"43030"
+	]
 }

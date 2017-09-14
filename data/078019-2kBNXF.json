@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A973",
-	"cap": "87020"
+	"cap": [
+		"87020"
+	]
 }

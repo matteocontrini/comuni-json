@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "H017",
-	"cap": "47016"
+	"cap": [
+		"47016"
+	]
 }

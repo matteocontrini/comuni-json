@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C004",
-	"cap": "21012"
+	"cap": [
+		"21012"
+	]
 }

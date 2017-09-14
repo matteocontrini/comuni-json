@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "M141",
-	"cap": "00039"
+	"cap": [
+		"00039"
+	]
 }

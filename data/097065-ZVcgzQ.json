@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G368",
-	"cap": "23818"
+	"cap": [
+		"23818"
+	]
 }

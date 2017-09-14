@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "D077",
-	"cap": "52044"
+	"cap": [
+		"52044"
+	]
 }

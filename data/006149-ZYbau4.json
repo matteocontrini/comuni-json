@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "H569",
-	"cap": "15030"
+	"cap": [
+		"15030"
+	]
 }

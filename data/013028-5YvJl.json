@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B134",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

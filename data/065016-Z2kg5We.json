@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B115",
-	"cap": "84082"
+	"cap": [
+		"84082"
+	]
 }

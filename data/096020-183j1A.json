@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "D094",
-	"cap": "13836"
+	"cap": [
+		"13836"
+	]
 }

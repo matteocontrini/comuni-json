@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "D911",
-	"cap": "28070"
+	"cap": [
+		"28070"
+	]
 }

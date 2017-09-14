@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D828",
-	"cap": "87024"
+	"cap": [
+		"87024"
+	]
 }

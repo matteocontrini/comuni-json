@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "L258",
-	"cap": "26038"
+	"cap": [
+		"26038"
+	]
 }

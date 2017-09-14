@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F930",
-	"cap": "41015"
+	"cap": [
+		"41015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "I561",
-	"cap": "26826"
+	"cap": [
+		"26826"
+	]
 }

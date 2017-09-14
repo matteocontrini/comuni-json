@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "H872",
-	"cap": "21038"
+	"cap": [
+		"21038"
+	]
 }

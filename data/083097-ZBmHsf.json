@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "L042",
-	"cap": "98039"
+	"cap": [
+		"98039"
+	]
 }

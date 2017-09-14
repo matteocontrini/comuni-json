@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "F483",
-	"cap": "28864"
+	"cap": [
+		"28864"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "L397",
-	"cap": "06039"
+	"cap": [
+		"06039"
+	]
 }

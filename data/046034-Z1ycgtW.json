@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "L913",
-	"cap": "55019"
+	"cap": [
+		"55019"
+	]
 }

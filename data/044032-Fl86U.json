@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F415",
-	"cap": "63068"
+	"cap": [
+		"63068"
+	]
 }

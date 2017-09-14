@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "F721",
-	"cap": "07013"
+	"cap": [
+		"07013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F709",
-	"cap": "14023"
+	"cap": [
+		"14023"
+	]
 }

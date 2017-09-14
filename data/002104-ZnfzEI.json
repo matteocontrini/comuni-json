@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "G985",
-	"cap": "13012"
+	"cap": [
+		"13012"
+	]
 }

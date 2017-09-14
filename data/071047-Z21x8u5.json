@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "H985",
-	"cap": "71014"
+	"cap": [
+		"71014"
+	]
 }

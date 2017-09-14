@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "E236",
-	"cap": "03016"
+	"cap": [
+		"03016"
+	]
 }

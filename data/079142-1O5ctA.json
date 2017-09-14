@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I929",
-	"cap": "88069"
+	"cap": [
+		"88069"
+	]
 }

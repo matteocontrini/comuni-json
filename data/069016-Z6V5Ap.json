@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "B896",
-	"cap": "66012"
+	"cap": [
+		"66012"
+	]
 }

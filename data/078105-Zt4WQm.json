@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "H490",
-	"cap": "87054"
+	"cap": [
+		"87054"
+	]
 }

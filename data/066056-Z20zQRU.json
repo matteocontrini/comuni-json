@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "F595",
-	"cap": "67015"
+	"cap": [
+		"67015"
+	]
 }

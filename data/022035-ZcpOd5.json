@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B419",
-	"cap": "38060"
+	"cap": [
+		"38060"
+	]
 }

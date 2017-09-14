@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B175",
-	"cap": "18025"
+	"cap": [
+		"18025"
+	]
 }

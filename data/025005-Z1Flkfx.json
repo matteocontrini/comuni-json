@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A501",
-	"cap": "32041"
+	"cap": [
+		"32041"
+	]
 }

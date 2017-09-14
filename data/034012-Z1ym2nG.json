@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "D026",
-	"cap": "43021"
+	"cap": [
+		"43021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "L299",
-	"cap": "43056"
+	"cap": [
+		"43056"
+	]
 }

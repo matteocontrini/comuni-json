@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "B446",
-	"cap": "05032"
+	"cap": [
+		"05032"
+	]
 }

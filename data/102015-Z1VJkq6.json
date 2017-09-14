@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "D767",
-	"cap": "89851"
+	"cap": [
+		"89851"
+	]
 }

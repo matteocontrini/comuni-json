@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A211",
-	"cap": "15040"
+	"cap": [
+		"15040"
+	]
 }

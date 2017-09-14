@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "H375",
-	"cap": "27042"
+	"cap": [
+		"27042"
+	]
 }

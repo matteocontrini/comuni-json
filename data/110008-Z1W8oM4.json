@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "I907",
-	"cap": "76014"
+	"cap": [
+		"76014"
+	]
 }

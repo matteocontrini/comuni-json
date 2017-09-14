@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "H512",
-	"cap": "36060"
+	"cap": [
+		"36060"
+	]
 }

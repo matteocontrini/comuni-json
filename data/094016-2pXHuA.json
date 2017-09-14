@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C769",
-	"cap": "86094"
+	"cap": [
+		"86094"
+	]
 }

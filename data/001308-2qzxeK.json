@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "M027",
-	"cap": "10029"
+	"cap": [
+		"10029"
+	]
 }

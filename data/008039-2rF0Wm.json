@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G164",
-	"cap": "18014"
+	"cap": [
+		"18014"
+	]
 }

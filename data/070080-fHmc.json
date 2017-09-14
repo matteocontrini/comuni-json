@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "L230",
-	"cap": "86018"
+	"cap": [
+		"86018"
+	]
 }

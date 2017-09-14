@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "E120",
-	"cap": "28024"
+	"cap": [
+		"28024"
+	]
 }

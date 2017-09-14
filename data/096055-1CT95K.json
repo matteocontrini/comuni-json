@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "H561",
-	"cap": "13815"
+	"cap": [
+		"13815"
+	]
 }

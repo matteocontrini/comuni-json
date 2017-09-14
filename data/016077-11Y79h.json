@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "C800",
-	"cap": "24023"
+	"cap": [
+		"24023"
+	]
 }

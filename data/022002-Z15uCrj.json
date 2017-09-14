@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A158",
-	"cap": "38041"
+	"cap": [
+		"38041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F358",
-	"cap": "12065"
+	"cap": [
+		"12065"
+	]
 }

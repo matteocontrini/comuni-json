@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "H766",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

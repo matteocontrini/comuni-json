@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "E263",
-	"cap": "00012"
+	"cap": [
+		"00012"
+	]
 }

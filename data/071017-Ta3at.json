@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "C222",
-	"cap": "71034"
+	"cap": [
+		"71034"
+	]
 }

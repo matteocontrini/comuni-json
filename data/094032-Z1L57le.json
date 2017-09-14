@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "G495",
-	"cap": "86097"
+	"cap": [
+		"86097"
+	]
 }

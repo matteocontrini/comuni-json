@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "E456",
-	"cap": "86035"
+	"cap": [
+		"86035"
+	]
 }

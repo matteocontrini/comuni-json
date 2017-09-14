@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "A669",
-	"cap": "76121"
+	"cap": [
+		"76121"
+	]
 }

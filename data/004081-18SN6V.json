@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D314",
-	"cap": "12063"
+	"cap": [
+		"12063"
+	]
 }

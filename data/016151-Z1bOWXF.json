@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "G118",
-	"cap": "24010"
+	"cap": [
+		"24010"
+	]
 }

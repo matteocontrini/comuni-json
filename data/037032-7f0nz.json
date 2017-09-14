@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "E289",
-	"cap": "40026"
+	"cap": [
+		"40026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "H777",
-	"cap": "28804"
+	"cap": [
+		"28804"
+	]
 }

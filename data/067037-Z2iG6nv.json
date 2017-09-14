@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F585",
-	"cap": "64026"
+	"cap": [
+		"64026"
+	]
 }

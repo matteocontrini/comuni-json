@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F517",
-	"cap": "63846"
+	"cap": [
+		"63846"
+	]
 }

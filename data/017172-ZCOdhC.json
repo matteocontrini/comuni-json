@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "H865",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

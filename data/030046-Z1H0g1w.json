@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "E473",
-	"cap": "33053"
+	"cap": [
+		"33053"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F348",
-	"cap": "61037"
+	"cap": [
+		"61037"
+	]
 }

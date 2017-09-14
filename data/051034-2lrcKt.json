@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "I155",
-	"cap": "52037"
+	"cap": [
+		"52037"
+	]
 }

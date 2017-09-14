@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "A055",
-	"cap": "70010"
+	"cap": [
+		"70010"
+	]
 }

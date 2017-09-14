@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C552",
-	"cap": "00052"
+	"cap": [
+		"00052"
+	]
 }

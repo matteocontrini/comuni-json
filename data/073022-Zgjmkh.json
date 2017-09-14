@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "H090",
-	"cap": "74026"
+	"cap": [
+		"74026"
+	]
 }

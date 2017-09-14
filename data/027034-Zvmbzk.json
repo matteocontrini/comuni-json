@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I040",
-	"cap": "30028"
+	"cap": [
+		"30028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "E875",
-	"cap": "58014"
+	"cap": [
+		"58014"
+	]
 }

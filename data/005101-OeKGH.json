@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I076",
-	"cap": "14010"
+	"cap": [
+		"14010"
+	]
 }

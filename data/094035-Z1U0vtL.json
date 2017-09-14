@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "G606",
-	"cap": "86085"
+	"cap": [
+		"86085"
+	]
 }

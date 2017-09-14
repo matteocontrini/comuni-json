@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "A024",
-	"cap": "80011"
+	"cap": [
+		"80011"
+	]
 }

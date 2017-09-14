@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "A273",
-	"cap": "23014"
+	"cap": [
+		"23014"
+	]
 }

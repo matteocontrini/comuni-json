@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L965",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

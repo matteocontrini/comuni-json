@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I477",
-	"cap": "98038"
+	"cap": [
+		"98038"
+	]
 }

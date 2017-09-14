@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L146",
-	"cap": "18010"
+	"cap": [
+		"18010"
+	]
 }

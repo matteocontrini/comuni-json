@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C783",
-	"cap": "67054"
+	"cap": [
+		"67054"
+	]
 }

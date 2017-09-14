@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "I057",
-	"cap": "88817"
+	"cap": [
+		"88817"
+	]
 }

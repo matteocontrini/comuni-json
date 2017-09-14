@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "F952",
-	"cap": "28100"
+	"cap": [
+		"28100"
+	]
 }

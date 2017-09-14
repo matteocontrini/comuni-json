@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "G680",
-	"cap": "33094"
+	"cap": [
+		"33094"
+	]
 }

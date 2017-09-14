@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "D875",
-	"cap": "00010"
+	"cap": [
+		"00010"
+	]
 }

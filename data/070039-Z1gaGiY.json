@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "F294",
-	"cap": "86020"
+	"cap": [
+		"86020"
+	]
 }

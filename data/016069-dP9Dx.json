@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "C457",
-	"cap": "24069"
+	"cap": [
+		"24069"
+	]
 }

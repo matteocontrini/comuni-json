@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "E089",
-	"cap": "46023"
+	"cap": [
+		"46023"
+	]
 }

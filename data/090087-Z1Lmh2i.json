@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "M284",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

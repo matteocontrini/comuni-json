@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "D390",
-	"cap": "84025"
+	"cap": [
+		"84025"
+	]
 }

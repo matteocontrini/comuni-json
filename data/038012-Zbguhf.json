@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "F016",
-	"cap": "44020"
+	"cap": [
+		"44020"
+	]
 }

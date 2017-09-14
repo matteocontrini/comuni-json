@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "C304",
-	"cap": "26823"
+	"cap": [
+		"26823"
+	]
 }

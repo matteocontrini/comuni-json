@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I576",
-	"cap": "38047"
+	"cap": [
+		"38047"
+	]
 }

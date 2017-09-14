@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "E320",
-	"cap": "44037"
+	"cap": [
+		"44037"
+	]
 }

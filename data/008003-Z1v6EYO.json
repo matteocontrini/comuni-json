@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "A344",
-	"cap": "18020"
+	"cap": [
+		"18020"
+	]
 }

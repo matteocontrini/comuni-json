@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D744",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

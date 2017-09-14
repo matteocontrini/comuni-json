@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D742",
-	"cap": "12045"
+	"cap": [
+		"12045"
+	]
 }

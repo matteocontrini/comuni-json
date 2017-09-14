@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L071",
-	"cap": "22038"
+	"cap": [
+		"22038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E345",
-	"cap": "10046"
+	"cap": [
+		"10046"
+	]
 }

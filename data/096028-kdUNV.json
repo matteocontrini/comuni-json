@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "E130",
-	"cap": "13895"
+	"cap": [
+		"13895"
+	]
 }

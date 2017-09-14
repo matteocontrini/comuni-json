@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "D419",
-	"cap": "37060"
+	"cap": [
+		"37060"
+	]
 }

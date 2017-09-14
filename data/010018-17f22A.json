@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "C826",
-	"cap": "16030"
+	"cap": [
+		"16030"
+	]
 }

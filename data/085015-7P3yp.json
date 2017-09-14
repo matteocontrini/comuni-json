@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "H281",
-	"cap": "93016"
+	"cap": [
+		"93016"
+	]
 }

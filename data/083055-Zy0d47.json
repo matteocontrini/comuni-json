@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F368",
-	"cap": "98030"
+	"cap": [
+		"98030"
+	]
 }

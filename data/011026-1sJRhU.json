@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "I363",
-	"cap": "19037"
+	"cap": [
+		"19037"
+	]
 }

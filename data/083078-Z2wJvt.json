@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H850",
-	"cap": "98075"
+	"cap": [
+		"98075"
+	]
 }

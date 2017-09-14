@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "G580",
-	"cap": "94015"
+	"cap": [
+		"94015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "G433",
-	"cap": "47864"
+	"cap": [
+		"47864"
+	]
 }

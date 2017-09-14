@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "M060",
-	"cap": "10048"
+	"cap": [
+		"10048"
+	]
 }

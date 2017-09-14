@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "C563",
-	"cap": "23861"
+	"cap": [
+		"23861"
+	]
 }

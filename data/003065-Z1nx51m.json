@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "D492",
-	"cap": "28073"
+	"cap": [
+		"28073"
+	]
 }

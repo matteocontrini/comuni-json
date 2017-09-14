@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "E605",
-	"cap": "83047"
+	"cap": [
+		"83047"
+	]
 }

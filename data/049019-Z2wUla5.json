@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "I454",
-	"cap": "57020"
+	"cap": [
+		"57020"
+	]
 }

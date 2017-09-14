@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "I688",
-	"cap": "21018"
+	"cap": [
+		"21018"
+	]
 }

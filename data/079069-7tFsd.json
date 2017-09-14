@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "E834",
-	"cap": "88025"
+	"cap": [
+		"88025"
+	]
 }

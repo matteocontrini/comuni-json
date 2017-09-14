@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I258",
-	"cap": "10057"
+	"cap": [
+		"10057"
+	]
 }

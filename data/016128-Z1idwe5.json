@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E704",
-	"cap": "24065"
+	"cap": [
+		"24065"
+	]
 }

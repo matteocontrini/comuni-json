@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "G882",
-	"cap": "55016"
+	"cap": [
+		"55016"
+	]
 }

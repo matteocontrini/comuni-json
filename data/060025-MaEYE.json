@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "C479",
-	"cap": "03024"
+	"cap": [
+		"03024"
+	]
 }

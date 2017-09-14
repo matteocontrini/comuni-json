@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E624",
-	"cap": "38020"
+	"cap": [
+		"38020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "G751",
-	"cap": "73037"
+	"cap": [
+		"73037"
+	]
 }

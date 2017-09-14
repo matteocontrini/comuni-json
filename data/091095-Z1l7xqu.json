@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "A355",
-	"cap": "08048"
+	"cap": [
+		"08048"
+	]
 }

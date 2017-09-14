@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "H858",
-	"cap": "39050"
+	"cap": [
+		"39050"
+	]
 }

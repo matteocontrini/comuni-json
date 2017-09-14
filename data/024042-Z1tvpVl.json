@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D882",
-	"cap": "36032"
+	"cap": [
+		"36032"
+	]
 }

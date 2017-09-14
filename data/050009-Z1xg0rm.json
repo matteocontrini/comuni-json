@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "C113",
-	"cap": "56022"
+	"cap": [
+		"56022"
+	]
 }

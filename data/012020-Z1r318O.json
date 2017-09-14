@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "B166",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

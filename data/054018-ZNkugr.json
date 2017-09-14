@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "D653",
-	"cap": "06034"
+	"cap": [
+		"06034"
+	]
 }

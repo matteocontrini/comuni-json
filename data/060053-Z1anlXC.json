@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "G659",
-	"cap": "03010"
+	"cap": [
+		"03010"
+	]
 }

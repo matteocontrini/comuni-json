@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G733",
-	"cap": "87070"
+	"cap": [
+		"87070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "L333",
-	"cap": "28826"
+	"cap": [
+		"28826"
+	]
 }

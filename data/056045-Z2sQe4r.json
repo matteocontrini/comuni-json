@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "H534",
-	"cap": "01037"
+	"cap": [
+		"01037"
+	]
 }

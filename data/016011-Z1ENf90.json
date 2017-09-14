@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A365",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

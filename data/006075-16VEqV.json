@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D813",
-	"cap": "15065"
+	"cap": [
+		"15065"
+	]
 }

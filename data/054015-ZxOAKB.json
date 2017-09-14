@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "C990",
-	"cap": "06073"
+	"cap": [
+		"06073"
+	]
 }

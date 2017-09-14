@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L604",
-	"cap": "07039"
+	"cap": [
+		"07039"
+	]
 }

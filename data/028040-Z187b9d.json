@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "D889",
-	"cap": "35030"
+	"cap": [
+		"35030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "A463",
-	"cap": "71022"
+	"cap": [
+		"71022"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B136",
-	"cap": "13020"
+	"cap": [
+		"13020"
+	]
 }

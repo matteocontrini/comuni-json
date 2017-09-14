@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "H682",
-	"cap": "43038"
+	"cap": [
+		"43038"
+	]
 }

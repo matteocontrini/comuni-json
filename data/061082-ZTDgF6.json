@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I233",
-	"cap": "81028"
+	"cap": [
+		"81028"
+	]
 }

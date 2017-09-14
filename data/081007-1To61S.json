@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "D234",
-	"cap": "91015"
+	"cap": [
+		"91015"
+	]
 }

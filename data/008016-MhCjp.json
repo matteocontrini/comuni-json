@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "C511",
-	"cap": "18034"
+	"cap": [
+		"18034"
+	]
 }

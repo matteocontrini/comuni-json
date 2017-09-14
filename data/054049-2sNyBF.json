@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "I727",
-	"cap": "06028"
+	"cap": [
+		"06028"
+	]
 }

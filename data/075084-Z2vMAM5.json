@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "L064",
-	"cap": "73056"
+	"cap": [
+		"73056"
+	]
 }

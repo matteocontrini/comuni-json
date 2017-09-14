@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B591",
-	"cap": "89020"
+	"cap": [
+		"89020"
+	]
 }

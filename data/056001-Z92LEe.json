@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "A040",
-	"cap": "01021"
+	"cap": [
+		"01021"
+	]
 }

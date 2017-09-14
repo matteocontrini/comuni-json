@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "G712",
-	"cap": "75015"
+	"cap": [
+		"75015"
+	]
 }

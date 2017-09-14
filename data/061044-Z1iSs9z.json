@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E554",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

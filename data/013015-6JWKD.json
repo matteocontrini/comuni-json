@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A670",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

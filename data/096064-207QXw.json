@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "I868",
-	"cap": "13868"
+	"cap": [
+		"13868"
+	]
 }

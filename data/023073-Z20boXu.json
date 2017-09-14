@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I003",
-	"cap": "37036"
+	"cap": [
+		"37036"
+	]
 }

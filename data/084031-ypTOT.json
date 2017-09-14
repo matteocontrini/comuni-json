@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "H194",
-	"cap": "92029"
+	"cap": [
+		"92029"
+	]
 }

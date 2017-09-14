@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "E243",
-	"cap": "66016"
+	"cap": [
+		"66016"
+	]
 }

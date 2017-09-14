@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L816",
-	"cap": "25059"
+	"cap": [
+		"25059"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I720",
-	"cap": "84088"
+	"cap": [
+		"84088"
+	]
 }

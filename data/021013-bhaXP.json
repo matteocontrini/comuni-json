@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B220",
-	"cap": "39031"
+	"cap": [
+		"39031"
+	]
 }

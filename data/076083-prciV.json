@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G614",
-	"cap": "85050"
+	"cap": [
+		"85050"
+	]
 }

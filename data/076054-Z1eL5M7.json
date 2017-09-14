@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "F866",
-	"cap": "85040"
+	"cap": [
+		"85040"
+	]
 }

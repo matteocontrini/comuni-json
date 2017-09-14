@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A167",
-	"cap": "21041"
+	"cap": [
+		"21041"
+	]
 }

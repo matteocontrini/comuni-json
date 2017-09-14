@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "M324",
-	"cap": "47824"
+	"cap": [
+		"47824"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D731",
-	"cap": "39045"
+	"cap": [
+		"39045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "C524",
-	"cap": "60043"
+	"cap": [
+		"60043"
+	]
 }

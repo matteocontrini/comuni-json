@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "L030",
-	"cap": "32027"
+	"cap": [
+		"32027"
+	]
 }

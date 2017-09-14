@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "A949",
-	"cap": "01023"
+	"cap": [
+		"01023"
+	]
 }

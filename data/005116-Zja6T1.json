@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L879",
-	"cap": "14040"
+	"cap": [
+		"14040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "C315",
-	"cap": "01024"
+	"cap": [
+		"01024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A256",
-	"cap": "03021"
+	"cap": [
+		"03021"
+	]
 }

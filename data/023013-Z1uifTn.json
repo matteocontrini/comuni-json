@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "B152",
-	"cap": "37020"
+	"cap": [
+		"37020"
+	]
 }

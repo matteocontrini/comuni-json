@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L835",
-	"cap": "84079"
+	"cap": [
+		"84079"
+	]
 }

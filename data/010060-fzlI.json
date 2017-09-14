@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "I852",
-	"cap": "16031"
+	"cap": [
+		"16031"
+	]
 }

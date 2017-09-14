@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "L719",
-	"cap": "00049"
+	"cap": [
+		"00049"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L731",
-	"cap": "23838"
+	"cap": [
+		"23838"
+	]
 }

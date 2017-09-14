@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F990",
-	"cap": "25080"
+	"cap": [
+		"25080"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "B496",
-	"cap": "00063"
+	"cap": [
+		"00063"
+	]
 }

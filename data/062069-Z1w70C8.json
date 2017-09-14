@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "I179",
-	"cap": "82020"
+	"cap": [
+		"82020"
+	]
 }

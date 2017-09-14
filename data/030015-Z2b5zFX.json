@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "B483",
-	"cap": "33030"
+	"cap": [
+		"33030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "D783",
-	"cap": "41044"
+	"cap": [
+		"41044"
+	]
 }

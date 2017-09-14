@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "B873",
-	"cap": "82027"
+	"cap": [
+		"82027"
+	]
 }

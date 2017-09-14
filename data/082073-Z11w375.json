@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "L317",
-	"cap": "90019"
+	"cap": [
+		"90019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "A650",
-	"cap": "37011"
+	"cap": [
+		"37011"
+	]
 }

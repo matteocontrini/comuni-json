@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "H800",
-	"cap": "84099"
+	"cap": [
+		"84099"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "D746",
-	"cap": "89064"
+	"cap": [
+		"89064"
+	]
 }

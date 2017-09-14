@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "D873",
-	"cap": "27034"
+	"cap": [
+		"27034"
+	]
 }

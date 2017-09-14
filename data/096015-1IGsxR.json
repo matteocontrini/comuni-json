@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "C155",
-	"cap": "13851"
+	"cap": [
+		"13851"
+	]
 }

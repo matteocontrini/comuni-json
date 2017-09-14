@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "H347",
-	"cap": "33030"
+	"cap": [
+		"33030"
+	]
 }

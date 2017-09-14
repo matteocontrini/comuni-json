@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I374",
-	"cap": "09075"
+	"cap": [
+		"09075"
+	]
 }

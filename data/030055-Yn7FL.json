@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "E899",
-	"cap": "33044"
+	"cap": [
+		"33044"
+	]
 }

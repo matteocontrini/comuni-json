@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B671",
-	"cap": "20867"
+	"cap": [
+		"20867"
+	]
 }

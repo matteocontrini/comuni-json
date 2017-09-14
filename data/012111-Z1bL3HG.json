@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E529",
-	"cap": "21018"
+	"cap": [
+		"21018"
+	]
 }

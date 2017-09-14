@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "L014",
-	"cap": "31058"
+	"cap": [
+		"31058"
+	]
 }

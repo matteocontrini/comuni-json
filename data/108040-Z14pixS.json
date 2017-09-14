@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "I709",
-	"cap": "20822"
+	"cap": [
+		"20822"
+	]
 }

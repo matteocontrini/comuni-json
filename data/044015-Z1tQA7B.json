@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "C935",
-	"cap": "63087"
+	"cap": [
+		"63087"
+	]
 }

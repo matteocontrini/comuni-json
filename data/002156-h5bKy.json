@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "L669",
-	"cap": "13019"
+	"cap": [
+		"13019"
+	]
 }

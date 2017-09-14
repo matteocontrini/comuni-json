@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "F078",
-	"cap": "20821"
+	"cap": [
+		"20821"
+	]
 }

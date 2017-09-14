@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "B235",
-	"cap": "20080"
+	"cap": [
+		"20080"
+	]
 }

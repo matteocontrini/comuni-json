@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "C819",
-	"cap": "13863"
+	"cap": [
+		"13863"
+	]
 }

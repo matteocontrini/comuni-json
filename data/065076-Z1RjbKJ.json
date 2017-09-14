@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F625",
-	"cap": "84033"
+	"cap": [
+		"84033"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "L120",
-	"cap": "04019"
+	"cap": [
+		"04019"
+	]
 }

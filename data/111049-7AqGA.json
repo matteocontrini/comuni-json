@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "F991",
-	"cap": "09010"
+	"cap": [
+		"09010"
+	]
 }

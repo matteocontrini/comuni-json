@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C523",
-	"cap": "20063"
+	"cap": [
+		"20063"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "H659",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

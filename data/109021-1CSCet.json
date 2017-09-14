@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F599",
-	"cap": "63852"
+	"cap": [
+		"63852"
+	]
 }

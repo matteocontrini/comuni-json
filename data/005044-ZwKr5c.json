@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "D046",
-	"cap": "14020"
+	"cap": [
+		"14020"
+	]
 }

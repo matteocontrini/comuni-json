@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B731",
-	"cap": "24043"
+	"cap": [
+		"24043"
+	]
 }

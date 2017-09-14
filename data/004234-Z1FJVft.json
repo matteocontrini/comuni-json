@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L580",
-	"cap": "12020"
+	"cap": [
+		"12020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "C394",
-	"cap": "26824"
+	"cap": [
+		"26824"
+	]
 }

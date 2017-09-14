@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "B229",
-	"cap": "13862"
+	"cap": [
+		"13862"
+	]
 }

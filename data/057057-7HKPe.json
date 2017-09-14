@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G934",
-	"cap": "02019"
+	"cap": [
+		"02019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "M382",
-	"cap": "62031"
+	"cap": [
+		"62031"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F492",
-	"cap": "06036"
+	"cap": [
+		"06036"
+	]
 }

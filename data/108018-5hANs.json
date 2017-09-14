@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "C512",
-	"cap": "20816"
+	"cap": [
+		"20816"
+	]
 }

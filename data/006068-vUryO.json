@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D528",
-	"cap": "15023"
+	"cap": [
+		"15023"
+	]
 }

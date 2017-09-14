@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I192",
-	"cap": "87010"
+	"cap": [
+		"87010"
+	]
 }

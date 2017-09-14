@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E182",
-	"cap": "12060"
+	"cap": [
+		"12060"
+	]
 }

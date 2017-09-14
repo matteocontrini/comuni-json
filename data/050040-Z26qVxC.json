@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "M327",
-	"cap": "56035"
+	"cap": [
+		"56035"
+	]
 }

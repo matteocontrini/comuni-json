@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F223",
-	"cap": "84010"
+	"cap": [
+		"84010"
+	]
 }

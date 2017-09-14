@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H812",
-	"cap": "12029"
+	"cap": [
+		"12029"
+	]
 }

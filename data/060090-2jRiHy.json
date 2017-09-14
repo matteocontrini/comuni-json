@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "I364",
-	"cap": "03020"
+	"cap": [
+		"03020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L427",
-	"cap": "12049"
+	"cap": [
+		"12049"
+	]
 }

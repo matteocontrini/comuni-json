@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "M082",
-	"cap": "01100"
+	"cap": [
+		"01100"
+	]
 }

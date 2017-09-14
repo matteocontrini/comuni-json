@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "F771",
-	"cap": "26045"
+	"cap": [
+		"26045"
+	]
 }

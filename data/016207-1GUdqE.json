@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I951",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

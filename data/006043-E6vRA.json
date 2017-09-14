@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C027",
-	"cap": "15016"
+	"cap": [
+		"15016"
+	]
 }

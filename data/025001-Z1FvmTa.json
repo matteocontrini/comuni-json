@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A083",
-	"cap": "32021"
+	"cap": [
+		"32021"
+	]
 }

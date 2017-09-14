@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "C852",
-	"cap": "43044"
+	"cap": [
+		"43044"
+	]
 }

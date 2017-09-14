@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "D673",
-	"cap": "43012"
+	"cap": [
+		"43012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "B819",
-	"cap": "41012"
+	"cap": [
+		"41012"
+	]
 }

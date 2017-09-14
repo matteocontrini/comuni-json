@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "B001",
-	"cap": "47030"
+	"cap": [
+		"47030"
+	]
 }

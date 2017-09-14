@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L999",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

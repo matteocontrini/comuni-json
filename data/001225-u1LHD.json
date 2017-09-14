@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "H547",
-	"cap": "10030"
+	"cap": [
+		"10030"
+	]
 }

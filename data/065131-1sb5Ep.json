@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I260",
-	"cap": "84020"
+	"cap": [
+		"84020"
+	]
 }

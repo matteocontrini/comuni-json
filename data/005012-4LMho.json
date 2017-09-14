@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B306",
-	"cap": "14021"
+	"cap": [
+		"14021"
+	]
 }

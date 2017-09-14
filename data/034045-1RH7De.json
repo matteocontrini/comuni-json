@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "L672",
-	"cap": "43040"
+	"cap": [
+		"43040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "B961",
-	"cap": "26842"
+	"cap": [
+		"26842"
+	]
 }

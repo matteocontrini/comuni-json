@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C466",
-	"cap": "12044"
+	"cap": [
+		"12044"
+	]
 }

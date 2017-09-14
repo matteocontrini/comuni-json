@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L339",
-	"cap": "25039"
+	"cap": [
+		"25039"
+	]
 }

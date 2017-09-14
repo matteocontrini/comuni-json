@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "G516",
-	"cap": "63848"
+	"cap": [
+		"63848"
+	]
 }

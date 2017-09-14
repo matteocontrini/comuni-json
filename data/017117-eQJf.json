@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F851",
-	"cap": "25075"
+	"cap": [
+		"25075"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "A835",
-	"cap": "06031"
+	"cap": [
+		"06031"
+	]
 }

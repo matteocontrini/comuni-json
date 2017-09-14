@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "D210",
-	"cap": "63064"
+	"cap": [
+		"63064"
+	]
 }

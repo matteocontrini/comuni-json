@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "H938",
-	"cap": "32030"
+	"cap": [
+		"32030"
+	]
 }

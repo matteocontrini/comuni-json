@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "B388",
-	"cap": "01030"
+	"cap": [
+		"01030"
+	]
 }

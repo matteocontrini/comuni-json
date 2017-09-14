@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "M211",
-	"cap": "98070"
+	"cap": [
+		"98070"
+	]
 }

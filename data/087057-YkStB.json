@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "M283",
-	"cap": "95030"
+	"cap": [
+		"95030"
+	]
 }

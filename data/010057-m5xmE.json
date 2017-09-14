@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "I475",
-	"cap": "16010"
+	"cap": [
+		"16010"
+	]
 }

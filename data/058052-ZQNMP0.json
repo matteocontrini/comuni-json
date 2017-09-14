@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "E813",
-	"cap": "00060"
+	"cap": [
+		"00060"
+	]
 }

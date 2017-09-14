@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "C516",
-	"cap": "22072"
+	"cap": [
+		"22072"
+	]
 }

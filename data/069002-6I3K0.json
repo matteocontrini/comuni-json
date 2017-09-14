@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "A367",
-	"cap": "66044"
+	"cap": [
+		"66044"
+	]
 }

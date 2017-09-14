@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "A492",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

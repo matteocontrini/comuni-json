@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "F955",
-	"cap": "20026"
+	"cap": [
+		"20026"
+	]
 }

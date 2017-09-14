@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "H015",
-	"cap": "06047"
+	"cap": [
+		"06047"
+	]
 }

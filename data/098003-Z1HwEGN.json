@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "A919",
-	"cap": "26811"
+	"cap": [
+		"26811"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "H684",
-	"cap": "10050"
+	"cap": [
+		"10050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "D207",
-	"cap": "14026"
+	"cap": [
+		"14026"
+	]
 }

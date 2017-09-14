@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I316",
-	"cap": "12069"
+	"cap": [
+		"12069"
+	]
 }

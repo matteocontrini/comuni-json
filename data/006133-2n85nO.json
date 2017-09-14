@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G858",
-	"cap": "15027"
+	"cap": [
+		"15027"
+	]
 }

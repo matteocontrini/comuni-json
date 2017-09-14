@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "G062",
-	"cap": "28887"
+	"cap": [
+		"28887"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "M332",
-	"cap": "32038"
+	"cap": [
+		"32038"
+	]
 }

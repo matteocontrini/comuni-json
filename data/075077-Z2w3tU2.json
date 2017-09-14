@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "I887",
-	"cap": "73040"
+	"cap": [
+		"73040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "F531",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

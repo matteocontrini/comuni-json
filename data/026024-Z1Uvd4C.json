@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "D157",
-	"cap": "31017"
+	"cap": [
+		"31017"
+	]
 }

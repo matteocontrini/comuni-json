@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L656",
-	"cap": "84020"
+	"cap": [
+		"84020"
+	]
 }

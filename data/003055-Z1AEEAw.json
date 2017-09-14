@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "D162",
-	"cap": "28012"
+	"cap": [
+		"28012"
+	]
 }

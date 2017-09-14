@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "C143",
-	"cap": "18011"
+	"cap": [
+		"18011"
+	]
 }

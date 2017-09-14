@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "G830",
-	"cap": "39040"
+	"cap": [
+		"39040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D484",
-	"cap": "39030"
+	"cap": [
+		"39030"
+	]
 }

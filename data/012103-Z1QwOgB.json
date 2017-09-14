@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "F526",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

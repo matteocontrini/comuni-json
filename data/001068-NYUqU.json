@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C307",
-	"cap": "10090"
+	"cap": [
+		"10090"
+	]
 }

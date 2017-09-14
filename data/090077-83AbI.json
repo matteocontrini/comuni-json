@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L509",
-	"cap": "07049"
+	"cap": [
+		"07049"
+	]
 }

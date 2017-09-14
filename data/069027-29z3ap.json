@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D137",
-	"cap": "66014"
+	"cap": [
+		"66014"
+	]
 }

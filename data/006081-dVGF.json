@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D944",
-	"cap": "15066"
+	"cap": [
+		"15066"
+	]
 }

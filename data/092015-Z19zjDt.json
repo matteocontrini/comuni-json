@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "D259",
-	"cap": "09033"
+	"cap": [
+		"09033"
+	]
 }

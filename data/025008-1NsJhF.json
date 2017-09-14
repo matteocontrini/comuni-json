@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "B375",
-	"cap": "32042"
+	"cap": [
+		"32042"
+	]
 }

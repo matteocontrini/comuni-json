@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E912",
-	"cap": "36035"
+	"cap": [
+		"36035"
+	]
 }

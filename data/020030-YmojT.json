@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "E897",
-	"cap": "46100"
+	"cap": [
+		"46100"
+	]
 }

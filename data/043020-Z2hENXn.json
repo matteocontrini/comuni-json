@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "D853",
-	"cap": "62022"
+	"cap": [
+		"62022"
+	]
 }

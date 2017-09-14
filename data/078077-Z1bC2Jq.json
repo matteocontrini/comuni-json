@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "E915",
-	"cap": "87040"
+	"cap": [
+		"87040"
+	]
 }

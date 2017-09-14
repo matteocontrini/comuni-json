@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B579",
-	"cap": "38032"
+	"cap": [
+		"38032"
+	]
 }

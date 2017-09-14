@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L004",
-	"cap": "83010"
+	"cap": [
+		"83010"
+	]
 }

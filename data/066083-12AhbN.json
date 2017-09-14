@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H429",
-	"cap": "67030"
+	"cap": [
+		"67030"
+	]
 }

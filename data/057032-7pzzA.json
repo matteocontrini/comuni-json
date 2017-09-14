@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "E393",
-	"cap": "02010"
+	"cap": [
+		"02010"
+	]
 }

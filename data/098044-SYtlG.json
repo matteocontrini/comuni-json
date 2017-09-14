@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "G171",
-	"cap": "26816"
+	"cap": [
+		"26816"
+	]
 }

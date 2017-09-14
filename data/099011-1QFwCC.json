@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "F715",
-	"cap": "47833"
+	"cap": [
+		"47833"
+	]
 }

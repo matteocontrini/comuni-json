@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G526",
-	"cap": "12016"
+	"cap": [
+		"12016"
+	]
 }

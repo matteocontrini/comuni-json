@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "E892",
-	"cap": "65024"
+	"cap": [
+		"65024"
+	]
 }

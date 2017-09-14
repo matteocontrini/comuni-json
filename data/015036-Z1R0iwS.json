@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "B240",
-	"cap": "20090"
+	"cap": [
+		"20090"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "A376",
-	"cap": "20862"
+	"cap": [
+		"20862"
+	]
 }

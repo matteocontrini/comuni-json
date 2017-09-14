@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "G416",
-	"cap": "61049"
+	"cap": [
+		"61049"
+	]
 }

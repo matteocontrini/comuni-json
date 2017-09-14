@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "M321",
-	"cap": "50063"
+	"cap": [
+		"50063"
+	]
 }

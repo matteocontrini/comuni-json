@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "L590",
-	"cap": "32040"
+	"cap": [
+		"32040"
+	]
 }

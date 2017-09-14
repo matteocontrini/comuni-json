@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "H786",
-	"cap": "39038"
+	"cap": [
+		"39038"
+	]
 }

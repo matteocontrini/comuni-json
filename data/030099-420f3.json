@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "H816",
-	"cap": "33038"
+	"cap": [
+		"33038"
+	]
 }

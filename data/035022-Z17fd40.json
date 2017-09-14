@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "D934",
-	"cap": "42043"
+	"cap": [
+		"42043"
+	]
 }

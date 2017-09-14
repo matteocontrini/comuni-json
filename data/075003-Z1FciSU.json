@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "A185",
-	"cap": "73011"
+	"cap": [
+		"73011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C003",
-	"cap": "20062"
+	"cap": [
+		"20062"
+	]
 }

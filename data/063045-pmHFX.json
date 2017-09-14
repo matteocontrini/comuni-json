@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "F111",
-	"cap": "80017"
+	"cap": [
+		"80017"
+	]
 }

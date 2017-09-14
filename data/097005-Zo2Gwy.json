@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A683",
-	"cap": "23890"
+	"cap": [
+		"23890"
+	]
 }

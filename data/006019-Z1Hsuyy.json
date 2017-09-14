@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B029",
-	"cap": "15013"
+	"cap": [
+		"15013"
+	]
 }

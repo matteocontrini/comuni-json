@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "H643",
-	"cap": "70018"
+	"cap": [
+		"70018"
+	]
 }

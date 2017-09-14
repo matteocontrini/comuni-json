@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "G189",
-	"cap": "05030"
+	"cap": [
+		"05030"
+	]
 }

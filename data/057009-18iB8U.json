@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "B627",
-	"cap": "02014"
+	"cap": [
+		"02014"
+	]
 }

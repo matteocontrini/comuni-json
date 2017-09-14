@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A391",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

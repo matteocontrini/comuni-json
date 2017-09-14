@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A738",
-	"cap": "15070"
+	"cap": [
+		"15070"
+	]
 }

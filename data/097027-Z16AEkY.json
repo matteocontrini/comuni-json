@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D131",
-	"cap": "23832"
+	"cap": [
+		"23832"
+	]
 }

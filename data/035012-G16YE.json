@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B893",
-	"cap": "42013"
+	"cap": [
+		"42013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G381",
-	"cap": "33027"
+	"cap": [
+		"33027"
+	]
 }

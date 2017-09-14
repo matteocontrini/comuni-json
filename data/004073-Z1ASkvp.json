@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D062",
-	"cap": "12074"
+	"cap": [
+		"12074"
+	]
 }

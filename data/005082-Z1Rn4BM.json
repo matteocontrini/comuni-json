@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "G358",
-	"cap": "14020"
+	"cap": [
+		"14020"
+	]
 }

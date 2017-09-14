@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "B958",
-	"cap": "26853"
+	"cap": [
+		"26853"
+	]
 }

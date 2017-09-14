@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "M335",
-	"cap": "22021"
+	"cap": [
+		"22021"
+	]
 }

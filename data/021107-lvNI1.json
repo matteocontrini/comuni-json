@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L564",
-	"cap": "39049"
+	"cap": [
+		"39049"
+	]
 }

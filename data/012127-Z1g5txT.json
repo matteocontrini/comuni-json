@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L319",
-	"cap": "21049"
+	"cap": [
+		"21049"
+	]
 }

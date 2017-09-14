@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F250",
-	"cap": "95045"
+	"cap": [
+		"95045"
+	]
 }

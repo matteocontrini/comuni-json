@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "H047",
-	"cap": "73054"
+	"cap": [
+		"73054"
+	]
 }

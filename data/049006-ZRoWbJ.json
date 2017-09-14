@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "C044",
-	"cap": "57022"
+	"cap": [
+		"57022"
+	]
 }

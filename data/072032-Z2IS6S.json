@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "F923",
-	"cap": "70016"
+	"cap": [
+		"70016"
+	]
 }

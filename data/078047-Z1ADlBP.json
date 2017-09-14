@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D184",
-	"cap": "87060"
+	"cap": [
+		"87060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I420",
-	"cap": "98047"
+	"cap": [
+		"98047"
+	]
 }

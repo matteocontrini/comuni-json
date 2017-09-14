@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C408",
-	"cap": "25046"
+	"cap": [
+		"25046"
+	]
 }

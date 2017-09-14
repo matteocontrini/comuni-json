@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "D526",
-	"cap": "43035"
+	"cap": [
+		"43035"
+	]
 }

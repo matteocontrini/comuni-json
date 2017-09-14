@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "D030",
-	"cap": "31041"
+	"cap": [
+		"31041"
+	]
 }

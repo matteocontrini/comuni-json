@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "H652",
-	"cap": "46018"
+	"cap": [
+		"46018"
+	]
 }

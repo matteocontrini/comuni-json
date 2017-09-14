@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "M168",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

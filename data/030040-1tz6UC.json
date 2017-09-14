@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "D718",
-	"cap": "33020"
+	"cap": [
+		"33020"
+	]
 }

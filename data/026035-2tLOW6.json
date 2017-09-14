@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "E373",
-	"cap": "31036"
+	"cap": [
+		"31036"
+	]
 }

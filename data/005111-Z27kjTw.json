@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L531",
-	"cap": "14049"
+	"cap": [
+		"14049"
+	]
 }

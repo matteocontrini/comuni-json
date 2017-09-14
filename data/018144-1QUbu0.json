@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I276",
-	"cap": "27030"
+	"cap": [
+		"27030"
+	]
 }

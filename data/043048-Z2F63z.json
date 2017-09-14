@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "I286",
-	"cap": "62020"
+	"cap": [
+		"62020"
+	]
 }

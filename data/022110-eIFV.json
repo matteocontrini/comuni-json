@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E850",
-	"cap": "38027"
+	"cap": [
+		"38027"
+	]
 }

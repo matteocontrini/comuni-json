@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "L658",
-	"cap": "95028"
+	"cap": [
+		"95028"
+	]
 }

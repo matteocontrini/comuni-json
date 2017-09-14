@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "L188",
-	"cap": "06059"
+	"cap": [
+		"06059"
+	]
 }

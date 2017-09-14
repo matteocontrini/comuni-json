@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "F262",
-	"cap": "70026"
+	"cap": [
+		"70026"
+	]
 }

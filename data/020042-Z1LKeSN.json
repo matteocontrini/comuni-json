@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "G753",
-	"cap": "46025"
+	"cap": [
+		"46025"
+	]
 }

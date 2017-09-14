@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "D668",
-	"cap": "40025"
+	"cap": [
+		"40025"
+	]
 }

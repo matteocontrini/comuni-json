@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "H676",
-	"cap": "11027"
+	"cap": [
+		"11027"
+	]
 }

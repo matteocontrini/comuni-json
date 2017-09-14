@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "C841",
-	"cap": "02022"
+	"cap": [
+		"02022"
+	]
 }

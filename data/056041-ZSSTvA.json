@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "G111",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

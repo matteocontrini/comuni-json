@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "I330",
-	"cap": "70029"
+	"cap": [
+		"70029"
+	]
 }

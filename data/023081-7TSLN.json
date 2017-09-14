@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I775",
-	"cap": "37038"
+	"cap": [
+		"37038"
+	]
 }

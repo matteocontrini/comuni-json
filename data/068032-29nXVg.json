@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "G621",
-	"cap": "65020"
+	"cap": [
+		"65020"
+	]
 }

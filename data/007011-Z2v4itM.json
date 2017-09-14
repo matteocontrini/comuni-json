@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "B192",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

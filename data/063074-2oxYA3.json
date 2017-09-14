@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I300",
-	"cap": "80057"
+	"cap": [
+		"80057"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "I699",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "H221",
-	"cap": "94017"
+	"cap": [
+		"94017"
+	]
 }

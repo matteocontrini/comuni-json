@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E131",
-	"cap": "80054"
+	"cap": [
+		"80054"
+	]
 }

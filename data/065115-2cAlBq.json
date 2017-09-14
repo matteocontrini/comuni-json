@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "H686",
-	"cap": "84070"
+	"cap": [
+		"84070"
+	]
 }

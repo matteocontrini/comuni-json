@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F359",
-	"cap": "98041"
+	"cap": [
+		"98041"
+	]
 }

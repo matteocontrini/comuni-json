@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "M081",
-	"cap": "91010"
+	"cap": [
+		"91010"
+	]
 }

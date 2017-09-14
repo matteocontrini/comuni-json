@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E462",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

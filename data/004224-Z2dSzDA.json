@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I985",
-	"cap": "12020"
+	"cap": [
+		"12020"
+	]
 }

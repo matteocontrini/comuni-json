@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F878",
-	"cap": "13896"
+	"cap": [
+		"13896"
+	]
 }

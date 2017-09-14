@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "E087",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

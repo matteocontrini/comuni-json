@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A253",
-	"cap": "87032"
+	"cap": [
+		"87032"
+	]
 }

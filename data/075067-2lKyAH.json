@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "H757",
-	"cap": "73030"
+	"cap": [
+		"73030"
+	]
 }

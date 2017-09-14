@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "L772",
-	"cap": "29010"
+	"cap": [
+		"29010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "F983",
-	"cap": "09024"
+	"cap": [
+		"09024"
+	]
 }

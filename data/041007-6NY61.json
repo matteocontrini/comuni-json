@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "B352",
-	"cap": "61043"
+	"cap": [
+		"61043"
+	]
 }

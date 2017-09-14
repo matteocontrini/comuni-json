@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "E946",
-	"cap": "76016"
+	"cap": [
+		"76016"
+	]
 }

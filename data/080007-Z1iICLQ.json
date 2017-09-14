@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "A552",
-	"cap": "89011"
+	"cap": [
+		"89011"
+	]
 }

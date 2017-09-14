@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "H901",
-	"cap": "52027"
+	"cap": [
+		"52027"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "A191",
-	"cap": "48011"
+	"cap": [
+		"48011"
+	]
 }

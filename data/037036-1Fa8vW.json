@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "B689",
-	"cap": "40043"
+	"cap": [
+		"40043"
+	]
 }

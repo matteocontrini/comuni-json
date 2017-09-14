@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I637",
-	"cap": "14050"
+	"cap": [
+		"14050"
+	]
 }

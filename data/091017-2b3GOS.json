@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D345",
-	"cap": "08022"
+	"cap": [
+		"08022"
+	]
 }

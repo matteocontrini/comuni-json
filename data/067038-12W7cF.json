@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "I318",
-	"cap": "64016"
+	"cap": [
+		"64016"
+	]
 }

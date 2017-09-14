@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "C934",
-	"cap": "43053"
+	"cap": [
+		"43053"
+	]
 }

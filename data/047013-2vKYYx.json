@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "G636",
-	"cap": "51018"
+	"cap": [
+		"51018"
+	]
 }

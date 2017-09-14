@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "B915",
-	"cap": "76015"
+	"cap": [
+		"76015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F493",
-	"cap": "63855"
+	"cap": [
+		"63855"
+	]
 }

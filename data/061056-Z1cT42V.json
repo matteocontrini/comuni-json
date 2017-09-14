@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "G541",
-	"cap": "81013"
+	"cap": [
+		"81013"
+	]
 }

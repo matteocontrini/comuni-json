@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L421",
-	"cap": "33019"
+	"cap": [
+		"33019"
+	]
 }

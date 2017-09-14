@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L235",
-	"cap": "07048"
+	"cap": [
+		"07048"
+	]
 }

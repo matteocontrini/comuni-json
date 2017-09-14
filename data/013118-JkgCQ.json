@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E309",
-	"cap": "22044"
+	"cap": [
+		"22044"
+	]
 }

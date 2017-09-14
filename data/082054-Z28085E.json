@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "G348",
-	"cap": "90047"
+	"cap": [
+		"90047"
+	]
 }

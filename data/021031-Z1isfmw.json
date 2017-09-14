@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D571",
-	"cap": "39050"
+	"cap": [
+		"39050"
+	]
 }

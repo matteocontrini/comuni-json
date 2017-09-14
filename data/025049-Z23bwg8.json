@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I347",
-	"cap": "32020"
+	"cap": [
+		"32020"
+	]
 }

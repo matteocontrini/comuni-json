@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "A038",
-	"cap": "46011"
+	"cap": [
+		"46011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "L154",
-	"cap": "09019"
+	"cap": [
+		"09019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B570",
-	"cap": "39032"
+	"cap": [
+		"39032"
+	]
 }

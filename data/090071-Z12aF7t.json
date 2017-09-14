@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L158",
-	"cap": "07047"
+	"cap": [
+		"07047"
+	]
 }

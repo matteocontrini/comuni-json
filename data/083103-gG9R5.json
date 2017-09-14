@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "L561",
-	"cap": "98040"
+	"cap": [
+		"98040"
+	]
 }

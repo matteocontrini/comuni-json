@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "I533",
-	"cap": "92019"
+	"cap": [
+		"92019"
+	]
 }

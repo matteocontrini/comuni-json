@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G220",
-	"cap": "20037"
+	"cap": [
+		"20037"
+	]
 }

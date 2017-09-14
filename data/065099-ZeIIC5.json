@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G834",
-	"cap": "84098"
+	"cap": [
+		"84098"
+	]
 }

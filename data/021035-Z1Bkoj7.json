@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D923",
-	"cap": "39010"
+	"cap": [
+		"39010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "L113",
-	"cap": "86039"
+	"cap": [
+		"86039"
+	]
 }

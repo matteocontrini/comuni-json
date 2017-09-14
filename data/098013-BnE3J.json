@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "C228",
-	"cap": "26843"
+	"cap": [
+		"26843"
+	]
 }

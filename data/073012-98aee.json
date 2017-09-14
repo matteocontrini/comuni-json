@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E882",
-	"cap": "74024"
+	"cap": [
+		"74024"
+	]
 }

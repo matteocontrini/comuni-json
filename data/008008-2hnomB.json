@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "A984",
-	"cap": "18012"
+	"cap": [
+		"18012"
+	]
 }

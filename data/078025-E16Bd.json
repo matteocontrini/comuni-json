@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "B774",
-	"cap": "87062"
+	"cap": [
+		"87062"
+	]
 }

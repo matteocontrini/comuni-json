@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I438",
-	"cap": "84087"
+	"cap": [
+		"84087"
+	]
 }

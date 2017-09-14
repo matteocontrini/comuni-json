@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F409",
-	"cap": "14048"
+	"cap": [
+		"14048"
+	]
 }

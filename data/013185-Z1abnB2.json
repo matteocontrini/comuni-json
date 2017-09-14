@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G737",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

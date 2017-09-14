@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "C292",
-	"cap": "40055"
+	"cap": [
+		"40055"
+	]
 }

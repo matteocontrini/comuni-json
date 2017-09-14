@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "D679",
-	"cap": "35014"
+	"cap": [
+		"35014"
+	]
 }

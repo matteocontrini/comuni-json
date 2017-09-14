@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "H592",
-	"cap": "83017"
+	"cap": [
+		"83017"
+	]
 }

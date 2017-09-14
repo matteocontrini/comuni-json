@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "E109",
-	"cap": "16020"
+	"cap": [
+		"16020"
+	]
 }

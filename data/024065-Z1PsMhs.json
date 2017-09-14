@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "F515",
-	"cap": "36047"
+	"cap": [
+		"36047"
+	]
 }

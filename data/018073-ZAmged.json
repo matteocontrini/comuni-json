@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "E072",
-	"cap": "27052"
+	"cap": [
+		"27052"
+	]
 }

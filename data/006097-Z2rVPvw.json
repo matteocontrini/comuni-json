@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F313",
-	"cap": "15020"
+	"cap": [
+		"15020"
+	]
 }

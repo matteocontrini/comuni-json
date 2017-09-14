@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "C640",
-	"cap": "33083"
+	"cap": [
+		"33083"
+	]
 }

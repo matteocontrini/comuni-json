@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "A489",
-	"cap": "83042"
+	"cap": [
+		"83042"
+	]
 }

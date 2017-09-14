@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "I649",
-	"cap": "65025"
+	"cap": [
+		"65025"
+	]
 }

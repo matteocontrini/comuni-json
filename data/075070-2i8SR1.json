@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "I059",
-	"cap": "73017"
+	"cap": [
+		"73017"
+	]
 }

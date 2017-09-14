@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "L539",
-	"cap": "26019"
+	"cap": [
+		"26019"
+	]
 }

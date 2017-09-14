@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G812",
-	"cap": "80038"
+	"cap": [
+		"80038"
+	]
 }

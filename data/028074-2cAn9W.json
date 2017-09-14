@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "H705",
-	"cap": "35046"
+	"cap": [
+		"35046"
+	]
 }

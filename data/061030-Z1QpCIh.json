@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "C716",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

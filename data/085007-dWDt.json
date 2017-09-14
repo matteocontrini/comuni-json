@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "D960",
-	"cap": "93012"
+	"cap": [
+		"93012"
+	]
 }

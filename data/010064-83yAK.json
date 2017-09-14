@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "L507",
-	"cap": "16036"
+	"cap": [
+		"16036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "D200",
-	"cap": "09073"
+	"cap": [
+		"09073"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "E136",
-	"cap": "40057"
+	"cap": [
+		"40057"
+	]
 }

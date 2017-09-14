@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "B391",
-	"cap": "75010"
+	"cap": [
+		"75010"
+	]
 }

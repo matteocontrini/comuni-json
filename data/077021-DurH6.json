@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "G786",
-	"cap": "75025"
+	"cap": [
+		"75025"
+	]
 }

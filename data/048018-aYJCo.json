@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "D613",
-	"cap": "50033"
+	"cap": [
+		"50033"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "F835",
-	"cap": "38069"
+	"cap": [
+		"38069"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "B886",
-	"cap": "37052"
+	"cap": [
+		"37052"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B121",
-	"cap": "10032"
+	"cap": [
+		"10032"
+	]
 }

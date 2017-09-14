@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A368",
-	"cap": "09097"
+	"cap": [
+		"09097"
+	]
 }

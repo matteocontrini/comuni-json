@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "A400",
-	"cap": "45012"
+	"cap": [
+		"45012"
+	]
 }

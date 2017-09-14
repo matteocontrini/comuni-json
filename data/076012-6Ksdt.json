@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "A743",
-	"cap": "85051"
+	"cap": [
+		"85051"
+	]
 }

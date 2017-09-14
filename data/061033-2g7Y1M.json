@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "D361",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

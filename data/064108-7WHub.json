@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L102",
-	"cap": "83056"
+	"cap": [
+		"83056"
+	]
 }

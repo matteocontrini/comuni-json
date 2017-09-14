@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "I417",
-	"cap": "31020"
+	"cap": [
+		"31020"
+	]
 }

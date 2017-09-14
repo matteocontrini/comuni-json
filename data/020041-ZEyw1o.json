@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "G717",
-	"cap": "46040"
+	"cap": [
+		"46040"
+	]
 }

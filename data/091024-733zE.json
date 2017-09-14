@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D665",
-	"cap": "08023"
+	"cap": [
+		"08023"
+	]
 }

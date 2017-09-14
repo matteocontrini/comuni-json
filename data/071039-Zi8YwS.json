@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "G604",
-	"cap": "71038"
+	"cap": [
+		"71038"
+	]
 }

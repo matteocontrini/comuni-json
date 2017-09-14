@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "F488",
-	"cap": "80070"
+	"cap": [
+		"80070"
+	]
 }

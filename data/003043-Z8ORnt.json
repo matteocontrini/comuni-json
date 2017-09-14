@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "C166",
-	"cap": "28053"
+	"cap": [
+		"28053"
+	]
 }

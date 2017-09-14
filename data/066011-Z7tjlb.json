@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "A884",
-	"cap": "67050"
+	"cap": [
+		"67050"
+	]
 }

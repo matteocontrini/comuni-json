@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "A569",
-	"cap": "25021"
+	"cap": [
+		"25021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E457",
-	"cap": "39023"
+	"cap": [
+		"39023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "M032",
-	"cap": "36030"
+	"cap": [
+		"36030"
+	]
 }

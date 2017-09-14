@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B477",
-	"cap": "81050"
+	"cap": [
+		"81050"
+	]
 }

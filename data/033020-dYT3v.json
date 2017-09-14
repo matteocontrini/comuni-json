@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "D555",
-	"cap": "29024"
+	"cap": [
+		"29024"
+	]
 }

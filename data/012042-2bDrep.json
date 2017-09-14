@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C139",
-	"cap": "21053"
+	"cap": [
+		"21053"
+	]
 }

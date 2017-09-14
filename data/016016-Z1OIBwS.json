@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A528",
-	"cap": "24052"
+	"cap": [
+		"24052"
+	]
 }

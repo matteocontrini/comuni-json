@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "D539",
-	"cap": "03013"
+	"cap": [
+		"03013"
+	]
 }

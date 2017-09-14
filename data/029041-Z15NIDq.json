@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "H620",
-	"cap": "45100"
+	"cap": [
+		"45100"
+	]
 }

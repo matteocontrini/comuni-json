@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "E206",
-	"cap": "83035"
+	"cap": [
+		"83035"
+	]
 }

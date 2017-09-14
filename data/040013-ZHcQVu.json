@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "D705",
-	"cap": "47034"
+	"cap": [
+		"47034"
+	]
 }

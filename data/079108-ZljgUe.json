@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "H846",
-	"cap": "88021"
+	"cap": [
+		"88021"
+	]
 }

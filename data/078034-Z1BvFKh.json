@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "C430",
-	"cap": "87053"
+	"cap": [
+		"87053"
+	]
 }

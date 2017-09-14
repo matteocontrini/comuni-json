@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "D855",
-	"cap": "45030"
+	"cap": [
+		"45030"
+	]
 }

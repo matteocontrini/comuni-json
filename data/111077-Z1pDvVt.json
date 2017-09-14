@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I647",
-	"cap": "09038"
+	"cap": [
+		"09038"
+	]
 }

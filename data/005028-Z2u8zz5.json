@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "A300",
-	"cap": "14034"
+	"cap": [
+		"14034"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B894",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

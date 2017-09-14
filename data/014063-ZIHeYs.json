@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L035",
-	"cap": "23018"
+	"cap": [
+		"23018"
+	]
 }

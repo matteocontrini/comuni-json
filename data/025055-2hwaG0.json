@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I626",
-	"cap": "32030"
+	"cap": [
+		"32030"
+	]
 }

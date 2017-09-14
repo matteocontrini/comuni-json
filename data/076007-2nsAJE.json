@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "A519",
-	"cap": "85021"
+	"cap": [
+		"85021"
+	]
 }

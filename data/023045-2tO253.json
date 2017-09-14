@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "E848",
-	"cap": "37018"
+	"cap": [
+		"37018"
+	]
 }

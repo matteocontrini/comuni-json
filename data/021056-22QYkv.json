@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "F849",
-	"cap": "39025"
+	"cap": [
+		"39025"
+	]
 }

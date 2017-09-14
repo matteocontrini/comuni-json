@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "M208",
-	"cap": "88046"
+	"cap": [
+		"88046"
+	]
 }

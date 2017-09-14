@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "B805",
-	"cap": "21042"
+	"cap": [
+		"21042"
+	]
 }

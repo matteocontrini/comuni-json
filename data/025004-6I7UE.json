@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A443",
-	"cap": "32030"
+	"cap": [
+		"32030"
+	]
 }

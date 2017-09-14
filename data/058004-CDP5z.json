@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "A210",
-	"cap": "00051"
+	"cap": [
+		"00051"
+	]
 }

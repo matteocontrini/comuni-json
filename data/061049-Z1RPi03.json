@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E932",
-	"cap": "81025"
+	"cap": [
+		"81025"
+	]
 }

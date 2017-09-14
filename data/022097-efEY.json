@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E288",
-	"cap": "38050"
+	"cap": [
+		"38050"
+	]
 }

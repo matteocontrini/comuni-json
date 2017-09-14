@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "B381",
-	"cap": "94010"
+	"cap": [
+		"94010"
+	]
 }

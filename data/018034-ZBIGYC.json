@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "B988",
-	"cap": "27022"
+	"cap": [
+		"27022"
+	]
 }

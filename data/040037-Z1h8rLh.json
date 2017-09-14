@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "H542",
-	"cap": "47020"
+	"cap": [
+		"47020"
+	]
 }

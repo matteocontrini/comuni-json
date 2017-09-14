@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "F089",
-	"cap": "33092"
+	"cap": [
+		"33092"
+	]
 }

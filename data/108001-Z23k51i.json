@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "A087",
-	"cap": "20864"
+	"cap": [
+		"20864"
+	]
 }

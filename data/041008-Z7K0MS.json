@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "B636",
-	"cap": "61044"
+	"cap": [
+		"61044"
+	]
 }

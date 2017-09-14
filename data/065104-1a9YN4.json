@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "H198",
-	"cap": "84010"
+	"cap": [
+		"84010"
+	]
 }

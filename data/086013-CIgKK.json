@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "F900",
-	"cap": "94010"
+	"cap": [
+		"94010"
+	]
 }

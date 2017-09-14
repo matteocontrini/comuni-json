@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A826",
-	"cap": "21023"
+	"cap": [
+		"21023"
+	]
 }

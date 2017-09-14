@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A694",
-	"cap": "38042"
+	"cap": [
+		"38042"
+	]
 }

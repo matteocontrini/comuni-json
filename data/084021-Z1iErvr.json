@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "E573",
-	"cap": "92027"
+	"cap": [
+		"92027"
+	]
 }

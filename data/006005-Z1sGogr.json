@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A197",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

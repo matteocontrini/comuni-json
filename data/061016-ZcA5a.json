@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B779",
-	"cap": "81032"
+	"cap": [
+		"81032"
+	]
 }

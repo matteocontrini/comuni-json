@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E173",
-	"cap": "81030"
+	"cap": [
+		"81030"
+	]
 }

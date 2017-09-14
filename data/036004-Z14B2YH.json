@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "B566",
-	"cap": "41031"
+	"cap": [
+		"41031"
+	]
 }

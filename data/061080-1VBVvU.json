@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I130",
-	"cap": "81016"
+	"cap": [
+		"81016"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G110",
-	"cap": "87073"
+	"cap": [
+		"87073"
+	]
 }

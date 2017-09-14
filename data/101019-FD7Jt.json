@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "H403",
-	"cap": "88821"
+	"cap": [
+		"88821"
+	]
 }

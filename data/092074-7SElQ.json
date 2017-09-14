@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "I695",
-	"cap": "09028"
+	"cap": [
+		"09028"
+	]
 }

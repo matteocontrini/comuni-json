@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A357",
-	"cap": "09092"
+	"cap": [
+		"09092"
+	]
 }

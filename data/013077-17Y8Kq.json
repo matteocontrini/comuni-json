@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D041",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

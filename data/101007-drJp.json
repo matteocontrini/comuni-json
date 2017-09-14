@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "C725",
-	"cap": "88813"
+	"cap": [
+		"88813"
+	]
 }

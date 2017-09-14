@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "I891",
-	"cap": "94010"
+	"cap": [
+		"94010"
+	]
 }

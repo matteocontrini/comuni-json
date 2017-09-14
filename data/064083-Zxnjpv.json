@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "I016",
-	"cap": "83018"
+	"cap": [
+		"83018"
+	]
 }

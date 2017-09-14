@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "H541",
-	"cap": "46037"
+	"cap": [
+		"46037"
+	]
 }

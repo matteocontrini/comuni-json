@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "L700",
-	"cap": "31028"
+	"cap": [
+		"31028"
+	]
 }

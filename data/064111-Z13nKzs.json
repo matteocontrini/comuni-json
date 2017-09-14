@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L301",
-	"cap": "83010"
+	"cap": [
+		"83010"
+	]
 }

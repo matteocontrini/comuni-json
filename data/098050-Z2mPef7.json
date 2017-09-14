@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "I274",
-	"cap": "26866"
+	"cap": [
+		"26866"
+	]
 }

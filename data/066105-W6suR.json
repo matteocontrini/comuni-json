@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "M023",
-	"cap": "67020"
+	"cap": [
+		"67020"
+	]
 }

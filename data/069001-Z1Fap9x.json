@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "A235",
-	"cap": "66040"
+	"cap": [
+		"66040"
+	]
 }

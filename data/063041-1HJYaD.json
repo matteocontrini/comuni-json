@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E906",
-	"cap": "80016"
+	"cap": [
+		"80016"
+	]
 }

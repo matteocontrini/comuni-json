@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "B457",
-	"cap": "13821"
+	"cap": [
+		"13821"
+	]
 }

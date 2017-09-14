@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "I943",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

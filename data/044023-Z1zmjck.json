@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "E207",
-	"cap": "63066"
+	"cap": [
+		"63066"
+	]
 }

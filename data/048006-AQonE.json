@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "B507",
-	"cap": "50013"
+	"cap": [
+		"50013"
+	]
 }

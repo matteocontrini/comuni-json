@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I234",
-	"cap": "81055"
+	"cap": [
+		"81055"
+	]
 }

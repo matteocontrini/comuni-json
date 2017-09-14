@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "I444",
-	"cap": "47027"
+	"cap": [
+		"47027"
+	]
 }

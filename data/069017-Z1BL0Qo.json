@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "B985",
-	"cap": "66043"
+	"cap": [
+		"66043"
+	]
 }

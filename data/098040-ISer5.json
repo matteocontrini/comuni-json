@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "F423",
-	"cap": "26836"
+	"cap": [
+		"26836"
+	]
 }

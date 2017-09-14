@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "D786",
-	"cap": "06019"
+	"cap": [
+		"06019"
+	]
 }

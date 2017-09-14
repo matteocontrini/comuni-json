@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "E527",
-	"cap": "04025"
+	"cap": [
+		"04025"
+	]
 }

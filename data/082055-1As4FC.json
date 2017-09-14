@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "G510",
-	"cap": "90026"
+	"cap": [
+		"90026"
+	]
 }

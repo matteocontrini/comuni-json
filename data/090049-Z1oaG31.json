@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G153",
-	"cap": "07027"
+	"cap": [
+		"07027"
+	]
 }

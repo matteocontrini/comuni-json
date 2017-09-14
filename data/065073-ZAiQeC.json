@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F481",
-	"cap": "84096"
+	"cap": [
+		"84096"
+	]
 }

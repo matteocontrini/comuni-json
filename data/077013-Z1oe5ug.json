@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "E326",
-	"cap": "75022"
+	"cap": [
+		"75022"
+	]
 }

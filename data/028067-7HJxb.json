@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "G823",
-	"cap": "35040"
+	"cap": [
+		"35040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E615",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

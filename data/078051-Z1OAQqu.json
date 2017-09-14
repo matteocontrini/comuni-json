@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D464",
-	"cap": "87013"
+	"cap": [
+		"87013"
+	]
 }

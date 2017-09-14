@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "L478",
-	"cap": "98079"
+	"cap": [
+		"98079"
+	]
 }

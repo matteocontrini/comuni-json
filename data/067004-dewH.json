@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "A488",
-	"cap": "64032"
+	"cap": [
+		"64032"
+	]
 }

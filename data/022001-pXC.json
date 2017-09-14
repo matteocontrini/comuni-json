@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A116",
-	"cap": "38061"
+	"cap": [
+		"38061"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E758",
-	"cap": "10062"
+	"cap": [
+		"10062"
+	]
 }

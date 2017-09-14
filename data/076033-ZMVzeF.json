@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "D696",
-	"cap": "85023"
+	"cap": [
+		"85023"
+	]
 }

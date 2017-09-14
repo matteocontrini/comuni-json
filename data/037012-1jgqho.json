@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "B892",
-	"cap": "40020"
+	"cap": [
+		"40020"
+	]
 }

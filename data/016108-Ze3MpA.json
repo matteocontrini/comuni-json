@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D905",
-	"cap": "24024"
+	"cap": [
+		"24024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "F910",
-	"cap": "88047"
+	"cap": [
+		"88047"
+	]
 }

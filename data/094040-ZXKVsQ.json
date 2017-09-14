@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "H420",
-	"cap": "86092"
+	"cap": [
+		"86092"
+	]
 }

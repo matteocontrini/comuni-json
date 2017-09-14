@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I876",
-	"cap": "32010"
+	"cap": [
+		"32010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "F957",
-	"cap": "36055"
+	"cap": [
+		"36055"
+	]
 }

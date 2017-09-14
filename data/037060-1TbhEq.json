@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "M185",
-	"cap": "40069"
+	"cap": [
+		"40069"
+	]
 }

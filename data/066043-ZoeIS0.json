@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "D681",
-	"cap": "67020"
+	"cap": [
+		"67020"
+	]
 }

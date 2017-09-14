@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "A847",
-	"cap": "13041"
+	"cap": [
+		"13041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "H574",
-	"cap": "96019"
+	"cap": [
+		"96019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "L404",
-	"cap": "24048"
+	"cap": [
+		"24048"
+	]
 }

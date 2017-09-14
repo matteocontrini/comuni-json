@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "C745",
-	"cap": "06012"
+	"cap": [
+		"06012"
+	]
 }

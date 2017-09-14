@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "L725",
-	"cap": "86079"
+	"cap": [
+		"86079"
+	]
 }

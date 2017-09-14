@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "I794",
-	"cap": "21058"
+	"cap": [
+		"21058"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "H941",
-	"cap": "89853"
+	"cap": [
+		"89853"
+	]
 }

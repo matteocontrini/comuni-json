@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "M279",
-	"cap": "96010"
+	"cap": [
+		"96010"
+	]
 }

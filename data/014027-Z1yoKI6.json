@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "D377",
-	"cap": "23015"
+	"cap": [
+		"23015"
+	]
 }

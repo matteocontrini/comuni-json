@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "D356",
-	"cap": "11010"
+	"cap": [
+		"11010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "B940",
-	"cap": "33072"
+	"cap": [
+		"33072"
+	]
 }

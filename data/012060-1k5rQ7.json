@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D204",
-	"cap": "21035"
+	"cap": [
+		"21035"
+	]
 }

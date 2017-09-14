@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "C557",
-	"cap": "83012"
+	"cap": [
+		"83012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "F226",
-	"cap": "17040"
+	"cap": [
+		"17040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "D874",
-	"cap": "55027"
+	"cap": [
+		"55027"
+	]
 }

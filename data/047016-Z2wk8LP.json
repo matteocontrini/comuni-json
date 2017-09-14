@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "G833",
-	"cap": "51019"
+	"cap": [
+		"51019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C773",
-	"cap": "00053"
+	"cap": [
+		"00053"
+	]
 }

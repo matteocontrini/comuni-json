@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "A252",
-	"cap": "63857"
+	"cap": [
+		"63857"
+	]
 }

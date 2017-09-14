@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F682",
-	"cap": "16026"
+	"cap": [
+		"16026"
+	]
 }

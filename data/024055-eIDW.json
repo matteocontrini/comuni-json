@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E864",
-	"cap": "36034"
+	"cap": [
+		"36034"
+	]
 }

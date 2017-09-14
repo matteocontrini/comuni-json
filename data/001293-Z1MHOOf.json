@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L779",
-	"cap": "10038"
+	"cap": [
+		"10038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E394",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

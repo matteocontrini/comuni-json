@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A887",
-	"cap": "87043"
+	"cap": [
+		"87043"
+	]
 }

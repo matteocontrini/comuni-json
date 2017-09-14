@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I109",
-	"cap": "37029"
+	"cap": [
+		"37029"
+	]
 }

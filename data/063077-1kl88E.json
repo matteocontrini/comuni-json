@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I540",
-	"cap": "80030"
+	"cap": [
+		"80030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "M295",
-	"cap": "00030"
+	"cap": [
+		"00030"
+	]
 }

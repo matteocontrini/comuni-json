@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "H307",
-	"cap": "85028"
+	"cap": [
+		"85028"
+	]
 }

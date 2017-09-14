@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C040",
-	"cap": "64030"
+	"cap": [
+		"64030"
+	]
 }

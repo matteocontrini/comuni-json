@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B144",
-	"cap": "22040"
+	"cap": [
+		"22040"
+	]
 }

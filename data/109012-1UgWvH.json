@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F379",
-	"cap": "63842"
+	"cap": [
+		"63842"
+	]
 }

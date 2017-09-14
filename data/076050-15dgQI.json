@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "F295",
-	"cap": "85047"
+	"cap": [
+		"85047"
+	]
 }

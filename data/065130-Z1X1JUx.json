@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I317",
-	"cap": "84010"
+	"cap": [
+		"84010"
+	]
 }

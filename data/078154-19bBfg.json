@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "B903",
-	"cap": "87076"
+	"cap": [
+		"87076"
+	]
 }

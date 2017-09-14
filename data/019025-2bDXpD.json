@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "C153",
-	"cap": "26012"
+	"cap": [
+		"26012"
+	]
 }

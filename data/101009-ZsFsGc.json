@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "D123",
-	"cap": "88836"
+	"cap": [
+		"88836"
+	]
 }

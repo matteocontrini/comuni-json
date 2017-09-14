@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D181",
-	"cap": "88051"
+	"cap": [
+		"88051"
+	]
 }

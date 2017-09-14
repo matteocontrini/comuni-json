@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "F333",
-	"cap": "09023"
+	"cap": [
+		"09023"
+	]
 }

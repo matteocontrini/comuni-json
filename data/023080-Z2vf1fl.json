@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I594",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

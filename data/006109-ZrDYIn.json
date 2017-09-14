@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F707",
-	"cap": "15025"
+	"cap": [
+		"15025"
+	]
 }

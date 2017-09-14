@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "H131",
-	"cap": "31055"
+	"cap": [
+		"31055"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "E488",
-	"cap": "16033"
+	"cap": [
+		"16033"
+	]
 }

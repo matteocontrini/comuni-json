@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "B180",
-	"cap": "72100"
+	"cap": [
+		"72100"
+	]
 }

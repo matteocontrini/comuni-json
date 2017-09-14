@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "I804",
-	"cap": "67039"
+	"cap": [
+		"67039"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "I243",
-	"cap": "23889"
+	"cap": [
+		"23889"
+	]
 }

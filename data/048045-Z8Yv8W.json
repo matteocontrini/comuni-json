@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "L067",
-	"cap": "50028"
+	"cap": [
+		"50028"
+	]
 }

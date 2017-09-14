@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F015",
-	"cap": "15024"
+	"cap": [
+		"15024"
+	]
 }

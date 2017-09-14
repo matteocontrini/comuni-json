@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "H454",
-	"cap": "86020"
+	"cap": [
+		"86020"
+	]
 }

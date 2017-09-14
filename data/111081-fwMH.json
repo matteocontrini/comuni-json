@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I706",
-	"cap": "08037"
+	"cap": [
+		"08037"
+	]
 }

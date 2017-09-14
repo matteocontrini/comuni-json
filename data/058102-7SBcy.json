@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "I573",
-	"cap": "00037"
+	"cap": [
+		"00037"
+	]
 }

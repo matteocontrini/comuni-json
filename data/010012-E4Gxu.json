@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "B956",
-	"cap": "16015"
+	"cap": [
+		"16015"
+	]
 }

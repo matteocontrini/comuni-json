@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F503",
-	"cap": "41045"
+	"cap": [
+		"41045"
+	]
 }

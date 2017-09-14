@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "F592",
-	"cap": "53045"
+	"cap": [
+		"53045"
+	]
 }

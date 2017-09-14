@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "C695",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

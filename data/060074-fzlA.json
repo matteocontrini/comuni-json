@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "I838",
-	"cap": "03039"
+	"cap": [
+		"03039"
+	]
 }

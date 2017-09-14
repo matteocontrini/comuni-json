@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "E372",
-	"cap": "66054"
+	"cap": [
+		"66054"
+	]
 }

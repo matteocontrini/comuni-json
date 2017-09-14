@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "L140",
-	"cap": "08047"
+	"cap": [
+		"08047"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I206",
-	"cap": "32035"
+	"cap": [
+		"32035"
+	]
 }

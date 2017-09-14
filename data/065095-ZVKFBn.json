@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G538",
-	"cap": "84065"
+	"cap": [
+		"84065"
+	]
 }

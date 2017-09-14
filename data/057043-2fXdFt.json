@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "F619",
-	"cap": "02040"
+	"cap": [
+		"02040"
+	]
 }

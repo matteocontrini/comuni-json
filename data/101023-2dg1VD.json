@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "I468",
-	"cap": "88825"
+	"cap": [
+		"88825"
+	]
 }

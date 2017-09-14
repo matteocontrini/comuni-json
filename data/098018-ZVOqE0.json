@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "C555",
-	"cap": "26832"
+	"cap": [
+		"26832"
+	]
 }

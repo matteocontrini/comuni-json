@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "H006",
-	"cap": "83039"
+	"cap": [
+		"83039"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L169",
-	"cap": "25080"
+	"cap": [
+		"25080"
+	]
 }

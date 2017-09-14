@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "H200",
-	"cap": "33029"
+	"cap": [
+		"33029"
+	]
 }

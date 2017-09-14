@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "I135",
-	"cap": "53027"
+	"cap": [
+		"53027"
+	]
 }

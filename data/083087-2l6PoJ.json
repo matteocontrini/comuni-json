@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I254",
-	"cap": "98050"
+	"cap": [
+		"98050"
+	]
 }

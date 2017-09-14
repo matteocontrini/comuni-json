@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B280",
-	"cap": "13040"
+	"cap": [
+		"13040"
+	]
 }

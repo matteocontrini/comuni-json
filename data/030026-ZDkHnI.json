@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "C758",
-	"cap": "33043"
+	"cap": [
+		"33043"
+	]
 }

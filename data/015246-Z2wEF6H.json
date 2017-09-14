@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "M160",
-	"cap": "20080"
+	"cap": [
+		"20080"
+	]
 }

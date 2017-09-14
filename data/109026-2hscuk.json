@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F665",
-	"cap": "63836"
+	"cap": [
+		"63836"
+	]
 }

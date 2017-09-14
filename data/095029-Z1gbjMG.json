@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "F272",
-	"cap": "09095"
+	"cap": [
+		"09095"
+	]
 }

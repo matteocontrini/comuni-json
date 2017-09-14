@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I701",
-	"cap": "10010"
+	"cap": [
+		"10010"
+	]
 }

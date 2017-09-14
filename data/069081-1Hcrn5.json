@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D690",
-	"cap": "66020"
+	"cap": [
+		"66020"
+	]
 }

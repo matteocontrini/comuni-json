@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I470",
-	"cap": "12038"
+	"cap": [
+		"12038"
+	]
 }

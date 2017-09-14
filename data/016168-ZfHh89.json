@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "F941",
-	"cap": "24028"
+	"cap": [
+		"24028"
+	]
 }

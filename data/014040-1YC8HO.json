@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "F070",
-	"cap": "23030"
+	"cap": [
+		"23030"
+	]
 }

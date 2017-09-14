@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H727",
-	"cap": "12037"
+	"cap": [
+		"12037"
+	]
 }

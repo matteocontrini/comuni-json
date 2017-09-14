@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L589",
-	"cap": "83059"
+	"cap": [
+		"83059"
+	]
 }

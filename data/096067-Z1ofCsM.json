@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L116",
-	"cap": "13844"
+	"cap": [
+		"13844"
+	]
 }

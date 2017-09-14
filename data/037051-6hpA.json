@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "G566",
-	"cap": "40048"
+	"cap": [
+		"40048"
+	]
 }

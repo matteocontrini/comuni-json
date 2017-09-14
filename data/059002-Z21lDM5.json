@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "A707",
-	"cap": "04010"
+	"cap": [
+		"04010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "I308",
-	"cap": "88832"
+	"cap": [
+		"88832"
+	]
 }

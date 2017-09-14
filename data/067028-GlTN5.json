@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F690",
-	"cap": "64046"
+	"cap": [
+		"64046"
+	]
 }

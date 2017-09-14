@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "M042",
-	"cap": "28856"
+	"cap": [
+		"28856"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "A959",
-	"cap": "41030"
+	"cap": [
+		"41030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F471",
-	"cap": "25018"
+	"cap": [
+		"25018"
+	]
 }

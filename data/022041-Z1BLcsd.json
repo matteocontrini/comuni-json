@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B723",
-	"cap": "38033"
+	"cap": [
+		"38033"
+	]
 }

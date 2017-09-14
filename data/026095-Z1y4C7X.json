@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "M171",
-	"cap": "31059"
+	"cap": [
+		"31059"
+	]
 }

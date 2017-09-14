@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "C458",
-	"cap": "32020"
+	"cap": [
+		"32020"
+	]
 }

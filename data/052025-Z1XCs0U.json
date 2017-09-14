@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "H157",
-	"cap": "53030"
+	"cap": [
+		"53030"
+	]
 }

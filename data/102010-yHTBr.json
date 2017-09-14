@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "D453",
-	"cap": "89823"
+	"cap": [
+		"89823"
+	]
 }

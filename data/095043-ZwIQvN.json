@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "H301",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

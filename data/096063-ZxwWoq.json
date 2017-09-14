@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "I847",
-	"cap": "13817"
+	"cap": [
+		"13817"
+	]
 }

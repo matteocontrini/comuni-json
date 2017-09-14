@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B194",
-	"cap": "23883"
+	"cap": [
+		"23883"
+	]
 }

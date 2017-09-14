@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "G370",
-	"cap": "83052"
+	"cap": [
+		"83052"
+	]
 }

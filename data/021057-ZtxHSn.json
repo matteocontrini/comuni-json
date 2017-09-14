@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "F856",
-	"cap": "39040"
+	"cap": [
+		"39040"
+	]
 }

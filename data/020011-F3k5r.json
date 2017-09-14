@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "B907",
-	"cap": "46040"
+	"cap": [
+		"46040"
+	]
 }

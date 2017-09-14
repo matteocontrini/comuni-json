@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "A409",
-	"cap": "28811"
+	"cap": [
+		"28811"
+	]
 }

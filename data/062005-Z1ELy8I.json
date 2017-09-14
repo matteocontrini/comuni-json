@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "A431",
-	"cap": "82011"
+	"cap": [
+		"82011"
+	]
 }

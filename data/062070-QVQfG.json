@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "I197",
-	"cap": "82019"
+	"cap": [
+		"82019"
+	]
 }

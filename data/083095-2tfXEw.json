@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I747",
-	"cap": "98069"
+	"cap": [
+		"98069"
+	]
 }

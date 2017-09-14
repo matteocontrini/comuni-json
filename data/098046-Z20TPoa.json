@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "H701",
-	"cap": "26857"
+	"cap": [
+		"26857"
+	]
 }

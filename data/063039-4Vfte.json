@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E557",
-	"cap": "80050"
+	"cap": [
+		"80050"
+	]
 }

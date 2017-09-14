@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L304",
-	"cap": "15057"
+	"cap": [
+		"15057"
+	]
 }

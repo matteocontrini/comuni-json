@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L203",
-	"cap": "14039"
+	"cap": [
+		"14039"
+	]
 }

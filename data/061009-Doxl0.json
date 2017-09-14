@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B362",
-	"cap": "81013"
+	"cap": [
+		"81013"
+	]
 }

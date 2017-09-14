@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "C410",
-	"cap": "24026"
+	"cap": [
+		"24026"
+	]
 }

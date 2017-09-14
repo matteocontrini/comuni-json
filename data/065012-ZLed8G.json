@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A495",
-	"cap": "84031"
+	"cap": [
+		"84031"
+	]
 }

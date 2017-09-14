@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "G480",
-	"cap": "55064"
+	"cap": [
+		"55064"
+	]
 }

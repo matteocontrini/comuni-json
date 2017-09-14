@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "E709",
-	"cap": "35034"
+	"cap": [
+		"35034"
+	]
 }

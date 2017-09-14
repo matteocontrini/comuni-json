@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "H991",
-	"cap": "66010"
+	"cap": [
+		"66010"
+	]
 }

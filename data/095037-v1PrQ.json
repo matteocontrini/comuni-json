@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "G043",
-	"cap": "09088"
+	"cap": [
+		"09088"
+	]
 }

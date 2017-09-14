@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A112",
-	"cap": "23881"
+	"cap": [
+		"23881"
+	]
 }

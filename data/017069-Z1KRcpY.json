@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D421",
-	"cap": "25030"
+	"cap": [
+		"25030"
+	]
 }

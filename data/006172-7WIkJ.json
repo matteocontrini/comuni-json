@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L143",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

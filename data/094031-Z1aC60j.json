@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "G486",
-	"cap": "86090"
+	"cap": [
+		"86090"
+	]
 }

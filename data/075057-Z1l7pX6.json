@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "G188",
-	"cap": "73028"
+	"cap": [
+		"73028"
+	]
 }

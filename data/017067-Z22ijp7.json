@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D284",
-	"cap": "25015"
+	"cap": [
+		"25015"
+	]
 }

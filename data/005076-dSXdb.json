@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F527",
-	"cap": "14048"
+	"cap": [
+		"14048"
+	]
 }

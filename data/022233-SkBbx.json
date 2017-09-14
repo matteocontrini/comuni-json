@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M366",
-	"cap": "38025"
+	"cap": [
+		"38025"
+	]
 }

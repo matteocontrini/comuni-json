@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B641",
-	"cap": "22035"
+	"cap": [
+		"22035"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "G166",
-	"cap": "26864"
+	"cap": [
+		"26864"
+	]
 }

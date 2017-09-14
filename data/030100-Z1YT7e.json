@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "H895",
-	"cap": "33058"
+	"cap": [
+		"33058"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "H222",
-	"cap": "50066"
+	"cap": [
+		"50066"
+	]
 }

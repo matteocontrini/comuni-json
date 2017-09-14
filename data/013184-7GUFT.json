@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G665",
-	"cap": "22020"
+	"cap": [
+		"22020"
+	]
 }

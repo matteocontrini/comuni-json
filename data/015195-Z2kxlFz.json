@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "H930",
-	"cap": "20098"
+	"cap": [
+		"20098"
+	]
 }

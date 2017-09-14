@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "I848",
-	"cap": "26858"
+	"cap": [
+		"26858"
+	]
 }

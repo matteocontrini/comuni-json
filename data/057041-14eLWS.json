@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "F541",
-	"cap": "02033"
+	"cap": [
+		"02033"
+	]
 }

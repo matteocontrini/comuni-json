@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "L806",
-	"cap": "26039"
+	"cap": [
+		"26039"
+	]
 }

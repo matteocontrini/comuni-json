@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "M309",
-	"cap": "00013"
+	"cap": [
+		"00013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "M034",
-	"cap": "33059"
+	"cap": [
+		"33059"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "C134",
-	"cap": "70013"
+	"cap": [
+		"70013"
+	]
 }

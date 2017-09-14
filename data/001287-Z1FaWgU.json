@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L644",
-	"cap": "10087"
+	"cap": [
+		"10087"
+	]
 }

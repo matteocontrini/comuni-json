@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "D319",
-	"cap": "18020"
+	"cap": [
+		"18020"
+	]
 }

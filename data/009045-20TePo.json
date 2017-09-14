@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G144",
-	"cap": "17037"
+	"cap": [
+		"17037"
+	]
 }

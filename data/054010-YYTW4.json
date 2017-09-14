@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "C527",
-	"cap": "06041"
+	"cap": [
+		"06041"
+	]
 }

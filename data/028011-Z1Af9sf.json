@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "A714",
-	"cap": "35041"
+	"cap": [
+		"35041"
+	]
 }

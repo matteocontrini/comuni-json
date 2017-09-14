@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C815",
-	"cap": "31013"
+	"cap": [
+		"31013"
+	]
 }

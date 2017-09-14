@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "C918",
-	"cap": "33023"
+	"cap": [
+		"33023"
+	]
 }

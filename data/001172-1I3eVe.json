@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G109",
-	"cap": "10010"
+	"cap": [
+		"10010"
+	]
 }

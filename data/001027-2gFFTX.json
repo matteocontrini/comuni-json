@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A941",
-	"cap": "10012"
+	"cap": [
+		"10012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "F161",
-	"cap": "35035"
+	"cap": [
+		"35035"
+	]
 }

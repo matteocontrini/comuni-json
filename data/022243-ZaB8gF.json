@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M357",
-	"cap": "38076"
+	"cap": [
+		"38076"
+	]
 }

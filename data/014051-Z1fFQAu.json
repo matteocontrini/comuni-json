@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "G431",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

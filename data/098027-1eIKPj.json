@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "D868",
-	"cap": "26832"
+	"cap": [
+		"26832"
+	]
 }

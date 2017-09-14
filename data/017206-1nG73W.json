@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G549",
-	"cap": "25052"
+	"cap": [
+		"25052"
+	]
 }

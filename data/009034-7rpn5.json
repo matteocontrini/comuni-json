@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "E632",
-	"cap": "17025"
+	"cap": [
+		"17025"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C183",
-	"cap": "38082"
+	"cap": [
+		"38082"
+	]
 }

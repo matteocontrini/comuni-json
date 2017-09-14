@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D149",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

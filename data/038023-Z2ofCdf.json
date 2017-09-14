@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "M110",
-	"cap": "44019"
+	"cap": [
+		"44019"
+	]
 }

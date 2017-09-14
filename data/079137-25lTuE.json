@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I872",
-	"cap": "88068"
+	"cap": [
+		"88068"
+	]
 }

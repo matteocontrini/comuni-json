@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "E550",
-	"cap": "20855"
+	"cap": [
+		"20855"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I165",
-	"cap": "87010"
+	"cap": [
+		"87010"
+	]
 }

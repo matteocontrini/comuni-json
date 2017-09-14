@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F871",
-	"cap": "00017"
+	"cap": [
+		"00017"
+	]
 }

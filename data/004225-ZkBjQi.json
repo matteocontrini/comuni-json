@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L048",
-	"cap": "12020"
+	"cap": [
+		"12020"
+	]
 }

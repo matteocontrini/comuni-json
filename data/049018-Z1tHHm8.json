@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "I390",
-	"cap": "57027"
+	"cap": [
+		"57027"
+	]
 }

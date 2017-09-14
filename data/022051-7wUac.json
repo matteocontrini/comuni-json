@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C380",
-	"cap": "38011"
+	"cap": [
+		"38011"
+	]
 }

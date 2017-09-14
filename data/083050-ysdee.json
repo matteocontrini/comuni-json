@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F210",
-	"cap": "98070"
+	"cap": [
+		"98070"
+	]
 }

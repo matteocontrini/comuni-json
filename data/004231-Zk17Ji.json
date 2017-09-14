@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L410",
-	"cap": "12050"
+	"cap": [
+		"12050"
+	]
 }

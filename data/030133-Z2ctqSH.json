@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L909",
-	"cap": "33029"
+	"cap": [
+		"33029"
+	]
 }

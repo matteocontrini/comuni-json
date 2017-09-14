@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "B274",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "D689",
-	"cap": "02044"
+	"cap": [
+		"02044"
+	]
 }

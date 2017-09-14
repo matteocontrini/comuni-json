@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "G148",
-	"cap": "05018"
+	"cap": [
+		"05018"
+	]
 }

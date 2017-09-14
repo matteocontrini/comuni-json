@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "E425",
-	"cap": "07024"
+	"cap": [
+		"07024"
+	]
 }

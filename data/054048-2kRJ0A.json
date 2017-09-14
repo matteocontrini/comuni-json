@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "I585",
-	"cap": "06030"
+	"cap": [
+		"06030"
+	]
 }

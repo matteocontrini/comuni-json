@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "A666",
-	"cap": "85022"
+	"cap": [
+		"85022"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "F606",
-	"cap": "01030"
+	"cap": [
+		"01030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "F640",
-	"cap": "56040"
+	"cap": [
+		"56040"
+	]
 }

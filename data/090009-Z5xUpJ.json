@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "A789",
-	"cap": "07022"
+	"cap": [
+		"07022"
+	]
 }

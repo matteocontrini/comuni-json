@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "F874",
-	"cap": "20014"
+	"cap": [
+		"20014"
+	]
 }

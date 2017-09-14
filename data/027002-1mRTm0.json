@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "B493",
-	"cap": "30010"
+	"cap": [
+		"30010"
+	]
 }

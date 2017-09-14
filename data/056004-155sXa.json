@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "A628",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

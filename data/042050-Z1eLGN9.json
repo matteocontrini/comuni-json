@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "M318",
-	"cap": "60012"
+	"cap": [
+		"60012"
+	]
 }

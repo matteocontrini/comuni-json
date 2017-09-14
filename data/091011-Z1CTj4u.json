@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "B056",
-	"cap": "08016"
+	"cap": [
+		"08016"
+	]
 }

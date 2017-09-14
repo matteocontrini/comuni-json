@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "C533",
-	"cap": "14030"
+	"cap": [
+		"14030"
+	]
 }

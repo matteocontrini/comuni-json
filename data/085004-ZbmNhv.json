@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "B429",
-	"cap": "93100"
+	"cap": [
+		"93100"
+	]
 }

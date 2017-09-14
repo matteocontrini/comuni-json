@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C866",
-	"cap": "67020"
+	"cap": [
+		"67020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "C714",
-	"cap": "30020"
+	"cap": [
+		"30020"
+	]
 }

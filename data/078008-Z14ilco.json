@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A234",
-	"cap": "87040"
+	"cap": [
+		"87040"
+	]
 }

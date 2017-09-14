@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L919",
-	"cap": "25069"
+	"cap": [
+		"25069"
+	]
 }

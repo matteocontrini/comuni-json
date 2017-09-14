@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "D674",
-	"cap": "31043"
+	"cap": [
+		"31043"
+	]
 }

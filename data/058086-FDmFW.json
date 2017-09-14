@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "H404",
-	"cap": "00040"
+	"cap": [
+		"00040"
+	]
 }

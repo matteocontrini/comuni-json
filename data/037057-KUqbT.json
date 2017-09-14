@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "G972",
-	"cap": "40037"
+	"cap": [
+		"40037"
+	]
 }

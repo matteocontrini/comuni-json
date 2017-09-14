@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C270",
-	"cap": "86071"
+	"cap": [
+		"86071"
+	]
 }

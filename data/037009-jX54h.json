@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "B399",
-	"cap": "40012"
+	"cap": [
+		"40012"
+	]
 }

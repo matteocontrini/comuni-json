@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "H341",
-	"cap": "26036"
+	"cap": [
+		"26036"
+	]
 }

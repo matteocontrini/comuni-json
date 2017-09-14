@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "E363",
-	"cap": "71040"
+	"cap": [
+		"71040"
+	]
 }

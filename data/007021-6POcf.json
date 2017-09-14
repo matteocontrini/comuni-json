@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "C821",
-	"cap": "11012"
+	"cap": [
+		"11012"
+	]
 }

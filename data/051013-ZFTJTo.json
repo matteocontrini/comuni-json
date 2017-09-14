@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "C407",
-	"cap": "52022"
+	"cap": [
+		"52022"
+	]
 }

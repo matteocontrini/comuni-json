@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "B898",
-	"cap": "26041"
+	"cap": [
+		"26041"
+	]
 }

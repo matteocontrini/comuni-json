@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L212",
-	"cap": "84076"
+	"cap": [
+		"84076"
+	]
 }

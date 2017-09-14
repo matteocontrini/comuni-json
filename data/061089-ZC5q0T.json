@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I885",
-	"cap": "81056"
+	"cap": [
+		"81056"
+	]
 }

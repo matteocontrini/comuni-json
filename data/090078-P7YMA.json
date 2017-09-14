@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L989",
-	"cap": "07019"
+	"cap": [
+		"07019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "D422",
-	"cap": "72020"
+	"cap": [
+		"72020"
+	]
 }

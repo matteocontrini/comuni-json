@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E216",
-	"cap": "10095"
+	"cap": [
+		"10095"
+	]
 }

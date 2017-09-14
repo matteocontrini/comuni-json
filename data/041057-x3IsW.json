@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "I287",
-	"cap": "61048"
+	"cap": [
+		"61048"
+	]
 }

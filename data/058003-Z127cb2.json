@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "A132",
-	"cap": "00041"
+	"cap": [
+		"00041"
+	]
 }

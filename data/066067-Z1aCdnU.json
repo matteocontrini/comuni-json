@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G449",
-	"cap": "67064"
+	"cap": [
+		"67064"
+	]
 }

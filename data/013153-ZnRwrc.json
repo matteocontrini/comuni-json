@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F372",
-	"cap": "22040"
+	"cap": [
+		"22040"
+	]
 }

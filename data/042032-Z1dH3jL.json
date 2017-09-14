@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "F978",
-	"cap": "60026"
+	"cap": [
+		"60026"
+	]
 }

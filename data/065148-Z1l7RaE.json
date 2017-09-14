@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L233",
-	"cap": "84030"
+	"cap": [
+		"84030"
+	]
 }

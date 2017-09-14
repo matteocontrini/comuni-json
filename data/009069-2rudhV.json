@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "M197",
-	"cap": "17039"
+	"cap": [
+		"17039"
+	]
 }

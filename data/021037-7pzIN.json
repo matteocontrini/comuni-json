@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E398",
-	"cap": "39021"
+	"cap": [
+		"39021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G011",
-	"cap": "84061"
+	"cap": [
+		"84061"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "E429",
-	"cap": "32033"
+	"cap": [
+		"32033"
+	]
 }

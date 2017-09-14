@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "C240",
-	"cap": "19033"
+	"cap": [
+		"19033"
+	]
 }

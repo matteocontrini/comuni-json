@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A627",
-	"cap": "36021"
+	"cap": [
+		"36021"
+	]
 }

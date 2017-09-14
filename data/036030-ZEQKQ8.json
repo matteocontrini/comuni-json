@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "G393",
-	"cap": "41026"
+	"cap": [
+		"41026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L606",
-	"cap": "13825"
+	"cap": [
+		"13825"
+	]
 }

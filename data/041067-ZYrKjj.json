@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "L500",
-	"cap": "61029"
+	"cap": [
+		"61029"
+	]
 }

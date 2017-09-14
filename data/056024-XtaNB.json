@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "D452",
-	"cap": "01034"
+	"cap": [
+		"01034"
+	]
 }

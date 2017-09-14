@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "A850",
-	"cap": "42021"
+	"cap": [
+		"42021"
+	]
 }

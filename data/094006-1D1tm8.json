@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "B682",
-	"cap": "86082"
+	"cap": [
+		"86082"
+	]
 }

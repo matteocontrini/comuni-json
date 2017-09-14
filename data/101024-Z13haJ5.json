@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "I494",
-	"cap": "88831"
+	"cap": [
+		"88831"
+	]
 }

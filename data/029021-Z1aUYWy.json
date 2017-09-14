@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "D568",
-	"cap": "45036"
+	"cap": [
+		"45036"
+	]
 }

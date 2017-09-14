@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "I346",
-	"cap": "16010"
+	"cap": [
+		"16010"
+	]
 }

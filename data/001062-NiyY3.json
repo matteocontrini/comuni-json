@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B955",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

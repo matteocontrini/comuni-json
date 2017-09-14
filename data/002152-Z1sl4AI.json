@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "L566",
-	"cap": "13018"
+	"cap": [
+		"13018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I608",
-	"cap": "60019"
+	"cap": [
+		"60019"
+	]
 }

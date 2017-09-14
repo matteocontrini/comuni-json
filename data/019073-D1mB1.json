@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "G603",
-	"cap": "26017"
+	"cap": [
+		"26017"
+	]
 }

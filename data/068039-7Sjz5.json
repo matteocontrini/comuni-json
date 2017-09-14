@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "I482",
-	"cap": "65027"
+	"cap": [
+		"65027"
+	]
 }

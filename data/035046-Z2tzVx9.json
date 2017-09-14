@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "M364",
-	"cap": "42032"
+	"cap": [
+		"42032"
+	]
 }

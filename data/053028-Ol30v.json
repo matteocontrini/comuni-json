@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "I601",
-	"cap": "58055"
+	"cap": [
+		"58055"
+	]
 }

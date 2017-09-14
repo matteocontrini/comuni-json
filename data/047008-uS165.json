@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "F025",
-	"cap": "51010"
+	"cap": [
+		"51010"
+	]
 }

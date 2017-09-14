@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L326",
-	"cap": "85057"
+	"cap": [
+		"85057"
+	]
 }

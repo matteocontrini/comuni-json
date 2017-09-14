@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "G037",
-	"cap": "75010"
+	"cap": [
+		"75010"
+	]
 }

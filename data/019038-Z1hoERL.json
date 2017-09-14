@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "D186",
-	"cap": "26020"
+	"cap": [
+		"26020"
+	]
 }

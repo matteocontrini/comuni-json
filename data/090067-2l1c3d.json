@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "I614",
-	"cap": "07036"
+	"cap": [
+		"07036"
+	]
 }

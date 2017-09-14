@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "F394",
-	"cap": "35044"
+	"cap": [
+		"35044"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "E239",
-	"cap": "88065"
+	"cap": [
+		"88065"
+	]
 }

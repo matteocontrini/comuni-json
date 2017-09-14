@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "H642",
-	"cap": "48026"
+	"cap": [
+		"48026"
+	]
 }

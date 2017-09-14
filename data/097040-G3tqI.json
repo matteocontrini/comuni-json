@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E305",
-	"cap": "23815"
+	"cap": [
+		"23815"
+	]
 }

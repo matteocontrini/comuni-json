@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "A138",
-	"cap": "43051"
+	"cap": [
+		"43051"
+	]
 }

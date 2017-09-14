@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F151",
-	"cap": "22046"
+	"cap": [
+		"22046"
+	]
 }

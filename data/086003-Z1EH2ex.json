@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "A478",
-	"cap": "94010"
+	"cap": [
+		"94010"
+	]
 }

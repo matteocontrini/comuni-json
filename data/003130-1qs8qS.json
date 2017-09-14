@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "H502",
-	"cap": "28078"
+	"cap": [
+		"28078"
+	]
 }

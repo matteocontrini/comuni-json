@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "F200",
-	"cap": "88040"
+	"cap": [
+		"88040"
+	]
 }

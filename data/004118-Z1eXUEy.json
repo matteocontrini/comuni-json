@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E945",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

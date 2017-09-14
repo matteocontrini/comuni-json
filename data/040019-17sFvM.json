@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "F097",
-	"cap": "47014"
+	"cap": [
+		"47014"
+	]
 }

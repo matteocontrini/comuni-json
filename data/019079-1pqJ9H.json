@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "H276",
-	"cap": "26010"
+	"cap": [
+		"26010"
+	]
 }

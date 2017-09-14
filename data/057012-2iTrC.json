@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "A472",
-	"cap": "02041"
+	"cap": [
+		"02041"
+	]
 }

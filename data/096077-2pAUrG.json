@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L880",
-	"cap": "13856"
+	"cap": [
+		"13856"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F770",
-	"cap": "31045"
+	"cap": [
+		"31045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "A308",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

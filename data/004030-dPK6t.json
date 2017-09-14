@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B167",
-	"cap": "12080"
+	"cap": [
+		"12080"
+	]
 }

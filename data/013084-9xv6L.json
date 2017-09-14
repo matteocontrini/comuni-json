@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D196",
-	"cap": "22060"
+	"cap": [
+		"22060"
+	]
 }

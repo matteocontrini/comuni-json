@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "I854",
-	"cap": "89831"
+	"cap": [
+		"89831"
+	]
 }

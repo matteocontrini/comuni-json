@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "C718",
-	"cap": "18017"
+	"cap": [
+		"18017"
+	]
 }

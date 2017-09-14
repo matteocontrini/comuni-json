@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E510",
-	"cap": "21038"
+	"cap": [
+		"21038"
+	]
 }

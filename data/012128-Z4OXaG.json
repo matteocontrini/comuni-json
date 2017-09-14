@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L342",
-	"cap": "21028"
+	"cap": [
+		"21028"
+	]
 }

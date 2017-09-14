@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I677",
-	"cap": "84074"
+	"cap": [
+		"84074"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F865",
-	"cap": "00074"
+	"cap": [
+		"00074"
+	]
 }

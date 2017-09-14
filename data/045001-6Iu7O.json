@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "A496",
-	"cap": "54011"
+	"cap": [
+		"54011"
+	]
 }

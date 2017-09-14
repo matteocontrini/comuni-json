@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "D038",
-	"cap": "20856"
+	"cap": [
+		"20856"
+	]
 }

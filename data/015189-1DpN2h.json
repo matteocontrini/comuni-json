@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "H623",
-	"cap": "20089"
+	"cap": [
+		"20089"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "M331",
-	"cap": "61022"
+	"cap": [
+		"61022"
+	]
 }

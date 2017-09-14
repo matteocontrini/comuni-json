@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "G673",
-	"cap": "45020"
+	"cap": [
+		"45020"
+	]
 }

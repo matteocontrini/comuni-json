@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "H104",
-	"cap": "15044"
+	"cap": [
+		"15044"
+	]
 }

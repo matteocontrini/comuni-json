@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A531",
-	"cap": "21022"
+	"cap": [
+		"21022"
+	]
 }

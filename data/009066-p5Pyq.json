@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "L730",
-	"cap": "17032"
+	"cap": [
+		"17032"
+	]
 }

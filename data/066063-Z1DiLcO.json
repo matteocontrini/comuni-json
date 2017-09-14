@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G142",
-	"cap": "67050"
+	"cap": [
+		"67050"
+	]
 }

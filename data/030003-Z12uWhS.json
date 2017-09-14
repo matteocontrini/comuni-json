@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A267",
-	"cap": "33021"
+	"cap": [
+		"33021"
+	]
 }

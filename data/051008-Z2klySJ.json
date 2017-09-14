@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "C102",
-	"cap": "52016"
+	"cap": [
+		"52016"
+	]
 }

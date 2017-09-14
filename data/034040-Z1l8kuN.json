@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "L229",
-	"cap": "43059"
+	"cap": [
+		"43059"
+	]
 }

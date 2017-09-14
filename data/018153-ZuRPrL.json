@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I968",
-	"cap": "27049"
+	"cap": [
+		"27049"
+	]
 }

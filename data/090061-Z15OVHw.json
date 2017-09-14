@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "H507",
-	"cap": "07010"
+	"cap": [
+		"07010"
+	]
 }

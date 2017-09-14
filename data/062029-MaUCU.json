@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "D469",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

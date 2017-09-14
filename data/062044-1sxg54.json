@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "F717",
-	"cap": "82026"
+	"cap": [
+		"82026"
+	]
 }

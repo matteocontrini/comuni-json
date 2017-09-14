@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "I342",
-	"cap": "42049"
+	"cap": [
+		"42049"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "B196",
-	"cap": "36070"
+	"cap": [
+		"36070"
+	]
 }

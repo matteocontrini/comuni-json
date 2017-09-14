@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "I863",
-	"cap": "07037"
+	"cap": [
+		"07037"
+	]
 }

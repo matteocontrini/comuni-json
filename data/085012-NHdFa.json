@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "F830",
-	"cap": "93014"
+	"cap": [
+		"93014"
+	]
 }

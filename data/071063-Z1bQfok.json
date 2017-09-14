@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "M266",
-	"cap": "71040"
+	"cap": [
+		"71040"
+	]
 }

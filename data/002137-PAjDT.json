@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "I663",
-	"cap": "13037"
+	"cap": [
+		"13037"
+	]
 }

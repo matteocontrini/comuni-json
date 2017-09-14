@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "C236",
-	"cap": "55032"
+	"cap": [
+		"55032"
+	]
 }

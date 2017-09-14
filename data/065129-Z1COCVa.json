@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I307",
-	"cap": "84037"
+	"cap": [
+		"84037"
+	]
 }

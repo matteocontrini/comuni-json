@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "I759",
-	"cap": "23844"
+	"cap": [
+		"23844"
+	]
 }

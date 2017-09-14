@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "E547",
-	"cap": "43037"
+	"cap": [
+		"43037"
+	]
 }

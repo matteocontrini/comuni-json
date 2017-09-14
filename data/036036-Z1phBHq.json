@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "H794",
-	"cap": "41018"
+	"cap": [
+		"41018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "C950",
-	"cap": "30023"
+	"cap": [
+		"30023"
+	]
 }

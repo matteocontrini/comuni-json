@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "F094",
-	"cap": "32026"
+	"cap": [
+		"32026"
+	]
 }

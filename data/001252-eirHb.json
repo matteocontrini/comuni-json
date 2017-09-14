@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I137",
-	"cap": "10090"
+	"cap": [
+		"10090"
+	]
 }

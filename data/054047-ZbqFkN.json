@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "I523",
-	"cap": "06040"
+	"cap": [
+		"06040"
+	]
 }

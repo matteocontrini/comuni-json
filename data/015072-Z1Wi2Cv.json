@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C537",
-	"cap": "20023"
+	"cap": [
+		"20023"
+	]
 }

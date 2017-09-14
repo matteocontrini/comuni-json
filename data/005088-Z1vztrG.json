@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "H102",
-	"cap": "14040"
+	"cap": [
+		"14040"
+	]
 }

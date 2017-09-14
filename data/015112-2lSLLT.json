@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "E258",
-	"cap": "20088"
+	"cap": [
+		"20088"
+	]
 }

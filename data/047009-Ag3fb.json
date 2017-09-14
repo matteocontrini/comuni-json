@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "F384",
-	"cap": "51015"
+	"cap": [
+		"51015"
+	]
 }

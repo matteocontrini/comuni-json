@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "C080",
-	"cap": "47861"
+	"cap": [
+		"47861"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "D008",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

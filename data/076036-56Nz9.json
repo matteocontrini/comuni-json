@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "D971",
-	"cap": "85013"
+	"cap": [
+		"85013"
+	]
 }

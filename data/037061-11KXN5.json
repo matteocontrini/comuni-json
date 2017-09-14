@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "M320",
-	"cap": "40053"
+	"cap": [
+		"40053"
+	]
 }

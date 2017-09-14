@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "E040",
-	"cap": "67055"
+	"cap": [
+		"67055"
+	]
 }

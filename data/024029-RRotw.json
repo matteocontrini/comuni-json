@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "C605",
-	"cap": "36072"
+	"cap": [
+		"36072"
+	]
 }

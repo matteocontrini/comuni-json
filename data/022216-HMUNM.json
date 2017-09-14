@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L886",
-	"cap": "38057"
+	"cap": [
+		"38057"
+	]
 }

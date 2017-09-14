@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F870",
-	"cap": "64015"
+	"cap": [
+		"64015"
+	]
 }

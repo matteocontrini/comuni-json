@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "E217",
-	"cap": "26023"
+	"cap": [
+		"26023"
+	]
 }

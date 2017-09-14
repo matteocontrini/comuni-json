@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E661",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

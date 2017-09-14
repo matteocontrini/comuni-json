@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F455",
-	"cap": "15040"
+	"cap": [
+		"15040"
+	]
 }

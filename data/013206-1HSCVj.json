@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H840",
-	"cap": "22042"
+	"cap": [
+		"22042"
+	]
 }

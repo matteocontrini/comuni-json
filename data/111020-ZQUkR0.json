@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "D443",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

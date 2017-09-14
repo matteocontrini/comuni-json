@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "M263",
-	"cap": "73010"
+	"cap": [
+		"73010"
+	]
 }

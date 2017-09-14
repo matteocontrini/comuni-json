@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "E114",
-	"cap": "29020"
+	"cap": [
+		"29020"
+	]
 }

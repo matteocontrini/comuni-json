@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "M003",
-	"cap": "13030"
+	"cap": [
+		"13030"
+	]
 }

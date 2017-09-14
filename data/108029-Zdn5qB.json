@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "E786",
-	"cap": "20846"
+	"cap": [
+		"20846"
+	]
 }

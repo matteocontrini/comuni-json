@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "C275",
-	"cap": "92025"
+	"cap": [
+		"92025"
+	]
 }

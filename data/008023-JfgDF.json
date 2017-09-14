@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "D087",
-	"cap": "18023"
+	"cap": [
+		"18023"
+	]
 }

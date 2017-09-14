@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "G650",
-	"cap": "27017"
+	"cap": [
+		"27017"
+	]
 }

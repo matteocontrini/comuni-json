@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "B848",
-	"cap": "35025"
+	"cap": [
+		"35025"
+	]
 }

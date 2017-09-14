@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "D072",
-	"cap": "14040"
+	"cap": [
+		"14040"
+	]
 }

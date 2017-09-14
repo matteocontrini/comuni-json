@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "H622",
-	"cap": "35030"
+	"cap": [
+		"35030"
+	]
 }

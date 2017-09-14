@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "B640",
-	"cap": "64020"
+	"cap": [
+		"64020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "D811",
-	"cap": "86095"
+	"cap": [
+		"86095"
+	]
 }

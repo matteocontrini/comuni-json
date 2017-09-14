@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "L217",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

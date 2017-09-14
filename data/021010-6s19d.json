@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B145",
-	"cap": "39041"
+	"cap": [
+		"39041"
+	]
 }

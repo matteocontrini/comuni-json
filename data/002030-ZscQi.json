@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B767",
-	"cap": "13010"
+	"cap": [
+		"13010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I564",
-	"cap": "09076"
+	"cap": [
+		"09076"
+	]
 }

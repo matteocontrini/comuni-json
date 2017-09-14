@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "B804",
-	"cap": "98072"
+	"cap": [
+		"98072"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "H893",
-	"cap": "35010"
+	"cap": [
+		"35010"
+	]
 }

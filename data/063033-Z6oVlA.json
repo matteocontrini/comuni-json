@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "D790",
-	"cap": "80020"
+	"cap": [
+		"80020"
+	]
 }

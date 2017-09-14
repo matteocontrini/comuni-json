@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C536",
-	"cap": "20070"
+	"cap": [
+		"20070"
+	]
 }

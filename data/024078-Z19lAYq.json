@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "G694",
-	"cap": "36013"
+	"cap": [
+		"36013"
+	]
 }

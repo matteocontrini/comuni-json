@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "F118",
-	"cap": "39010"
+	"cap": [
+		"39010"
+	]
 }

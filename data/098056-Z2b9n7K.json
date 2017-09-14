@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "F260",
-	"cap": "26838"
+	"cap": [
+		"26838"
+	]
 }

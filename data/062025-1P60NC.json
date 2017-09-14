@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C846",
-	"cap": "82024"
+	"cap": [
+		"82024"
+	]
 }

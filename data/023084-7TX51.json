@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I850",
-	"cap": "37060"
+	"cap": [
+		"37060"
+	]
 }

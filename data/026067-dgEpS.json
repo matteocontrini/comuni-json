@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "H253",
-	"cap": "31020"
+	"cap": [
+		"31020"
+	]
 }

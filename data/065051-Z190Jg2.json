@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "D527",
-	"cap": "84055"
+	"cap": [
+		"84055"
+	]
 }

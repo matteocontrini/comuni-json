@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A129",
-	"cap": "24061"
+	"cap": [
+		"24061"
+	]
 }

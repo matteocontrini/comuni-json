@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A614",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

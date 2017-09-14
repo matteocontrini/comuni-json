@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "F218",
-	"cap": "37046"
+	"cap": [
+		"37046"
+	]
 }

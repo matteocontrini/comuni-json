@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "D734",
-	"cap": "55020"
+	"cap": [
+		"55020"
+	]
 }

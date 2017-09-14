@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "F473",
-	"cap": "43022"
+	"cap": [
+		"43022"
+	]
 }

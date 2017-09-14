@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "C481",
-	"cap": "16014"
+	"cap": [
+		"16014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E219",
-	"cap": "24064"
+	"cap": [
+		"24064"
+	]
 }

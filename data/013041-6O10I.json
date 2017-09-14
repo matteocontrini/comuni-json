@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B639",
-	"cap": "22063"
+	"cap": [
+		"22063"
+	]
 }

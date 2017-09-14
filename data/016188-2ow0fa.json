@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "H910",
-	"cap": "24015"
+	"cap": [
+		"24015"
+	]
 }

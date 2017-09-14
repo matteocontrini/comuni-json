@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B105",
-	"cap": "20813"
+	"cap": [
+		"20813"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "A509",
-	"cap": "83100"
+	"cap": [
+		"83100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E671",
-	"cap": "36023"
+	"cap": [
+		"36023"
+	]
 }

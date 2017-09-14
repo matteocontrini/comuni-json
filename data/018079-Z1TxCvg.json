@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "E439",
-	"cap": "27030"
+	"cap": [
+		"27030"
+	]
 }

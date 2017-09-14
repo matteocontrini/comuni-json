@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "B415",
-	"cap": "83045"
+	"cap": [
+		"83045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "F029",
-	"cap": "48024"
+	"cap": [
+		"48024"
+	]
 }

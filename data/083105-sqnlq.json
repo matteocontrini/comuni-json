@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "L950",
-	"cap": "98049"
+	"cap": [
+		"98049"
+	]
 }

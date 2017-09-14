@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G202",
-	"cap": "10080"
+	"cap": [
+		"10080"
+	]
 }

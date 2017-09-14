@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "H894",
-	"cap": "82018"
+	"cap": [
+		"82018"
+	]
 }

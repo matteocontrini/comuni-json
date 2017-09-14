@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L713",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

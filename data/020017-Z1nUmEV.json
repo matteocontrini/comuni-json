@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "C312",
-	"cap": "46043"
+	"cap": [
+		"46043"
+	]
 }

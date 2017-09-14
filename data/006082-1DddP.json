@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E015",
-	"cap": "15036"
+	"cap": [
+		"15036"
+	]
 }

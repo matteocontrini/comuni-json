@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "I679",
-	"cap": "86097"
+	"cap": [
+		"86097"
+	]
 }

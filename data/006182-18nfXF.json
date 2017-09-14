@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L931",
-	"cap": "15020"
+	"cap": [
+		"15020"
+	]
 }

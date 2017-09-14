@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "L952",
-	"cap": "36021"
+	"cap": [
+		"36021"
+	]
 }

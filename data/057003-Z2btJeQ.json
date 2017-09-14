@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "A315",
-	"cap": "02013"
+	"cap": [
+		"02013"
+	]
 }

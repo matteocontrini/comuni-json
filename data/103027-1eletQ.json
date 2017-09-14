@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "D225",
-	"cap": "28827"
+	"cap": [
+		"28827"
+	]
 }

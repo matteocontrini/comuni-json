@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D222",
-	"cap": "39027"
+	"cap": [
+		"39027"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H395",
-	"cap": "12047"
+	"cap": [
+		"12047"
+	]
 }

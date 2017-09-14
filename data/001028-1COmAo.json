@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A990",
-	"cap": "10071"
+	"cap": [
+		"10071"
+	]
 }

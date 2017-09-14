@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "D799",
-	"cap": "81030"
+	"cap": [
+		"81030"
+	]
 }

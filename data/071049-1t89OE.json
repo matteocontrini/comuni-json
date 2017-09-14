@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "I054",
-	"cap": "71015"
+	"cap": [
+		"71015"
+	]
 }

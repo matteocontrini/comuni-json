@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "L314",
-	"cap": "64049"
+	"cap": [
+		"64049"
+	]
 }

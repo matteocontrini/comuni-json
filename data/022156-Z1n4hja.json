@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "H528",
-	"cap": "38050"
+	"cap": [
+		"38050"
+	]
 }

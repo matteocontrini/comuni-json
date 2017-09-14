@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F970",
-	"cap": "73051"
+	"cap": [
+		"73051"
+	]
 }

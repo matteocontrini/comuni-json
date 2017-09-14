@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "C897",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

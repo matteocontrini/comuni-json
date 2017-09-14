@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I566",
-	"cap": "20018"
+	"cap": [
+		"20018"
+	]
 }

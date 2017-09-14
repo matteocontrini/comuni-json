@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "D219",
-	"cap": "13865"
+	"cap": [
+		"13865"
+	]
 }

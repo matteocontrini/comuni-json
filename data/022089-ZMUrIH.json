@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D714",
-	"cap": "38040"
+	"cap": [
+		"38040"
+	]
 }

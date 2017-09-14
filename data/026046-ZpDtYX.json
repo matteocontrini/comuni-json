@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F443",
-	"cap": "31044"
+	"cap": [
+		"31044"
+	]
 }

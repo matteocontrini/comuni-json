@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "C121",
-	"cap": "40023"
+	"cap": [
+		"40023"
+	]
 }

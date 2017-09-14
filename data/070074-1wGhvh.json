@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "I320",
-	"cap": "86048"
+	"cap": [
+		"86048"
+	]
 }

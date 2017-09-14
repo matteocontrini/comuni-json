@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "B069",
-	"cap": "45033"
+	"cap": [
+		"45033"
+	]
 }

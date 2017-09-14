@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "I462",
-	"cap": "41049"
+	"cap": [
+		"41049"
+	]
 }

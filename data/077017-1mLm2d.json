@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "F637",
-	"cap": "75024"
+	"cap": [
+		"75024"
+	]
 }

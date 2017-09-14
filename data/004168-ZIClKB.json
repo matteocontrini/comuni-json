@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G683",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

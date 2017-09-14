@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "F636",
-	"cap": "82016"
+	"cap": [
+		"82016"
+	]
 }

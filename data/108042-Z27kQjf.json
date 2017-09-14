@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "I998",
-	"cap": "20884"
+	"cap": [
+		"20884"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "B455",
-	"cap": "55041"
+	"cap": [
+		"55041"
+	]
 }

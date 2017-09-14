@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I060",
-	"cap": "87020"
+	"cap": [
+		"87020"
+	]
 }

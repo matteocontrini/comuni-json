@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "G267",
-	"cap": "96010"
+	"cap": [
+		"96010"
+	]
 }

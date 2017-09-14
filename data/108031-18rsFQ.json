@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "F165",
-	"cap": "20883"
+	"cap": [
+		"20883"
+	]
 }

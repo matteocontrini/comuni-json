@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B077",
-	"cap": "80042"
+	"cap": [
+		"80042"
+	]
 }

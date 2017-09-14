@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L751",
-	"cap": "23808"
+	"cap": [
+		"23808"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G846",
-	"cap": "31047"
+	"cap": [
+		"31047"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "C478",
-	"cap": "28875"
+	"cap": [
+		"28875"
+	]
 }

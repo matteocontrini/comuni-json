@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "C474",
-	"cap": "65012"
+	"cap": [
+		"65012"
+	]
 }

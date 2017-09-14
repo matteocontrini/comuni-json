@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E682",
-	"cap": "36045"
+	"cap": [
+		"36045"
+	]
 }

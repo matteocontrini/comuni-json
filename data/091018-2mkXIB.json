@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D376",
-	"cap": "08010"
+	"cap": [
+		"08010"
+	]
 }

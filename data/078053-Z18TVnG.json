@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D582",
-	"cap": "87050"
+	"cap": [
+		"87050"
+	]
 }

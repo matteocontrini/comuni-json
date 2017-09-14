@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E224",
-	"cap": "80028"
+	"cap": [
+		"80028"
+	]
 }

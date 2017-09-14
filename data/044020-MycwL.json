@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "D652",
-	"cap": "63084"
+	"cap": [
+		"63084"
+	]
 }

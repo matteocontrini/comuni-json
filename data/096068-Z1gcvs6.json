@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L193",
-	"cap": "13818"
+	"cap": [
+		"13818"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "L850",
-	"cap": "56010"
+	"cap": [
+		"56010"
+	]
 }

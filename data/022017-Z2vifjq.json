@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A902",
-	"cap": "38071"
+	"cap": [
+		"38071"
+	]
 }

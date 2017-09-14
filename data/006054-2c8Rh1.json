@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C274",
-	"cap": "15070"
+	"cap": [
+		"15070"
+	]
 }

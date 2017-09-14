@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "E155",
-	"cap": "70024"
+	"cap": [
+		"70024"
+	]
 }

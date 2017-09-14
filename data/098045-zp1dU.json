@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "G096",
-	"cap": "26854"
+	"cap": [
+		"26854"
+	]
 }

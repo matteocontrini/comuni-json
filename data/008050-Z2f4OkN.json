@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "H328",
-	"cap": "18015"
+	"cap": [
+		"18015"
+	]
 }

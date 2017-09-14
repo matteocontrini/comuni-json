@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "I172",
-	"cap": "73020"
+	"cap": [
+		"73020"
+	]
 }

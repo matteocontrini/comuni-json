@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "B193",
-	"cap": "65010"
+	"cap": [
+		"65010"
+	]
 }

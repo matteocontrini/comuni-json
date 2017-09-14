@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "C471",
-	"cap": "94010"
+	"cap": [
+		"94010"
+	]
 }

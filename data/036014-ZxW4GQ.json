@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "D617",
-	"cap": "41022"
+	"cap": [
+		"41022"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "M381",
-	"cap": "44047"
+	"cap": [
+		"44047"
+	]
 }

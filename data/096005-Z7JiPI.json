@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "A876",
-	"cap": "13841"
+	"cap": [
+		"13841"
+	]
 }

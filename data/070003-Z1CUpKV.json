@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "A930",
-	"cap": "86021"
+	"cap": [
+		"86021"
+	]
 }

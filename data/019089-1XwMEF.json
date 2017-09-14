@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "H815",
-	"cap": "26046"
+	"cap": [
+		"26046"
+	]
 }

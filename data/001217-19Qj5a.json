@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "H340",
-	"cap": "10086"
+	"cap": [
+		"10086"
+	]
 }

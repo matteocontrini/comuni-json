@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "G648",
-	"cap": "55036"
+	"cap": [
+		"55036"
+	]
 }

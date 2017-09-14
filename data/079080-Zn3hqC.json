@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "F432",
-	"cap": "88060"
+	"cap": [
+		"88060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "B828",
-	"cap": "00032"
+	"cap": [
+		"00032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C470",
-	"cap": "84051"
+	"cap": [
+		"84051"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "L764",
-	"cap": "47028"
+	"cap": [
+		"47028"
+	]
 }

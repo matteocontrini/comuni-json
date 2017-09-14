@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "A970",
-	"cap": "82013"
+	"cap": [
+		"82013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D315",
-	"cap": "66050"
+	"cap": [
+		"66050"
+	]
 }

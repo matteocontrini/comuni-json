@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F629",
-	"cap": "06010"
+	"cap": [
+		"06010"
+	]
 }

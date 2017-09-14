@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "C829",
-	"cap": "28010"
+	"cap": [
+		"28010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "F342",
-	"cap": "13040"
+	"cap": [
+		"13040"
+	]
 }

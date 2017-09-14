@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "A696",
-	"cap": "82020"
+	"cap": [
+		"82020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "L583",
-	"cap": "94019"
+	"cap": [
+		"94019"
+	]
 }

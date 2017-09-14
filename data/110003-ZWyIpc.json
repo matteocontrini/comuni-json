@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "A883",
-	"cap": "76011"
+	"cap": [
+		"76011"
+	]
 }

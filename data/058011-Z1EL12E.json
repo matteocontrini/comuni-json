@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "A449",
-	"cap": "00031"
+	"cap": [
+		"00031"
+	]
 }

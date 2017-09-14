@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "F979",
-	"cap": "08100"
+	"cap": [
+		"08100"
+	]
 }

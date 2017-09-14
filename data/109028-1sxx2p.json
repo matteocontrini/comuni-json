@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F722",
-	"cap": "63826"
+	"cap": [
+		"63826"
+	]
 }

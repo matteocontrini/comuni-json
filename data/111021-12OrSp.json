@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "D639",
-	"cap": "09010"
+	"cap": [
+		"09010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F993",
-	"cap": "13898"
+	"cap": [
+		"13898"
+	]
 }

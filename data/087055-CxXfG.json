@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "M139",
-	"cap": "95019"
+	"cap": [
+		"95019"
+	]
 }

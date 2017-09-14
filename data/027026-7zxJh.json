@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "F904",
-	"cap": "30033"
+	"cap": [
+		"30033"
+	]
 }

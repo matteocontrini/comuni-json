@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G407",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

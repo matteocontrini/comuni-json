@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I986",
-	"cap": "24030"
+	"cap": [
+		"24030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "I730",
-	"cap": "08017"
+	"cap": [
+		"08017"
+	]
 }

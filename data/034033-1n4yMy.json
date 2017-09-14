@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "I153",
-	"cap": "43017"
+	"cap": [
+		"43017"
+	]
 }

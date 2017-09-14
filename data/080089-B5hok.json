@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I753",
-	"cap": "89020"
+	"cap": [
+		"89020"
+	]
 }

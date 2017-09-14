@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E546",
-	"cap": "12076"
+	"cap": [
+		"12076"
+	]
 }

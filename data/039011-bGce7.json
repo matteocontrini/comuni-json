@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "D829",
-	"cap": "48034"
+	"cap": [
+		"48034"
+	]
 }

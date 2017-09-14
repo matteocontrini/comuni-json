@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "H274",
-	"cap": "47838"
+	"cap": [
+		"47838"
+	]
 }

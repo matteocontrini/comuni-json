@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "C630",
-	"cap": "32010"
+	"cap": [
+		"32010"
+	]
 }

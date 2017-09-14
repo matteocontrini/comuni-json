@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "F939",
-	"cap": "20020"
+	"cap": [
+		"20020"
+	]
 }

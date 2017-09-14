@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "F698",
-	"cap": "08010"
+	"cap": [
+		"08010"
+	]
 }

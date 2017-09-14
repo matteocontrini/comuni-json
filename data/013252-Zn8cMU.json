@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "M341",
-	"cap": "22016"
+	"cap": [
+		"22016"
+	]
 }

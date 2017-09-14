@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "E622",
-	"cap": "32020"
+	"cap": [
+		"32020"
+	]
 }

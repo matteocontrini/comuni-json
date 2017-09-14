@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F653",
-	"cap": "63813"
+	"cap": [
+		"63813"
+	]
 }

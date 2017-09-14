@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "G716",
-	"cap": "58017"
+	"cap": [
+		"58017"
+	]
 }

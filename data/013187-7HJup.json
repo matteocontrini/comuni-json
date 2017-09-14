@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G821",
-	"cap": "22020"
+	"cap": [
+		"22020"
+	]
 }

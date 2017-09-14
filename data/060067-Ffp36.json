@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "I302",
-	"cap": "03048"
+	"cap": [
+		"03048"
+	]
 }

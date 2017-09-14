@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "B965",
-	"cap": "31030"
+	"cap": [
+		"31030"
+	]
 }

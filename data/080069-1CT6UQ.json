@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "H558",
-	"cap": "89025"
+	"cap": [
+		"89025"
+	]
 }

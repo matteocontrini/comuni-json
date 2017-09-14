@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "F735",
-	"cap": "87026"
+	"cap": [
+		"87026"
+	]
 }

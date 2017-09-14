@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I874",
-	"cap": "88049"
+	"cap": [
+		"88049"
+	]
 }

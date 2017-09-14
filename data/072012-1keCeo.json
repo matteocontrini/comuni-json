@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "A894",
-	"cap": "70020"
+	"cap": [
+		"70020"
+	]
 }

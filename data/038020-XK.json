@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "H360",
-	"cap": "44030"
+	"cap": [
+		"44030"
+	]
 }

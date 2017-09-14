@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C158",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

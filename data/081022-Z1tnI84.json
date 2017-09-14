@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "G319",
-	"cap": "91019"
+	"cap": [
+		"91019"
+	]
 }

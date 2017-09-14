@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "C059",
-	"cap": "46032"
+	"cap": [
+		"46032"
+	]
 }

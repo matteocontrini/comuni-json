@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "G080",
-	"cap": "37050"
+	"cap": [
+		"37050"
+	]
 }

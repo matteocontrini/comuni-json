@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B765",
-	"cap": "15026"
+	"cap": [
+		"15026"
+	]
 }

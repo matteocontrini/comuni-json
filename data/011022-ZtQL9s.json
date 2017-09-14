@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "G925",
-	"cap": "19025"
+	"cap": [
+		"19025"
+	]
 }

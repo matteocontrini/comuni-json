@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A102",
-	"cap": "87031"
+	"cap": [
+		"87031"
+	]
 }

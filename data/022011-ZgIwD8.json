@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A730",
-	"cap": "38043"
+	"cap": [
+		"38043"
+	]
 }

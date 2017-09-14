@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "E844",
-	"cap": "40051"
+	"cap": [
+		"40051"
+	]
 }

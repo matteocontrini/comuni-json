@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "I520",
-	"cap": "66020"
+	"cap": [
+		"66020"
+	]
 }

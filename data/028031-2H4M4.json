@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "C713",
-	"cap": "35030"
+	"cap": [
+		"35030"
+	]
 }

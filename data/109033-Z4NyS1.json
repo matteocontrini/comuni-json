@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "G920",
-	"cap": "63822"
+	"cap": [
+		"63822"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "I259",
-	"cap": "37015"
+	"cap": [
+		"37015"
+	]
 }

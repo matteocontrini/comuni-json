@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I778",
-	"cap": "09080"
+	"cap": [
+		"09080"
+	]
 }

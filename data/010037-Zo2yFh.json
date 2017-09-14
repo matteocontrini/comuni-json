@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F354",
-	"cap": "16030"
+	"cap": [
+		"16030"
+	]
 }

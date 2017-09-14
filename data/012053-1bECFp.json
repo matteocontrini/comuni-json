@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C810",
-	"cap": "21034"
+	"cap": [
+		"21034"
+	]
 }

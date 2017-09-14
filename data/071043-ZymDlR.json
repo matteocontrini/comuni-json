@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "H480",
-	"cap": "71012"
+	"cap": [
+		"71012"
+	]
 }

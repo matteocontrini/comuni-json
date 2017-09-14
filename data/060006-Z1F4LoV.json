@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A269",
-	"cap": "03012"
+	"cap": [
+		"03012"
+	]
 }

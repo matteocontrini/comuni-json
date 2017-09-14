@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "M092",
-	"cap": "81041"
+	"cap": [
+		"81041"
+	]
 }

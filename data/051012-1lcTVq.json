@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "C319",
-	"cap": "52043"
+	"cap": [
+		"52043"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "E468",
-	"cap": "52020"
+	"cap": [
+		"52020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "D321",
-	"cap": "34070"
+	"cap": [
+		"34070"
+	]
 }

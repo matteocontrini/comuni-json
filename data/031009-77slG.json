@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "E125",
-	"cap": "34073"
+	"cap": [
+		"34073"
+	]
 }

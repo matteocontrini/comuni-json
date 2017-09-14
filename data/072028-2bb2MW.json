@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "F280",
-	"cap": "70042"
+	"cap": [
+		"70042"
+	]
 }

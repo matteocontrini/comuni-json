@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "L836",
-	"cap": "03030"
+	"cap": [
+		"03030"
+	]
 }

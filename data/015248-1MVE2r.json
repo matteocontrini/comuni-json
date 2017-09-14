@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "L928",
-	"cap": "20020"
+	"cap": [
+		"20020"
+	]
 }

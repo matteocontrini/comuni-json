@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L640",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

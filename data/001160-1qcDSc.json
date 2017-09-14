@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F420",
-	"cap": "10016"
+	"cap": [
+		"10016"
+	]
 }

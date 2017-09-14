@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G230",
-	"cap": "84016"
+	"cap": [
+		"84016"
+	]
 }

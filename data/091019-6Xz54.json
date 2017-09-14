@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D395",
-	"cap": "08040"
+	"cap": [
+		"08040"
+	]
 }

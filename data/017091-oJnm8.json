@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E654",
-	"cap": "25030"
+	"cap": [
+		"25030"
+	]
 }

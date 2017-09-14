@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E491",
-	"cap": "39030"
+	"cap": [
+		"39030"
+	]
 }

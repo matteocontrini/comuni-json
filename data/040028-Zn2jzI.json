@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "F668",
-	"cap": "47020"
+	"cap": [
+		"47020"
+	]
 }

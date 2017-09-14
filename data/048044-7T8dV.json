@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "I728",
-	"cap": "50058"
+	"cap": [
+		"50058"
+	]
 }

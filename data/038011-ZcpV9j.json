@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "E410",
-	"cap": "44023"
+	"cap": [
+		"44023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "C949",
-	"cap": "36062"
+	"cap": [
+		"36062"
+	]
 }

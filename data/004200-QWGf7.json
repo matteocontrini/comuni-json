@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H704",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "C356",
-	"cap": "92011"
+	"cap": [
+		"92011"
+	]
 }

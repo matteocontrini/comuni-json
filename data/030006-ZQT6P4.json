@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A448",
-	"cap": "33011"
+	"cap": [
+		"33011"
+	]
 }

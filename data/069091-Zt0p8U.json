@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L218",
-	"cap": "66020"
+	"cap": [
+		"66020"
+	]
 }

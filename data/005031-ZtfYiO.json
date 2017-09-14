@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "C232",
-	"cap": "14022"
+	"cap": [
+		"14022"
+	]
 }

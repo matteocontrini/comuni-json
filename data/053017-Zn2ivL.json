@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "F677",
-	"cap": "58026"
+	"cap": [
+		"58026"
+	]
 }

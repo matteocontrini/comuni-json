@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "F356",
-	"cap": "34074"
+	"cap": [
+		"34074"
+	]
 }

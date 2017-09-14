@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "M077",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

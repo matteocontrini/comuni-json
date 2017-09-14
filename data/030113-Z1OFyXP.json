@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G736",
-	"cap": "33040"
+	"cap": [
+		"33040"
+	]
 }

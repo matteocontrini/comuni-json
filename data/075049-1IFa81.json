@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F623",
-	"cap": "73030"
+	"cap": [
+		"73030"
+	]
 }

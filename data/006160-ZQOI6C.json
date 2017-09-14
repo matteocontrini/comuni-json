@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I657",
-	"cap": "15069"
+	"cap": [
+		"15069"
+	]
 }

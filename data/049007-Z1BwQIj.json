@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "C415",
-	"cap": "57023"
+	"cap": [
+		"57023"
+	]
 }

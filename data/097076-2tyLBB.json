@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "I761",
-	"cap": "23896"
+	"cap": [
+		"23896"
+	]
 }

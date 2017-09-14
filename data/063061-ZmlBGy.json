@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "H072",
-	"cap": "80079"
+	"cap": [
+		"80079"
+	]
 }

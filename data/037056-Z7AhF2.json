@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "I191",
-	"cap": "40019"
+	"cap": [
+		"40019"
+	]
 }

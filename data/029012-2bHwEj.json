@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "C207",
-	"cap": "45035"
+	"cap": [
+		"45035"
+	]
 }

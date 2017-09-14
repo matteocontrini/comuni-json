@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "H793",
-	"cap": "73016"
+	"cap": [
+		"73016"
+	]
 }

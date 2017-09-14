@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "B554",
-	"cap": "30010"
+	"cap": [
+		"30010"
+	]
 }

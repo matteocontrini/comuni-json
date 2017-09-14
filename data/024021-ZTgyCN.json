@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "B485",
-	"cap": "36043"
+	"cap": [
+		"36043"
+	]
 }

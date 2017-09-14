@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "H573",
-	"cap": "45010"
+	"cap": [
+		"45010"
+	]
 }

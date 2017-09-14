@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "A600",
-	"cap": "13020"
+	"cap": [
+		"13020"
+	]
 }

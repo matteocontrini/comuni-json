@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "B684",
-	"cap": "50050"
+	"cap": [
+		"50050"
+	]
 }

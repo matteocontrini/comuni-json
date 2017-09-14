@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "B771",
-	"cap": "88817"
+	"cap": [
+		"88817"
+	]
 }

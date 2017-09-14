@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "B722",
-	"cap": "65023"
+	"cap": [
+		"65023"
+	]
 }

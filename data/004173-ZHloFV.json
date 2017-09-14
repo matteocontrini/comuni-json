@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G970",
-	"cap": "12027"
+	"cap": [
+		"12027"
+	]
 }

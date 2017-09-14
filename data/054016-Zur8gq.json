@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "D108",
-	"cap": "06021"
+	"cap": [
+		"06021"
+	]
 }

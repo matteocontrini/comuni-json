@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "L070",
-	"cap": "88055"
+	"cap": [
+		"88055"
+	]
 }

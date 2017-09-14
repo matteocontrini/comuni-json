@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A700",
-	"cap": "33031"
+	"cap": [
+		"33031"
+	]
 }

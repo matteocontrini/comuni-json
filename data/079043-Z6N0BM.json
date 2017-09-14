@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D261",
-	"cap": "88041"
+	"cap": [
+		"88041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A916",
-	"cap": "38080"
+	"cap": [
+		"38080"
+	]
 }

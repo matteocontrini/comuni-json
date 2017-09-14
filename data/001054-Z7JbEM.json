@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B637",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

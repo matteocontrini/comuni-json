@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "F610",
-	"cap": "97010"
+	"cap": [
+		"97010"
+	]
 }

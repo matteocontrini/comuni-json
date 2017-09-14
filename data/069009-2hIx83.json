@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "B268",
-	"cap": "66040"
+	"cap": [
+		"66040"
+	]
 }

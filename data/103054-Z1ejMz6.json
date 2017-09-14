@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "G658",
-	"cap": "28886"
+	"cap": [
+		"28886"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G261",
-	"cap": "85026"
+	"cap": [
+		"85026"
+	]
 }

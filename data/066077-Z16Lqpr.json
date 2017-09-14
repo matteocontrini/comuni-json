@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H166",
-	"cap": "67027"
+	"cap": [
+		"67027"
+	]
 }

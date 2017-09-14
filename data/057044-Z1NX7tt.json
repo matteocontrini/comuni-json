@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "F687",
-	"cap": "02034"
+	"cap": [
+		"02034"
+	]
 }

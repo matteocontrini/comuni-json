@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E360",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

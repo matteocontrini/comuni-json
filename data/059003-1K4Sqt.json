@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "B527",
-	"cap": "04020"
+	"cap": [
+		"04020"
+	]
 }

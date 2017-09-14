@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "B685",
-	"cap": "57032"
+	"cap": [
+		"57032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "I066",
-	"cap": "72026"
+	"cap": [
+		"72026"
+	]
 }

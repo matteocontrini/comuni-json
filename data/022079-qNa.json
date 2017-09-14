@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D371",
-	"cap": "38074"
+	"cap": [
+		"38074"
+	]
 }

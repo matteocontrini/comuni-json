@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "I315",
-	"cap": "63854"
+	"cap": [
+		"63854"
+	]
 }

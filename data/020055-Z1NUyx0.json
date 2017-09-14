@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "H771",
-	"cap": "46027"
+	"cap": [
+		"46027"
+	]
 }

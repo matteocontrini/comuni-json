@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "L462",
-	"cap": "73058"
+	"cap": [
+		"73058"
+	]
 }

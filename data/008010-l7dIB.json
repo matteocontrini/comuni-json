@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "B020",
-	"cap": "18021"
+	"cap": [
+		"18021"
+	]
 }

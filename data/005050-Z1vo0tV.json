@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "D119",
-	"cap": "14055"
+	"cap": [
+		"14055"
+	]
 }

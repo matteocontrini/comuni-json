@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "E388",
-	"cap": "60035"
+	"cap": [
+		"60035"
+	]
 }

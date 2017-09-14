@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "A546",
-	"cap": "90011"
+	"cap": [
+		"90011"
+	]
 }

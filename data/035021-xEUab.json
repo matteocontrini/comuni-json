@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "D450",
-	"cap": "42042"
+	"cap": [
+		"42042"
+	]
 }

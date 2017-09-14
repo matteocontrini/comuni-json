@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "M369",
-	"cap": "40046"
+	"cap": [
+		"40046"
+	]
 }

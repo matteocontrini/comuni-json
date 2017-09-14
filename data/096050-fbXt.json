@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G974",
-	"cap": "13867"
+	"cap": [
+		"13867"
+	]
 }

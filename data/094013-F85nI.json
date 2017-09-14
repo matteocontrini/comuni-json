@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C200",
-	"cap": "86080"
+	"cap": [
+		"86080"
+	]
 }

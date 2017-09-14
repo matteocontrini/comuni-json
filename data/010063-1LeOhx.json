@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "L416",
-	"cap": "16030"
+	"cap": [
+		"16030"
+	]
 }

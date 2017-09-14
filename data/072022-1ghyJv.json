@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "E047",
-	"cap": "70054"
+	"cap": [
+		"70054"
+	]
 }

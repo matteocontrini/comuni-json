@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "E812",
-	"cap": "02046"
+	"cap": [
+		"02046"
+	]
 }

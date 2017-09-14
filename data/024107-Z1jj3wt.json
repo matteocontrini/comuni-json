@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "L248",
-	"cap": "36036"
+	"cap": [
+		"36036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B633",
-	"cap": "14010"
+	"cap": [
+		"14010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "G165",
-	"cap": "83014"
+	"cap": [
+		"83014"
+	]
 }

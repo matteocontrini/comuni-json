@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "L496",
-	"cap": "09099"
+	"cap": [
+		"09099"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "D463",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

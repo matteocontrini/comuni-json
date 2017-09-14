@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "B643",
-	"cap": "29012"
+	"cap": [
+		"29012"
+	]
 }

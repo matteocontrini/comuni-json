@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "M052",
-	"cap": "20871"
+	"cap": [
+		"20871"
+	]
 }

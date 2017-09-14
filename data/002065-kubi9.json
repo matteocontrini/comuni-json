@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "E163",
-	"cap": "13030"
+	"cap": [
+		"13030"
+	]
 }

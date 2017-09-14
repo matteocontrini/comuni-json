@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "H752",
-	"cap": "23027"
+	"cap": [
+		"23027"
+	]
 }

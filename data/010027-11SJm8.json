@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "E341",
-	"cap": "16017"
+	"cap": [
+		"16017"
+	]
 }

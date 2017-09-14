@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "D607",
-	"cap": "41042"
+	"cap": [
+		"41042"
+	]
 }

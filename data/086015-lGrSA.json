@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "G624",
-	"cap": "94016"
+	"cap": [
+		"94016"
+	]
 }

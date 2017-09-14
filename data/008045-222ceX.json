@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G840",
-	"cap": "18027"
+	"cap": [
+		"18027"
+	]
 }

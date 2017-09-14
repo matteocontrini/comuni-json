@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I114",
-	"cap": "87047"
+	"cap": [
+		"87047"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "C710",
-	"cap": "89021"
+	"cap": [
+		"89021"
+	]
 }

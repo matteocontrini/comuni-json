@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "F406",
-	"cap": "18010"
+	"cap": [
+		"18010"
+	]
 }

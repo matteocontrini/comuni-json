@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G002",
-	"cap": "67025"
+	"cap": [
+		"67025"
+	]
 }

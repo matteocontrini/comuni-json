@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A845",
-	"cap": "21024"
+	"cap": [
+		"21024"
+	]
 }

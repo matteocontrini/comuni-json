@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "F754",
-	"cap": "27036"
+	"cap": [
+		"27036"
+	]
 }

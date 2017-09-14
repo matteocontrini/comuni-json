@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A954",
-	"cap": "36050"
+	"cap": [
+		"36050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "G048",
-	"cap": "14050"
+	"cap": [
+		"14050"
+	]
 }

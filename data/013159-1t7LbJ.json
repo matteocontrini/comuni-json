@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F788",
-	"cap": "22076"
+	"cap": [
+		"22076"
+	]
 }

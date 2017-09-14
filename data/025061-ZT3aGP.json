@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "L422",
-	"cap": "32028"
+	"cap": [
+		"32028"
+	]
 }

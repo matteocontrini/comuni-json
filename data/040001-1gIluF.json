@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "A565",
-	"cap": "47021"
+	"cap": [
+		"47021"
+	]
 }

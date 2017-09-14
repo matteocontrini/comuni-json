@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D391",
-	"cap": "25048"
+	"cap": [
+		"25048"
+	]
 }

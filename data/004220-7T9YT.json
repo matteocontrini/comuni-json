@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I750",
-	"cap": "12050"
+	"cap": [
+		"12050"
+	]
 }

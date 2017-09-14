@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H772",
-	"cap": "67058"
+	"cap": [
+		"67058"
+	]
 }

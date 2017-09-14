@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "I457",
-	"cap": "85050"
+	"cap": [
+		"85050"
+	]
 }

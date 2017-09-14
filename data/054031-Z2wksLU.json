@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F540",
-	"cap": "06045"
+	"cap": [
+		"06045"
+	]
 }

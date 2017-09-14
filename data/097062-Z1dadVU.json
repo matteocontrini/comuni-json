@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G218",
-	"cap": "23877"
+	"cap": [
+		"23877"
+	]
 }

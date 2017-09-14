@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "I460",
-	"cap": "61013"
+	"cap": [
+		"61013"
+	]
 }

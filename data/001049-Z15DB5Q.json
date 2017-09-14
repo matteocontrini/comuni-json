@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B512",
-	"cap": "10060"
+	"cap": [
+		"10060"
+	]
 }

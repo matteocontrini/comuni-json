@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "D332",
-	"cap": "28845"
+	"cap": [
+		"28845"
+	]
 }

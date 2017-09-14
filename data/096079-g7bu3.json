@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L978",
-	"cap": "13877"
+	"cap": [
+		"13877"
+	]
 }

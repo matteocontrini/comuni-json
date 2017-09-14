@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "D662",
-	"cap": "04022"
+	"cap": [
+		"04022"
+	]
 }

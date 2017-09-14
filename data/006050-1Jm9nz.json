@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C160",
-	"cap": "15020"
+	"cap": [
+		"15020"
+	]
 }

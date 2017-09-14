@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L612",
-	"cap": "01030"
+	"cap": [
+		"01030"
+	]
 }

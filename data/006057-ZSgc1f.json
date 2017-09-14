@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C503",
-	"cap": "15020"
+	"cap": [
+		"15020"
+	]
 }

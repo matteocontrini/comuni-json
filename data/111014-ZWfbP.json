@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "D323",
-	"cap": "09041"
+	"cap": [
+		"09041"
+	]
 }

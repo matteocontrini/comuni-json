@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "G194",
-	"cap": "27030"
+	"cap": [
+		"27030"
+	]
 }

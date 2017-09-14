@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "E889",
-	"cap": "33085"
+	"cap": [
+		"33085"
+	]
 }

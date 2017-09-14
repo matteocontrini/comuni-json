@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E325",
-	"cap": "25061"
+	"cap": [
+		"25061"
+	]
 }

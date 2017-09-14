@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "B604",
-	"cap": "01011"
+	"cap": [
+		"01011"
+	]
 }

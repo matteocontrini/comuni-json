@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G126",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "C244",
-	"cap": "56041"
+	"cap": [
+		"56041"
+	]
 }

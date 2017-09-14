@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B703",
-	"cap": "24042"
+	"cap": [
+		"24042"
+	]
 }

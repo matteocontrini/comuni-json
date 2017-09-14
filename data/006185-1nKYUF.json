@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L972",
-	"cap": "15030"
+	"cap": [
+		"15030"
+	]
 }

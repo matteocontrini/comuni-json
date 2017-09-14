@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "I930",
-	"cap": "73018"
+	"cap": [
+		"73018"
+	]
 }

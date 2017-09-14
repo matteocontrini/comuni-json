@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L596",
-	"cap": "18012"
+	"cap": [
+		"18012"
+	]
 }

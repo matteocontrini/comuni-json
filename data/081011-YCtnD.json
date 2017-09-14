@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "E974",
-	"cap": "91025"
+	"cap": [
+		"91025"
+	]
 }

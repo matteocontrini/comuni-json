@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "F146",
-	"cap": "28802"
+	"cap": [
+		"28802"
+	]
 }

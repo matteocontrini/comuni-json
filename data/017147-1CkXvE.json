@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G818",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

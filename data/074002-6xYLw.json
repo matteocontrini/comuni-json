@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "B809",
-	"cap": "72012"
+	"cap": [
+		"72012"
+	]
 }

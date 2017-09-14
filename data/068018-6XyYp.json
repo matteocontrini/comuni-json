@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "D394",
-	"cap": "65010"
+	"cap": [
+		"65010"
+	]
 }

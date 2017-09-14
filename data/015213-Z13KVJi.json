@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I786",
-	"cap": "20020"
+	"cap": [
+		"20020"
+	]
 }

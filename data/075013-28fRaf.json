@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "B690",
-	"cap": "73010"
+	"cap": [
+		"73010"
+	]
 }

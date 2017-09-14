@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "F847",
-	"cap": "17030"
+	"cap": [
+		"17030"
+	]
 }

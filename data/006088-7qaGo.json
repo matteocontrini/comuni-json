@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E543",
-	"cap": "15070"
+	"cap": [
+		"15070"
+	]
 }

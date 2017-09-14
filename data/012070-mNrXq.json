@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D869",
-	"cap": "21013"
+	"cap": [
+		"21013"
+	]
 }

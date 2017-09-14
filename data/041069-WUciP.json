@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "M380",
-	"cap": "61036"
+	"cap": [
+		"61036"
+	]
 }

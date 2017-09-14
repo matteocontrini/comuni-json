@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "E134",
-	"cap": "14031"
+	"cap": [
+		"14031"
+	]
 }

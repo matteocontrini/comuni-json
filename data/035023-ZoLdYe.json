@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "E232",
-	"cap": "42044"
+	"cap": [
+		"42044"
+	]
 }

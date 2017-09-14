@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A145",
-	"cap": "17031"
+	"cap": [
+		"17031"
+	]
 }

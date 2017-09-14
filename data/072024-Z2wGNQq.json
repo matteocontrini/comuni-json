@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "E223",
-	"cap": "70025"
+	"cap": [
+		"70025"
+	]
 }

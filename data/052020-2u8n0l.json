@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "G547",
-	"cap": "53025"
+	"cap": [
+		"53025"
+	]
 }

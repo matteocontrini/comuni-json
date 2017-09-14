@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G691",
-	"cap": "10045"
+	"cap": [
+		"10045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "G787",
-	"cap": "70044"
+	"cap": [
+		"70044"
+	]
 }

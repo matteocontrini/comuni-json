@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "G141",
-	"cap": "66026"
+	"cap": [
+		"66026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "H287",
-	"cap": "71010"
+	"cap": [
+		"71010"
+	]
 }

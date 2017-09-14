@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "F499",
-	"cap": "01027"
+	"cap": [
+		"01027"
+	]
 }

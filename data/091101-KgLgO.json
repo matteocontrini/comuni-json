@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "L953",
-	"cap": "08049"
+	"cap": [
+		"08049"
+	]
 }

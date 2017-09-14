@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "B207",
-	"cap": "28833"
+	"cap": [
+		"28833"
+	]
 }

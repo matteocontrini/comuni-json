@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G575",
-	"cap": "12026"
+	"cap": [
+		"12026"
+	]
 }

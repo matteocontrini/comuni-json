@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B667",
-	"cap": "81020"
+	"cap": [
+		"81020"
+	]
 }

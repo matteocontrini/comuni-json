@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "H949",
-	"cap": "47865"
+	"cap": [
+		"47865"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I506",
-	"cap": "24020"
+	"cap": [
+		"24020"
+	]
 }

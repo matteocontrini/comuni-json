@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B756",
-	"cap": "89060"
+	"cap": [
+		"89060"
+	]
 }

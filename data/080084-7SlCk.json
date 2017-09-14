@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I536",
-	"cap": "89010"
+	"cap": [
+		"89010"
+	]
 }

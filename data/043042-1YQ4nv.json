@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "G919",
-	"cap": "62017"
+	"cap": [
+		"62017"
+	]
 }

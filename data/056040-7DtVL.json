@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "G065",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

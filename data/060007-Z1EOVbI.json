@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A348",
-	"cap": "03031"
+	"cap": [
+		"03031"
+	]
 }

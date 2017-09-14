@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "C154",
-	"cap": "14013"
+	"cap": [
+		"14013"
+	]
 }

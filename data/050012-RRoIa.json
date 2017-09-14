@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "C609",
-	"cap": "56034"
+	"cap": [
+		"56034"
+	]
 }

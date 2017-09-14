@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "G628",
-	"cap": "55045"
+	"cap": [
+		"55045"
+	]
 }

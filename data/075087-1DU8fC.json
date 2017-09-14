@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "L383",
-	"cap": "73019"
+	"cap": [
+		"73019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "E295",
-	"cap": "14045"
+	"cap": [
+		"14045"
+	]
 }

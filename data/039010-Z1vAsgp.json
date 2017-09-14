@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "D458",
-	"cap": "48018"
+	"cap": [
+		"48018"
+	]
 }

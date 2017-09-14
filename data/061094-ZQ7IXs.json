@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "L379",
-	"cap": "81038"
+	"cap": [
+		"81038"
+	]
 }

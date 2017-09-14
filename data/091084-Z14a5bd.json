@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "I748",
-	"cap": "08018"
+	"cap": [
+		"08018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I551",
-	"cap": "30037"
+	"cap": [
+		"30037"
+	]
 }

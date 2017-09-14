@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I253",
-	"cap": "84067"
+	"cap": [
+		"84067"
+	]
 }

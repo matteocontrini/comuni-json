@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "G681",
-	"cap": "38086"
+	"cap": [
+		"38086"
+	]
 }

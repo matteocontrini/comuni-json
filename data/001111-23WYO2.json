@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "D931",
-	"cap": "10060"
+	"cap": [
+		"10060"
+	]
 }

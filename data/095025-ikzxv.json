@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "E972",
-	"cap": "09094"
+	"cap": [
+		"09094"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D663",
-	"cap": "38013"
+	"cap": [
+		"38013"
+	]
 }

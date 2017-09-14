@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "A419",
-	"cap": "09040"
+	"cap": [
+		"09040"
+	]
 }

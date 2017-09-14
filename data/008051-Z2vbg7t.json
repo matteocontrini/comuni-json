@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "H460",
-	"cap": "18030"
+	"cap": [
+		"18030"
+	]
 }

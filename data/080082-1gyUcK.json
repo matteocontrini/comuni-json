@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I341",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

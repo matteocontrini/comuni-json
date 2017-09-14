@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "A586",
-	"cap": "42031"
+	"cap": [
+		"42031"
+	]
 }

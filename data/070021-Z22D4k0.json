@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "C875",
-	"cap": "86044"
+	"cap": [
+		"86044"
+	]
 }

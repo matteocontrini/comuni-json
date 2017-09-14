@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "A035",
-	"cap": "61041"
+	"cap": [
+		"61041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L765",
-	"cap": "21029"
+	"cap": [
+		"21029"
+	]
 }

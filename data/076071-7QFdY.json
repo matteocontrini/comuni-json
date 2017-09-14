@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "H641",
-	"cap": "85056"
+	"cap": [
+		"85056"
+	]
 }

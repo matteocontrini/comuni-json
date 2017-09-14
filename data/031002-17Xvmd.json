@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "D014",
-	"cap": "34071"
+	"cap": [
+		"34071"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "L611",
-	"cap": "00020"
+	"cap": [
+		"00020"
+	]
 }

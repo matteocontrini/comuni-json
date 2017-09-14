@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H353",
-	"cap": "67036"
+	"cap": [
+		"67036"
+	]
 }

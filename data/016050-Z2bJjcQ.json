@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B661",
-	"cap": "24030"
+	"cap": [
+		"24030"
+	]
 }

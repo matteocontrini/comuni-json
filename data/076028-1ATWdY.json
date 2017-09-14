@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "C619",
-	"cap": "85032"
+	"cap": [
+		"85032"
+	]
 }

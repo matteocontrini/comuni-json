@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I421",
-	"cap": "32047"
+	"cap": [
+		"32047"
+	]
 }

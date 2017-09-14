@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "I888",
-	"cap": "06038"
+	"cap": [
+		"06038"
+	]
 }

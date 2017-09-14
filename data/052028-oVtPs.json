@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "H875",
-	"cap": "53037"
+	"cap": [
+		"53037"
+	]
 }

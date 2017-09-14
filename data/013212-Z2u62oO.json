@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "I611",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

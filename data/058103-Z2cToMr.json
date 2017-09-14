@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "I992",
-	"cap": "00028"
+	"cap": [
+		"00028"
+	]
 }

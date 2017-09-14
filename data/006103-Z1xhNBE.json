@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F403",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

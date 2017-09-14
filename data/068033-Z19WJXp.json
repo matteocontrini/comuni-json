@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "G878",
-	"cap": "65026"
+	"cap": [
+		"65026"
+	]
 }

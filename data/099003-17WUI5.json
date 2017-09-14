@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "D004",
-	"cap": "47853"
+	"cap": [
+		"47853"
+	]
 }

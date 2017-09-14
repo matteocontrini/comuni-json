@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "H486",
-	"cap": "23849"
+	"cap": [
+		"23849"
+	]
 }

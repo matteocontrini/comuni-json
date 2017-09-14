@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L050",
-	"cap": "33017"
+	"cap": [
+		"33017"
+	]
 }

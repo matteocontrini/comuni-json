@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "G511",
-	"cap": "90027"
+	"cap": [
+		"90027"
+	]
 }

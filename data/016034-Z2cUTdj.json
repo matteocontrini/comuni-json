@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B088",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

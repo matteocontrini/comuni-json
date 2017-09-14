@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "E860",
-	"cap": "17045"
+	"cap": [
+		"17045"
+	]
 }

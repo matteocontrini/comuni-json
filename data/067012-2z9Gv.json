@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C169",
-	"cap": "64041"
+	"cap": [
+		"64041"
+	]
 }

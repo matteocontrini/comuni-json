@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E048",
-	"cap": "38030"
+	"cap": [
+		"38030"
+	]
 }

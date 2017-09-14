@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "D542",
-	"cap": "63900"
+	"cap": [
+		"63900"
+	]
 }

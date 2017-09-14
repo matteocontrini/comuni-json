@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "C443",
-	"cap": "17015"
+	"cap": [
+		"17015"
+	]
 }

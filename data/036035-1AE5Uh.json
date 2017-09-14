@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "H303",
-	"cap": "41020"
+	"cap": [
+		"41020"
+	]
 }

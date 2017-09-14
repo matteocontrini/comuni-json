@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "L762",
-	"cap": "40038"
+	"cap": [
+		"40038"
+	]
 }

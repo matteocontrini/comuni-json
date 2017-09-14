@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A982",
-	"cap": "32040"
+	"cap": [
+		"32040"
+	]
 }

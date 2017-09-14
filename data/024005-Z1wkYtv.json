@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A236",
-	"cap": "36070"
+	"cap": [
+		"36070"
+	]
 }

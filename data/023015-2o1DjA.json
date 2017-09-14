@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "B296",
-	"cap": "37012"
+	"cap": [
+		"37012"
+	]
 }

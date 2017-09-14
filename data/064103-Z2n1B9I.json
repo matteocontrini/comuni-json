@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "I893",
-	"cap": "83020"
+	"cap": [
+		"83020"
+	]
 }

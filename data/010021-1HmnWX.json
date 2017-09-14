@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "D255",
-	"cap": "16022"
+	"cap": [
+		"16022"
+	]
 }

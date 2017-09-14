@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "G746",
-	"cap": "54010"
+	"cap": [
+		"54010"
+	]
 }

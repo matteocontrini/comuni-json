@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "F340",
-	"cap": "43010"
+	"cap": [
+		"43010"
+	]
 }

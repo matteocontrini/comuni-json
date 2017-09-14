@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C732",
-	"cap": "21040"
+	"cap": [
+		"21040"
+	]
 }

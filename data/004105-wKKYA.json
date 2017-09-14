@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E430",
-	"cap": "12064"
+	"cap": [
+		"12064"
+	]
 }

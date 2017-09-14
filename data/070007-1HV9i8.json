@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "B522",
-	"cap": "86020"
+	"cap": [
+		"86020"
+	]
 }

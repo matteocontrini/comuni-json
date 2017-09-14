@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "F510",
-	"cap": "05030"
+	"cap": [
+		"05030"
+	]
 }

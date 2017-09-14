@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "C621",
-	"cap": "16043"
+	"cap": [
+		"16043"
+	]
 }

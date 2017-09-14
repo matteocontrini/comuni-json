@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "E633",
-	"cap": "14051"
+	"cap": [
+		"14051"
+	]
 }

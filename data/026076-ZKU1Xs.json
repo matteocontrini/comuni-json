@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "I382",
-	"cap": "31020"
+	"cap": [
+		"31020"
+	]
 }

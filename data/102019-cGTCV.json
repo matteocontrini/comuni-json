@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "E590",
-	"cap": "89844"
+	"cap": [
+		"89844"
+	]
 }

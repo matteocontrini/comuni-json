@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G336",
-	"cap": "23837"
+	"cap": [
+		"23837"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B725",
-	"cap": "67020"
+	"cap": [
+		"67020"
+	]
 }

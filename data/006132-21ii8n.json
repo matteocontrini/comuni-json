@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G839",
-	"cap": "15055"
+	"cap": [
+		"15055"
+	]
 }

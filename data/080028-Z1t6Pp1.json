@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "C747",
-	"cap": "89022"
+	"cap": [
+		"89022"
+	]
 }

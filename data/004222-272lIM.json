@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I822",
-	"cap": "12048"
+	"cap": [
+		"12048"
+	]
 }

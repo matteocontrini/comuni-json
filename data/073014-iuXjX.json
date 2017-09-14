@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E995",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

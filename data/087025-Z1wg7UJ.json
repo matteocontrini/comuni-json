@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F209",
-	"cap": "95043"
+	"cap": [
+		"95043"
+	]
 }

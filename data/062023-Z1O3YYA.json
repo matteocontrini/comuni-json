@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C525",
-	"cap": "82032"
+	"cap": [
+		"82032"
+	]
 }

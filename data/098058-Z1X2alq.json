@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "L469",
-	"cap": "26828"
+	"cap": [
+		"26828"
+	]
 }

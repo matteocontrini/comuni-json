@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "D230",
-	"cap": "82033"
+	"cap": [
+		"82033"
+	]
 }

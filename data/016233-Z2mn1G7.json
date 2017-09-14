@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "L753",
-	"cap": "24049"
+	"cap": [
+		"24049"
+	]
 }

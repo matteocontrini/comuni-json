@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "H964",
-	"cap": "34070"
+	"cap": [
+		"34070"
+	]
 }

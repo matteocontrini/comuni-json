@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H760",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

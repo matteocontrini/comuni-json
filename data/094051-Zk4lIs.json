@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "L696",
-	"cap": "86089"
+	"cap": [
+		"86089"
+	]
 }

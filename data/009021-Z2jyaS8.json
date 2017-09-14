@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "C276",
-	"cap": "17034"
+	"cap": [
+		"17034"
+	]
 }

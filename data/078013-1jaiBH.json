@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A762",
-	"cap": "87033"
+	"cap": [
+		"87033"
+	]
 }

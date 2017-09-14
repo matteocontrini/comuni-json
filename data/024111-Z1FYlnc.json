@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "L551",
-	"cap": "36078"
+	"cap": [
+		"36078"
+	]
 }

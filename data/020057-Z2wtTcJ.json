@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "H883",
-	"cap": "46030"
+	"cap": [
+		"46030"
+	]
 }

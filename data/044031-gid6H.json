@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F380",
-	"cap": "63077"
+	"cap": [
+		"63077"
+	]
 }

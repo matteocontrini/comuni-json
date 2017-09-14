@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "I473",
-	"cap": "41056"
+	"cap": [
+		"41056"
+	]
 }

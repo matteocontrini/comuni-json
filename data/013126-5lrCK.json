@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E569",
-	"cap": "22025"
+	"cap": [
+		"22025"
+	]
 }

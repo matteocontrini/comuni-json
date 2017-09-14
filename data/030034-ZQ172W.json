@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "D366",
-	"cap": "33040"
+	"cap": [
+		"33040"
+	]
 }

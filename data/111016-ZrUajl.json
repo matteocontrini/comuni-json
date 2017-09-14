@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "D334",
-	"cap": "09015"
+	"cap": [
+		"09015"
+	]
 }

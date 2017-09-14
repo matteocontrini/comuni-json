@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L575",
-	"cap": "38040"
+	"cap": [
+		"38040"
+	]
 }

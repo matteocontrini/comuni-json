@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "L189",
-	"cap": "02039"
+	"cap": [
+		"02039"
+	]
 }

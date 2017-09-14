@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "D431",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

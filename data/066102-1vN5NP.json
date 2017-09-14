@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "L334",
-	"cap": "67059"
+	"cap": [
+		"67059"
+	]
 }

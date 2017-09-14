@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "D089",
-	"cap": "89050"
+	"cap": [
+		"89050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I975",
-	"cap": "38080"
+	"cap": [
+		"38080"
+	]
 }

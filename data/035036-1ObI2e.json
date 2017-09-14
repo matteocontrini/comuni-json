@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "H628",
-	"cap": "42048"
+	"cap": [
+		"42048"
+	]
 }

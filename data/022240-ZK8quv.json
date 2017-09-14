@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M354",
-	"cap": "38059"
+	"cap": [
+		"38059"
+	]
 }

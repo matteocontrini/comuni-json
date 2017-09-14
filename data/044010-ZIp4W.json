@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "B727",
-	"cap": "63063"
+	"cap": [
+		"63063"
+	]
 }

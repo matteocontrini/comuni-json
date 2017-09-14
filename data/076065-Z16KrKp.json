@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "H187",
-	"cap": "85020"
+	"cap": [
+		"85020"
+	]
 }

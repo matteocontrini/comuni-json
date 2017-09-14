@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "D426",
-	"cap": "33080"
+	"cap": [
+		"33080"
+	]
 }

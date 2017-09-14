@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "I990",
-	"cap": "83055"
+	"cap": [
+		"83055"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "A881",
-	"cap": "83044"
+	"cap": [
+		"83044"
+	]
 }

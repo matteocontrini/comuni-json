@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "E905",
-	"cap": "41054"
+	"cap": [
+		"41054"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F217",
-	"cap": "95044"
+	"cap": [
+		"95044"
+	]
 }

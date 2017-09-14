@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "D965",
-	"cap": "60040"
+	"cap": [
+		"60040"
+	]
 }

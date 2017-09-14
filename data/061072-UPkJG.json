@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H459",
-	"cap": "81042"
+	"cap": [
+		"81042"
+	]
 }

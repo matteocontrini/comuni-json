@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "A568",
-	"cap": "35023"
+	"cap": [
+		"35023"
+	]
 }

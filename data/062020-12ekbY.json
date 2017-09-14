@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C284",
-	"cap": "82023"
+	"cap": [
+		"82023"
+	]
 }

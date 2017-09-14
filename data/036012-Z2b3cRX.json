@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "D599",
-	"cap": "41034"
+	"cap": [
+		"41034"
+	]
 }

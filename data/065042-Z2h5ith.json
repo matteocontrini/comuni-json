@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C676",
-	"cap": "84053"
+	"cap": [
+		"84053"
+	]
 }

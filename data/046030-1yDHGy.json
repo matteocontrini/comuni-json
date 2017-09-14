@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "I942",
-	"cap": "55040"
+	"cap": [
+		"55040"
+	]
 }

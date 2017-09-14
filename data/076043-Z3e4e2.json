@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "E493",
-	"cap": "85024"
+	"cap": [
+		"85024"
+	]
 }

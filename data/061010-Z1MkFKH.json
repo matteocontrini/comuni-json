@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B445",
-	"cap": "81042"
+	"cap": [
+		"81042"
+	]
 }

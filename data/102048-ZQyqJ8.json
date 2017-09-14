@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "M138",
-	"cap": "89867"
+	"cap": [
+		"89867"
+	]
 }

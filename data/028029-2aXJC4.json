@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "C057",
-	"cap": "35040"
+	"cap": [
+		"35040"
+	]
 }

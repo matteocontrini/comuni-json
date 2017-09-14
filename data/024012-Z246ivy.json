@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A703",
-	"cap": "36061"
+	"cap": [
+		"36061"
+	]
 }

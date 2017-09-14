@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B924",
-	"cap": "80074"
+	"cap": [
+		"80074"
+	]
 }

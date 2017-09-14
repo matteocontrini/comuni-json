@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G777",
-	"cap": "10046"
+	"cap": [
+		"10046"
+	]
 }

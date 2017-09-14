@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B781",
-	"cap": "81030"
+	"cap": [
+		"81030"
+	]
 }

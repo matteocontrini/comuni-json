@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "H443",
-	"cap": "03038"
+	"cap": [
+		"03038"
+	]
 }

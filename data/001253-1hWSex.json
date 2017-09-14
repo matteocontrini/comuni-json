@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I152",
-	"cap": "10020"
+	"cap": [
+		"10020"
+	]
 }

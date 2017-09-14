@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "A788",
-	"cap": "43042"
+	"cap": [
+		"43042"
+	]
 }

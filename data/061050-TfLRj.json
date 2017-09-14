@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E998",
-	"cap": "81035"
+	"cap": [
+		"81035"
+	]
 }

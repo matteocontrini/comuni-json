@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "M177",
-	"cap": "19020"
+	"cap": [
+		"19020"
+	]
 }

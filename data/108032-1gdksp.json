@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "F247",
-	"cap": "20826"
+	"cap": [
+		"20826"
+	]
 }

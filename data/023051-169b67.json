@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "F789",
-	"cap": "37060"
+	"cap": [
+		"37060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "B543",
-	"cap": "03030"
+	"cap": [
+		"03030"
+	]
 }

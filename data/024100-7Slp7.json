@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I531",
-	"cap": "36015"
+	"cap": [
+		"36015"
+	]
 }

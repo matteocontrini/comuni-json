@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "I716",
-	"cap": "03010"
+	"cap": [
+		"03010"
+	]
 }

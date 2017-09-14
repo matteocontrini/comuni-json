@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "I744",
-	"cap": "89822"
+	"cap": [
+		"89822"
+	]
 }

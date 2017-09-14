@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "M140",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

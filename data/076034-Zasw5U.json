@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "D766",
-	"cap": "85034"
+	"cap": [
+		"85034"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B098",
-	"cap": "89034"
+	"cap": [
+		"89034"
+	]
 }

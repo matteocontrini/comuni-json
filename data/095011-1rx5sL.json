@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A621",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

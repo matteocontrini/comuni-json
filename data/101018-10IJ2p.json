@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "H383",
-	"cap": "88835"
+	"cap": [
+		"88835"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "E483",
-	"cap": "85044"
+	"cap": [
+		"85044"
+	]
 }

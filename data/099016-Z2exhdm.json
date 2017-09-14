@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "H801",
-	"cap": "47832"
+	"cap": [
+		"47832"
+	]
 }

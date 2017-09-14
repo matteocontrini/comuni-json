@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "H738",
-	"cap": "09030"
+	"cap": [
+		"09030"
+	]
 }

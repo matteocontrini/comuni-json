@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "E274",
-	"cap": "88020"
+	"cap": [
+		"88020"
+	]
 }

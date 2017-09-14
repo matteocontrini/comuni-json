@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I867",
-	"cap": "36040"
+	"cap": [
+		"36040"
+	]
 }

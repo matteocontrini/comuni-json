@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "C034",
-	"cap": "03043"
+	"cap": [
+		"03043"
+	]
 }

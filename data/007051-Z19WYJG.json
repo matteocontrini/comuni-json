@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "G860",
-	"cap": "11024"
+	"cap": [
+		"11024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D861",
-	"cap": "98070"
+	"cap": [
+		"98070"
+	]
 }

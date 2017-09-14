@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "A771",
-	"cap": "40042"
+	"cap": [
+		"40042"
+	]
 }

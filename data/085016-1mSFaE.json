@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "H792",
-	"cap": "93017"
+	"cap": [
+		"93017"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "I754",
-	"cap": "96100"
+	"cap": [
+		"96100"
+	]
 }

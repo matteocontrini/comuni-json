@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "C362",
-	"cap": "26844"
+	"cap": [
+		"26844"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "A792",
-	"cap": "27021"
+	"cap": [
+		"27021"
+	]
 }

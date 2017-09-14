@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "H173",
-	"cap": "21030"
+	"cap": [
+		"21030"
+	]
 }

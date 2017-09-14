@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L948",
-	"cap": "10068"
+	"cap": [
+		"10068"
+	]
 }

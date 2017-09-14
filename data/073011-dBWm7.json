@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E630",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "D712",
-	"cap": "13030"
+	"cap": [
+		"13030"
+	]
 }

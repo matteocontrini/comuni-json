@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G115",
-	"cap": "31024"
+	"cap": [
+		"31024"
+	]
 }

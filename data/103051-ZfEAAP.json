@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "G117",
-	"cap": "28877"
+	"cap": [
+		"28877"
+	]
 }

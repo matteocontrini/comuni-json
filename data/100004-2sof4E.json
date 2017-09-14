@@ -19,5 +19,7 @@
 	},
 	"sigla": "PO",
 	"codiceCatastale": "G754",
-	"cap": "59016"
+	"cap": [
+		"59016"
+	]
 }

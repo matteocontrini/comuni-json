@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "C983",
-	"cap": "70033"
+	"cap": [
+		"70033"
+	]
 }

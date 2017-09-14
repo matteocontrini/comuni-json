@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D634",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

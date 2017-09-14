@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "I128",
-	"cap": "41039"
+	"cap": [
+		"41039"
+	]
 }

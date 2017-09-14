@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G376",
-	"cap": "07016"
+	"cap": [
+		"07016"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L860",
-	"cap": "84019"
+	"cap": [
+		"84019"
+	]
 }

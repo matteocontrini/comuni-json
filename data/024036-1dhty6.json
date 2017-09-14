@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "D136",
-	"cap": "36051"
+	"cap": [
+		"36051"
+	]
 }

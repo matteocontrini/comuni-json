@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B526",
-	"cap": "67030"
+	"cap": [
+		"67030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G309",
-	"cap": "80010"
+	"cap": [
+		"80010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "A425",
-	"cap": "73010"
+	"cap": [
+		"73010"
+	]
 }

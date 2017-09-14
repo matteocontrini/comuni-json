@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L801",
-	"cap": "33020"
+	"cap": [
+		"33020"
+	]
 }

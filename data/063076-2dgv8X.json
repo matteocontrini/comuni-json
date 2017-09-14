@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I469",
-	"cap": "80039"
+	"cap": [
+		"80039"
+	]
 }

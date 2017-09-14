@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B885",
-	"cap": "15033"
+	"cap": [
+		"15033"
+	]
 }

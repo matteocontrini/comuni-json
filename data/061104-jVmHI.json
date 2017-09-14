@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "F043",
-	"cap": "81020"
+	"cap": [
+		"81020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "B468",
-	"cap": "60021"
+	"cap": [
+		"60021"
+	]
 }

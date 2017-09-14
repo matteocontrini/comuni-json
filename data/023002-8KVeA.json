@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "A137",
-	"cap": "37041"
+	"cap": [
+		"37041"
+	]
 }

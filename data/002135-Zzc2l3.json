@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "I545",
-	"cap": "13028"
+	"cap": [
+		"13028"
+	]
 }

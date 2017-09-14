@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F642",
-	"cap": "41055"
+	"cap": [
+		"41055"
+	]
 }

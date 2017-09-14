@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "I569",
-	"cap": "62025"
+	"cap": [
+		"62025"
+	]
 }

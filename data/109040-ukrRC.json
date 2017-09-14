@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "L279",
-	"cap": "63814"
+	"cap": [
+		"63814"
+	]
 }

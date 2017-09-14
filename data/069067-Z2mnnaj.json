@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "G760",
-	"cap": "66030"
+	"cap": [
+		"66030"
+	]
 }

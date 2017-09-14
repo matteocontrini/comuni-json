@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "M058",
-	"cap": "14040"
+	"cap": [
+		"14040"
+	]
 }

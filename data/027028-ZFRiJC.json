@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "G565",
-	"cap": "30030"
+	"cap": [
+		"30030"
+	]
 }

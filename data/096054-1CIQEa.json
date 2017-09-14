@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "H553",
-	"cap": "13883"
+	"cap": [
+		"13883"
+	]
 }

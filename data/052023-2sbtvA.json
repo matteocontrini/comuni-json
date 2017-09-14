@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "H153",
-	"cap": "53017"
+	"cap": [
+		"53017"
+	]
 }

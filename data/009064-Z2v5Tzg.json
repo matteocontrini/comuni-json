@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "L528",
-	"cap": "17047"
+	"cap": [
+		"17047"
+	]
 }

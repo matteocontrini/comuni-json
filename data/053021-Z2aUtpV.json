@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "H449",
-	"cap": "58036"
+	"cap": [
+		"58036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D860",
-	"cap": "39030"
+	"cap": [
+		"39030"
+	]
 }

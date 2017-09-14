@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "H657",
-	"cap": "33077"
+	"cap": [
+		"33077"
+	]
 }

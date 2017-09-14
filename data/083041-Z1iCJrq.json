@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E606",
-	"cap": "98055"
+	"cap": [
+		"98055"
+	]
 }

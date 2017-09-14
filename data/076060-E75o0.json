@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G616",
-	"cap": "85016"
+	"cap": [
+		"85016"
+	]
 }

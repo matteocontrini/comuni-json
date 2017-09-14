@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A962",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

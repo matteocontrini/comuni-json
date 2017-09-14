@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I437",
-	"cap": "24067"
+	"cap": [
+		"24067"
+	]
 }

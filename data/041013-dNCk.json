@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "D488",
-	"cap": "61032"
+	"cap": [
+		"61032"
+	]
 }

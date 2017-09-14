@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F477",
-	"cap": "00077"
+	"cap": [
+		"00077"
+	]
 }

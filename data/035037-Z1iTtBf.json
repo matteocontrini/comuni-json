@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "I011",
-	"cap": "42018"
+	"cap": [
+		"42018"
+	]
 }

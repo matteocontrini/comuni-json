@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "H466",
-	"cap": "14042"
+	"cap": [
+		"14042"
+	]
 }

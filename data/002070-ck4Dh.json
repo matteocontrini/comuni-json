@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "E583",
-	"cap": "13034"
+	"cap": [
+		"13034"
+	]
 }

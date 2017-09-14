@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "A131",
-	"cap": "85010"
+	"cap": [
+		"85010"
+	]
 }

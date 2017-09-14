@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "G386",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

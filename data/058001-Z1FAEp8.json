@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "A062",
-	"cap": "00021"
+	"cap": [
+		"00021"
+	]
 }

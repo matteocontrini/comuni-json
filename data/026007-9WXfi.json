@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "B678",
-	"cap": "31012"
+	"cap": [
+		"31012"
+	]
 }

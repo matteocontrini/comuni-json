@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "F494",
-	"cap": "82025"
+	"cap": [
+		"82025"
+	]
 }

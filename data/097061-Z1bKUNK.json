@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G161",
-	"cap": "23875"
+	"cap": [
+		"23875"
+	]
 }

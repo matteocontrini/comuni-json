@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "H426",
-	"cap": "85036"
+	"cap": [
+		"85036"
+	]
 }

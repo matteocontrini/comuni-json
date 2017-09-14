@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G114",
-	"cap": "12078"
+	"cap": [
+		"12078"
+	]
 }

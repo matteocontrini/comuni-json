@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G210",
-	"cap": "67030"
+	"cap": [
+		"67030"
+	]
 }

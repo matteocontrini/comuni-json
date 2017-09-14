@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "G620",
-	"cap": "81051"
+	"cap": [
+		"81051"
+	]
 }

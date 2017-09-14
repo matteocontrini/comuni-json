@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "G005",
-	"cap": "63073"
+	"cap": [
+		"63073"
+	]
 }

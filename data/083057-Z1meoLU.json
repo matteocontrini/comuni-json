@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F400",
-	"cap": "98065"
+	"cap": [
+		"98065"
+	]
 }

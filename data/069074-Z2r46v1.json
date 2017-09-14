@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "H439",
-	"cap": "66020"
+	"cap": [
+		"66020"
+	]
 }

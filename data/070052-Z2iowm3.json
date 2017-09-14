@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "G512",
-	"cap": "86024"
+	"cap": [
+		"86024"
+	]
 }

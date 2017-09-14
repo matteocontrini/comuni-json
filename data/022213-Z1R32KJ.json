@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L769",
-	"cap": "38029"
+	"cap": [
+		"38029"
+	]
 }

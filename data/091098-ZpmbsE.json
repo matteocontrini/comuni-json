@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "L489",
-	"cap": "08040"
+	"cap": [
+		"08040"
+	]
 }

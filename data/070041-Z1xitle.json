@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "F391",
-	"cap": "86023"
+	"cap": [
+		"86023"
+	]
 }

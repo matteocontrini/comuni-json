@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F096",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

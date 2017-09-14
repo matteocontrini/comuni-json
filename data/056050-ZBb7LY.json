@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "D024",
-	"cap": "01016"
+	"cap": [
+		"01016"
+	]
 }

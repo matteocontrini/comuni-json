@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G795",
-	"cap": "80040"
+	"cap": [
+		"80040"
+	]
 }

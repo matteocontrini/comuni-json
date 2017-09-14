@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G456",
-	"cap": "23828"
+	"cap": [
+		"23828"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A889",
-	"cap": "15012"
+	"cap": [
+		"15012"
+	]
 }

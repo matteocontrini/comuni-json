@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "I442",
-	"cap": "11010"
+	"cap": [
+		"11010"
+	]
 }

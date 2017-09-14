@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "C298",
-	"cap": "66033"
+	"cap": [
+		"66033"
+	]
 }

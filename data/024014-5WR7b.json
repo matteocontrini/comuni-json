@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "B132",
-	"cap": "36042"
+	"cap": [
+		"36042"
+	]
 }

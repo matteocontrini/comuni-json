@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D727",
-	"cap": "24040"
+	"cap": [
+		"24040"
+	]
 }

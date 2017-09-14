@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "I751",
-	"cap": "08029"
+	"cap": [
+		"08029"
+	]
 }

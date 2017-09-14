@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "B117",
-	"cap": "27050"
+	"cap": [
+		"27050"
+	]
 }

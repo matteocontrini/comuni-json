@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "H018",
-	"cap": "38037"
+	"cap": [
+		"38037"
+	]
 }

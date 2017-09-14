@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "F275",
-	"cap": "33040"
+	"cap": [
+		"33040"
+	]
 }

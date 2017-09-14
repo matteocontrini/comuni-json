@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G678",
-	"cap": "10025"
+	"cap": [
+		"10025"
+	]
 }

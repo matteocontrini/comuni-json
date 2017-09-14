@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "I532",
-	"cap": "46020"
+	"cap": [
+		"46020"
+	]
 }

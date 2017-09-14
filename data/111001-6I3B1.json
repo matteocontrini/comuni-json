@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "A359",
-	"cap": "09031"
+	"cap": [
+		"09031"
+	]
 }

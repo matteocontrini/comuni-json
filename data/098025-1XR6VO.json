@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "D159",
-	"cap": "26835"
+	"cap": [
+		"26835"
+	]
 }

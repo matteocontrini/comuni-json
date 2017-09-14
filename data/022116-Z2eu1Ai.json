@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "F183",
-	"cap": "38016"
+	"cap": [
+		"38016"
+	]
 }

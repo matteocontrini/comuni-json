@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F764",
-	"cap": "64023"
+	"cap": [
+		"64023"
+	]
 }

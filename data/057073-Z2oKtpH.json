@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "L676",
-	"cap": "02020"
+	"cap": [
+		"02020"
+	]
 }

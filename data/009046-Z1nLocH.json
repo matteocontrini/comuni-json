@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "G155",
-	"cap": "17010"
+	"cap": [
+		"17010"
+	]
 }

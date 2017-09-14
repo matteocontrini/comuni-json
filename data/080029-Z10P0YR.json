@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "C954",
-	"cap": "89030"
+	"cap": [
+		"89030"
+	]
 }

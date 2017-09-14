@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C165",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

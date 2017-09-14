@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B922",
-	"cap": "80032"
+	"cap": [
+		"80032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "G596",
-	"cap": "81016"
+	"cap": [
+		"81016"
+	]
 }

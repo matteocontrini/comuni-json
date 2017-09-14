@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H418",
-	"cap": "98027"
+	"cap": [
+		"98027"
+	]
 }

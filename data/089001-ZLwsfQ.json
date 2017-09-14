@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "A494",
-	"cap": "96011"
+	"cap": [
+		"96011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "B741",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

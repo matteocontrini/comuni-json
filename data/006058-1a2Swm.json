@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C507",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

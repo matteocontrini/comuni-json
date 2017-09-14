@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "D925",
-	"cap": "27026"
+	"cap": [
+		"27026"
+	]
 }

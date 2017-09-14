@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "H101",
-	"cap": "80019"
+	"cap": [
+		"80019"
+	]
 }

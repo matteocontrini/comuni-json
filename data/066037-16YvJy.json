@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C811",
-	"cap": "67030"
+	"cap": [
+		"67030"
+	]
 }

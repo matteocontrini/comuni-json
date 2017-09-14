@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E469",
-	"cap": "74014"
+	"cap": [
+		"74014"
+	]
 }

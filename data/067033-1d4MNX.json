@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "G437",
-	"cap": "64039"
+	"cap": [
+		"64039"
+	]
 }

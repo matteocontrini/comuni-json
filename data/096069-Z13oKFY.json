@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L239",
-	"cap": "13884"
+	"cap": [
+		"13884"
+	]
 }

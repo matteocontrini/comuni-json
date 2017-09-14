@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "L123",
-	"cap": "52028"
+	"cap": [
+		"52028"
+	]
 }

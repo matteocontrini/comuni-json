@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "M376",
-	"cap": "51024"
+	"cap": [
+		"51024"
+	]
 }

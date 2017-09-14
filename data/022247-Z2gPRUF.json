@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M361",
-	"cap": "38095"
+	"cap": [
+		"38095"
+	]
 }

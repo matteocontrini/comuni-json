@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I359",
-	"cap": "87056"
+	"cap": [
+		"87056"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "C770",
-	"cap": "62012"
+	"cap": [
+		"62012"
+	]
 }

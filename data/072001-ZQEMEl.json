@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "A048",
-	"cap": "70021"
+	"cap": [
+		"70021"
+	]
 }

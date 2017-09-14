@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "G752",
-	"cap": "53036"
+	"cap": [
+		"53036"
+	]
 }

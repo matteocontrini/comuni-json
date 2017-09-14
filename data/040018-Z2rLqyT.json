@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "E675",
-	"cap": "47020"
+	"cap": [
+		"47020"
+	]
 }

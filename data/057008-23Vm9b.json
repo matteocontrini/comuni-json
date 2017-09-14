@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "A996",
-	"cap": "02010"
+	"cap": [
+		"02010"
+	]
 }

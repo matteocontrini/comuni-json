@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B328",
-	"cap": "42023"
+	"cap": [
+		"42023"
+	]
 }

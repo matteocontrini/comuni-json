@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "M342",
-	"cap": "32013"
+	"cap": [
+		"32013"
+	]
 }

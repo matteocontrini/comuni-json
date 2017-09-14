@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "E407",
-	"cap": "87035"
+	"cap": [
+		"87035"
+	]
 }

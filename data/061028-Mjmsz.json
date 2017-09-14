@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "C558",
-	"cap": "81023"
+	"cap": [
+		"81023"
+	]
 }

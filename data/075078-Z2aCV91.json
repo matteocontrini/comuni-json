@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "I923",
-	"cap": "73038"
+	"cap": [
+		"73038"
+	]
 }

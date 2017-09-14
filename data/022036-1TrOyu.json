@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B514",
-	"cap": "38031"
+	"cap": [
+		"38031"
+	]
 }

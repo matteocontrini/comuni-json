@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B112",
-	"cap": "24010"
+	"cap": [
+		"24010"
+	]
 }

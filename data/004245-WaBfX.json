@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L974",
-	"cap": "12089"
+	"cap": [
+		"12089"
+	]
 }

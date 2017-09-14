@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "A004",
-	"cap": "26834"
+	"cap": [
+		"26834"
+	]
 }

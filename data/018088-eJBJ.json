@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "F080",
-	"cap": "27035"
+	"cap": [
+		"27035"
+	]
 }

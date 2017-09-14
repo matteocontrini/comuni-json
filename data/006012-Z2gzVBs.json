@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A689",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

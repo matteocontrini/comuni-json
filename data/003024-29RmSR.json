@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "B019",
-	"cap": "28021"
+	"cap": [
+		"28021"
+	]
 }

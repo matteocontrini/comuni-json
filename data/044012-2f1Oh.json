@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "C321",
-	"cap": "63072"
+	"cap": [
+		"63072"
+	]
 }

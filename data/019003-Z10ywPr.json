@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "A299",
-	"cap": "26021"
+	"cap": [
+		"26021"
+	]
 }

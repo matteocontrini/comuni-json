@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "B141",
-	"cap": "26822"
+	"cap": [
+		"26822"
+	]
 }

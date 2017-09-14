@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B081",
-	"cap": "23842"
+	"cap": [
+		"23842"
+	]
 }

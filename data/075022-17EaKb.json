@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "C978",
-	"cap": "73043"
+	"cap": [
+		"73043"
+	]
 }

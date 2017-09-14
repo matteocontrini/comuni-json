@@ -19,5 +19,7 @@
 	},
 	"sigla": "GO",
 	"codiceCatastale": "E098",
-	"cap": "34170"
+	"cap": [
+		"34170"
+	]
 }

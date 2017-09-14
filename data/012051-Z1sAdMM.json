@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C751",
-	"cap": "21033"
+	"cap": [
+		"21033"
+	]
 }

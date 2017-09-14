@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C229",
-	"cap": "15017"
+	"cap": [
+		"15017"
+	]
 }

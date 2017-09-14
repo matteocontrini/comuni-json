@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "A233",
-	"cap": "63824"
+	"cap": [
+		"63824"
+	]
 }

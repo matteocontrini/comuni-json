@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "L155",
-	"cap": "81030"
+	"cap": [
+		"81030"
+	]
 }

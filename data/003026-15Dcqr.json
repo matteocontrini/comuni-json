@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "B176",
-	"cap": "28010"
+	"cap": [
+		"28010"
+	]
 }

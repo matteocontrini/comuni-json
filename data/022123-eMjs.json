@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "F728",
-	"cap": "38065"
+	"cap": [
+		"38065"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "A573",
-	"cap": "42011"
+	"cap": [
+		"42011"
+	]
 }

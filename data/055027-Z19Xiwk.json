@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "G790",
-	"cap": "05030"
+	"cap": [
+		"05030"
+	]
 }

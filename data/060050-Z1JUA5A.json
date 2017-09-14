@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "G591",
-	"cap": "03040"
+	"cap": [
+		"03040"
+	]
 }

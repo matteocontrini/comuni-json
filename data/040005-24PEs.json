@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "C339",
-	"cap": "47011"
+	"cap": [
+		"47011"
+	]
 }

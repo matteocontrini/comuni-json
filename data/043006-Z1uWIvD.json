@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "B398",
-	"cap": "62020"
+	"cap": [
+		"62020"
+	]
 }

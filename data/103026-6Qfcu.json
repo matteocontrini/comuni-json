@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "D177",
-	"cap": "28862"
+	"cap": [
+		"28862"
+	]
 }

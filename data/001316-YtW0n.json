@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "M316",
-	"cap": "10072"
+	"cap": [
+		"10072"
+	]
 }

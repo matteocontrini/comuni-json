@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E205",
-	"cap": "74023"
+	"cap": [
+		"74023"
+	]
 }

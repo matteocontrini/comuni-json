@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "E836",
-	"cap": "89843"
+	"cap": [
+		"89843"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L197",
-	"cap": "85017"
+	"cap": [
+		"85017"
+	]
 }

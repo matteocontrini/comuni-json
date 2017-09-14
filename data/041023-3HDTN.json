@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "E785",
-	"cap": "61023"
+	"cap": [
+		"61023"
+	]
 }

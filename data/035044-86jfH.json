@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "L831",
-	"cap": "42030"
+	"cap": [
+		"42030"
+	]
 }

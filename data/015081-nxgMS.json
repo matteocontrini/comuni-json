@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C895",
-	"cap": "20093"
+	"cap": [
+		"20093"
+	]
 }

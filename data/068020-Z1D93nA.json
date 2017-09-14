@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "E558",
-	"cap": "65020"
+	"cap": [
+		"65020"
+	]
 }

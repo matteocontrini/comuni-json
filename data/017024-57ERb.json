@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "B100",
-	"cap": "25061"
+	"cap": [
+		"25061"
+	]
 }

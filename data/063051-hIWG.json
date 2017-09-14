@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G190",
-	"cap": "80044"
+	"cap": [
+		"80044"
+	]
 }

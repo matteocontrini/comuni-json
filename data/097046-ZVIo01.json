@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E879",
-	"cap": "23826"
+	"cap": [
+		"23826"
+	]
 }

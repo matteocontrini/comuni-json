@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "F100",
-	"cap": "20077"
+	"cap": [
+		"20077"
+	]
 }

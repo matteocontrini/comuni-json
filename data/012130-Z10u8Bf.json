@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L480",
-	"cap": "21040"
+	"cap": [
+		"21040"
+	]
 }

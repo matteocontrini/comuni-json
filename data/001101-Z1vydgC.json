@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "D520",
-	"cap": "10083"
+	"cap": [
+		"10083"
+	]
 }

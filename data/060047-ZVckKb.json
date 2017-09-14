@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "G362",
-	"cap": "03020"
+	"cap": [
+		"03020"
+	]
 }

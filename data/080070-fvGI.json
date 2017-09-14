@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "H013",
-	"cap": "89030"
+	"cap": [
+		"89030"
+	]
 }

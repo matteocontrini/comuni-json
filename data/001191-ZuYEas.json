@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G674",
-	"cap": "10064"
+	"cap": [
+		"10064"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M173",
-	"cap": "38030"
+	"cap": [
+		"38030"
+	]
 }

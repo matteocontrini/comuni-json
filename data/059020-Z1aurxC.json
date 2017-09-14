@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "H076",
-	"cap": "04010"
+	"cap": [
+		"04010"
+	]
 }

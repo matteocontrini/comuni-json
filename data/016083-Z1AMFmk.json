@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D066",
-	"cap": "24050"
+	"cap": [
+		"24050"
+	]
 }

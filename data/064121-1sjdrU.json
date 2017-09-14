@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "M330",
-	"cap": "83025"
+	"cap": [
+		"83025"
+	]
 }

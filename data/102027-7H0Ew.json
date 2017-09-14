@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "G722",
-	"cap": "89812"
+	"cap": [
+		"89812"
+	]
 }

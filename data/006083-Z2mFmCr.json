@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E164",
-	"cap": "15056"
+	"cap": [
+		"15056"
+	]
 }

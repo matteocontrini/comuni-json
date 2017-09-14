@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "M108",
-	"cap": "32040"
+	"cap": [
+		"32040"
+	]
 }

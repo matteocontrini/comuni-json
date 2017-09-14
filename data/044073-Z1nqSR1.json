@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "L728",
-	"cap": "63091"
+	"cap": [
+		"63091"
+	]
 }

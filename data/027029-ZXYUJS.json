@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "G914",
-	"cap": "30026"
+	"cap": [
+		"30026"
+	]
 }

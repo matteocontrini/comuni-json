@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "C442",
-	"cap": "71020"
+	"cap": [
+		"71020"
+	]
 }

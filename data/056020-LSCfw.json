@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "C447",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "L190",
-	"cap": "17055"
+	"cap": [
+		"17055"
+	]
 }

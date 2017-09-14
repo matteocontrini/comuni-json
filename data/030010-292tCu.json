@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A810",
-	"cap": "33032"
+	"cap": [
+		"33032"
+	]
 }

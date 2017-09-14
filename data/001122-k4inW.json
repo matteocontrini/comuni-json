@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E311",
-	"cap": "10060"
+	"cap": [
+		"10060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "G797",
-	"cap": "90010"
+	"cap": [
+		"90010"
+	]
 }

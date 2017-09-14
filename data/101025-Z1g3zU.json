@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "I982",
-	"cap": "88816"
+	"cap": [
+		"88816"
+	]
 }

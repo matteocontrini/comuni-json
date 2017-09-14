@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "B648",
-	"cap": "55012"
+	"cap": [
+		"55012"
+	]
 }

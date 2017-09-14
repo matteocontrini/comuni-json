@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "A795",
-	"cap": "45032"
+	"cap": [
+		"45032"
+	]
 }

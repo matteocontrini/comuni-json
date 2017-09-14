@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E367",
-	"cap": "21027"
+	"cap": [
+		"21027"
+	]
 }

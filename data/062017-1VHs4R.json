@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C245",
-	"cap": "82024"
+	"cap": [
+		"82024"
+	]
 }

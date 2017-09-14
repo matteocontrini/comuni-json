@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I607",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

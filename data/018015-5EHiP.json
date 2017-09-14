@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "A989",
-	"cap": "27010"
+	"cap": [
+		"27010"
+	]
 }

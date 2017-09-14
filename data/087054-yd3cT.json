@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "M100",
-	"cap": "95049"
+	"cap": [
+		"95049"
+	]
 }

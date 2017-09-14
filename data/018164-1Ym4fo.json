@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L449",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

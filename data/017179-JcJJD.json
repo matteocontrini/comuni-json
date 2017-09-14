@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I633",
-	"cap": "25019"
+	"cap": [
+		"25019"
+	]
 }

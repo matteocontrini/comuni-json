@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "H470",
-	"cap": "20090"
+	"cap": [
+		"20090"
+	]
 }

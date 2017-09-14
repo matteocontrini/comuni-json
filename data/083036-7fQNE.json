@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E374",
-	"cap": "98025"
+	"cap": [
+		"98025"
+	]
 }

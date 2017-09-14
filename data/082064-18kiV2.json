@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "H933",
-	"cap": "90048"
+	"cap": [
+		"90048"
+	]
 }

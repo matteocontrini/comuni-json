@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G820",
-	"cap": "13875"
+	"cap": [
+		"13875"
+	]
 }

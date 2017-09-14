@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "I598",
-	"cap": "07010"
+	"cap": [
+		"07010"
+	]
 }

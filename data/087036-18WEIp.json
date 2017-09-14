@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "H154",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A240",
-	"cap": "87042"
+	"cap": [
+		"87042"
+	]
 }

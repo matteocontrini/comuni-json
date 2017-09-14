@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I487",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

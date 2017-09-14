@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "C951",
-	"cap": "41033"
+	"cap": [
+		"41033"
+	]
 }

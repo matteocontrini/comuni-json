@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "B008",
-	"cap": "02021"
+	"cap": [
+		"02021"
+	]
 }

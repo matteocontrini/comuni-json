@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "L335",
-	"cap": "33010"
+	"cap": [
+		"33010"
+	]
 }

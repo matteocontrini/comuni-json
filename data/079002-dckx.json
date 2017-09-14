@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "A155",
-	"cap": "88055"
+	"cap": [
+		"88055"
+	]
 }

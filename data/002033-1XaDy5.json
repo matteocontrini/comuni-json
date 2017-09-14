@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B928",
-	"cap": "13030"
+	"cap": [
+		"13030"
+	]
 }

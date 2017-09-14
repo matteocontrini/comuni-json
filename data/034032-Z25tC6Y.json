@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "H720",
-	"cap": "43039"
+	"cap": [
+		"43039"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "G255",
-	"cap": "43025"
+	"cap": [
+		"43025"
+	]
 }

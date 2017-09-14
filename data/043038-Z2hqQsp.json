@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "G657",
-	"cap": "62036"
+	"cap": [
+		"62036"
+	]
 }

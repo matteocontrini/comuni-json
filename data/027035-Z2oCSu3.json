@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I242",
-	"cap": "30036"
+	"cap": [
+		"30036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "L499",
-	"cap": "17048"
+	"cap": [
+		"17048"
+	]
 }

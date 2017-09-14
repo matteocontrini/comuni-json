@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F901",
-	"cap": "98026"
+	"cap": [
+		"98026"
+	]
 }

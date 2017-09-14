@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "A407",
-	"cap": "08031"
+	"cap": [
+		"08031"
+	]
 }

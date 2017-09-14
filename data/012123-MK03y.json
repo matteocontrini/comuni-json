@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "I819",
-	"cap": "21019"
+	"cap": [
+		"21019"
+	]
 }

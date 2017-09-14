@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "I792",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

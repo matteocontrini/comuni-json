@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B718",
-	"cap": "89030"
+	"cap": [
+		"89030"
+	]
 }

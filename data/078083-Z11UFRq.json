@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "F708",
-	"cap": "87016"
+	"cap": [
+		"87016"
+	]
 }

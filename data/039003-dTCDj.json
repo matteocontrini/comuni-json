@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "A551",
-	"cap": "48031"
+	"cap": [
+		"48031"
+	]
 }

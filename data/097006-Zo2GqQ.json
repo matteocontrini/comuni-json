@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A686",
-	"cap": "23891"
+	"cap": [
+		"23891"
+	]
 }

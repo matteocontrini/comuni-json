@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "F399",
-	"cap": "75023"
+	"cap": [
+		"75023"
+	]
 }

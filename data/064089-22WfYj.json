@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "I264",
-	"cap": "83053"
+	"cap": [
+		"83053"
+	]
 }

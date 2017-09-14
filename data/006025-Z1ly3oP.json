@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B311",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

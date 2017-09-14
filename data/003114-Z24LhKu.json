@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "G349",
-	"cap": "28040"
+	"cap": [
+		"28040"
+	]
 }

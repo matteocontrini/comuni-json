@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "I326",
-	"cap": "67067"
+	"cap": [
+		"67067"
+	]
 }

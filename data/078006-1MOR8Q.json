@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A160",
-	"cap": "87070"
+	"cap": [
+		"87070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "B104",
-	"cap": "71023"
+	"cap": [
+		"71023"
+	]
 }

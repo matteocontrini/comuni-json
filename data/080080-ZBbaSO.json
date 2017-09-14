@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I214",
-	"cap": "89050"
+	"cap": [
+		"89050"
+	]
 }

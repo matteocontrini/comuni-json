@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F846",
-	"cap": "12068"
+	"cap": [
+		"12068"
+	]
 }

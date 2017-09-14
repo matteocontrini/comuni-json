@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "H733",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

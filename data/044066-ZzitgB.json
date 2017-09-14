@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "H769",
-	"cap": "63074"
+	"cap": [
+		"63074"
+	]
 }

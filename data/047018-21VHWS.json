@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "H744",
-	"cap": "51020"
+	"cap": [
+		"51020"
+	]
 }

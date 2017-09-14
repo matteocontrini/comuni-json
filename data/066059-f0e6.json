@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "F996",
-	"cap": "67040"
+	"cap": [
+		"67040"
+	]
 }

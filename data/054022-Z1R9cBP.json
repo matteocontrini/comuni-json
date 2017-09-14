@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "E229",
-	"cap": "06035"
+	"cap": [
+		"06035"
+	]
 }

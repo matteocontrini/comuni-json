@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "G855",
-	"cap": "35020"
+	"cap": [
+		"35020"
+	]
 }

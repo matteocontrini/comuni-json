@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D941",
-	"cap": "15063"
+	"cap": [
+		"15063"
+	]
 }

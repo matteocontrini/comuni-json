@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H268",
-	"cap": "81053"
+	"cap": [
+		"81053"
+	]
 }

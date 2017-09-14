@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "C174",
-	"cap": "56040"
+	"cap": [
+		"56040"
+	]
 }

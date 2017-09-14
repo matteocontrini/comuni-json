@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "D888",
-	"cap": "08020"
+	"cap": [
+		"08020"
+	]
 }

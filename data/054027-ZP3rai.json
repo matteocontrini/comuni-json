@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "E975",
-	"cap": "06055"
+	"cap": [
+		"06055"
+	]
 }

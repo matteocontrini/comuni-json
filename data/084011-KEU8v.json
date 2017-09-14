@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "B602",
-	"cap": "92024"
+	"cap": [
+		"92024"
+	]
 }

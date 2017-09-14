@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G577",
-	"cap": "13844"
+	"cap": [
+		"13844"
+	]
 }

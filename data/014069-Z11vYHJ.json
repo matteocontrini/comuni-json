@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L330",
-	"cap": "23019"
+	"cap": [
+		"23019"
+	]
 }

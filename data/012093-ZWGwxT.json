@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E769",
-	"cap": "21020"
+	"cap": [
+		"21020"
+	]
 }

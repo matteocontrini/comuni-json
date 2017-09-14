@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C689",
-	"cap": "31010"
+	"cap": [
+		"31010"
+	]
 }

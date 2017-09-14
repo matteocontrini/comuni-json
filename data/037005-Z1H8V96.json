@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "A785",
-	"cap": "40010"
+	"cap": [
+		"40010"
+	]
 }

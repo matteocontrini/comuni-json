@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "L977",
-	"cap": "26818"
+	"cap": [
+		"26818"
+	]
 }

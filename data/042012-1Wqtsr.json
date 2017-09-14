@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "C248",
-	"cap": "60031"
+	"cap": [
+		"60031"
+	]
 }

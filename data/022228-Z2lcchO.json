@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M314",
-	"cap": "38077"
+	"cap": [
+		"38077"
+	]
 }

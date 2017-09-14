@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G247",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

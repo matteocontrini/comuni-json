@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "E338",
-	"cap": "14057"
+	"cap": [
+		"14057"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D579",
-	"cap": "22060"
+	"cap": [
+		"22060"
+	]
 }

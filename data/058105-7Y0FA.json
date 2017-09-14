@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "L192",
-	"cap": "00059"
+	"cap": [
+		"00059"
+	]
 }

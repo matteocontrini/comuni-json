@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "C135",
-	"cap": "90020"
+	"cap": [
+		"90020"
+	]
 }

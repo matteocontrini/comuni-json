@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F355",
-	"cap": "12077"
+	"cap": [
+		"12077"
+	]
 }

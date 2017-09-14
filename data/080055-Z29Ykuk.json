@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "G082",
-	"cap": "89014"
+	"cap": [
+		"89014"
+	]
 }

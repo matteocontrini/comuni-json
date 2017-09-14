@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "B789",
-	"cap": "09014"
+	"cap": [
+		"09014"
+	]
 }

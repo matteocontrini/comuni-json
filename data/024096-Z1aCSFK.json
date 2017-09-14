@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I401",
-	"cap": "36030"
+	"cap": [
+		"36030"
+	]
 }

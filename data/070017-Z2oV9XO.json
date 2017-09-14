@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "C486",
-	"cap": "86012"
+	"cap": [
+		"86012"
+	]
 }

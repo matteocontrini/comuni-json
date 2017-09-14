@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "B532",
-	"cap": "90010"
+	"cap": [
+		"90010"
+	]
 }

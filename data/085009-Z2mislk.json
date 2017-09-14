@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "F065",
-	"cap": "93013"
+	"cap": [
+		"93013"
+	]
 }

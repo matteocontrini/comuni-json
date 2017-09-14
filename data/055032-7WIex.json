@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "L117",
-	"cap": "05100"
+	"cap": [
+		"05100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "I595",
-	"cap": "35030"
+	"cap": [
+		"35030"
+	]
 }

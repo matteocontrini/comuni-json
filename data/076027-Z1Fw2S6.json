@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "C539",
-	"cap": "85030"
+	"cap": [
+		"85030"
+	]
 }

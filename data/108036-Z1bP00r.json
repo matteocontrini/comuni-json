@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "G116",
-	"cap": "20876"
+	"cap": [
+		"20876"
+	]
 }

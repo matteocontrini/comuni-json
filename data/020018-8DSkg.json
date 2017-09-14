@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "C406",
-	"cap": "46040"
+	"cap": [
+		"46040"
+	]
 }

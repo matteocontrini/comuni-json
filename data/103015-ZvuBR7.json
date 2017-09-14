@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "B463",
-	"cap": "28814"
+	"cap": [
+		"28814"
+	]
 }

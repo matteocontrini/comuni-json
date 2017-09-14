@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "L183",
-	"cap": "43028"
+	"cap": [
+		"43028"
+	]
 }

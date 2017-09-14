@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L748",
-	"cap": "22013"
+	"cap": [
+		"22013"
+	]
 }

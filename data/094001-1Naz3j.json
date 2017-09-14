@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "A051",
-	"cap": "86080"
+	"cap": [
+		"86080"
+	]
 }

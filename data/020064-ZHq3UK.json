@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "L015",
-	"cap": "46030"
+	"cap": [
+		"46030"
+	]
 }

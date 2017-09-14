@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "G791",
-	"cap": "89024"
+	"cap": [
+		"89024"
+	]
 }

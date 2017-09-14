@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "E742",
-	"cap": "09022"
+	"cap": [
+		"09022"
+	]
 }

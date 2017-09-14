@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D245",
-	"cap": "24044"
+	"cap": [
+		"24044"
+	]
 }

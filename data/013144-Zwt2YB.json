@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F017",
-	"cap": "22026"
+	"cap": [
+		"22026"
+	]
 }

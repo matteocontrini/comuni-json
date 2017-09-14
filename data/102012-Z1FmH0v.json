@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "D589",
-	"cap": "89841"
+	"cap": [
+		"89841"
+	]
 }

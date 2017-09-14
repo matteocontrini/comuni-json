@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "A864",
-	"cap": "56031"
+	"cap": [
+		"56031"
+	]
 }

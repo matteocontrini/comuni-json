@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D856",
-	"cap": "12010"
+	"cap": [
+		"12010"
+	]
 }

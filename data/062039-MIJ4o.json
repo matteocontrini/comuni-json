@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "F113",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

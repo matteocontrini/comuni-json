@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "C894",
-	"cap": "24055"
+	"cap": [
+		"24055"
+	]
 }

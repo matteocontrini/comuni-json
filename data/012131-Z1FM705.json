@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L577",
-	"cap": "21039"
+	"cap": [
+		"21039"
+	]
 }

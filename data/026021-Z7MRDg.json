@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C957",
-	"cap": "31015"
+	"cap": [
+		"31015"
+	]
 }

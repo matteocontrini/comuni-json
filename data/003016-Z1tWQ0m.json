@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "A752",
-	"cap": "28043"
+	"cap": [
+		"28043"
+	]
 }

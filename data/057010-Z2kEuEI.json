@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "B631",
-	"cap": "02040"
+	"cap": [
+		"02040"
+	]
 }

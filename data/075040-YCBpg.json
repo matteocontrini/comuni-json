@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "E979",
-	"cap": "73025"
+	"cap": [
+		"73025"
+	]
 }

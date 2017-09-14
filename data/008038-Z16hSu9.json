@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G041",
-	"cap": "18030"
+	"cap": [
+		"18030"
+	]
 }

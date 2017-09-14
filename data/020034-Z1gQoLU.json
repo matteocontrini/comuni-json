@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "F086",
-	"cap": "46046"
+	"cap": [
+		"46046"
+	]
 }

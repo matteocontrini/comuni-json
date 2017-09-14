@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "I501",
-	"cap": "67038"
+	"cap": [
+		"67038"
+	]
 }

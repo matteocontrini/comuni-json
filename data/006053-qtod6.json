@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "C243",
-	"cap": "15053"
+	"cap": [
+		"15053"
+	]
 }

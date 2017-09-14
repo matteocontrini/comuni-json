@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G762",
-	"cap": "80040"
+	"cap": [
+		"80040"
+	]
 }

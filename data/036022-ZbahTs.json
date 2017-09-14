@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F240",
-	"cap": "41037"
+	"cap": [
+		"41037"
+	]
 }

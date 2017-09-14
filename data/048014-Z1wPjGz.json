@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "D403",
-	"cap": "50053"
+	"cap": [
+		"50053"
+	]
 }

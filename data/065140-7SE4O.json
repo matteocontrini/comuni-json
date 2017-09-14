@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I666",
-	"cap": "84028"
+	"cap": [
+		"84028"
+	]
 }

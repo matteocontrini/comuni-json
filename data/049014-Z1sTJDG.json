@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "G912",
-	"cap": "57037"
+	"cap": [
+		"57037"
+	]
 }

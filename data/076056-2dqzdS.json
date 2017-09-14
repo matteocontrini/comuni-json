@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "G081",
-	"cap": "85015"
+	"cap": [
+		"85015"
+	]
 }

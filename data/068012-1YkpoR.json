@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "C750",
-	"cap": "65013"
+	"cap": [
+		"65013"
+	]
 }

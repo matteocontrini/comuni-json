@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "F915",
-	"cap": "70015"
+	"cap": [
+		"70015"
+	]
 }

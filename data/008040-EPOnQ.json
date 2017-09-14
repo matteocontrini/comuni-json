@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G454",
-	"cap": "18032"
+	"cap": [
+		"18032"
+	]
 }

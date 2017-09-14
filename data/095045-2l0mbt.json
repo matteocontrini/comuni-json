@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "H756",
-	"cap": "09086"
+	"cap": [
+		"09086"
+	]
 }

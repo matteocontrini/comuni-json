@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "F655",
-	"cap": "92010"
+	"cap": [
+		"92010"
+	]
 }

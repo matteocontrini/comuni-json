@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "B432",
-	"cap": "45030"
+	"cap": [
+		"45030"
+	]
 }

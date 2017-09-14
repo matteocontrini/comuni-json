@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "E417",
-	"cap": "87014"
+	"cap": [
+		"87014"
+	]
 }

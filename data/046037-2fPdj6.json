@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "M347",
-	"cap": "55039"
+	"cap": [
+		"55039"
+	]
 }

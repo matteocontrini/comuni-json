@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B033",
-	"cap": "12011"
+	"cap": [
+		"12011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "A765",
-	"cap": "02020"
+	"cap": [
+		"02020"
+	]
 }

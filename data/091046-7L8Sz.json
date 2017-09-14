@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E874",
-	"cap": "08024"
+	"cap": [
+		"08024"
+	]
 }

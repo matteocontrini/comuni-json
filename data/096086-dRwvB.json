@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "M373",
-	"cap": "13812"
+	"cap": [
+		"13812"
+	]
 }

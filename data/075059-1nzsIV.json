@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "G325",
-	"cap": "73052"
+	"cap": [
+		"73052"
+	]
 }

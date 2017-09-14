@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B963",
-	"cap": "81100"
+	"cap": [
+		"81100"
+	]
 }

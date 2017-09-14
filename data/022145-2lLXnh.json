@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "G950",
-	"cap": "38036"
+	"cap": [
+		"38036"
+	]
 }

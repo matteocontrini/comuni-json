@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E287",
-	"cap": "23898"
+	"cap": [
+		"23898"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "E375",
-	"cap": "04020"
+	"cap": [
+		"04020"
+	]
 }

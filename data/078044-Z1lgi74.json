@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D005",
-	"cap": "87064"
+	"cap": [
+		"87064"
+	]
 }

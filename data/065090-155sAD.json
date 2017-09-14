@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G426",
-	"cap": "84080"
+	"cap": [
+		"84080"
+	]
 }

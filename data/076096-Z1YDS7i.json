@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L859",
-	"cap": "85058"
+	"cap": [
+		"85058"
+	]
 }

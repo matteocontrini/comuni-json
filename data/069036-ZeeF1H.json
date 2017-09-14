@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D796",
-	"cap": "66050"
+	"cap": [
+		"66050"
+	]
 }

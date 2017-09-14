@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "I510",
-	"cap": "58020"
+	"cap": [
+		"58020"
+	]
 }

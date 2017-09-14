@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "B369",
-	"cap": "17014"
+	"cap": [
+		"17014"
+	]
 }

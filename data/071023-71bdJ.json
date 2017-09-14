@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "D459",
-	"cap": "71020"
+	"cap": [
+		"71020"
+	]
 }

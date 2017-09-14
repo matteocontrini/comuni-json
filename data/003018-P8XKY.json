@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "A844",
-	"cap": "28061"
+	"cap": [
+		"28061"
+	]
 }

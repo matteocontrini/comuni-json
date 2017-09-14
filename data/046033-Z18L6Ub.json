@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "L833",
-	"cap": "55049"
+	"cap": [
+		"55049"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "D586",
-	"cap": "00060"
+	"cap": [
+		"00060"
+	]
 }

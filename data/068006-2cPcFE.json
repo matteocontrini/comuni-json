@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "B681",
-	"cap": "65010"
+	"cap": [
+		"65010"
+	]
 }

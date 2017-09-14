@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "C195",
-	"cap": "46014"
+	"cap": [
+		"46014"
+	]
 }

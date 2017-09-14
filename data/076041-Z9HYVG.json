@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "E482",
-	"cap": "85014"
+	"cap": [
+		"85014"
+	]
 }

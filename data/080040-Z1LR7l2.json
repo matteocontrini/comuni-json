@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "E212",
-	"cap": "89043"
+	"cap": [
+		"89043"
+	]
 }

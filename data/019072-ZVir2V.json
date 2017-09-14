@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "G558",
-	"cap": "26010"
+	"cap": [
+		"26010"
+	]
 }

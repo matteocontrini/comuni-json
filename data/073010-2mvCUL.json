@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E537",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

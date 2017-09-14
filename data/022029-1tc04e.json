@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B335",
-	"cap": "38080"
+	"cap": [
+		"38080"
+	]
 }

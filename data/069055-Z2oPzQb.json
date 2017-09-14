@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "F582",
-	"cap": "66050"
+	"cap": [
+		"66050"
+	]
 }

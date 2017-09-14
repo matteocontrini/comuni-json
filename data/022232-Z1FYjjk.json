@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M343",
-	"cap": "38091"
+	"cap": [
+		"38091"
+	]
 }

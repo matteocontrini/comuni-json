@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "F740",
-	"cap": "03017"
+	"cap": [
+		"03017"
+	]
 }

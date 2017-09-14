@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "E783",
-	"cap": "62100"
+	"cap": [
+		"62100"
+	]
 }

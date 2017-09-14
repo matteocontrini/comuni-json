@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "C172",
-	"cap": "53011"
+	"cap": [
+		"53011"
+	]
 }

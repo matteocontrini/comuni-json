@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "D357",
-	"cap": "47013"
+	"cap": [
+		"47013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "G135",
-	"cap": "01028"
+	"cap": [
+		"01028"
+	]
 }

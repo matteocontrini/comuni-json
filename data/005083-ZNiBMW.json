@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "G430",
-	"cap": "14030"
+	"cap": [
+		"14030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "G131",
-	"cap": "71045"
+	"cap": [
+		"71045"
+	]
 }

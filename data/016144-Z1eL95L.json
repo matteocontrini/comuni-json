@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "F864",
-	"cap": "24027"
+	"cap": [
+		"24027"
+	]
 }

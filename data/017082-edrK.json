@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E280",
-	"cap": "25074"
+	"cap": [
+		"25074"
+	]
 }

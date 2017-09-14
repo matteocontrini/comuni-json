@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "F489",
-	"cap": "93010"
+	"cap": [
+		"93010"
+	]
 }

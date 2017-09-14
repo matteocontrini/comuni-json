@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "I294",
-	"cap": "09017"
+	"cap": [
+		"09017"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L574",
-	"cap": "14017"
+	"cap": [
+		"14017"
+	]
 }

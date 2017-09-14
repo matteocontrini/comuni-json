@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "L540",
-	"cap": "81058"
+	"cap": [
+		"81058"
+	]
 }

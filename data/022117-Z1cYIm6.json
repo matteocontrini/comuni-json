@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "F187",
-	"cap": "38017"
+	"cap": [
+		"38017"
+	]
 }

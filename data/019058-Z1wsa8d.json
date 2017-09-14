@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "F434",
-	"cap": "26010"
+	"cap": [
+		"26010"
+	]
 }

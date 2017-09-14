@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "L227",
-	"cap": "67049"
+	"cap": [
+		"67049"
+	]
 }

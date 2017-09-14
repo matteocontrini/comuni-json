@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B396",
-	"cap": "23885"
+	"cap": [
+		"23885"
+	]
 }

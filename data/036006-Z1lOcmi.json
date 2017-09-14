@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "C107",
-	"cap": "41013"
+	"cap": [
+		"41013"
+	]
 }

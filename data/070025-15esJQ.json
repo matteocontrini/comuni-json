@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "D896",
-	"cap": "86013"
+	"cap": [
+		"86013"
+	]
 }

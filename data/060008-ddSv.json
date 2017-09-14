@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "A363",
-	"cap": "03032"
+	"cap": [
+		"03032"
+	]
 }

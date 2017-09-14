@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "E931",
-	"cap": "57033"
+	"cap": [
+		"57033"
+	]
 }

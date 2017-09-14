@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "B982",
-	"cap": "48032"
+	"cap": [
+		"48032"
+	]
 }

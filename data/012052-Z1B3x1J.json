@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C796",
-	"cap": "21050"
+	"cap": [
+		"21050"
+	]
 }

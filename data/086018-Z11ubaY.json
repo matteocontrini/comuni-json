@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "L448",
-	"cap": "94018"
+	"cap": [
+		"94018"
+	]
 }

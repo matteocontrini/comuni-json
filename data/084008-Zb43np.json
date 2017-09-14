@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "B460",
-	"cap": "92020"
+	"cap": [
+		"92020"
+	]
 }

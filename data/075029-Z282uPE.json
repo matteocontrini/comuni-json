@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "D862",
-	"cap": "73013"
+	"cap": [
+		"73013"
+	]
 }

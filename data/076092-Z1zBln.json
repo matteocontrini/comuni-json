@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L357",
-	"cap": "85049"
+	"cap": [
+		"85049"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E659",
-	"cap": "22074"
+	"cap": [
+		"22074"
+	]
 }

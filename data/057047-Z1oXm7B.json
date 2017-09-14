@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "B595",
-	"cap": "02035"
+	"cap": [
+		"02035"
+	]
 }

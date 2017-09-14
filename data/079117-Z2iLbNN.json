@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I170",
-	"cap": "88060"
+	"cap": [
+		"88060"
+	]
 }

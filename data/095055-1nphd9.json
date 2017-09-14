@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I613",
-	"cap": "09078"
+	"cap": [
+		"09078"
+	]
 }

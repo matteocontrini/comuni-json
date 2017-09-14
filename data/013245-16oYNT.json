@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L956",
-	"cap": "22079"
+	"cap": [
+		"22079"
+	]
 }

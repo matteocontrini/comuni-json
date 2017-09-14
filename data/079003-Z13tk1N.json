@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "A255",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

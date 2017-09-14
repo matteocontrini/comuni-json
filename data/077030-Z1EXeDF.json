@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "D513",
-	"cap": "75029"
+	"cap": [
+		"75029"
+	]
 }

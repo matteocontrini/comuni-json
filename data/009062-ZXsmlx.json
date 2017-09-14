@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "L315",
-	"cap": "17020"
+	"cap": [
+		"17020"
+	]
 }

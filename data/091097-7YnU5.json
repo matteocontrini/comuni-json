@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "L423",
-	"cap": "08040"
+	"cap": [
+		"08040"
+	]
 }

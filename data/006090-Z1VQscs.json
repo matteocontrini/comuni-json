@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E870",
-	"cap": "15015"
+	"cap": [
+		"15015"
+	]
 }

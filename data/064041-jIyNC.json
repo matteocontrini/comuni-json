@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "E397",
-	"cap": "83046"
+	"cap": [
+		"83046"
+	]
 }

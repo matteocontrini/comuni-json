@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "D878",
-	"cap": "40015"
+	"cap": [
+		"40015"
+	]
 }

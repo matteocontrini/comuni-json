@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "I546",
-	"cap": "67019"
+	"cap": [
+		"67019"
+	]
 }

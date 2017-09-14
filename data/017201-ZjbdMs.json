@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L995",
-	"cap": "25089"
+	"cap": [
+		"25089"
+	]
 }

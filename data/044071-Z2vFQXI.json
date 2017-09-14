@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "I912",
-	"cap": "63078"
+	"cap": [
+		"63078"
+	]
 }

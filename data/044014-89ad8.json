@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "C877",
-	"cap": "63079"
+	"cap": [
+		"63079"
+	]
 }

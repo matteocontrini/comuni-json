@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "I962",
-	"cap": "71047"
+	"cap": [
+		"71047"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "A806",
-	"cap": "44033"
+	"cap": [
+		"44033"
+	]
 }

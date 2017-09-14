@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F164",
-	"cap": "10080"
+	"cap": [
+		"10080"
+	]
 }

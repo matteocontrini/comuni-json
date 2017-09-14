@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "G597",
-	"cap": "95017"
+	"cap": [
+		"95017"
+	]
 }

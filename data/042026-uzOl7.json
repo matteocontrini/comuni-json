@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "F453",
-	"cap": "60036"
+	"cap": [
+		"60036"
+	]
 }

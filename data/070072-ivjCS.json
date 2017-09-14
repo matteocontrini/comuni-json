@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "I181",
-	"cap": "86047"
+	"cap": [
+		"86047"
+	]
 }

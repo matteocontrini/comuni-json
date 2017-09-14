@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B494",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

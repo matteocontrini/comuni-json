@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I333",
-	"cap": "89027"
+	"cap": [
+		"89027"
+	]
 }

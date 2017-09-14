@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "B287",
-	"cap": "96010"
+	"cap": [
+		"96010"
+	]
 }

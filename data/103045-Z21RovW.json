@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "F192",
-	"cap": "28817"
+	"cap": [
+		"28817"
+	]
 }

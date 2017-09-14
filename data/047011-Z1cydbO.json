@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "A561",
-	"cap": "51016"
+	"cap": [
+		"51016"
+	]
 }

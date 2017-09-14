@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "D623",
-	"cap": "95013"
+	"cap": [
+		"95013"
+	]
 }

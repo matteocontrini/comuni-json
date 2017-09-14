@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "E962",
-	"cap": "46045"
+	"cap": [
+		"46045"
+	]
 }

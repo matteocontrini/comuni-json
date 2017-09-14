@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "A729",
-	"cap": "25081"
+	"cap": [
+		"25081"
+	]
 }

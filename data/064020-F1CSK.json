@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "B866",
-	"cap": "83034"
+	"cap": [
+		"83034"
+	]
 }

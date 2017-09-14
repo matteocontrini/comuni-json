@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D428",
-	"cap": "23805"
+	"cap": [
+		"23805"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A979",
-	"cap": "12060"
+	"cap": [
+		"12060"
+	]
 }

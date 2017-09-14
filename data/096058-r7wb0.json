@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "H726",
-	"cap": "13885"
+	"cap": [
+		"13885"
+	]
 }

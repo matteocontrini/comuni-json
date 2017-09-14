@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E412",
-	"cap": "39022"
+	"cap": [
+		"39022"
+	]
 }

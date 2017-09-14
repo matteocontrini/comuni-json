@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "A379",
-	"cap": "07010"
+	"cap": [
+		"07010"
+	]
 }

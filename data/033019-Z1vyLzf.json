@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "D502",
-	"cap": "29023"
+	"cap": [
+		"29023"
+	]
 }

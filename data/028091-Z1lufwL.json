@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "L199",
-	"cap": "35019"
+	"cap": [
+		"35019"
+	]
 }

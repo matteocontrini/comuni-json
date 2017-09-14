@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "C952",
-	"cap": "20863"
+	"cap": [
+		"20863"
+	]
 }

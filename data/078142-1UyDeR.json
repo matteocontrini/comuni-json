@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "I895",
-	"cap": "87019"
+	"cap": [
+		"87019"
+	]
 }

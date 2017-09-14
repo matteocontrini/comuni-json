@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "M152",
-	"cap": "27010"
+	"cap": [
+		"27010"
+	]
 }

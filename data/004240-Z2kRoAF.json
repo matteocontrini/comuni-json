@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L804",
-	"cap": "12039"
+	"cap": [
+		"12039"
+	]
 }

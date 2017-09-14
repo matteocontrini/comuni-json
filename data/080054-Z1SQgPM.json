@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "F779",
-	"cap": "89065"
+	"cap": [
+		"89065"
+	]
 }

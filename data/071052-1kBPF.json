@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "I193",
-	"cap": "71028"
+	"cap": [
+		"71028"
+	]
 }

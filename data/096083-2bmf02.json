@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "M201",
-	"cap": "13848"
+	"cap": [
+		"13848"
+	]
 }

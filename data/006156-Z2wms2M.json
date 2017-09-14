@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I190",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

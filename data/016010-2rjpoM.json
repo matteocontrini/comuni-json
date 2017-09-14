@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A304",
-	"cap": "24051"
+	"cap": [
+		"24051"
+	]
 }

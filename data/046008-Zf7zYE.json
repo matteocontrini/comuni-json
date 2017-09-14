@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "B760",
-	"cap": "55030"
+	"cap": [
+		"55030"
+	]
 }

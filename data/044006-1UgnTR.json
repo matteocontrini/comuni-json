@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "A437",
-	"cap": "63096"
+	"cap": [
+		"63096"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B079",
-	"cap": "12050"
+	"cap": [
+		"12050"
+	]
 }

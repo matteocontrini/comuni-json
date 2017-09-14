@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "H467",
-	"cap": "71020"
+	"cap": [
+		"71020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "A580",
-	"cap": "83022"
+	"cap": [
+		"83022"
+	]
 }

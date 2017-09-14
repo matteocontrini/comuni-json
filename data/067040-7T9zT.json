@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "I741",
-	"cap": "64028"
+	"cap": [
+		"64028"
+	]
 }

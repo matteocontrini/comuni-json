@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G223",
-	"cap": "23899"
+	"cap": [
+		"23899"
+	]
 }

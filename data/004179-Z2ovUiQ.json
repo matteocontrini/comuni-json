@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H150",
-	"cap": "12035"
+	"cap": [
+		"12035"
+	]
 }

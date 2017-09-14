@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "I802",
-	"cap": "41019"
+	"cap": [
+		"41019"
+	]
 }

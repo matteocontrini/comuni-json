@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "A324",
-	"cap": "40011"
+	"cap": [
+		"40011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "B384",
-	"cap": "95011"
+	"cap": [
+		"95011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "F783",
-	"cap": "20086"
+	"cap": [
+		"20086"
+	]
 }

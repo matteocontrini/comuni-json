@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L982",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

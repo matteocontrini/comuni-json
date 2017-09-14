@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I683",
-	"cap": "26028"
+	"cap": [
+		"26028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "H118",
-	"cap": "09045"
+	"cap": [
+		"09045"
+	]
 }

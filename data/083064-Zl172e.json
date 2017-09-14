@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "G209",
-	"cap": "98042"
+	"cap": [
+		"98042"
+	]
 }

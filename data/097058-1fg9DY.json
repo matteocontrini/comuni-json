@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G026",
-	"cap": "23887"
+	"cap": [
+		"23887"
+	]
 }

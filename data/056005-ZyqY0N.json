@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "A704",
-	"cap": "01030"
+	"cap": [
+		"01030"
+	]
 }

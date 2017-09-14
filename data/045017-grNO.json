@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "M169",
-	"cap": "54029"
+	"cap": [
+		"54029"
+	]
 }

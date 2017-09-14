@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "C152",
-	"cap": "60010"
+	"cap": [
+		"60010"
+	]
 }

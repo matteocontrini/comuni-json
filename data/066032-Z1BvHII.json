@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C426",
-	"cap": "67043"
+	"cap": [
+		"67043"
+	]
 }

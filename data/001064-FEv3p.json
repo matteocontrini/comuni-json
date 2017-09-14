@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C045",
-	"cap": "10090"
+	"cap": [
+		"10090"
+	]
 }

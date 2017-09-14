@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F935",
-	"cap": "06046"
+	"cap": [
+		"06046"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C794",
-	"cap": "38023"
+	"cap": [
+		"38023"
+	]
 }

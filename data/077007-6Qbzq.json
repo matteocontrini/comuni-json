@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "D128",
-	"cap": "75010"
+	"cap": [
+		"75010"
+	]
 }

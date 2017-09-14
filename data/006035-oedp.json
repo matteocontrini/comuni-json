@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B840",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

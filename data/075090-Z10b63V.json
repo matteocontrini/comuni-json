@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "L484",
-	"cap": "73059"
+	"cap": [
+		"73059"
+	]
 }

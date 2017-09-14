@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "E925",
-	"cap": "88044"
+	"cap": [
+		"88044"
+	]
 }

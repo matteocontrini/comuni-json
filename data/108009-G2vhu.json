@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "A849",
-	"cap": "20853"
+	"cap": [
+		"20853"
+	]
 }

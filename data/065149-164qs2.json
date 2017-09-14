@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L274",
-	"cap": "84077"
+	"cap": [
+		"84077"
+	]
 }

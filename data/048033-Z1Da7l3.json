@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "G825",
-	"cap": "50065"
+	"cap": [
+		"50065"
+	]
 }

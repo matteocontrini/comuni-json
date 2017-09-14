@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "L034",
-	"cap": "47867"
+	"cap": [
+		"47867"
+	]
 }

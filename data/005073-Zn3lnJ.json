@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F390",
-	"cap": "14014"
+	"cap": [
+		"14014"
+	]
 }

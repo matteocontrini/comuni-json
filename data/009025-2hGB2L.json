@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "C729",
-	"cap": "17035"
+	"cap": [
+		"17035"
+	]
 }

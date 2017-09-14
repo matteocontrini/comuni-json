@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "M323",
-	"cap": "44027"
+	"cap": [
+		"44027"
+	]
 }

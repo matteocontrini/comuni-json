@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A467",
-	"cap": "36020"
+	"cap": [
+		"36020"
+	]
 }

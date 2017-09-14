@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "F620",
-	"cap": "03025"
+	"cap": [
+		"03025"
+	]
 }

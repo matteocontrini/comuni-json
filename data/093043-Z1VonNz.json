@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "I686",
-	"cap": "33079"
+	"cap": [
+		"33079"
+	]
 }

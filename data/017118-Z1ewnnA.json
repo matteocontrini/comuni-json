@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F884",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

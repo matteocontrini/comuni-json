@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "M102",
-	"cap": "20070"
+	"cap": [
+		"20070"
+	]
 }

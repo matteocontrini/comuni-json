@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "B150",
-	"cap": "21030"
+	"cap": [
+		"21030"
+	]
 }

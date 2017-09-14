@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E445",
-	"cap": "10074"
+	"cap": [
+		"10074"
+	]
 }

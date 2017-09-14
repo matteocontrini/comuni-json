@@ -19,5 +19,7 @@
 	},
 	"sigla": "TS",
 	"codiceCatastale": "D383",
-	"cap": "34011"
+	"cap": [
+		"34011"
+	]
 }

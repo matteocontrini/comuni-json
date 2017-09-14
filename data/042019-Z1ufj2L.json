@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "D597",
-	"cap": "60024"
+	"cap": [
+		"60024"
+	]
 }

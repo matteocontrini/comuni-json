@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E184",
-	"cap": "36040"
+	"cap": [
+		"36040"
+	]
 }

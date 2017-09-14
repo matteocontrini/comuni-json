@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L392",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

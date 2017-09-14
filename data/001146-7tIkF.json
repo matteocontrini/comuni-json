@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F053",
-	"cap": "10075"
+	"cap": [
+		"10075"
+	]
 }

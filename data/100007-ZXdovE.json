@@ -19,5 +19,7 @@
 	},
 	"sigla": "PO",
 	"codiceCatastale": "L775",
-	"cap": "59024"
+	"cap": [
+		"59024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "C726",
-	"cap": "88811"
+	"cap": [
+		"88811"
+	]
 }

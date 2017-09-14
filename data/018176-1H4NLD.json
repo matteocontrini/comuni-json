@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L854",
-	"cap": "27018"
+	"cap": [
+		"27018"
+	]
 }

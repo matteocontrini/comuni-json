@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B397",
-	"cap": "39052"
+	"cap": [
+		"39052"
+	]
 }

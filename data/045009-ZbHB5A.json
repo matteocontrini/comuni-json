@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "E574",
-	"cap": "54016"
+	"cap": [
+		"54016"
+	]
 }

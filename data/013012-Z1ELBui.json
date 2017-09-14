@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A430",
-	"cap": "22060"
+	"cap": [
+		"22060"
+	]
 }

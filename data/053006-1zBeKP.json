@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "C310",
-	"cap": "58043"
+	"cap": [
+		"58043"
+	]
 }

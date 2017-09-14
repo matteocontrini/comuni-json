@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "D909",
-	"cap": "75010"
+	"cap": [
+		"75010"
+	]
 }

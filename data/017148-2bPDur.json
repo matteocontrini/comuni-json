@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G844",
-	"cap": "25056"
+	"cap": [
+		"25056"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "B378",
-	"cap": "07023"
+	"cap": [
+		"07023"
+	]
 }

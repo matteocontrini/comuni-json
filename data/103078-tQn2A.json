@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "M370",
-	"cap": "28846"
+	"cap": [
+		"28846"
+	]
 }

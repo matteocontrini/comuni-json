@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "L815",
-	"cap": "42020"
+	"cap": [
+		"42020"
+	]
 }

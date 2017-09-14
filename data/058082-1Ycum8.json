@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "H288",
-	"cap": "00068"
+	"cap": [
+		"00068"
+	]
 }

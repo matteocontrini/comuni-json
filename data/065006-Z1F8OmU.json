@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A251",
-	"cap": "84011"
+	"cap": [
+		"84011"
+	]
 }

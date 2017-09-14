@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D271",
-	"cap": "12014"
+	"cap": [
+		"12014"
+	]
 }

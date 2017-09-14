@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E172",
-	"cap": "22011"
+	"cap": [
+		"22011"
+	]
 }

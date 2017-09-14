@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "C705",
-	"cap": "58044"
+	"cap": [
+		"58044"
+	]
 }

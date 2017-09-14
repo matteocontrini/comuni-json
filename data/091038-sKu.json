@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E517",
-	"cap": "08010"
+	"cap": [
+		"08010"
+	]
 }

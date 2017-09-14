@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "H579",
-	"cap": "87067"
+	"cap": [
+		"87067"
+	]
 }

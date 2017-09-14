@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "C313",
-	"cap": "53023"
+	"cap": [
+		"53023"
+	]
 }

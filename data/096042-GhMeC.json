@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G521",
-	"cap": "13843"
+	"cap": [
+		"13843"
+	]
 }

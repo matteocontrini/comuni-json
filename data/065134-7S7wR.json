@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I422",
-	"cap": "84073"
+	"cap": [
+		"84073"
+	]
 }

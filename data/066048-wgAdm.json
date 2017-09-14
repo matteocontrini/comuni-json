@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "E307",
-	"cap": "67030"
+	"cap": [
+		"67030"
+	]
 }

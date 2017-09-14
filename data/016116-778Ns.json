@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E106",
-	"cap": "24020"
+	"cap": [
+		"24020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F520",
-	"cap": "63833"
+	"cap": [
+		"63833"
+	]
 }

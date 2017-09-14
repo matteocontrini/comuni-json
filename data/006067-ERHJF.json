@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D447",
-	"cap": "15054"
+	"cap": [
+		"15054"
+	]
 }

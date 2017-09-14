@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "L876",
-	"cap": "21059"
+	"cap": [
+		"21059"
+	]
 }

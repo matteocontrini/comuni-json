@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "B202",
-	"cap": "95034"
+	"cap": [
+		"95034"
+	]
 }

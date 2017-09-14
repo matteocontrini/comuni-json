@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B692",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

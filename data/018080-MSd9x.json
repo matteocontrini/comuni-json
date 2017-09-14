@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "E454",
-	"cap": "27016"
+	"cap": [
+		"27016"
+	]
 }

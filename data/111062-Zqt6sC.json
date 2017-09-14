@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "H856",
-	"cap": "09037"
+	"cap": [
+		"09037"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "C928",
-	"cap": "92020"
+	"cap": [
+		"92020"
+	]
 }

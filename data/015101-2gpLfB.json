@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "D367",
-	"cap": "20070"
+	"cap": [
+		"20070"
+	]
 }

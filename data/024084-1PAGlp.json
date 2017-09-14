@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "H214",
-	"cap": "36076"
+	"cap": [
+		"36076"
+	]
 }

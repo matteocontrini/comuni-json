@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A074",
-	"cap": "10011"
+	"cap": [
+		"10011"
+	]
 }

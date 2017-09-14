@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "B433",
-	"cap": "36030"
+	"cap": [
+		"36030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "F224",
-	"cap": "04026"
+	"cap": [
+		"04026"
+	]
 }

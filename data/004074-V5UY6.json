@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D093",
-	"cap": "12054"
+	"cap": [
+		"12054"
+	]
 }

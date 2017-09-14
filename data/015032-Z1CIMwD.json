@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "B162",
-	"cap": "20091"
+	"cap": [
+		"20091"
+	]
 }

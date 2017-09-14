@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B499",
-	"cap": "42012"
+	"cap": [
+		"42012"
+	]
 }

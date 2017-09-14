@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "B745",
-	"cap": "09013"
+	"cap": [
+		"09013"
+	]
 }

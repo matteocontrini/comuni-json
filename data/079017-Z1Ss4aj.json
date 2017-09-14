@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "B717",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

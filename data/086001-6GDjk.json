@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "A070",
-	"cap": "94011"
+	"cap": [
+		"94011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I412",
-	"cap": "25010"
+	"cap": [
+		"25010"
+	]
 }

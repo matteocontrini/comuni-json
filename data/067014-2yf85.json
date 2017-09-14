@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C322",
-	"cap": "64035"
+	"cap": [
+		"64035"
+	]
 }

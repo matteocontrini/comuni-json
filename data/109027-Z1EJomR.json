@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F697",
-	"cap": "63843"
+	"cap": [
+		"63843"
+	]
 }

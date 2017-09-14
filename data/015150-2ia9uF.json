@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "D033",
-	"cap": "20081"
+	"cap": [
+		"20081"
+	]
 }

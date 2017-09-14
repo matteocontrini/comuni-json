@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "B550",
-	"cap": "86042"
+	"cap": [
+		"86042"
+	]
 }

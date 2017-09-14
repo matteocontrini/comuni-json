@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B200",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

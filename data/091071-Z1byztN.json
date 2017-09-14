@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "G201",
-	"cap": "08020"
+	"cap": [
+		"08020"
+	]
 }

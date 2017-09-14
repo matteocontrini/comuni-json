@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L680",
-	"cap": "23829"
+	"cap": [
+		"23829"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "F989",
-	"cap": "25080"
+	"cap": [
+		"25080"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I384",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

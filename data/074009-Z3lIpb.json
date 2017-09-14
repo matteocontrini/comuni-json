@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "E471",
-	"cap": "72022"
+	"cap": [
+		"72022"
+	]
 }

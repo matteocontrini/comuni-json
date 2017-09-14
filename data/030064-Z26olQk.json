@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "F832",
-	"cap": "33055"
+	"cap": [
+		"33055"
+	]
 }

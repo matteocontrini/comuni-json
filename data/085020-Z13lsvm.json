@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "L016",
-	"cap": "93010"
+	"cap": [
+		"93010"
+	]
 }

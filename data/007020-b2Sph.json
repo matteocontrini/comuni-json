@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "C294",
-	"cap": "11024"
+	"cap": [
+		"11024"
+	]
 }

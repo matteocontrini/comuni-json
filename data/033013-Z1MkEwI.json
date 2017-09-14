@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "C261",
-	"cap": "29015"
+	"cap": [
+		"29015"
+	]
 }

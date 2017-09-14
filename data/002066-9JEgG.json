@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "E237",
-	"cap": "13010"
+	"cap": [
+		"13010"
+	]
 }

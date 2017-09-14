@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B236",
-	"cap": "14051"
+	"cap": [
+		"14051"
+	]
 }

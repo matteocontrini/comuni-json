@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "C177",
-	"cap": "03030"
+	"cap": [
+		"03030"
+	]
 }

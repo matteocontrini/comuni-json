@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "D068",
-	"cap": "26834"
+	"cap": [
+		"26834"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D467",
-	"cap": "21054"
+	"cap": [
+		"21054"
+	]
 }

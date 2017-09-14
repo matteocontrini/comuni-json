@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "L263",
-	"cap": "65029"
+	"cap": [
+		"65029"
+	]
 }

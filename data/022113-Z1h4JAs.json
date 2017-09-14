@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "F068",
-	"cap": "38030"
+	"cap": [
+		"38030"
+	]
 }

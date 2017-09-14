@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "D670",
-	"cap": "33074"
+	"cap": [
+		"33074"
+	]
 }

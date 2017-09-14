@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "I953",
-	"cap": "45039"
+	"cap": [
+		"45039"
+	]
 }

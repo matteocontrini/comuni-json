@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "B904",
-	"cap": "71033"
+	"cap": [
+		"71033"
+	]
 }

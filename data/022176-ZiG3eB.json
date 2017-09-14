@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I839",
-	"cap": "38030"
+	"cap": [
+		"38030"
+	]
 }

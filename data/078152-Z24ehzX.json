@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "L524",
-	"cap": "87060"
+	"cap": [
+		"87060"
+	]
 }

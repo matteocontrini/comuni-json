@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "F943",
-	"cap": "96017"
+	"cap": [
+		"96017"
+	]
 }

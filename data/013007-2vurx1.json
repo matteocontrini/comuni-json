@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A249",
-	"cap": "22040"
+	"cap": [
+		"22040"
+	]
 }

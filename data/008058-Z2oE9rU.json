@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "I796",
-	"cap": "18036"
+	"cap": [
+		"18036"
+	]
 }

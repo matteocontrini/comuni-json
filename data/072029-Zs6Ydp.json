@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "F284",
-	"cap": "70056"
+	"cap": [
+		"70056"
+	]
 }

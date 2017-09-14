@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "E028",
-	"cap": "28836"
+	"cap": [
+		"28836"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "C638",
-	"cap": "30015"
+	"cap": [
+		"30015"
+	]
 }

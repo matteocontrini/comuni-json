@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "G388",
-	"cap": "27100"
+	"cap": [
+		"27100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "G601",
-	"cap": "06066"
+	"cap": [
+		"06066"
+	]
 }

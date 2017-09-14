@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "C780",
-	"cap": "01020"
+	"cap": [
+		"01020"
+	]
 }

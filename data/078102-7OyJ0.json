@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "H235",
-	"cap": "87036"
+	"cap": [
+		"87036"
+	]
 }

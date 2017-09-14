@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "D317",
-	"cap": "37020"
+	"cap": [
+		"37020"
+	]
 }

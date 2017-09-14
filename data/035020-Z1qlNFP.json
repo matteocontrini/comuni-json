@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "D037",
-	"cap": "42015"
+	"cap": [
+		"42015"
+	]
 }

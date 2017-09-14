@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L399",
-	"cap": "83058"
+	"cap": [
+		"83058"
+	]
 }

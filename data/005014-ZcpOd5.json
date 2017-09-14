@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B418",
-	"cap": "14031"
+	"cap": [
+		"14031"
+	]
 }

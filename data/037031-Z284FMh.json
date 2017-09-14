@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "E187",
-	"cap": "40030"
+	"cap": [
+		"40030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "H767",
-	"cap": "26020"
+	"cap": [
+		"26020"
+	]
 }

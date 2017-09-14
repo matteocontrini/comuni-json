@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G392",
-	"cap": "10018"
+	"cap": [
+		"10018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I964",
-	"cap": "38089"
+	"cap": [
+		"38089"
+	]
 }

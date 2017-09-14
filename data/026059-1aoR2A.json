@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G875",
-	"cap": "31050"
+	"cap": [
+		"31050"
+	]
 }

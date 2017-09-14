@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C733",
-	"cap": "20080"
+	"cap": [
+		"20080"
+	]
 }

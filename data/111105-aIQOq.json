@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "B738",
-	"cap": "09049"
+	"cap": [
+		"09049"
+	]
 }

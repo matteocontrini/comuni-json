@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "M093",
-	"cap": "82038"
+	"cap": [
+		"82038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "E817",
-	"cap": "10030"
+	"cap": [
+		"10030"
+	]
 }

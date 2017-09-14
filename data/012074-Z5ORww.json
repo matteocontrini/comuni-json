@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D963",
-	"cap": "21036"
+	"cap": [
+		"21036"
+	]
 }

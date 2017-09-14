@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "L308",
-	"cap": "98078"
+	"cap": [
+		"98078"
+	]
 }

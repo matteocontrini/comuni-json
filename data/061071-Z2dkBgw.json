@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H436",
-	"cap": "81051"
+	"cap": [
+		"81051"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "I480",
-	"cap": "17100"
+	"cap": [
+		"17100"
+	]
 }

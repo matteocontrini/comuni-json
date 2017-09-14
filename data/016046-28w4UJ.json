@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B434",
-	"cap": "24033"
+	"cap": [
+		"24033"
+	]
 }

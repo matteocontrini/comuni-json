@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "C865",
-	"cap": "73040"
+	"cap": [
+		"73040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "C532",
-	"cap": "13882"
+	"cap": [
+		"13882"
+	]
 }

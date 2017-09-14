@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A674",
-	"cap": "84081"
+	"cap": [
+		"84081"
+	]
 }

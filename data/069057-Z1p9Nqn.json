@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "G128",
-	"cap": "66036"
+	"cap": [
+		"66036"
+	]
 }

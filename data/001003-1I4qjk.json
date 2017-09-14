@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A117",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

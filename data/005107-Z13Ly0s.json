@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I781",
-	"cap": "14020"
+	"cap": [
+		"14020"
+	]
 }

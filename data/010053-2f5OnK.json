@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "H802",
-	"cap": "16040"
+	"cap": [
+		"16040"
+	]
 }

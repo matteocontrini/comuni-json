@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "B486",
-	"cap": "92022"
+	"cap": [
+		"92022"
+	]
 }

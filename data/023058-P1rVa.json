@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "G481",
-	"cap": "37026"
+	"cap": [
+		"37026"
+	]
 }

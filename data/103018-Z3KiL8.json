@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "B694",
-	"cap": "28815"
+	"cap": [
+		"28815"
+	]
 }

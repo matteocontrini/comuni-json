@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "F225",
-	"cap": "55034"
+	"cap": [
+		"55034"
+	]
 }

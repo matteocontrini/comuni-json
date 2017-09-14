@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "E438",
-	"cap": "43013"
+	"cap": [
+		"43013"
+	]
 }

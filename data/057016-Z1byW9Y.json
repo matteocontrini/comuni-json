@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "C746",
-	"cap": "02015"
+	"cap": [
+		"02015"
+	]
 }

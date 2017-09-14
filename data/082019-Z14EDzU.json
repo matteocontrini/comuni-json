@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "B556",
-	"cap": "90043"
+	"cap": [
+		"90043"
+	]
 }

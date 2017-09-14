@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "L216",
-	"cap": "06089"
+	"cap": [
+		"06089"
+	]
 }

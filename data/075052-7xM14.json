@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F842",
-	"cap": "73048"
+	"cap": [
+		"73048"
+	]
 }

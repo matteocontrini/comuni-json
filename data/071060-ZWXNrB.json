@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "L858",
-	"cap": "71019"
+	"cap": [
+		"71019"
+	]
 }

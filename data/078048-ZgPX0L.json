@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D289",
-	"cap": "87023"
+	"cap": [
+		"87023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L316",
-	"cap": "23030"
+	"cap": [
+		"23030"
+	]
 }

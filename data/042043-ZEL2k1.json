@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I251",
-	"cap": "60030"
+	"cap": [
+		"60030"
+	]
 }

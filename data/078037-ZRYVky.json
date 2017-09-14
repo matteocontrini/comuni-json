@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "C515",
-	"cap": "87044"
+	"cap": [
+		"87044"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "H730",
-	"cap": "85050"
+	"cap": [
+		"85050"
+	]
 }

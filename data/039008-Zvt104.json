@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "C963",
-	"cap": "48017"
+	"cap": [
+		"48017"
+	]
 }

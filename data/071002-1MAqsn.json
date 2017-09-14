@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "A150",
-	"cap": "71031"
+	"cap": [
+		"71031"
+	]
 }

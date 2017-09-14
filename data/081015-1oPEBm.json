@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "G347",
-	"cap": "91028"
+	"cap": [
+		"91028"
+	]
 }

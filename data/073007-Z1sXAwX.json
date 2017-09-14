@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "E036",
-	"cap": "74013"
+	"cap": [
+		"74013"
+	]
 }

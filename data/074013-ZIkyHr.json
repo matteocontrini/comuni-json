@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "H822",
-	"cap": "72025"
+	"cap": [
+		"72025"
+	]
 }

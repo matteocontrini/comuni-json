@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I093",
-	"cap": "88025"
+	"cap": [
+		"88025"
+	]
 }

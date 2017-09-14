@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I393",
-	"cap": "88067"
+	"cap": [
+		"88067"
+	]
 }

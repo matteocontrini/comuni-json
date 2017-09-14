@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "H836",
-	"cap": "04017"
+	"cap": [
+		"04017"
+	]
 }

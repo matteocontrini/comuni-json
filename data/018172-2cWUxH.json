@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L716",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

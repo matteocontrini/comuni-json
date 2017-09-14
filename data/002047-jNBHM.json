@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "D113",
-	"cap": "13033"
+	"cap": [
+		"13033"
+	]
 }

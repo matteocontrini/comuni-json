@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D951",
-	"cap": "21045"
+	"cap": [
+		"21045"
+	]
 }

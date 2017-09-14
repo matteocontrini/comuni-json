@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "L280",
-	"cap": "72028"
+	"cap": [
+		"72028"
+	]
 }

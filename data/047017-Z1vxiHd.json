@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "H109",
-	"cap": "51039"
+	"cap": [
+		"51039"
+	]
 }

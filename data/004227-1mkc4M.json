@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "L241",
-	"cap": "12080"
+	"cap": [
+		"12080"
+	]
 }

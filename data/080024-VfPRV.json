@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B966",
-	"cap": "89030"
+	"cap": [
+		"89030"
+	]
 }

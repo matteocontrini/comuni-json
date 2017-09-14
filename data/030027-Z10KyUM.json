@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "C817",
-	"cap": "33033"
+	"cap": [
+		"33033"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "C104",
-	"cap": "04021"
+	"cap": [
+		"04021"
+	]
 }

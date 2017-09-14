@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I692",
-	"cap": "10058"
+	"cap": [
+		"10058"
+	]
 }

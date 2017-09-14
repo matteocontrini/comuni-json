@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "C596",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

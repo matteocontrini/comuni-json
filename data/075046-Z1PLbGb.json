@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F194",
-	"cap": "73035"
+	"cap": [
+		"73035"
+	]
 }

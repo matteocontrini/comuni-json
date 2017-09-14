@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A246",
-	"cap": "24022"
+	"cap": [
+		"24022"
+	]
 }

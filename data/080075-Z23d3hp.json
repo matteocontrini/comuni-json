@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I102",
-	"cap": "89020"
+	"cap": [
+		"89020"
+	]
 }

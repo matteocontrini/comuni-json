@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "C041",
-	"cap": "37043"
+	"cap": [
+		"37043"
+	]
 }

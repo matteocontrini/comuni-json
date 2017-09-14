@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "A103",
-	"cap": "33041"
+	"cap": [
+		"33041"
+	]
 }

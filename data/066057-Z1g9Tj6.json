@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "F732",
-	"cap": "67050"
+	"cap": [
+		"67050"
+	]
 }

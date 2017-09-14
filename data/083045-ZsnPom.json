@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E876",
-	"cap": "98020"
+	"cap": [
+		"98020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L915",
-	"cap": "39039"
+	"cap": [
+		"39039"
+	]
 }

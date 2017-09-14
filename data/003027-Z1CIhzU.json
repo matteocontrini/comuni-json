@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "B183",
-	"cap": "28072"
+	"cap": [
+		"28072"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I173",
-	"cap": "39047"
+	"cap": [
+		"39047"
+	]
 }

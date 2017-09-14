@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "H282",
-	"cap": "02100"
+	"cap": [
+		"02100"
+	]
 }

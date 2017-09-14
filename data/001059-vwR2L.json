@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B791",
-	"cap": "10022"
+	"cap": [
+		"10022"
+	]
 }

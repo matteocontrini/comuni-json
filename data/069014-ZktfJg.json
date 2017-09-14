@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "B861",
-	"cap": "66031"
+	"cap": [
+		"66031"
+	]
 }

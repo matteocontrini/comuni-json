@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "A740",
-	"cap": "61026"
+	"cap": [
+		"61026"
+	]
 }

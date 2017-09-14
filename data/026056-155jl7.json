@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G408",
-	"cap": "31040"
+	"cap": [
+		"31040"
+	]
 }

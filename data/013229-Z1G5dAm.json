@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "L547",
-	"cap": "22039"
+	"cap": [
+		"22039"
+	]
 }

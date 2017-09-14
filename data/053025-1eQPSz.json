@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "I571",
-	"cap": "58038"
+	"cap": [
+		"58038"
+	]
 }

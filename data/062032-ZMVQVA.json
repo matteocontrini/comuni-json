@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "D693",
-	"cap": "82011"
+	"cap": [
+		"82011"
+	]
 }

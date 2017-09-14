@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "G290",
-	"cap": "66050"
+	"cap": [
+		"66050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "G669",
-	"cap": "09020"
+	"cap": [
+		"09020"
+	]
 }

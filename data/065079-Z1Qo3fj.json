@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F913",
-	"cap": "84015"
+	"cap": [
+		"84015"
+	]
 }

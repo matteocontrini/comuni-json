@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "B691",
-	"cap": "01032"
+	"cap": [
+		"01032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "C145",
-	"cap": "29014"
+	"cap": [
+		"29014"
+	]
 }

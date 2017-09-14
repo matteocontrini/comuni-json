@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B715",
-	"cap": "81043"
+	"cap": [
+		"81043"
+	]
 }

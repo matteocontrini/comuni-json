@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D913",
-	"cap": "23846"
+	"cap": [
+		"23846"
+	]
 }

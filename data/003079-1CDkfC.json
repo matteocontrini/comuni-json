@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "E177",
-	"cap": "28075"
+	"cap": [
+		"28075"
+	]
 }

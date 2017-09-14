@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "H662",
-	"cap": "13816"
+	"cap": [
+		"13816"
+	]
 }

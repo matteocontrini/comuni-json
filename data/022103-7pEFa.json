@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E500",
-	"cap": "38015"
+	"cap": [
+		"38015"
+	]
 }

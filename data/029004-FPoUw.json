@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "A539",
-	"cap": "45021"
+	"cap": [
+		"45021"
+	]
 }

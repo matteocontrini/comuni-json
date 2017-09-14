@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E863",
-	"cap": "21046"
+	"cap": [
+		"21046"
+	]
 }

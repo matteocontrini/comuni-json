@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "G288",
-	"cap": "89015"
+	"cap": [
+		"89015"
+	]
 }

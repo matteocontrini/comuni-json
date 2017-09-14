@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "C741",
-	"cap": "72014"
+	"cap": [
+		"72014"
+	]
 }

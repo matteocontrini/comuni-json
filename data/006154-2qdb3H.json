@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I144",
-	"cap": "15046"
+	"cap": [
+		"15046"
+	]
 }

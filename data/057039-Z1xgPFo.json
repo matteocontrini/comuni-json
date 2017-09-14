@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "F430",
-	"cap": "02040"
+	"cap": [
+		"02040"
+	]
 }

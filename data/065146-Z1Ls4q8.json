@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "D292",
-	"cap": "84039"
+	"cap": [
+		"84039"
+	]
 }

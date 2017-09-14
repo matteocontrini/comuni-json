@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "I296",
-	"cap": "10050"
+	"cap": [
+		"10050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "C933",
-	"cap": "22100"
+	"cap": [
+		"22100"
+	]
 }

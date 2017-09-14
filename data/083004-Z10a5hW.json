@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "A313",
-	"cap": "98030"
+	"cap": [
+		"98030"
+	]
 }

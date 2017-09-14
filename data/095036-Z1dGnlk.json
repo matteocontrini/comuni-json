@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "F985",
-	"cap": "09080"
+	"cap": [
+		"09080"
+	]
 }

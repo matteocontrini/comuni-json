@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "E171",
-	"cap": "37023"
+	"cap": [
+		"37023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C599",
-	"cap": "12062"
+	"cap": [
+		"12062"
+	]
 }

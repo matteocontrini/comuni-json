@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "E684",
-	"cap": "35010"
+	"cap": [
+		"35010"
+	]
 }

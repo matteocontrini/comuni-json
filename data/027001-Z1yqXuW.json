@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "A302",
-	"cap": "30020"
+	"cap": [
+		"30020"
+	]
 }

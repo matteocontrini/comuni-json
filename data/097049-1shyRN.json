@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F248",
-	"cap": "23873"
+	"cap": [
+		"23873"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "A499",
-	"cap": "18020"
+	"cap": [
+		"18020"
+	]
 }

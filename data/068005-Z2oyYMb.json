@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "B294",
-	"cap": "65022"
+	"cap": [
+		"65022"
+	]
 }

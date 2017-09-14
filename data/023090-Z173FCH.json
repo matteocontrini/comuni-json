@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "L722",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

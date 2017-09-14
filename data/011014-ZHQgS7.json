@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "D758",
-	"cap": "19014"
+	"cap": [
+		"19014"
+	]
 }

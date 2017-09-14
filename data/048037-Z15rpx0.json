@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "H635",
-	"cap": "50068"
+	"cap": [
+		"50068"
+	]
 }

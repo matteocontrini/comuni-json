@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "A691",
-	"cap": "05023"
+	"cap": [
+		"05023"
+	]
 }

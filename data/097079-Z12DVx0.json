@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L022",
-	"cap": "23837"
+	"cap": [
+		"23837"
+	]
 }

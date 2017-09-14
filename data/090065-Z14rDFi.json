@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "I565",
-	"cap": "07035"
+	"cap": [
+		"07035"
+	]
 }

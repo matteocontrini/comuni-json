@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "F801",
-	"cap": "26837"
+	"cap": [
+		"26837"
+	]
 }

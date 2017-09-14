@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F448",
-	"cap": "83037"
+	"cap": [
+		"83037"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "H452",
-	"cap": "17017"
+	"cap": [
+		"17017"
+	]
 }

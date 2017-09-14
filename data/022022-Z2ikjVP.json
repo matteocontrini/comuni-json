@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B006",
-	"cap": "38051"
+	"cap": [
+		"38051"
+	]
 }

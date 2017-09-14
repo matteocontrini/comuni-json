@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "H809",
-	"cap": "61039"
+	"cap": [
+		"61039"
+	]
 }

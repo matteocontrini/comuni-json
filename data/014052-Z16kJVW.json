@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "G829",
-	"cap": "23026"
+	"cap": [
+		"23026"
+	]
 }

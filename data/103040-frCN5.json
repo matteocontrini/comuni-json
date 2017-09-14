@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "E795",
-	"cap": "28894"
+	"cap": [
+		"28894"
+	]
 }

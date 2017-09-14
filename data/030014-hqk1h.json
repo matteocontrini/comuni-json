@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "B309",
-	"cap": "33042"
+	"cap": [
+		"33042"
+	]
 }

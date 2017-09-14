@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G232",
-	"cap": "02020"
+	"cap": [
+		"02020"
+	]
 }

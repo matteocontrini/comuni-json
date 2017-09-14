@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I771",
-	"cap": "39020"
+	"cap": [
+		"39020"
+	]
 }

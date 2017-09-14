@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F758",
-	"cap": "23811"
+	"cap": [
+		"23811"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "H163",
-	"cap": "97100"
+	"cap": [
+		"97100"
+	]
 }

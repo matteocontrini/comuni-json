@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "L939",
-	"cap": "45010"
+	"cap": [
+		"45010"
+	]
 }

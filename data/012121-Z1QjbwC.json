@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "I793",
-	"cap": "21048"
+	"cap": [
+		"21048"
+	]
 }

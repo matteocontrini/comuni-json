@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D981",
-	"cap": "21040"
+	"cap": [
+		"21040"
+	]
 }

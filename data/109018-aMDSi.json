@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F522",
-	"cap": "63812"
+	"cap": [
+		"63812"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "C053",
-	"cap": "27045"
+	"cap": [
+		"27045"
+	]
 }

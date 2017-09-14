@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "F130",
-	"cap": "30020"
+	"cap": [
+		"30020"
+	]
 }

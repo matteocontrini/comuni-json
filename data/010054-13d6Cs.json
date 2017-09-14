@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "I225",
-	"cap": "16038"
+	"cap": [
+		"16038"
+	]
 }

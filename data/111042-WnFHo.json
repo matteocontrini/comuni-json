@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "F808",
-	"cap": "09043"
+	"cap": [
+		"09043"
+	]
 }

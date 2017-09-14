@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "M319",
-	"cap": "55021"
+	"cap": [
+		"55021"
+	]
 }

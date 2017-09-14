@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "A345",
-	"cap": "67100"
+	"cap": [
+		"67100"
+	]
 }

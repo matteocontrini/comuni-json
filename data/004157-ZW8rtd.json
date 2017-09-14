@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "G228",
-	"cap": "12034"
+	"cap": [
+		"12034"
+	]
 }

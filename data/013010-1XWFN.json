@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A333",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

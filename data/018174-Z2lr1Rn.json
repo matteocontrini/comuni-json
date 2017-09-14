@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L784",
-	"cap": "27053"
+	"cap": [
+		"27053"
+	]
 }

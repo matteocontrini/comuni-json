@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "I840",
-	"cap": "43019"
+	"cap": [
+		"43019"
+	]
 }

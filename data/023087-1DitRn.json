@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "L364",
-	"cap": "37039"
+	"cap": [
+		"37039"
+	]
 }

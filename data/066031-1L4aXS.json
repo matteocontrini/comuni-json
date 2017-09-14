@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C279",
-	"cap": "67024"
+	"cap": [
+		"67024"
+	]
 }

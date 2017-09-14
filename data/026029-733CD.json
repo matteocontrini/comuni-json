@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "D680",
-	"cap": "31010"
+	"cap": [
+		"31010"
+	]
 }

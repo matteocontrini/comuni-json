@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "A352",
-	"cap": "14020"
+	"cap": [
+		"14020"
+	]
 }

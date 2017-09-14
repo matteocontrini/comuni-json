@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "L706",
-	"cap": "31050"
+	"cap": [
+		"31050"
+	]
 }

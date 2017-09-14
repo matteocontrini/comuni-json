@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I205",
-	"cap": "09096"
+	"cap": [
+		"09096"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "F987",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

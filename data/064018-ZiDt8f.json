@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "B706",
-	"cap": "83010"
+	"cap": [
+		"83010"
+	]
 }

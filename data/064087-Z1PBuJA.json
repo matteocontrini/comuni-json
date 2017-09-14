@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "I163",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A735",
-	"cap": "12081"
+	"cap": [
+		"12081"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L578",
-	"cap": "10094"
+	"cap": [
+		"10094"
+	]
 }

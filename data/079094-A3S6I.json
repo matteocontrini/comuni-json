@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "G517",
-	"cap": "88060"
+	"cap": [
+		"88060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "G735",
-	"cap": "89039"
+	"cap": [
+		"89039"
+	]
 }

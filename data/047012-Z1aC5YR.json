@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "G491",
-	"cap": "51017"
+	"cap": [
+		"51017"
+	]
 }

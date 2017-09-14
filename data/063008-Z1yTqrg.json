@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B076",
-	"cap": "80041"
+	"cap": [
+		"80041"
+	]
 }

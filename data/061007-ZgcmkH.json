@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "A755",
-	"cap": "81041"
+	"cap": [
+		"81041"
+	]
 }

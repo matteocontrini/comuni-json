@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "B474",
-	"cap": "62032"
+	"cap": [
+		"62032"
+	]
 }

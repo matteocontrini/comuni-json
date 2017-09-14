@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "L202",
-	"cap": "08039"
+	"cap": [
+		"08039"
+	]
 }

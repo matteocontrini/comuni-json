@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "C526",
-	"cap": "13852"
+	"cap": [
+		"13852"
+	]
 }

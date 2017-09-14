@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "C631",
-	"cap": "51013"
+	"cap": [
+		"51013"
+	]
 }

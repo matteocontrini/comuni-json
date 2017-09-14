@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "I947",
-	"cap": "17020"
+	"cap": [
+		"17020"
+	]
 }

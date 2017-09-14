@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "L431",
-	"cap": "98060"
+	"cap": [
+		"98060"
+	]
 }

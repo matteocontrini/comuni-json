@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "C520",
-	"cap": "22012"
+	"cap": [
+		"22012"
+	]
 }

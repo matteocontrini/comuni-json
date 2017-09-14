@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "A653",
-	"cap": "28010"
+	"cap": [
+		"28010"
+	]
 }

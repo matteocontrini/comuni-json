@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A007",
-	"cap": "09071"
+	"cap": [
+		"09071"
+	]
 }

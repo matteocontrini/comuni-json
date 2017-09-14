@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I247",
-	"cap": "81050"
+	"cap": [
+		"81050"
+	]
 }

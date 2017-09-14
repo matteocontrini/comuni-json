@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "G207",
-	"cap": "09030"
+	"cap": [
+		"09030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "D374",
-	"cap": "28853"
+	"cap": [
+		"28853"
+	]
 }

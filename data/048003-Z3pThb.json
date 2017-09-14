@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "A633",
-	"cap": "50021"
+	"cap": [
+		"50021"
+	]
 }

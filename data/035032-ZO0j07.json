@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "H225",
-	"cap": "42046"
+	"cap": [
+		"42046"
+	]
 }

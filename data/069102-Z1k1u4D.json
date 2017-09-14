@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "M022",
-	"cap": "66047"
+	"cap": [
+		"66047"
+	]
 }

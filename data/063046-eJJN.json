@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "F162",
-	"cap": "80062"
+	"cap": [
+		"80062"
+	]
 }

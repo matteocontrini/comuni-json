@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "G856",
-	"cap": "24036"
+	"cap": [
+		"24036"
+	]
 }

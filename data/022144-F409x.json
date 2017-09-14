@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "G808",
-	"cap": "38060"
+	"cap": [
+		"38060"
+	]
 }

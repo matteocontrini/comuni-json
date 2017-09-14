@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "G602",
-	"cap": "53026"
+	"cap": [
+		"53026"
+	]
 }

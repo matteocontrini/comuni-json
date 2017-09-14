@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "H918",
-	"cap": "26037"
+	"cap": [
+		"26037"
+	]
 }

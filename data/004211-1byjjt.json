@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I210",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

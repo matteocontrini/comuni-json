@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "G806",
-	"cap": "75016"
+	"cap": [
+		"75016"
+	]
 }

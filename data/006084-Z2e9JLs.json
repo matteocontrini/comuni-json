@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E188",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

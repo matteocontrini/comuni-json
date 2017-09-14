@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I798",
-	"cap": "15029"
+	"cap": [
+		"15029"
+	]
 }

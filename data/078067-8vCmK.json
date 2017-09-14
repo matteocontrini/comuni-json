@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "E677",
-	"cap": "87030"
+	"cap": [
+		"87030"
+	]
 }

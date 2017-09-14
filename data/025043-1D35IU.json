@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "H327",
-	"cap": "32020"
+	"cap": [
+		"32020"
+	]
 }

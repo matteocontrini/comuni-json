@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "G923",
-	"cap": "45018"
+	"cap": [
+		"45018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L724",
-	"cap": "39040"
+	"cap": [
+		"39040"
+	]
 }

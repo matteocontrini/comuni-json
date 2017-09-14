@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "B465",
-	"cap": "13891"
+	"cap": [
+		"13891"
+	]
 }

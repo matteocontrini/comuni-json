@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "M119",
-	"cap": "27047"
+	"cap": [
+		"27047"
+	]
 }

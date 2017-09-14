@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "D268",
-	"cap": "89012"
+	"cap": [
+		"89012"
+	]
 }

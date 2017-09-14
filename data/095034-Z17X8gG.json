@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "F974",
-	"cap": "09080"
+	"cap": [
+		"09080"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "L532",
-	"cap": "85010"
+	"cap": [
+		"85010"
+	]
 }

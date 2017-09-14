@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "M322",
-	"cap": "52026"
+	"cap": [
+		"52026"
+	]
 }

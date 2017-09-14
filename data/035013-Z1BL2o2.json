@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B967",
-	"cap": "42034"
+	"cap": [
+		"42034"
+	]
 }

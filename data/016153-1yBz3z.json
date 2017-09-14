@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "G160",
-	"cap": "24046"
+	"cap": [
+		"24046"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G492",
-	"cap": "67057"
+	"cap": [
+		"67057"
+	]
 }

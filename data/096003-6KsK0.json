@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "A784",
-	"cap": "13871"
+	"cap": [
+		"13871"
+	]
 }

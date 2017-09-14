@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G102",
-	"cap": "67063"
+	"cap": [
+		"67063"
+	]
 }

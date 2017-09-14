@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "G895",
-	"cap": "27040"
+	"cap": [
+		"27040"
+	]
 }

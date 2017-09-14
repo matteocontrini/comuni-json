@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "D166",
-	"cap": "40014"
+	"cap": [
+		"40014"
+	]
 }

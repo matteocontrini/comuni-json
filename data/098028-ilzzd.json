@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "E127",
-	"cap": "26813"
+	"cap": [
+		"26813"
+	]
 }

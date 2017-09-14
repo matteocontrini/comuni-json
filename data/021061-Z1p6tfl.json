@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "G140",
-	"cap": "39046"
+	"cap": [
+		"39046"
+	]
 }

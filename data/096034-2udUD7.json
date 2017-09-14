@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F189",
-	"cap": "13816"
+	"cap": [
+		"13816"
+	]
 }

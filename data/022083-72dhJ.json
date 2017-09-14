@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D565",
-	"cap": "38075"
+	"cap": [
+		"38075"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "E081",
-	"cap": "27047"
+	"cap": [
+		"27047"
+	]
 }

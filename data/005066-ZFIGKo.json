@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F316",
-	"cap": "14047"
+	"cap": [
+		"14047"
+	]
 }

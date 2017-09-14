@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "L273",
-	"cap": "71017"
+	"cap": [
+		"71017"
+	]
 }

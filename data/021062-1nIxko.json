@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "G328",
-	"cap": "39020"
+	"cap": [
+		"39020"
+	]
 }

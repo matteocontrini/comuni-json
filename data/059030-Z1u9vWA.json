@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "I892",
-	"cap": "04029"
+	"cap": [
+		"04029"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "L517",
-	"cap": "62039"
+	"cap": [
+		"62039"
+	]
 }

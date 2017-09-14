@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L310",
-	"cap": "01017"
+	"cap": [
+		"01017"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "A831",
-	"cap": "29021"
+	"cap": [
+		"29021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "C595",
-	"cap": "11023"
+	"cap": [
+		"11023"
+	]
 }

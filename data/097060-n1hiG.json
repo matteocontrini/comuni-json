@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G040",
-	"cap": "23865"
+	"cap": [
+		"23865"
+	]
 }

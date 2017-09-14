@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B137",
-	"cap": "24041"
+	"cap": [
+		"24041"
+	]
 }

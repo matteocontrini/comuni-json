@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "I928",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

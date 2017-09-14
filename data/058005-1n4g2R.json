@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "A297",
-	"cap": "00061"
+	"cap": [
+		"00061"
+	]
 }

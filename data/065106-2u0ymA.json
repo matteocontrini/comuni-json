@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "H394",
-	"cap": "84069"
+	"cap": [
+		"84069"
+	]
 }

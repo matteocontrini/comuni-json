@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "B646",
-	"cap": "58011"
+	"cap": [
+		"58011"
+	]
 }

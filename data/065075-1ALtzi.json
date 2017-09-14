@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F618",
-	"cap": "84030"
+	"cap": [
+		"84030"
+	]
 }

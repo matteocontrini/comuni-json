@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "I548",
-	"cap": "95048"
+	"cap": [
+		"95048"
+	]
 }

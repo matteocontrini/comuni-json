@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "A564",
-	"cap": "50012"
+	"cap": [
+		"50012"
+	]
 }

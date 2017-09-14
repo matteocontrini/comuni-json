@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "B887",
-	"cap": "26852"
+	"cap": [
+		"26852"
+	]
 }

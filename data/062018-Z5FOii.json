@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C250",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

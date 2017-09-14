@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "G991",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

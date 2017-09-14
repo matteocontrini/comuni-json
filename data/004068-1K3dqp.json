@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "C653",
-	"cap": "12013"
+	"cap": [
+		"12013"
+	]
 }

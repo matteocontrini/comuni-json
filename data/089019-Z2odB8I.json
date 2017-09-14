@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "I864",
-	"cap": "96010"
+	"cap": [
+		"96010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "I046",
-	"cap": "56028"
+	"cap": [
+		"56028"
+	]
 }

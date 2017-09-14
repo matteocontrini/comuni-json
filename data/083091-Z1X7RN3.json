@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I370",
-	"cap": "98077"
+	"cap": [
+		"98077"
+	]
 }

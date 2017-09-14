@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "I841",
-	"cap": "58010"
+	"cap": [
+		"58010"
+	]
 }

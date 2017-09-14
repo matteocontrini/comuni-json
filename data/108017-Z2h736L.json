@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "C395",
-	"cap": "20873"
+	"cap": [
+		"20873"
+	]
 }

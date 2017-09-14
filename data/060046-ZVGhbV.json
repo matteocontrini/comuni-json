@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "G276",
-	"cap": "03018"
+	"cap": [
+		"03018"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "H500",
-	"cap": "42047"
+	"cap": [
+		"42047"
+	]
 }

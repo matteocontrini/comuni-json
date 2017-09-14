@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "F597",
-	"cap": "40050"
+	"cap": [
+		"40050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L096",
-	"cap": "38050"
+	"cap": [
+		"38050"
+	]
 }

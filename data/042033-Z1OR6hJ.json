@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "G003",
-	"cap": "60020"
+	"cap": [
+		"60020"
+	]
 }

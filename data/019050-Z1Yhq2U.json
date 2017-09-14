@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "E193",
-	"cap": "26044"
+	"cap": [
+		"26044"
+	]
 }

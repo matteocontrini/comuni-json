@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "B248",
-	"cap": "08020"
+	"cap": [
+		"08020"
+	]
 }

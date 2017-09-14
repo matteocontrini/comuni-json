@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "I255",
-	"cap": "00058"
+	"cap": [
+		"00058"
+	]
 }

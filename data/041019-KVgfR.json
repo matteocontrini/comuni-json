@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "D836",
-	"cap": "61011"
+	"cap": [
+		"61011"
+	]
 }

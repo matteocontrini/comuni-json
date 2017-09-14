@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "D264",
-	"cap": "17058"
+	"cap": [
+		"17058"
+	]
 }

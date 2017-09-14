@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "D430",
-	"cap": "08043"
+	"cap": [
+		"08043"
+	]
 }

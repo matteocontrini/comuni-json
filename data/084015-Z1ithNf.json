@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "C668",
-	"cap": "92012"
+	"cap": [
+		"92012"
+	]
 }

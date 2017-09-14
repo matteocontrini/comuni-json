@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "E261",
-	"cap": "46040"
+	"cap": [
+		"46040"
+	]
 }

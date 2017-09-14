@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "C118",
-	"cap": "46042"
+	"cap": [
+		"46042"
+	]
 }

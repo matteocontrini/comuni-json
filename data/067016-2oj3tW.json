@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C517",
-	"cap": "64037"
+	"cap": [
+		"64037"
+	]
 }

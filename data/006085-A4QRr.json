@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "E191",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

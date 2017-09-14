@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B697",
-	"cap": "38030"
+	"cap": [
+		"38030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C203",
-	"cap": "00024"
+	"cap": [
+		"00024"
+	]
 }

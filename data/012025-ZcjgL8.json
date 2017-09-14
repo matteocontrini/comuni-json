@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "B258",
-	"cap": "21020"
+	"cap": [
+		"21020"
+	]
 }

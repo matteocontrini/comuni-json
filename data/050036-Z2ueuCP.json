@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "L138",
-	"cap": "56030"
+	"cap": [
+		"56030"
+	]
 }

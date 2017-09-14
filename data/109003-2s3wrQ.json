@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "A760",
-	"cap": "63838"
+	"cap": [
+		"63838"
+	]
 }

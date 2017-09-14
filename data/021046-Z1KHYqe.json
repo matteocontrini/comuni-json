@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E862",
-	"cap": "39024"
+	"cap": [
+		"39024"
+	]
 }

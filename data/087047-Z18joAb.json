@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "I240",
-	"cap": "95038"
+	"cap": [
+		"95038"
+	]
 }

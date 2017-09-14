@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "E168",
-	"cap": "11025"
+	"cap": [
+		"11025"
+	]
 }

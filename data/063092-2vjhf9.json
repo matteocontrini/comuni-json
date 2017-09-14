@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "M289",
-	"cap": "80040"
+	"cap": [
+		"80040"
+	]
 }

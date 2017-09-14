@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "L498",
-	"cap": "61049"
+	"cap": [
+		"61049"
+	]
 }

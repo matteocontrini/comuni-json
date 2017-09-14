@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G484",
-	"cap": "67032"
+	"cap": [
+		"67032"
+	]
 }

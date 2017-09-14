@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "G854",
-	"cap": "11026"
+	"cap": [
+		"11026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "B302",
-	"cap": "93011"
+	"cap": [
+		"93011"
+	]
 }

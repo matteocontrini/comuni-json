@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "B787",
-	"cap": "96013"
+	"cap": [
+		"96013"
+	]
 }

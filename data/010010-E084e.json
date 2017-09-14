@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "B726",
-	"cap": "16042"
+	"cap": [
+		"16042"
+	]
 }

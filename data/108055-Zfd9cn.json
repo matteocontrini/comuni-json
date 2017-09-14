@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "H529",
-	"cap": "20877"
+	"cap": [
+		"20877"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D605",
-	"cap": "22073"
+	"cap": [
+		"22073"
+	]
 }

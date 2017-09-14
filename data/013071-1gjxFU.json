@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "C787",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

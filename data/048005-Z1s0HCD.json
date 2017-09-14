@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "B406",
-	"cap": "50041"
+	"cap": [
+		"50041"
+	]
 }

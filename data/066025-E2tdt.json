@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B842",
-	"cap": "67061"
+	"cap": [
+		"67061"
+	]
 }

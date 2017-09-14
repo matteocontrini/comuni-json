@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "I368",
-	"cap": "16049"
+	"cap": [
+		"16049"
+	]
 }

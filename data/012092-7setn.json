@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E734",
-	"cap": "21016"
+	"cap": [
+		"21016"
+	]
 }

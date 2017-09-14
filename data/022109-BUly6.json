@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E757",
-	"cap": "38040"
+	"cap": [
+		"38040"
+	]
 }

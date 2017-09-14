@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I871",
-	"cap": "38048"
+	"cap": [
+		"38048"
+	]
 }

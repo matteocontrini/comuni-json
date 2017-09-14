@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "G792",
-	"cap": "90028"
+	"cap": [
+		"90028"
+	]
 }

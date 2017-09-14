@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "D901",
-	"cap": "27025"
+	"cap": [
+		"27025"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "F924",
-	"cap": "80035"
+	"cap": [
+		"80035"
+	]
 }

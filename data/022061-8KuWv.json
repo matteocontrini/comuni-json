@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C756",
-	"cap": "38045"
+	"cap": [
+		"38045"
+	]
 }

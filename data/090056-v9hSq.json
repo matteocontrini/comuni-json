@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G450",
-	"cap": "07034"
+	"cap": [
+		"07034"
+	]
 }

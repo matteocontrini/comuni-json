@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G200",
-	"cap": "67046"
+	"cap": [
+		"67046"
+	]
 }

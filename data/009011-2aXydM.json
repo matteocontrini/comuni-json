@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A931",
-	"cap": "17054"
+	"cap": [
+		"17054"
+	]
 }

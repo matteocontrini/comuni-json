@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "M188",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "M194",
-	"cap": "36020"
+	"cap": [
+		"36020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "F267",
-	"cap": "46024"
+	"cap": [
+		"46024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G872",
-	"cap": "15020"
+	"cap": [
+		"15020"
+	]
 }

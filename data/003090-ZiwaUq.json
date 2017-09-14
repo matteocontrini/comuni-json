@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "E880",
-	"cap": "28060"
+	"cap": [
+		"28060"
+	]
 }

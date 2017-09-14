@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "L294",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "E238",
-	"cap": "26862"
+	"cap": [
+		"26862"
+	]
 }

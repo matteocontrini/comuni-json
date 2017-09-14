@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G493",
-	"cap": "67033"
+	"cap": [
+		"67033"
+	]
 }

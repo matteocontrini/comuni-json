@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "C469",
-	"cap": "44042"
+	"cap": [
+		"44042"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F725",
-	"cap": "31050"
+	"cap": [
+		"31050"
+	]
 }

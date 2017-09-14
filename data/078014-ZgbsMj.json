@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A768",
-	"cap": "87030"
+	"cap": [
+		"87030"
+	]
 }

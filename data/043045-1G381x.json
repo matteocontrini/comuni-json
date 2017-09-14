@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "H323",
-	"cap": "62020"
+	"cap": [
+		"62020"
+	]
 }

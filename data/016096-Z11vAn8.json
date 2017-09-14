@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D490",
-	"cap": "24045"
+	"cap": [
+		"24045"
+	]
 }

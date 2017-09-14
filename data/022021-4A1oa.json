@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "A968",
-	"cap": "38080"
+	"cap": [
+		"38080"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L984",
-	"cap": "14019"
+	"cap": [
+		"14019"
+	]
 }

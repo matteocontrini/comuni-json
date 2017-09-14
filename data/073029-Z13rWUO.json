@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "M298",
-	"cap": "74010"
+	"cap": [
+		"74010"
+	]
 }

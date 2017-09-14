@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F256",
-	"cap": "16047"
+	"cap": [
+		"16047"
+	]
 }

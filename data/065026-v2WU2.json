@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B868",
-	"cap": "84030"
+	"cap": [
+		"84030"
+	]
 }

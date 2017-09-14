@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G869",
-	"cap": "25037"
+	"cap": [
+		"25037"
+	]
 }

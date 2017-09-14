@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "C703",
-	"cap": "26042"
+	"cap": [
+		"26042"
+	]
 }

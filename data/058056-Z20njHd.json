@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "E924",
-	"cap": "00010"
+	"cap": [
+		"00010"
+	]
 }

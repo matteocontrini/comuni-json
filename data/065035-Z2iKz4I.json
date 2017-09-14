@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C262",
-	"cap": "84049"
+	"cap": [
+		"84049"
+	]
 }

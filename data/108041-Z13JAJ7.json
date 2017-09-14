@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "I878",
-	"cap": "20845"
+	"cap": [
+		"20845"
+	]
 }

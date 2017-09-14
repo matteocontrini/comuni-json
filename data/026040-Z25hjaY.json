@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F012",
-	"cap": "31052"
+	"cap": [
+		"31052"
+	]
 }

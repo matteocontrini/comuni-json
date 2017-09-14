@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "E058",
-	"cap": "64021"
+	"cap": [
+		"64021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F478",
-	"cap": "61014"
+	"cap": [
+		"61014"
+	]
 }

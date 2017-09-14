@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "B619",
-	"cap": "76012"
+	"cap": [
+		"76012"
+	]
 }

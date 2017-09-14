@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "I394",
-	"cap": "66038"
+	"cap": [
+		"66038"
+	]
 }

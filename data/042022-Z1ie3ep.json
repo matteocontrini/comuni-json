@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "E690",
-	"cap": "60025"
+	"cap": [
+		"60025"
+	]
 }

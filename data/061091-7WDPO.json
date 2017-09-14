@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "L083",
-	"cap": "81057"
+	"cap": [
+		"81057"
+	]
 }

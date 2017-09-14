@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "B025",
-	"cap": "29011"
+	"cap": [
+		"29011"
+	]
 }

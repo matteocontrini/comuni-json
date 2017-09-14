@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "L112",
-	"cap": "90018"
+	"cap": [
+		"90018"
+	]
 }

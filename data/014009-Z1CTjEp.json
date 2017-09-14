@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "B049",
-	"cap": "23032"
+	"cap": [
+		"23032"
+	]
 }

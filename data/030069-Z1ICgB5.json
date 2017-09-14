@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G268",
-	"cap": "33056"
+	"cap": [
+		"33056"
+	]
 }

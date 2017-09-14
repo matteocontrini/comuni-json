@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F318",
-	"cap": "10059"
+	"cap": [
+		"10059"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L904",
-	"cap": "15058"
+	"cap": [
+		"15058"
+	]
 }

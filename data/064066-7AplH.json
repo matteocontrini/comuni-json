@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "F988",
-	"cap": "83051"
+	"cap": [
+		"83051"
+	]
 }

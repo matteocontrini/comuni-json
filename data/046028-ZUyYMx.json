@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "I622",
-	"cap": "55047"
+	"cap": [
+		"55047"
+	]
 }

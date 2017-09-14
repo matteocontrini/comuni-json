@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "F144",
-	"cap": "33036"
+	"cap": [
+		"33036"
+	]
 }

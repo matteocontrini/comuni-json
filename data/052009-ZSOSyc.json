@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "C608",
-	"cap": "53042"
+	"cap": [
+		"53042"
+	]
 }

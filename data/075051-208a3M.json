@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "F816",
-	"cap": "73036"
+	"cap": [
+		"73036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F427",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "E818",
-	"cap": "46020"
+	"cap": [
+		"46020"
+	]
 }

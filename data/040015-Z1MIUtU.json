@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "D899",
-	"cap": "47035"
+	"cap": [
+		"47035"
+	]
 }

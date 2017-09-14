@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "A390",
-	"cap": "52100"
+	"cap": [
+		"52100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "G291",
-	"cap": "70027"
+	"cap": [
+		"70027"
+	]
 }

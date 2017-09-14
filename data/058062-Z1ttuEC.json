@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F534",
-	"cap": "00030"
+	"cap": [
+		"00030"
+	]
 }

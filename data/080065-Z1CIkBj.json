@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "H359",
-	"cap": "89016"
+	"cap": [
+		"89016"
+	]
 }

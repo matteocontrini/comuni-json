@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "A192",
-	"cap": "07041"
+	"cap": [
+		"07041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "B085",
-	"cap": "88070"
+	"cap": [
+		"88070"
+	]
 }

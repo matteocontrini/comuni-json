@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "M367",
-	"cap": "43016"
+	"cap": [
+		"43016"
+	]
 }

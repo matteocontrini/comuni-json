@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "A698",
-	"cap": "98060"
+	"cap": [
+		"98060"
+	]
 }

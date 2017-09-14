@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "H568",
-	"cap": "71039"
+	"cap": [
+		"71039"
+	]
 }

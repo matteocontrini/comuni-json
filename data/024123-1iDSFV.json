@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "M384",
-	"cap": "36040"
+	"cap": [
+		"36040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B569",
-	"cap": "67013"
+	"cap": [
+		"67013"
+	]
 }

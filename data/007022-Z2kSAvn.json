@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "D012",
-	"cap": "11013"
+	"cap": [
+		"11013"
+	]
 }

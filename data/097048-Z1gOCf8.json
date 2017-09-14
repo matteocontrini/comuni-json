@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F133",
-	"cap": "23807"
+	"cap": [
+		"23807"
+	]
 }

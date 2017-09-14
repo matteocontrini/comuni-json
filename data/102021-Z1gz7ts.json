@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "F207",
-	"cap": "89852"
+	"cap": [
+		"89852"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "H292",
-	"cap": "13026"
+	"cap": [
+		"13026"
+	]
 }

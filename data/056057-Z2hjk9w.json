@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "L814",
-	"cap": "01019"
+	"cap": [
+		"01019"
+	]
 }

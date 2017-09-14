@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A016",
-	"cap": "12021"
+	"cap": [
+		"12021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "A912",
-	"cap": "87060"
+	"cap": [
+		"87060"
+	]
 }

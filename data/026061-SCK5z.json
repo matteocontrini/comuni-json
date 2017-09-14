@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G933",
-	"cap": "31054"
+	"cap": [
+		"31054"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "G445",
-	"cap": "08046"
+	"cap": [
+		"08046"
+	]
 }

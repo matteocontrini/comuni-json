@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L887",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

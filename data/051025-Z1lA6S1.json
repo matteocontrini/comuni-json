@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "F628",
-	"cap": "52048"
+	"cap": [
+		"52048"
+	]
 }

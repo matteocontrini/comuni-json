@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "H140",
-	"cap": "25027"
+	"cap": [
+		"25027"
+	]
 }

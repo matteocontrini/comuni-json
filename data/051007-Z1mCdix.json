@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "B693",
-	"cap": "52033"
+	"cap": [
+		"52033"
+	]
 }

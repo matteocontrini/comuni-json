@@ -19,5 +19,7 @@
 	},
 	"sigla": "EN",
 	"codiceCatastale": "C342",
-	"cap": "94100"
+	"cap": [
+		"94100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D797",
-	"cap": "15064"
+	"cap": [
+		"15064"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "A898",
-	"cap": "22020"
+	"cap": [
+		"22020"
+	]
 }

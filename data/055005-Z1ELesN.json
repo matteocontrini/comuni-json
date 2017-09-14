@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "A439",
-	"cap": "05031"
+	"cap": [
+		"05031"
+	]
 }

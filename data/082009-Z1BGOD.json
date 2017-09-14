@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "A764",
-	"cap": "90031"
+	"cap": [
+		"90031"
+	]
 }

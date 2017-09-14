@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B452",
-	"cap": "80012"
+	"cap": [
+		"80012"
+	]
 }

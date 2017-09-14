@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "I562",
-	"cap": "33039"
+	"cap": [
+		"33039"
+	]
 }

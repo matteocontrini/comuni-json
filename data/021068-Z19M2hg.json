@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "H019",
-	"cap": "39030"
+	"cap": [
+		"39030"
+	]
 }

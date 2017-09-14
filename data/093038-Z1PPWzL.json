@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "H891",
-	"cap": "33095"
+	"cap": [
+		"33095"
+	]
 }

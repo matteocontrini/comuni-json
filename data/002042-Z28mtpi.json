@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "C680",
-	"cap": "13043"
+	"cap": [
+		"13043"
+	]
 }

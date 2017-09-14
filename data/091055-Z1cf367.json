@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "G031",
-	"cap": "08025"
+	"cap": [
+		"08025"
+	]
 }

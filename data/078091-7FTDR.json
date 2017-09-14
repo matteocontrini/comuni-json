@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G317",
-	"cap": "87027"
+	"cap": [
+		"87027"
+	]
 }

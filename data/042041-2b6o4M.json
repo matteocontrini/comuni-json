@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "H979",
-	"cap": "60030"
+	"cap": [
+		"60030"
+	]
 }

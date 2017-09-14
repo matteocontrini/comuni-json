@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A487",
-	"cap": "84010"
+	"cap": [
+		"84010"
+	]
 }

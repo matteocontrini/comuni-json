@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "C704",
-	"cap": "62011"
+	"cap": [
+		"62011"
+	]
 }

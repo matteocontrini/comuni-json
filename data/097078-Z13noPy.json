@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "I996",
-	"cap": "23867"
+	"cap": [
+		"23867"
+	]
 }

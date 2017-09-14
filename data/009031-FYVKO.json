@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "E064",
-	"cap": "17027"
+	"cap": [
+		"17027"
+	]
 }

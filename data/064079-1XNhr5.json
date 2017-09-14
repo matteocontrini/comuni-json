@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "H438",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

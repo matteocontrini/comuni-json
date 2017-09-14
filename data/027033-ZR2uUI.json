@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "H823",
-	"cap": "30027"
+	"cap": [
+		"30027"
+	]
 }

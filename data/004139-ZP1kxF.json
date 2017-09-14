@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F608",
-	"cap": "12020"
+	"cap": [
+		"12020"
+	]
 }

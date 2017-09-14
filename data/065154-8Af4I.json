@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L628",
-	"cap": "84078"
+	"cap": [
+		"84078"
+	]
 }

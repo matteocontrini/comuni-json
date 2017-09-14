@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "A780",
-	"cap": "89030"
+	"cap": [
+		"89030"
+	]
 }

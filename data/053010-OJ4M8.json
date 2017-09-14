@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "D948",
-	"cap": "58023"
+	"cap": [
+		"58023"
+	]
 }

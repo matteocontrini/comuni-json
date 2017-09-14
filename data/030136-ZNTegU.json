@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "M200",
-	"cap": "33020"
+	"cap": [
+		"33020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "D510",
-	"cap": "56043"
+	"cap": [
+		"56043"
+	]
 }

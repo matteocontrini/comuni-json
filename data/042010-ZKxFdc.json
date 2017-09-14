@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "C100",
-	"cap": "60022"
+	"cap": [
+		"60022"
+	]
 }

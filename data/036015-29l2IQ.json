@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "D711",
-	"cap": "41043"
+	"cap": [
+		"41043"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "I803",
-	"cap": "43046"
+	"cap": [
+		"43046"
+	]
 }

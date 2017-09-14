@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "H835",
-	"cap": "41038"
+	"cap": [
+		"41038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "A766",
-	"cap": "95032"
+	"cap": [
+		"95032"
+	]
 }

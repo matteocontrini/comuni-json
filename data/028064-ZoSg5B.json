@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "G688",
-	"cap": "35017"
+	"cap": [
+		"35017"
+	]
 }

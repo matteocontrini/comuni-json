@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I965",
-	"cap": "30039"
+	"cap": [
+		"30039"
+	]
 }

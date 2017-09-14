@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "H919",
-	"cap": "87055"
+	"cap": [
+		"87055"
+	]
 }

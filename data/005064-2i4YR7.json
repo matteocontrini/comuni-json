@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F308",
-	"cap": "14050"
+	"cap": [
+		"14050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I673",
-	"cap": "32030"
+	"cap": [
+		"32030"
+	]
 }

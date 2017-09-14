@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "F718",
-	"cap": "40027"
+	"cap": [
+		"40027"
+	]
 }

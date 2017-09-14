@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L557",
-	"cap": "23038"
+	"cap": [
+		"23038"
+	]
 }

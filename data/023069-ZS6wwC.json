@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "H783",
-	"cap": "37047"
+	"cap": [
+		"37047"
+	]
 }

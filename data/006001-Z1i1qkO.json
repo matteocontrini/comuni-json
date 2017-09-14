@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A052",
-	"cap": "15011"
+	"cap": [
+		"15011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B870",
-	"cap": "15072"
+	"cap": [
+		"15072"
+	]
 }

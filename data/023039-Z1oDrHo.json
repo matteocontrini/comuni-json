@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "E284",
-	"cap": "37031"
+	"cap": [
+		"37031"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "E264",
-	"cap": "41052"
+	"cap": [
+		"41052"
+	]
 }

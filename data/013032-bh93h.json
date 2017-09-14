@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B218",
-	"cap": "22034"
+	"cap": [
+		"22034"
+	]
 }

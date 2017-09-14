@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "G886",
-	"cap": "33080"
+	"cap": [
+		"33080"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "E024",
-	"cap": "13874"
+	"cap": [
+		"13874"
+	]
 }

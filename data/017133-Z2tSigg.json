@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G264",
-	"cap": "25036"
+	"cap": [
+		"25036"
+	]
 }

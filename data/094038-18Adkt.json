@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "G954",
-	"cap": "86077"
+	"cap": [
+		"86077"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "M083",
-	"cap": "03040"
+	"cap": [
+		"03040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I071",
-	"cap": "60038"
+	"cap": [
+		"60038"
+	]
 }

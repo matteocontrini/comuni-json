@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "M372",
-	"cap": "27014"
+	"cap": [
+		"27014"
+	]
 }

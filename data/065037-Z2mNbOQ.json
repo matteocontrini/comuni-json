@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C361",
-	"cap": "84013"
+	"cap": [
+		"84013"
+	]
 }

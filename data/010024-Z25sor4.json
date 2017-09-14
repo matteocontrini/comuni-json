@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "D677",
-	"cap": "16023"
+	"cap": [
+		"16023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "D522",
-	"cap": "17024"
+	"cap": [
+		"17024"
+	]
 }

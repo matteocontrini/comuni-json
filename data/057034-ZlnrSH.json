@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "E681",
-	"cap": "02020"
+	"cap": [
+		"02020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "G306",
-	"cap": "26025"
+	"cap": [
+		"26025"
+	]
 }

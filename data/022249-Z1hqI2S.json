@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M363",
-	"cap": "38019"
+	"cap": [
+		"38019"
+	]
 }

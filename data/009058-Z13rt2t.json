@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "I946",
-	"cap": "17044"
+	"cap": [
+		"17044"
+	]
 }

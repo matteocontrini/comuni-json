@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "A200",
-	"cap": "81011"
+	"cap": [
+		"81011"
+	]
 }

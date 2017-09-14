@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "L223",
-	"cap": "28070"
+	"cap": [
+		"28070"
+	]
 }

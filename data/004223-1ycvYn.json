@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "I823",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

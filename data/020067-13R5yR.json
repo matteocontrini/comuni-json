@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "F804",
-	"cap": "46020"
+	"cap": [
+		"46020"
+	]
 }

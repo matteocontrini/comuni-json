@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "A068",
-	"cap": "80051"
+	"cap": [
+		"80051"
+	]
 }

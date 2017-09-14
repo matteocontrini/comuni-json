@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F723",
-	"cap": "12033"
+	"cap": [
+		"12033"
+	]
 }

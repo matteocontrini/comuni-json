@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F814",
-	"cap": "15020"
+	"cap": [
+		"15020"
+	]
 }

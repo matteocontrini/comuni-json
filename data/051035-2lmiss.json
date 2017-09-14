@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "I681",
-	"cap": "52038"
+	"cap": [
+		"52038"
+	]
 }

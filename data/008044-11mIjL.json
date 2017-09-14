@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G814",
-	"cap": "18015"
+	"cap": [
+		"18015"
+	]
 }

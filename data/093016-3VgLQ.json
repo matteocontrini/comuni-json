@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "C791",
-	"cap": "33090"
+	"cap": [
+		"33090"
+	]
 }

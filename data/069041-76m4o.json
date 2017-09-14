@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "E052",
-	"cap": "66052"
+	"cap": [
+		"66052"
+	]
 }

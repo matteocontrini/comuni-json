@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F269",
-	"cap": "31021"
+	"cap": [
+		"31021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E492",
-	"cap": "38046"
+	"cap": [
+		"38046"
+	]
 }

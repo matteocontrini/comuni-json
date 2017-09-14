@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "C707",
-	"cap": "20092"
+	"cap": [
+		"20092"
+	]
 }

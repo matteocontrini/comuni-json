@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "C120",
-	"cap": "85050"
+	"cap": [
+		"85050"
+	]
 }

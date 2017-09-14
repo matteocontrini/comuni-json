@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I955",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

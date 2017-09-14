@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D065",
-	"cap": "23813"
+	"cap": [
+		"23813"
+	]
 }

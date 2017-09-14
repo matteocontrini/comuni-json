@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "F607",
-	"cap": "89819"
+	"cap": [
+		"89819"
+	]
 }

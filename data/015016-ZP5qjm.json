@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "A751",
-	"cap": "20060"
+	"cap": [
+		"20060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "H724",
-	"cap": "47835"
+	"cap": [
+		"47835"
+	]
 }

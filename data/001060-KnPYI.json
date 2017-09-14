@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B867",
-	"cap": "10020"
+	"cap": [
+		"10020"
+	]
 }

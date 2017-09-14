@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "I217",
-	"cap": "56040"
+	"cap": [
+		"56040"
+	]
 }

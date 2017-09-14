@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "B055",
-	"cap": "09080"
+	"cap": [
+		"09080"
+	]
 }

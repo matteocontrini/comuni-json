@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F966",
-	"cap": "41016"
+	"cap": [
+		"41016"
+	]
 }

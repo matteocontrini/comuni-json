@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "H700",
-	"cap": "91018"
+	"cap": [
+		"91018"
+	]
 }

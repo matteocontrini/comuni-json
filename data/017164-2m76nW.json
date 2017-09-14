@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "H484",
-	"cap": "25077"
+	"cap": [
+		"25077"
+	]
 }

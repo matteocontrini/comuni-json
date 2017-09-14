@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A998",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

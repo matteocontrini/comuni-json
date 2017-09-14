@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F772",
-	"cap": "98030"
+	"cap": [
+		"98030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D120",
-	"cap": "12024"
+	"cap": [
+		"12024"
+	]
 }

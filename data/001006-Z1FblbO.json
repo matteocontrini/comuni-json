@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A218",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

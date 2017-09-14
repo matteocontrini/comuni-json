@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "H308",
-	"cap": "86087"
+	"cap": [
+		"86087"
+	]
 }

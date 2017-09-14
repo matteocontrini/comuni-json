@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I743",
-	"cap": "09088"
+	"cap": [
+		"09088"
+	]
 }

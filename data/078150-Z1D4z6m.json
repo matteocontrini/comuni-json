@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "L353",
-	"cap": "87075"
+	"cap": [
+		"87075"
+	]
 }

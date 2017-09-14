@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "G289",
-	"cap": "63092"
+	"cap": [
+		"63092"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "A106",
-	"cap": "81010"
+	"cap": [
+		"81010"
+	]
 }

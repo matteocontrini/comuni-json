@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F005",
-	"cap": "95030"
+	"cap": [
+		"95030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B437",
-	"cap": "84080"
+	"cap": [
+		"84080"
+	]
 }

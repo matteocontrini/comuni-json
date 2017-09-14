@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "C764",
-	"cap": "86030"
+	"cap": [
+		"86030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D280",
-	"cap": "23824"
+	"cap": [
+		"23824"
+	]
 }

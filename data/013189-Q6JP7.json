@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "G889",
-	"cap": "22018"
+	"cap": [
+		"22018"
+	]
 }

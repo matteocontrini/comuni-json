@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E791",
-	"cap": "81024"
+	"cap": [
+		"81024"
+	]
 }

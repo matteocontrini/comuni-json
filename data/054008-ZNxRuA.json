@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "C252",
-	"cap": "06044"
+	"cap": [
+		"06044"
+	]
 }

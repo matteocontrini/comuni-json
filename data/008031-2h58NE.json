@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "E290",
-	"cap": "18100"
+	"cap": [
+		"18100"
+	]
 }

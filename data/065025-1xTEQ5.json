@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B644",
-	"cap": "84047"
+	"cap": [
+		"84047"
+	]
 }

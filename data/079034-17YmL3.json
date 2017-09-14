@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D049",
-	"cap": "88020"
+	"cap": [
+		"88020"
+	]
 }

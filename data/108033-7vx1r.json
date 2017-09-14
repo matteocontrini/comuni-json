@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "F704",
-	"cap": "20900"
+	"cap": [
+		"20900"
+	]
 }

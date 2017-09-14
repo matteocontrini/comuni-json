@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "C282",
-	"cap": "11029"
+	"cap": [
+		"11029"
+	]
 }

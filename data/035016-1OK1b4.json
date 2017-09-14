@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "C219",
-	"cap": "42035"
+	"cap": [
+		"42035"
+	]
 }

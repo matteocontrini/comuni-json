@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "I189",
-	"cap": "86070"
+	"cap": [
+		"86070"
+	]
 }

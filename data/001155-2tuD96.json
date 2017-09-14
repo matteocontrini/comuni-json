@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F327",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

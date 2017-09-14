@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "I096",
-	"cap": "86088"
+	"cap": [
+		"86088"
+	]
 }

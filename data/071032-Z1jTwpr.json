@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "F538",
-	"cap": "71020"
+	"cap": [
+		"71020"
+	]
 }

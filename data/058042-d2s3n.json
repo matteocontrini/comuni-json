@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "D964",
-	"cap": "00030"
+	"cap": [
+		"00030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "I238",
-	"cap": "86096"
+	"cap": [
+		"86096"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "A125",
-	"cap": "64011"
+	"cap": [
+		"64011"
+	]
 }

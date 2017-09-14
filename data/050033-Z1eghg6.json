@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "I177",
-	"cap": "56029"
+	"cap": [
+		"56029"
+	]
 }

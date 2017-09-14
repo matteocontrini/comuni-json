@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B481",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

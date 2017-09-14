@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "B265",
-	"cap": "07030"
+	"cap": [
+		"07030"
+	]
 }

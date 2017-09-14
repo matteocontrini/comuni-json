@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "F138",
-	"cap": "84085"
+	"cap": [
+		"84085"
+	]
 }

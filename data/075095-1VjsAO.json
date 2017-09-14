@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "M264",
-	"cap": "73020"
+	"cap": [
+		"73020"
+	]
 }

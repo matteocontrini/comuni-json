@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "A626",
-	"cap": "60010"
+	"cap": [
+		"60010"
+	]
 }

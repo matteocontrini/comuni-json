@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "E366",
-	"cap": "97014"
+	"cap": [
+		"97014"
+	]
 }

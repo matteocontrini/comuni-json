@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C246",
-	"cap": "86090"
+	"cap": [
+		"86090"
+	]
 }

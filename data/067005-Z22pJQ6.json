@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "A692",
-	"cap": "64030"
+	"cap": [
+		"64030"
+	]
 }

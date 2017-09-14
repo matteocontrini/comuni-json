@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "A305",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H834",
-	"cap": "81027"
+	"cap": [
+		"81027"
+	]
 }

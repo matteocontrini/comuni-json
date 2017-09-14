@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "D477",
-	"cap": "63837"
+	"cap": [
+		"63837"
+	]
 }

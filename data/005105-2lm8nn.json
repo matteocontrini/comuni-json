@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I678",
-	"cap": "14058"
+	"cap": [
+		"14058"
+	]
 }

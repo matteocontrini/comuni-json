@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "E560",
-	"cap": "19015"
+	"cap": [
+		"19015"
+	]
 }

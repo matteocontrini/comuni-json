@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B594",
-	"cap": "14053"
+	"cap": [
+		"14053"
+	]
 }

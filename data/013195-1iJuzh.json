@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H255",
-	"cap": "22030"
+	"cap": [
+		"22030"
+	]
 }

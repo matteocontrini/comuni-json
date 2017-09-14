@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E507",
-	"cap": "23900"
+	"cap": [
+		"23900"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L088",
-	"cap": "07020"
+	"cap": [
+		"07020"
+	]
 }

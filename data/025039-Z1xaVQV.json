@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "G642",
-	"cap": "32044"
+	"cap": [
+		"32044"
+	]
 }

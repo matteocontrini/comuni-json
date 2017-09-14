@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L145",
-	"cap": "38027"
+	"cap": [
+		"38027"
+	]
 }

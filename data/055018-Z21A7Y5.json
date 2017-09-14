@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "F462",
-	"cap": "05020"
+	"cap": [
+		"05020"
+	]
 }

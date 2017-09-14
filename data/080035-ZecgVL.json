@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "D864",
-	"cap": "89054"
+	"cap": [
+		"89054"
+	]
 }

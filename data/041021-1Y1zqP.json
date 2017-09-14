@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "E351",
-	"cap": "61030"
+	"cap": [
+		"61030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "B473",
-	"cap": "28062"
+	"cap": [
+		"28062"
+	]
 }

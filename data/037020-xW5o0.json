@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "C265",
-	"cap": "40024"
+	"cap": [
+		"40024"
+	]
 }

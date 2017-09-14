@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "A201",
-	"cap": "98021"
+	"cap": [
+		"98021"
+	]
 }

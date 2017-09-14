@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "D962",
-	"cap": "33013"
+	"cap": [
+		"33013"
+	]
 }

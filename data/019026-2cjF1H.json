@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "B129",
-	"cap": "26022"
+	"cap": [
+		"26022"
+	]
 }

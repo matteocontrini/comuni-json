@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "B520",
-	"cap": "92023"
+	"cap": [
+		"92023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "L750",
-	"cap": "13100"
+	"cap": [
+		"13100"
+	]
 }

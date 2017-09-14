@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "H917",
-	"cap": "03028"
+	"cap": [
+		"03028"
+	]
 }

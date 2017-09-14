@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B346",
-	"cap": "22071"
+	"cap": [
+		"22071"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "B538",
-	"cap": "16013"
+	"cap": [
+		"16013"
+	]
 }

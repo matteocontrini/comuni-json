@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "C919",
-	"cap": "32045"
+	"cap": [
+		"32045"
+	]
 }

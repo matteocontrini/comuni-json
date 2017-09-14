@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B573",
-	"cap": "12043"
+	"cap": [
+		"12043"
+	]
 }

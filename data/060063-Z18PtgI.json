@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "H880",
-	"cap": "03047"
+	"cap": [
+		"03047"
+	]
 }

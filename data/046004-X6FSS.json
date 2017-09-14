@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "B007",
-	"cap": "55023"
+	"cap": [
+		"55023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "C996",
-	"cap": "55025"
+	"cap": [
+		"55025"
+	]
 }

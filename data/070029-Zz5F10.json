@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "E259",
-	"cap": "86034"
+	"cap": [
+		"86034"
+	]
 }

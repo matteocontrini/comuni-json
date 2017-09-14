@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F021",
-	"cap": "63834"
+	"cap": [
+		"63834"
+	]
 }

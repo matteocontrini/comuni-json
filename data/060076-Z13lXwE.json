@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "L009",
-	"cap": "03019"
+	"cap": [
+		"03019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "E004",
-	"cap": "09074"
+	"cap": [
+		"09074"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H210",
-	"cap": "81020"
+	"cap": [
+		"81020"
+	]
 }

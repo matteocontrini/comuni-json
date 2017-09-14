@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "A010",
-	"cap": "20081"
+	"cap": [
+		"20081"
+	]
 }

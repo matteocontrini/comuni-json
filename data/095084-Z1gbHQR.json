@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "F261",
-	"cap": "08019"
+	"cap": [
+		"08019"
+	]
 }

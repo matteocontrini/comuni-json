@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "B647",
-	"cap": "56033"
+	"cap": [
+		"56033"
+	]
 }

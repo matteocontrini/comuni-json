@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B720",
-	"cap": "12030"
+	"cap": [
+		"12030"
+	]
 }

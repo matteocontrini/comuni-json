@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D329",
-	"cap": "22013"
+	"cap": [
+		"22013"
+	]
 }

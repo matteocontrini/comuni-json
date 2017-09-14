@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D765",
-	"cap": "98034"
+	"cap": [
+		"98034"
+	]
 }

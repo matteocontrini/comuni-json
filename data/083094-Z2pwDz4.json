@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I492",
-	"cap": "98029"
+	"cap": [
+		"98029"
+	]
 }

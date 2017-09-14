@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "C922",
-	"cap": "21025"
+	"cap": [
+		"21025"
+	]
 }

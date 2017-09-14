@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "H242",
-	"cap": "33010"
+	"cap": [
+		"33010"
+	]
 }

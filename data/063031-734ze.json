@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "D702",
-	"cap": "80075"
+	"cap": [
+		"80075"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "C964",
-	"cap": "35026"
+	"cap": [
+		"35026"
+	]
 }

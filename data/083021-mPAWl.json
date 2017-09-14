@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D622",
-	"cap": "98022"
+	"cap": [
+		"98022"
+	]
 }

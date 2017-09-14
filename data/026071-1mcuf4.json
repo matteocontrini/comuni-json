@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "H781",
-	"cap": "31048"
+	"cap": [
+		"31048"
+	]
 }

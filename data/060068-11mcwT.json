@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "I321",
-	"cap": "03049"
+	"cap": [
+		"03049"
+	]
 }

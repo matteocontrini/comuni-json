@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "C289",
-	"cap": "05014"
+	"cap": [
+		"05014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "C623",
-	"cap": "23022"
+	"cap": [
+		"23022"
+	]
 }

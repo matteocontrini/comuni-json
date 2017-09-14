@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I628",
-	"cap": "24068"
+	"cap": [
+		"24068"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "G411",
-	"cap": "87050"
+	"cap": [
+		"87050"
+	]
 }

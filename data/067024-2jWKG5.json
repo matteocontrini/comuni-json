@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "D489",
-	"cap": "64044"
+	"cap": [
+		"64044"
+	]
 }

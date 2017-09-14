@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "B662",
-	"cap": "32014"
+	"cap": [
+		"32014"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "E617",
-	"cap": "20851"
+	"cap": [
+		"20851"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F558",
-	"cap": "12025"
+	"cap": [
+		"12025"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "G977",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

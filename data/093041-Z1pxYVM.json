@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "I403",
-	"cap": "33078"
+	"cap": [
+		"33078"
+	]
 }

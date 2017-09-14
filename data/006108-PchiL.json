@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F562",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

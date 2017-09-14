@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "B516",
-	"cap": "89052"
+	"cap": [
+		"89052"
+	]
 }

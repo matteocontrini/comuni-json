@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "H335",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

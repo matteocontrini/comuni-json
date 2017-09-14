@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "G888",
-	"cap": "33170"
+	"cap": [
+		"33170"
+	]
 }

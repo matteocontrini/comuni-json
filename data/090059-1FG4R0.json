@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G962",
-	"cap": "07018"
+	"cap": [
+		"07018"
+	]
 }

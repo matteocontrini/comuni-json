@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "D636",
-	"cap": "96014"
+	"cap": [
+		"96014"
+	]
 }

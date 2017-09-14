@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "B358",
-	"cap": "67012"
+	"cap": [
+		"67012"
+	]
 }

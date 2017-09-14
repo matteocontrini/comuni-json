@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "H376",
-	"cap": "14020"
+	"cap": [
+		"14020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F395",
-	"cap": "98060"
+	"cap": [
+		"98060"
+	]
 }

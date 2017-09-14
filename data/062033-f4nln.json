@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "D755",
-	"cap": "82020"
+	"cap": [
+		"82020"
+	]
 }

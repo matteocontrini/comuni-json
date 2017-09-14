@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "H254",
-	"cap": "38028"
+	"cap": [
+		"38028"
+	]
 }

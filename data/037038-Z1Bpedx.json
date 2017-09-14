@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "F219",
-	"cap": "40061"
+	"cap": [
+		"40061"
+	]
 }

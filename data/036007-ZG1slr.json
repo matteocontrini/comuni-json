@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "C242",
-	"cap": "41051"
+	"cap": [
+		"41051"
+	]
 }

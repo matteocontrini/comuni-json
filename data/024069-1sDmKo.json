@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "F768",
-	"cap": "36024"
+	"cap": [
+		"36024"
+	]
 }

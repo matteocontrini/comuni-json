@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F357",
-	"cap": "41028"
+	"cap": [
+		"41028"
+	]
 }

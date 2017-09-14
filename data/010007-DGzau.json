@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "B490",
-	"cap": "16032"
+	"cap": [
+		"16032"
+	]
 }

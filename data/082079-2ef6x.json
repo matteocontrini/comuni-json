@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "L916",
-	"cap": "90039"
+	"cap": [
+		"90039"
+	]
 }

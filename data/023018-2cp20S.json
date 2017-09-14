@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "B709",
-	"cap": "37013"
+	"cap": [
+		"37013"
+	]
 }

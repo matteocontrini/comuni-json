@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "I815",
-	"cap": "26867"
+	"cap": [
+		"26867"
+	]
 }

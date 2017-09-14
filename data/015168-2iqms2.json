@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G324",
-	"cap": "20015"
+	"cap": [
+		"20015"
+	]
 }

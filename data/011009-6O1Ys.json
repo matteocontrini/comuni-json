@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "B838",
-	"cap": "19012"
+	"cap": [
+		"19012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D238",
-	"cap": "21030"
+	"cap": [
+		"21030"
+	]
 }

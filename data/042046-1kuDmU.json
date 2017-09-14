@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I643",
-	"cap": "60030"
+	"cap": [
+		"60030"
+	]
 }

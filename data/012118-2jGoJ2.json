@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "H736",
-	"cap": "21017"
+	"cap": [
+		"21017"
+	]
 }

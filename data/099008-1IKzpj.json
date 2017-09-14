@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "F502",
-	"cap": "47834"
+	"cap": [
+		"47834"
+	]
 }

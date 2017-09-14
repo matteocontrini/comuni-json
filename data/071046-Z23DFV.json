@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "H926",
-	"cap": "71013"
+	"cap": [
+		"71013"
+	]
 }

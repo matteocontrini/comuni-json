@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "M101",
-	"cap": "21010"
+	"cap": [
+		"21010"
+	]
 }

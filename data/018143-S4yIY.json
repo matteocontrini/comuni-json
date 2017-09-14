@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I237",
-	"cap": "27047"
+	"cap": [
+		"27047"
+	]
 }

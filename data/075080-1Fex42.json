@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "I950",
-	"cap": "73010"
+	"cap": [
+		"73010"
+	]
 }

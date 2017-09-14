@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "L458",
-	"cap": "86010"
+	"cap": [
+		"86010"
+	]
 }

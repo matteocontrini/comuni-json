@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "I535",
-	"cap": "97018"
+	"cap": [
+		"97018"
+	]
 }

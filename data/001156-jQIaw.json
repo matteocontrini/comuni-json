@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F335",
-	"cap": "10024"
+	"cap": [
+		"10024"
+	]
 }

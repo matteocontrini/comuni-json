@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "A575",
-	"cap": "46031"
+	"cap": [
+		"46031"
+	]
 }

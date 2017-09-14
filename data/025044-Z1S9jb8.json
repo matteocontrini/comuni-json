@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "H379",
-	"cap": "32023"
+	"cap": [
+		"32023"
+	]
 }

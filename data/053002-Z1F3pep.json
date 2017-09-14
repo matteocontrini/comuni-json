@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "B497",
-	"cap": "58042"
+	"cap": [
+		"58042"
+	]
 }

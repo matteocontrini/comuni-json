@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "E930",
-	"cap": "57030"
+	"cap": [
+		"57030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "F352",
-	"cap": "81034"
+	"cap": [
+		"81034"
+	]
 }

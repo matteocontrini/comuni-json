@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "E433",
-	"cap": "13046"
+	"cap": [
+		"13046"
+	]
 }

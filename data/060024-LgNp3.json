@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "C413",
-	"cap": "03023"
+	"cap": [
+		"03023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "H450",
-	"cap": "27052"
+	"cap": [
+		"27052"
+	]
 }

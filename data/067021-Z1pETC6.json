@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "D043",
-	"cap": "64013"
+	"cap": [
+		"64013"
+	]
 }

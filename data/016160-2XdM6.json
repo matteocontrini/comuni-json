@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "G412",
-	"cap": "24066"
+	"cap": [
+		"24066"
+	]
 }

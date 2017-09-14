@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "I304",
-	"cap": "47822"
+	"cap": [
+		"47822"
+	]
 }

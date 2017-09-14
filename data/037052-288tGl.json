@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "H896",
-	"cap": "40016"
+	"cap": [
+		"40016"
+	]
 }

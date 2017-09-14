@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "H618",
-	"cap": "00027"
+	"cap": [
+		"00027"
+	]
 }

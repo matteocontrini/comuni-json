@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "G570",
-	"cap": "40065"
+	"cap": [
+		"40065"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "L774",
-	"cap": "19018"
+	"cap": [
+		"19018"
+	]
 }

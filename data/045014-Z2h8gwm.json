@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "G870",
-	"cap": "54027"
+	"cap": [
+		"54027"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "E989",
-	"cap": "64014"
+	"cap": [
+		"64014"
+	]
 }

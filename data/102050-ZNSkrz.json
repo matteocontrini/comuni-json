@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "M204",
-	"cap": "89867"
+	"cap": [
+		"89867"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "G612",
-	"cap": "27040"
+	"cap": [
+		"27040"
+	]
 }

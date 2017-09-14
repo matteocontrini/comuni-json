@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "I459",
-	"cap": "61028"
+	"cap": [
+		"61028"
+	]
 }

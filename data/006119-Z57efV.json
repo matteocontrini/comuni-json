@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G124",
-	"cap": "15010"
+	"cap": [
+		"15010"
+	]
 }

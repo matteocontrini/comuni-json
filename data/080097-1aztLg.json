@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "M277",
-	"cap": "89026"
+	"cap": [
+		"89026"
+	]
 }

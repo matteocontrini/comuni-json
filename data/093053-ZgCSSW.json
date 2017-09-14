@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "M346",
-	"cap": "33098"
+	"cap": [
+		"33098"
+	]
 }

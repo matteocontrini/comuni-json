@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L306",
-	"cap": "84030"
+	"cap": [
+		"84030"
+	]
 }

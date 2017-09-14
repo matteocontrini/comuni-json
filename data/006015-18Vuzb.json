@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "A793",
-	"cap": "15022"
+	"cap": [
+		"15022"
+	]
 }

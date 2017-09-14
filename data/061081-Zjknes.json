@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "I131",
-	"cap": "81054"
+	"cap": [
+		"81054"
+	]
 }

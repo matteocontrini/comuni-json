@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "L002",
-	"cap": "25058"
+	"cap": [
+		"25058"
+	]
 }

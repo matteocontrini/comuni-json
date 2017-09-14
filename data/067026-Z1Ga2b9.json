@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "E343",
-	"cap": "64045"
+	"cap": [
+		"64045"
+	]
 }

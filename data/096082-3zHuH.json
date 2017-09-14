@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "M196",
-	"cap": "13888"
+	"cap": [
+		"13888"
+	]
 }

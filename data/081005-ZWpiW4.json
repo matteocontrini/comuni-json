@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "C130",
-	"cap": "91014"
+	"cap": [
+		"91014"
+	]
 }

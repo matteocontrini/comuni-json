@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "G485",
-	"cap": "23855"
+	"cap": [
+		"23855"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F733",
-	"cap": "10020"
+	"cap": [
+		"10020"
+	]
 }

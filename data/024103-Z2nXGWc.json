@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I879",
-	"cap": "36050"
+	"cap": [
+		"36050"
+	]
 }

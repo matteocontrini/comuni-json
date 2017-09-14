@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I409",
-	"cap": "20028"
+	"cap": [
+		"20028"
+	]
 }

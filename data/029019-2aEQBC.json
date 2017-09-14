@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "D161",
-	"cap": "45030"
+	"cap": [
+		"45030"
+	]
 }

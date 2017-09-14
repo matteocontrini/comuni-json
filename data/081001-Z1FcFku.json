@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "A176",
-	"cap": "91011"
+	"cap": [
+		"91011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "G935",
-	"cap": "03030"
+	"cap": [
+		"03030"
+	]
 }

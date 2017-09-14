@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G793",
-	"cap": "84035"
+	"cap": [
+		"84035"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E441",
-	"cap": "08045"
+	"cap": [
+		"08045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "L186",
-	"cap": "65028"
+	"cap": [
+		"65028"
+	]
 }

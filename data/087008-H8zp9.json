@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "A841",
-	"cap": "95033"
+	"cap": [
+		"95033"
+	]
 }

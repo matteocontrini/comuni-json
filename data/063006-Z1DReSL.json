@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "A535",
-	"cap": "80070"
+	"cap": [
+		"80070"
+	]
 }

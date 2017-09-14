@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G684",
-	"cap": "10040"
+	"cap": [
+		"10040"
+	]
 }

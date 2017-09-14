@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "G187",
-	"cap": "72017"
+	"cap": [
+		"72017"
+	]
 }

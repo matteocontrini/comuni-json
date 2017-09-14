@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "E716",
-	"cap": "71036"
+	"cap": [
+		"71036"
+	]
 }

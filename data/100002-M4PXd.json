@@ -19,5 +19,7 @@
 	},
 	"sigla": "PO",
 	"codiceCatastale": "B794",
-	"cap": "59015"
+	"cap": [
+		"59015"
+	]
 }

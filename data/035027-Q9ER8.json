@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "F463",
-	"cap": "42027"
+	"cap": [
+		"42027"
+	]
 }

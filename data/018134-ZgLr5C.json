@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "H814",
-	"cap": "27040"
+	"cap": [
+		"27040"
+	]
 }

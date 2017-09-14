@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "E436",
-	"cap": "28064"
+	"cap": [
+		"28064"
+	]
 }

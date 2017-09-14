@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F467",
-	"cap": "61010"
+	"cap": [
+		"61010"
+	]
 }

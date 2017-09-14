@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "I767",
-	"cap": "28070"
+	"cap": [
+		"28070"
+	]
 }

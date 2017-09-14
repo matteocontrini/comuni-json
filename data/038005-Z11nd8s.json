@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "C814",
-	"cap": "44021"
+	"cap": [
+		"44021"
+	]
 }

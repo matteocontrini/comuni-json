@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "G394",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

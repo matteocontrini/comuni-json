@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "A445",
-	"cap": "64031"
+	"cap": [
+		"64031"
+	]
 }

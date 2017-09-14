@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "I434",
-	"cap": "29010"
+	"cap": [
+		"29010"
+	]
 }

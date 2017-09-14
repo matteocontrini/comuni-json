@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "L153",
-	"cap": "08030"
+	"cap": [
+		"08030"
+	]
 }

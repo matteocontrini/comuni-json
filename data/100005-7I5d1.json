@@ -19,5 +19,7 @@
 	},
 	"sigla": "PO",
 	"codiceCatastale": "G999",
-	"cap": "59100"
+	"cap": [
+		"59100"
+	]
 }

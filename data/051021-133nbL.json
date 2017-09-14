@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "E718",
-	"cap": "52046"
+	"cap": [
+		"52046"
+	]
 }

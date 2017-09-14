@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "D415",
-	"cap": "30020"
+	"cap": [
+		"30020"
+	]
 }

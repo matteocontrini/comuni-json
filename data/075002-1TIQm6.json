@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "A184",
-	"cap": "73031"
+	"cap": [
+		"73031"
+	]
 }

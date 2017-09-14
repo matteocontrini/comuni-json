@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "F274",
-	"cap": "82010"
+	"cap": [
+		"82010"
+	]
 }

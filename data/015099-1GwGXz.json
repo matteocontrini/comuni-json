@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "D244",
-	"cap": "20020"
+	"cap": [
+		"20020"
+	]
 }

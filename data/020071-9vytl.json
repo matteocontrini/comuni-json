@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "M340",
-	"cap": "46034"
+	"cap": [
+		"46034"
+	]
 }

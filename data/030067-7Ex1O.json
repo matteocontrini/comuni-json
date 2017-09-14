@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "G198",
-	"cap": "33025"
+	"cap": [
+		"33025"
+	]
 }

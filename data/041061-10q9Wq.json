@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "I654",
-	"cap": "61040"
+	"cap": [
+		"61040"
+	]
 }

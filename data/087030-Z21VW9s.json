@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F781",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

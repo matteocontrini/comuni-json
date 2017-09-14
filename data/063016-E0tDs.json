@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B759",
-	"cap": "80024"
+	"cap": [
+		"80024"
+	]
 }

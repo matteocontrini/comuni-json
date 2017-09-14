@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L291",
-	"cap": "66019"
+	"cap": [
+		"66019"
+	]
 }

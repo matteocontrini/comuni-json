@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "C390",
-	"cap": "00033"
+	"cap": [
+		"00033"
+	]
 }

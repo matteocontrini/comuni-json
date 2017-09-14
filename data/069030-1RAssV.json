@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D494",
-	"cap": "66010"
+	"cap": [
+		"66010"
+	]
 }

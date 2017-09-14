@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "C568",
-	"cap": "98033"
+	"cap": [
+		"98033"
+	]
 }

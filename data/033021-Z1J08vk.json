@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "D611",
-	"cap": "29017"
+	"cap": [
+		"29017"
+	]
 }

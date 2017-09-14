@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A128",
-	"cap": "84044"
+	"cap": [
+		"84044"
+	]
 }

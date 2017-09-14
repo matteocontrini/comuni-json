@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F326",
-	"cap": "12080"
+	"cap": [
+		"12080"
+	]
 }

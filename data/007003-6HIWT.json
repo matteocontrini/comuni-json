@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "A326",
-	"cap": "11100"
+	"cap": [
+		"11100"
+	]
 }

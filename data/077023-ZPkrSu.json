@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "H591",
-	"cap": "75026"
+	"cap": [
+		"75026"
+	]
 }

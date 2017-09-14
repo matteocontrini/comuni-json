@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "A722",
-	"cap": "08040"
+	"cap": [
+		"08040"
+	]
 }

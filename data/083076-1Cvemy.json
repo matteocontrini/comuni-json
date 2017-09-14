@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H519",
-	"cap": "98043"
+	"cap": [
+		"98043"
+	]
 }

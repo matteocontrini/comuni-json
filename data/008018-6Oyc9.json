@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "C578",
-	"cap": "18022"
+	"cap": [
+		"18022"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "E505",
-	"cap": "67050"
+	"cap": [
+		"67050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "G629",
-	"cap": "83015"
+	"cap": [
+		"83015"
+	]
 }

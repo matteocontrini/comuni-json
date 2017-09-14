@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "D483",
-	"cap": "03020"
+	"cap": [
+		"03020"
+	]
 }

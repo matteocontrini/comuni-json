@@ -19,5 +19,7 @@
 	},
 	"sigla": "BA",
 	"codiceCatastale": "H096",
-	"cap": "70017"
+	"cap": [
+		"70017"
+	]
 }

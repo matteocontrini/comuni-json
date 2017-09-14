@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "C385",
-	"cap": "33092"
+	"cap": [
+		"33092"
+	]
 }

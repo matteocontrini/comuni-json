@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C627",
-	"cap": "10023"
+	"cap": [
+		"10023"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "L488",
-	"cap": "09080"
+	"cap": [
+		"09080"
+	]
 }

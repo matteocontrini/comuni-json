@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I671",
-	"cap": "88054"
+	"cap": [
+		"88054"
+	]
 }

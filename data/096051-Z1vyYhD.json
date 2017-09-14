@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "H103",
-	"cap": "13854"
+	"cap": [
+		"13854"
+	]
 }

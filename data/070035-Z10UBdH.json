@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "E780",
-	"cap": "86040"
+	"cap": [
+		"86040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L787",
-	"cap": "10020"
+	"cap": [
+		"10020"
+	]
 }

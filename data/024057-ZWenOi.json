@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E970",
-	"cap": "36063"
+	"cap": [
+		"36063"
+	]
 }

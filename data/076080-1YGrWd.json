@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "I305",
-	"cap": "85037"
+	"cap": [
+		"85037"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "G016",
-	"cap": "13047"
+	"cap": [
+		"13047"
+	]
 }

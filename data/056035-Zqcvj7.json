@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "F419",
-	"cap": "01014"
+	"cap": [
+		"01014"
+	]
 }

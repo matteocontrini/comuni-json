@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "L991",
-	"cap": "09084"
+	"cap": [
+		"09084"
+	]
 }

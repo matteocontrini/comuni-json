@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I278",
-	"cap": "84027"
+	"cap": [
+		"84027"
+	]
 }

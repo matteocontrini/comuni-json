@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "B812",
-	"cap": "29013"
+	"cap": [
+		"29013"
+	]
 }

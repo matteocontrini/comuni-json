@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C867",
-	"cap": "10080"
+	"cap": [
+		"10080"
+	]
 }

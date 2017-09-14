@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "F727",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

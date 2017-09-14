@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "A574",
-	"cap": "45022"
+	"cap": [
+		"45022"
+	]
 }

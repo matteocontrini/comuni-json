@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B178",
-	"cap": "24053"
+	"cap": [
+		"24053"
+	]
 }

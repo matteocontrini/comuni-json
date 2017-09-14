@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F504",
-	"cap": "00010"
+	"cap": [
+		"00010"
+	]
 }

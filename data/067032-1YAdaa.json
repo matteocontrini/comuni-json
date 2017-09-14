@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F942",
-	"cap": "64024"
+	"cap": [
+		"64024"
+	]
 }

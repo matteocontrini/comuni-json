@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L712",
-	"cap": "13824"
+	"cap": [
+		"13824"
+	]
 }

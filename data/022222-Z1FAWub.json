@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L957",
-	"cap": "38060"
+	"cap": [
+		"38060"
+	]
 }

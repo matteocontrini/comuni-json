@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F556",
-	"cap": "14030"
+	"cap": [
+		"14030"
+	]
 }

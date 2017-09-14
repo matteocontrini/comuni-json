@@ -19,5 +19,7 @@
 	},
 	"sigla": "LU",
 	"codiceCatastale": "A560",
-	"cap": "55022"
+	"cap": [
+		"55022"
+	]
 }

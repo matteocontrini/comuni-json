@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B778",
-	"cap": "22060"
+	"cap": [
+		"22060"
+	]
 }

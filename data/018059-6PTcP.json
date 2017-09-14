@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "D127",
-	"cap": "27030"
+	"cap": [
+		"27030"
+	]
 }

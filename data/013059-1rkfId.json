@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "C220",
-	"cap": "22070"
+	"cap": [
+		"22070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B160",
-	"cap": "39042"
+	"cap": [
+		"39042"
+	]
 }

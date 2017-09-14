@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "C540",
-	"cap": "50052"
+	"cap": [
+		"50052"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "D561",
-	"cap": "00065"
+	"cap": [
+		"00065"
+	]
 }

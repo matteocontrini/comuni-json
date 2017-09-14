@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "A854",
-	"cap": "71032"
+	"cap": [
+		"71032"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "G211",
-	"cap": "96018"
+	"cap": [
+		"96018"
+	]
 }

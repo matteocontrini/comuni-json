@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "A717",
-	"cap": "84091"
+	"cap": [
+		"84091"
+	]
 }

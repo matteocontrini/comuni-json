@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "A540",
-	"cap": "37030"
+	"cap": [
+		"37030"
+	]
 }

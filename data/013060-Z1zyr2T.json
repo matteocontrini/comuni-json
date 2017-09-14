@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "C299",
-	"cap": "22023"
+	"cap": [
+		"22023"
+	]
 }

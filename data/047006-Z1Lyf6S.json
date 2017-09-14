@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "E451",
-	"cap": "51036"
+	"cap": [
+		"51036"
+	]
 }

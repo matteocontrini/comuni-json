@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "M258",
-	"cap": "05020"
+	"cap": [
+		"05020"
+	]
 }

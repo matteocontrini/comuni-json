@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "M070",
-	"cap": "25010"
+	"cap": [
+		"25010"
+	]
 }

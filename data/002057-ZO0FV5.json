@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "D641",
-	"cap": "13025"
+	"cap": [
+		"13025"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "A177",
-	"cap": "98070"
+	"cap": [
+		"98070"
+	]
 }

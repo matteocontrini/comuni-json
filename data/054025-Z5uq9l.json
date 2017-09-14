@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "E613",
-	"cap": "06060"
+	"cap": [
+		"06060"
+	]
 }

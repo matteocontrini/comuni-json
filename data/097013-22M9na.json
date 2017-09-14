@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B423",
-	"cap": "23801"
+	"cap": [
+		"23801"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D559",
-	"cap": "15060"
+	"cap": [
+		"15060"
+	]
 }

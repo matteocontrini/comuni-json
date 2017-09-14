@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "E514",
-	"cap": "20025"
+	"cap": [
+		"20025"
+	]
 }

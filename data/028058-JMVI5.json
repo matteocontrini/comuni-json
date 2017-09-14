@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "F962",
-	"cap": "35027"
+	"cap": [
+		"35027"
+	]
 }

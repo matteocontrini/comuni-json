@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L272",
-	"cap": "83030"
+	"cap": [
+		"83030"
+	]
 }

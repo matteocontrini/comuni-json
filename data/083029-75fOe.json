@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D844",
-	"cap": "98030"
+	"cap": [
+		"98030"
+	]
 }

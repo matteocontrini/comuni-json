@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "G378",
-	"cap": "73053"
+	"cap": [
+		"73053"
+	]
 }

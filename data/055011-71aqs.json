@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "D454",
-	"cap": "05015"
+	"cap": [
+		"05015"
+	]
 }

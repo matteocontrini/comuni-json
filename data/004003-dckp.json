@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A124",
-	"cap": "12051"
+	"cap": [
+		"12051"
+	]
 }

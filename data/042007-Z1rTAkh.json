@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "B470",
-	"cap": "60020"
+	"cap": [
+		"60020"
+	]
 }

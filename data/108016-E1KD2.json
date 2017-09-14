@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B798",
-	"cap": "20866"
+	"cap": [
+		"20866"
+	]
 }

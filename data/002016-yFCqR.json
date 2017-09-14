@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "B041",
-	"cap": "13011"
+	"cap": [
+		"13011"
+	]
 }

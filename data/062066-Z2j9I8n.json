@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "I049",
-	"cap": "82018"
+	"cap": [
+		"82018"
+	]
 }

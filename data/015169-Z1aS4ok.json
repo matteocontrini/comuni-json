@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "G385",
-	"cap": "20067"
+	"cap": [
+		"20067"
+	]
 }

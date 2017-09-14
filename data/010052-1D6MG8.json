@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "H599",
-	"cap": "16028"
+	"cap": [
+		"16028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "I875",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

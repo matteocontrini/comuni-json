@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "D168",
-	"cap": "28865"
+	"cap": [
+		"28865"
+	]
 }

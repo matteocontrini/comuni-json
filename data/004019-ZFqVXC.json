@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A779",
-	"cap": "12041"
+	"cap": [
+		"12041"
+	]
 }

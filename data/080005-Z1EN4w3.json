@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "A385",
-	"cap": "89031"
+	"cap": [
+		"89031"
+	]
 }

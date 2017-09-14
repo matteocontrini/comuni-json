@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "E031",
-	"cap": "88045"
+	"cap": [
+		"88045"
+	]
 }

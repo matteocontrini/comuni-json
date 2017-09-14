@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "E687",
-	"cap": "32040"
+	"cap": [
+		"32040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "D154",
-	"cap": "13044"
+	"cap": [
+		"13044"
+	]
 }

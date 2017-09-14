@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "L377",
-	"cap": "84070"
+	"cap": [
+		"84070"
+	]
 }

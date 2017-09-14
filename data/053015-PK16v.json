@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "F032",
-	"cap": "58024"
+	"cap": [
+		"58024"
+	]
 }

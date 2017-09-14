@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "H687",
-	"cap": "75017"
+	"cap": [
+		"75017"
+	]
 }

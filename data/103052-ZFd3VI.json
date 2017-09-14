@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "G280",
-	"cap": "28884"
+	"cap": [
+		"28884"
+	]
 }

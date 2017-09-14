@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "A581",
-	"cap": "18031"
+	"cap": [
+		"18031"
+	]
 }

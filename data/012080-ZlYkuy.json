@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E104",
-	"cap": "21040"
+	"cap": [
+		"21040"
+	]
 }

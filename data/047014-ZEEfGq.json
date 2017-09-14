@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "G713",
-	"cap": "51100"
+	"cap": [
+		"51100"
+	]
 }

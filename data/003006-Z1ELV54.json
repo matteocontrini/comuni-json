@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "A414",
-	"cap": "28011"
+	"cap": [
+		"28011"
+	]
 }

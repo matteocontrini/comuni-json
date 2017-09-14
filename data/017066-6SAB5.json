@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "D270",
-	"cap": "25020"
+	"cap": [
+		"25020"
+	]
 }

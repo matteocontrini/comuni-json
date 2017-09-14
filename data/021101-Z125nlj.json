@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L178",
-	"cap": "39019"
+	"cap": [
+		"39019"
+	]
 }

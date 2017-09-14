@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A290",
-	"cap": "21021"
+	"cap": [
+		"21021"
+	]
 }

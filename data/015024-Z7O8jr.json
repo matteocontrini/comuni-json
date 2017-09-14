@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "A872",
-	"cap": "20082"
+	"cap": [
+		"20082"
+	]
 }

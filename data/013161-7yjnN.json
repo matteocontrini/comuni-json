@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "F877",
-	"cap": "22020"
+	"cap": [
+		"22020"
+	]
 }

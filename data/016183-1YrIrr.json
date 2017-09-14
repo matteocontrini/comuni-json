@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "H509",
-	"cap": "24058"
+	"cap": [
+		"24058"
+	]
 }

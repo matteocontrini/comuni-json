@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "F880",
-	"cap": "00048"
+	"cap": [
+		"00048"
+	]
 }

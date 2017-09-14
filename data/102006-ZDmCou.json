@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "C581",
-	"cap": "89816"
+	"cap": [
+		"89816"
+	]
 }

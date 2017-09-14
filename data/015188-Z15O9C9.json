@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "H560",
-	"cap": "20088"
+	"cap": [
+		"20088"
+	]
 }

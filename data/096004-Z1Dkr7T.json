@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "A859",
-	"cap": "13900"
+	"cap": [
+		"13900"
+	]
 }

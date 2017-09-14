@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "A490",
-	"cap": "05012"
+	"cap": [
+		"05012"
+	]
 }

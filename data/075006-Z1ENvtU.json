@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "A350",
-	"cap": "73040"
+	"cap": [
+		"73040"
+	]
 }

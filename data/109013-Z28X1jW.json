@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F428",
-	"cap": "63835"
+	"cap": [
+		"63835"
+	]
 }

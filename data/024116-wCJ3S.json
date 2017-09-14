@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "L840",
-	"cap": "36100"
+	"cap": [
+		"36100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "A019",
-	"cap": "02011"
+	"cap": [
+		"02011"
+	]
 }

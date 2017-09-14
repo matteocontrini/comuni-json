@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "A827",
-	"cap": "07040"
+	"cap": [
+		"07040"
+	]
 }

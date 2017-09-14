@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "L454",
-	"cap": "20060"
+	"cap": [
+		"20060"
+	]
 }

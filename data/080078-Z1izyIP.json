@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "I176",
-	"cap": "89056"
+	"cap": [
+		"89056"
+	]
 }

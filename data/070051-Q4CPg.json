@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "G506",
-	"cap": "86038"
+	"cap": [
+		"86038"
+	]
 }

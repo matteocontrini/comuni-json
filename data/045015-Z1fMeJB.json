@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "L386",
-	"cap": "54012"
+	"cap": [
+		"54012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "D286",
-	"cap": "20832"
+	"cap": [
+		"20832"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I588",
-	"cap": "25050"
+	"cap": [
+		"25050"
+	]
 }

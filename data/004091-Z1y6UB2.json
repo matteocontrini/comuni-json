@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D752",
-	"cap": "12083"
+	"cap": [
+		"12083"
+	]
 }

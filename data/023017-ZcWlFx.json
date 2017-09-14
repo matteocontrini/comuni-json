@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "B402",
-	"cap": "37042"
+	"cap": [
+		"37042"
+	]
 }

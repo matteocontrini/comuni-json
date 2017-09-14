@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B101",
-	"cap": "12012"
+	"cap": [
+		"12012"
+	]
 }

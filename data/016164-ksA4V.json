@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "G579",
-	"cap": "24014"
+	"cap": [
+		"24014"
+	]
 }

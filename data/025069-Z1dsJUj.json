@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "M189",
-	"cap": "32010"
+	"cap": [
+		"32010"
+	]
 }

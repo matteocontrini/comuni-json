@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "H325",
-	"cap": "95018"
+	"cap": [
+		"95018"
+	]
 }

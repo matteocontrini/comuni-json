@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "F104",
-	"cap": "85025"
+	"cap": [
+		"85025"
+	]
 }

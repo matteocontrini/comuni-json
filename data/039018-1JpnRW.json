@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "I787",
-	"cap": "48027"
+	"cap": [
+		"48027"
+	]
 }

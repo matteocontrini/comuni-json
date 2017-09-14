@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "L567",
-	"cap": "37067"
+	"cap": [
+		"37067"
+	]
 }

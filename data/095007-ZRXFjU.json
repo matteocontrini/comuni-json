@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "A380",
-	"cap": "09081"
+	"cap": [
+		"09081"
+	]
 }

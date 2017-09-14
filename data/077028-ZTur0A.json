@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "L418",
-	"cap": "75019"
+	"cap": [
+		"75019"
+	]
 }

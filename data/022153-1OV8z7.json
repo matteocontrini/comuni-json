@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "H330",
-	"cap": "38066"
+	"cap": [
+		"38066"
+	]
 }

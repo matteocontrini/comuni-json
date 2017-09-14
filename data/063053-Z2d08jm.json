@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G568",
-	"cap": "80063"
+	"cap": [
+		"80063"
+	]
 }

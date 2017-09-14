@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "A386",
-	"cap": "89832"
+	"cap": [
+		"89832"
+	]
 }

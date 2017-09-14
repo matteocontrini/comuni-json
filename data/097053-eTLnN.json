@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "F657",
-	"cap": "23874"
+	"cap": [
+		"23874"
+	]
 }

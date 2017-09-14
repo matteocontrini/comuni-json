@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "F529",
-	"cap": "35036"
+	"cap": [
+		"35036"
+	]
 }

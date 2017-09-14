@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "I433",
-	"cap": "25068"
+	"cap": [
+		"25068"
+	]
 }

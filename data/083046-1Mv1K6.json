@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "F066",
-	"cap": "98056"
+	"cap": [
+		"98056"
+	]
 }

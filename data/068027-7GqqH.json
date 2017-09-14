@@ -19,5 +19,7 @@
 	},
 	"sigla": "PE",
 	"codiceCatastale": "G438",
-	"cap": "65017"
+	"cap": [
+		"65017"
+	]
 }

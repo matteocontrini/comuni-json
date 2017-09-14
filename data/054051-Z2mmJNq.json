@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "I921",
-	"cap": "06049"
+	"cap": [
+		"06049"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H851",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

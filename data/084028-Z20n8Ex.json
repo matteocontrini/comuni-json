@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "F299",
-	"cap": "92014"
+	"cap": [
+		"92014"
+	]
 }

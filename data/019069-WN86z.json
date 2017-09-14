@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "G483",
-	"cap": "26033"
+	"cap": [
+		"26033"
+	]
 }

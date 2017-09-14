@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D672",
-	"cap": "24056"
+	"cap": [
+		"24056"
+	]
 }

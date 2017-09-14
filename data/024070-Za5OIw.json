@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "F829",
-	"cap": "36065"
+	"cap": [
+		"36065"
+	]
 }

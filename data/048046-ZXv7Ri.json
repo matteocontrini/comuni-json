@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "L529",
-	"cap": "50036"
+	"cap": [
+		"50036"
+	]
 }

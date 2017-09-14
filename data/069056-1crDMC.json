@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "F785",
-	"cap": "66030"
+	"cap": [
+		"66030"
+	]
 }

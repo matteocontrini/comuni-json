@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "I774",
-	"cap": "63856"
+	"cap": [
+		"63856"
+	]
 }

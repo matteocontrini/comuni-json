@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "B832",
-	"cap": "54033"
+	"cap": [
+		"54033"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "L797",
-	"cap": "47826"
+	"cap": [
+		"47826"
+	]
 }

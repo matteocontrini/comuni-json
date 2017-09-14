@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I447",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

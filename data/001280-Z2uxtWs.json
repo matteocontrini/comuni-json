@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L445",
-	"cap": "10028"
+	"cap": [
+		"10028"
+	]
 }

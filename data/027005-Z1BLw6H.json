@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "B642",
-	"cap": "30021"
+	"cap": [
+		"30021"
+	]
 }

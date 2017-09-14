@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "E041",
-	"cap": "89013"
+	"cap": [
+		"89013"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C781",
-	"cap": "64010"
+	"cap": [
+		"64010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "D660",
-	"cap": "26861"
+	"cap": [
+		"26861"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "F259",
-	"cap": "47015"
+	"cap": [
+		"47015"
+	]
 }

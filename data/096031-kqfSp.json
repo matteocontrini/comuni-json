@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F037",
-	"cap": "13873"
+	"cap": [
+		"13873"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "M271",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

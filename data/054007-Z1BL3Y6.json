@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "B948",
-	"cap": "06043"
+	"cap": [
+		"06043"
+	]
 }

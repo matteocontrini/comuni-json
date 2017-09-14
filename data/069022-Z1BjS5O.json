@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "C632",
-	"cap": "66100"
+	"cap": [
+		"66100"
+	]
 }

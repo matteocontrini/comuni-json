@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "B500",
-	"cap": "87061"
+	"cap": [
+		"87061"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "B534",
-	"cap": "63828"
+	"cap": [
+		"63828"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "L008",
-	"cap": "73040"
+	"cap": [
+		"73040"
+	]
 }

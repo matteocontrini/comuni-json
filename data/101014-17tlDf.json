@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "F108",
-	"cap": "88814"
+	"cap": [
+		"88814"
+	]
 }

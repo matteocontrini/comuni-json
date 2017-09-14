@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "B830",
-	"cap": "86093"
+	"cap": [
+		"86093"
+	]
 }

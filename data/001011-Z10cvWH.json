@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "A295",
-	"cap": "10060"
+	"cap": [
+		"10060"
+	]
 }

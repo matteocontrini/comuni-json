@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "H959",
-	"cap": "89069"
+	"cap": [
+		"89069"
+	]
 }

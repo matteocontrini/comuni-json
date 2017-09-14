@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "C663",
-	"cap": "52010"
+	"cap": [
+		"52010"
+	]
 }

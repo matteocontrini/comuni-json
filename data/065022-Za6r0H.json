@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B492",
-	"cap": "84022"
+	"cap": [
+		"84022"
+	]
 }

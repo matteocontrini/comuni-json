@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "L949",
-	"cap": "37069"
+	"cap": [
+		"37069"
+	]
 }

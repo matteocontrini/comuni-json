@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C670",
-	"cap": "31035"
+	"cap": [
+		"31035"
+	]
 }

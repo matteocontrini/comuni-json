@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "I684",
-	"cap": "50019"
+	"cap": [
+		"50019"
+	]
 }

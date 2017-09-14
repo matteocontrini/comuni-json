@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "C128",
-	"cap": "64020"
+	"cap": [
+		"64020"
+	]
 }

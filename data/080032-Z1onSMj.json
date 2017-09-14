@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "D545",
-	"cap": "89050"
+	"cap": [
+		"89050"
+	]
 }

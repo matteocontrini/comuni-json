@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "E270",
-	"cap": "09036"
+	"cap": [
+		"09036"
+	]
 }

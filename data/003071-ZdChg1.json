@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "D937",
-	"cap": "28013"
+	"cap": [
+		"28013"
+	]
 }

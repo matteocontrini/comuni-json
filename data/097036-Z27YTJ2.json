@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "D865",
-	"cap": "23851"
+	"cap": [
+		"23851"
+	]
 }

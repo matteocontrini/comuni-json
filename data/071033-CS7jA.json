@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "F631",
-	"cap": "71037"
+	"cap": [
+		"71037"
+	]
 }

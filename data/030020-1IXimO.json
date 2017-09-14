@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "C327",
-	"cap": "33050"
+	"cap": [
+		"33050"
+	]
 }

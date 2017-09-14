@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "M379",
-	"cap": "61038"
+	"cap": [
+		"61038"
+	]
 }

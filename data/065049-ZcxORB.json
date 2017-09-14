@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "D195",
-	"cap": "84050"
+	"cap": [
+		"84050"
+	]
 }

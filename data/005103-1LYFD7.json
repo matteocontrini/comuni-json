@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I555",
-	"cap": "14030"
+	"cap": [
+		"14030"
+	]
 }

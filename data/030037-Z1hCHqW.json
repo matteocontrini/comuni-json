@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "D461",
-	"cap": "33034"
+	"cap": [
+		"33034"
+	]
 }

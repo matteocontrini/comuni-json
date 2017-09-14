@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D952",
-	"cap": "24025"
+	"cap": [
+		"24025"
+	]
 }

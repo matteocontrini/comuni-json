@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "G874",
-	"cap": "00060"
+	"cap": [
+		"00060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "A885",
-	"cap": "64033"
+	"cap": [
+		"64033"
+	]
 }

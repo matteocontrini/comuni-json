@@ -19,5 +19,7 @@
 	},
 	"sigla": "NU",
 	"codiceCatastale": "E736",
-	"cap": "08020"
+	"cap": [
+		"08020"
+	]
 }

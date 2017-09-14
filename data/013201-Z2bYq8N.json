@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "H601",
-	"cap": "22069"
+	"cap": [
+		"22069"
+	]
 }

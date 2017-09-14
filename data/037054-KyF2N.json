@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "H945",
-	"cap": "40068"
+	"cap": [
+		"40068"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "C968",
-	"cap": "90030"
+	"cap": [
+		"90030"
+	]
 }

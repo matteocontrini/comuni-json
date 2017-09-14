@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "I824",
-	"cap": "93019"
+	"cap": [
+		"93019"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "L447",
-	"cap": "71029"
+	"cap": [
+		"71029"
+	]
 }

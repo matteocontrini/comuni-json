@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "D851",
-	"cap": "73034"
+	"cap": [
+		"73034"
+	]
 }

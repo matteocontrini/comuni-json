@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "C404",
-	"cap": "10061"
+	"cap": [
+		"10061"
+	]
 }

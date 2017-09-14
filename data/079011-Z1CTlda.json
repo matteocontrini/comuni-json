@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "B002",
-	"cap": "88021"
+	"cap": [
+		"88021"
+	]
 }

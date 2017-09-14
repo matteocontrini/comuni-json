@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "D290",
-	"cap": "87057"
+	"cap": [
+		"87057"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "G137",
-	"cap": "63851"
+	"cap": [
+		"63851"
+	]
 }

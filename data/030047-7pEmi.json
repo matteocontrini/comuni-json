@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "E476",
-	"cap": "33029"
+	"cap": [
+		"33029"
+	]
 }

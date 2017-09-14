@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "G359",
-	"cap": "06065"
+	"cap": [
+		"06065"
+	]
 }

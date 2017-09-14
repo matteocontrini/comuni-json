@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "E887",
-	"cap": "12056"
+	"cap": [
+		"12056"
+	]
 }

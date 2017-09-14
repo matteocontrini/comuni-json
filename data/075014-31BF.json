@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "B792",
-	"cap": "73041"
+	"cap": [
+		"73041"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "E210",
-	"cap": "01025"
+	"cap": [
+		"01025"
+	]
 }

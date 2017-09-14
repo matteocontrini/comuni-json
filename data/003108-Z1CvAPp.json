@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "G019",
-	"cap": "28047"
+	"cap": [
+		"28047"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "L675",
-	"cap": "17019"
+	"cap": [
+		"17019"
+	]
 }

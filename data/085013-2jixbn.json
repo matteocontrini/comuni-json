@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "F899",
-	"cap": "93015"
+	"cap": [
+		"93015"
+	]
 }

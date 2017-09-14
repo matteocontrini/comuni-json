@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "E339",
-	"cap": "88841"
+	"cap": [
+		"88841"
+	]
 }

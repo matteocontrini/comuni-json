@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D468",
-	"cap": "38010"
+	"cap": [
+		"38010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D996",
-	"cap": "66010"
+	"cap": [
+		"66010"
+	]
 }

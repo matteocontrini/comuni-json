@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "L108",
-	"cap": "39018"
+	"cap": [
+		"39018"
+	]
 }

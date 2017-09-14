@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F516",
-	"cap": "63094"
+	"cap": [
+		"63094"
+	]
 }

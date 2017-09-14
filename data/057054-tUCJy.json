@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G764",
-	"cap": "02037"
+	"cap": [
+		"02037"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "A393",
-	"cap": "44011"
+	"cap": [
+		"44011"
+	]
 }

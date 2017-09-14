@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "D661",
-	"cap": "98050"
+	"cap": [
+		"98050"
+	]
 }

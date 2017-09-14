@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "I855",
-	"cap": "01038"
+	"cap": [
+		"01038"
+	]
 }

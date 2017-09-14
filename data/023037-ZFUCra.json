@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "D957",
-	"cap": "37060"
+	"cap": [
+		"37060"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "B251",
-	"cap": "51011"
+	"cap": [
+		"51011"
+	]
 }

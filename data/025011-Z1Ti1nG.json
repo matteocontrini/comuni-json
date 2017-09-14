@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "C577",
-	"cap": "32030"
+	"cap": [
+		"32030"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "A341",
-	"cap": "04011"
+	"cap": [
+		"04011"
+	]
 }

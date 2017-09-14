@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "E668",
-	"cap": "50060"
+	"cap": [
+		"50060"
+	]
 }

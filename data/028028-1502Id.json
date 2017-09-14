@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "B912",
-	"cap": "35020"
+	"cap": [
+		"35020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "D444",
-	"cap": "11014"
+	"cap": [
+		"11014"
+	]
 }

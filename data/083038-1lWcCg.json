@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E555",
-	"cap": "98037"
+	"cap": [
+		"98037"
+	]
 }

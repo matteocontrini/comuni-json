@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "I660",
-	"cap": "51034"
+	"cap": [
+		"51034"
+	]
 }

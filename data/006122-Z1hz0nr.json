@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G199",
-	"cap": "15026"
+	"cap": [
+		"15026"
+	]
 }

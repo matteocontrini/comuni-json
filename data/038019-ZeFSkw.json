@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "G916",
-	"cap": "44015"
+	"cap": [
+		"44015"
+	]
 }

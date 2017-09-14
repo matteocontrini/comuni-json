@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "L513",
-	"cap": "09020"
+	"cap": [
+		"09020"
+	]
 }

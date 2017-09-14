@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "E027",
-	"cap": "84095"
+	"cap": [
+		"84095"
+	]
 }

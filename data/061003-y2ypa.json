@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "A243",
-	"cap": "81012"
+	"cap": [
+		"81012"
+	]
 }

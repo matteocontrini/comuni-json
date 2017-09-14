@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "C346",
-	"cap": "86010"
+	"cap": [
+		"86010"
+	]
 }

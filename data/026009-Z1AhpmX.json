@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "B879",
-	"cap": "31032"
+	"cap": [
+		"31032"
+	]
 }

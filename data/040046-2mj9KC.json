@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "I779",
-	"cap": "47030"
+	"cap": [
+		"47030"
+	]
 }

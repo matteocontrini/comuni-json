@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B942",
-	"cap": "22022"
+	"cap": [
+		"22022"
+	]
 }

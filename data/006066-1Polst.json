@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "D277",
-	"cap": "15056"
+	"cap": [
+		"15056"
+	]
 }

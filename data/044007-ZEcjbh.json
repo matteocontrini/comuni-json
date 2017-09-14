@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "A462",
-	"cap": "63100"
+	"cap": [
+		"63100"
+	]
 }

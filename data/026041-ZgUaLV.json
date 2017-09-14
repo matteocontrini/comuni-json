@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "F088",
-	"cap": "31040"
+	"cap": [
+		"31040"
+	]
 }

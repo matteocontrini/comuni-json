@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "L257",
-	"cap": "23806"
+	"cap": [
+		"23806"
+	]
 }

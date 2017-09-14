@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C372",
-	"cap": "38033"
+	"cap": [
+		"38033"
+	]
 }

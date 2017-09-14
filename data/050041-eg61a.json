@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "M328",
-	"cap": "56042"
+	"cap": [
+		"56042"
+	]
 }

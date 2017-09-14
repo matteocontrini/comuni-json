@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I729",
-	"cap": "39028"
+	"cap": [
+		"39028"
+	]
 }

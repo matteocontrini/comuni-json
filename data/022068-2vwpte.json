@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "D188",
-	"cap": "38027"
+	"cap": [
+		"38027"
+	]
 }

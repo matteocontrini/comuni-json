@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E784",
-	"cap": "81047"
+	"cap": [
+		"81047"
+	]
 }

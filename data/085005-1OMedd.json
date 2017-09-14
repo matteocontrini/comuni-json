@@ -19,5 +19,7 @@
 	},
 	"sigla": "CL",
 	"codiceCatastale": "B537",
-	"cap": "93010"
+	"cap": [
+		"93010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "F137",
-	"cap": "47863"
+	"cap": [
+		"47863"
+	]
 }

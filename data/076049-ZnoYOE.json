@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "F249",
-	"cap": "85010"
+	"cap": [
+		"85010"
+	]
 }

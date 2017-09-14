@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C106",
-	"cap": "82022"
+	"cap": [
+		"82022"
+	]
 }

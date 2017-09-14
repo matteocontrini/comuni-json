@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "H882",
-	"cap": "74027"
+	"cap": [
+		"74027"
+	]
 }

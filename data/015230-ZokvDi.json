@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "L667",
-	"cap": "20069"
+	"cap": [
+		"20069"
+	]
 }

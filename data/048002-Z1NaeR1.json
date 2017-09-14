@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "A632",
-	"cap": "50031"
+	"cap": [
+		"50031"
+	]
 }

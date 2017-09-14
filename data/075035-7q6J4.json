@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "E506",
-	"cap": "73100"
+	"cap": [
+		"73100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "I079",
-	"cap": "24016"
+	"cap": [
+		"24016"
+	]
 }

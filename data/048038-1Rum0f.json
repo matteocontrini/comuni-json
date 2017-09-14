@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "H791",
-	"cap": "50026"
+	"cap": [
+		"50026"
+	]
 }

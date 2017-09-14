@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "I544",
-	"cap": "13027"
+	"cap": [
+		"13027"
+	]
 }

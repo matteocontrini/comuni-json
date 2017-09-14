@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "E955",
-	"cap": "80034"
+	"cap": [
+		"80034"
+	]
 }

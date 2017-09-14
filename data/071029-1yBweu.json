@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "E885",
-	"cap": "71043"
+	"cap": [
+		"71043"
+	]
 }

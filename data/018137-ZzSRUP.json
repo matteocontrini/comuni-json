@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I014",
-	"cap": "27028"
+	"cap": [
+		"27028"
+	]
 }

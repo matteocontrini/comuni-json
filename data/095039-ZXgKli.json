@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "G286",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

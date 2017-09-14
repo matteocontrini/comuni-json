@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "C067",
-	"cap": "90013"
+	"cap": [
+		"90013"
+	]
 }

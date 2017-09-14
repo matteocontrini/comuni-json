@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "F868",
-	"cap": "01036"
+	"cap": [
+		"01036"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "E900",
-	"cap": "00066"
+	"cap": [
+		"00066"
+	]
 }

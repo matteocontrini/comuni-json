@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "G761",
-	"cap": "71010"
+	"cap": [
+		"71010"
+	]
 }

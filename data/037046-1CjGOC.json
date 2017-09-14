@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "G205",
-	"cap": "40064"
+	"cap": [
+		"40064"
+	]
 }

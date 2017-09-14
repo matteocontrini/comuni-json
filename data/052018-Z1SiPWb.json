@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "F676",
-	"cap": "53015"
+	"cap": [
+		"53015"
+	]
 }

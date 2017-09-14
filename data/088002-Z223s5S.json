@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "C612",
-	"cap": "97012"
+	"cap": [
+		"97012"
+	]
 }

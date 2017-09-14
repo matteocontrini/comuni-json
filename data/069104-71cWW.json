@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D480",
-	"cap": "66040"
+	"cap": [
+		"66040"
+	]
 }

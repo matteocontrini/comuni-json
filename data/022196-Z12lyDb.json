@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L147",
-	"cap": "38038"
+	"cap": [
+		"38038"
+	]
 }

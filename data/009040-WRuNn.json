@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "F813",
-	"cap": "17013"
+	"cap": [
+		"17013"
+	]
 }

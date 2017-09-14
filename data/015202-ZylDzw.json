@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "I415",
-	"cap": "20070"
+	"cap": [
+		"20070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "G050",
-	"cap": "24013"
+	"cap": [
+		"24013"
+	]
 }

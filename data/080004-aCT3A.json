@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "A314",
-	"cap": "89040"
+	"cap": [
+		"89040"
+	]
 }

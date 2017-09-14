@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "H763",
-	"cap": "18016"
+	"cap": [
+		"18016"
+	]
 }

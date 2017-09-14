@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "I558",
-	"cap": "67029"
+	"cap": [
+		"67029"
+	]
 }

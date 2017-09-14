@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "M207",
-	"cap": "00076"
+	"cap": [
+		"00076"
+	]
 }

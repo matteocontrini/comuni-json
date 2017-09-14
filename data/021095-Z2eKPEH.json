@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "I948",
-	"cap": "39029"
+	"cap": [
+		"39029"
+	]
 }

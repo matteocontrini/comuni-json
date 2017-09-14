@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "B808",
-	"cap": "74021"
+	"cap": [
+		"74021"
+	]
 }

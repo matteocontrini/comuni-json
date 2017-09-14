@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "D978",
-	"cap": "00025"
+	"cap": [
+		"00025"
+	]
 }

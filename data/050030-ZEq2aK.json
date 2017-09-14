@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "H319",
-	"cap": "56046"
+	"cap": [
+		"56046"
+	]
 }

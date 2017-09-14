@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "I319",
-	"cap": "35040"
+	"cap": [
+		"35040"
+	]
 }

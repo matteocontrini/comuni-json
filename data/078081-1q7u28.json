@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "F416",
-	"cap": "87046"
+	"cap": [
+		"87046"
+	]
 }

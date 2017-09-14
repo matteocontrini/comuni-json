@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L994",
-	"cap": "27019"
+	"cap": [
+		"27019"
+	]
 }

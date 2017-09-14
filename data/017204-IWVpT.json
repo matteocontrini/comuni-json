@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "M104",
-	"cap": "25079"
+	"cap": [
+		"25079"
+	]
 }

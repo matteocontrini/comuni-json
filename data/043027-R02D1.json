@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "F460",
-	"cap": "62036"
+	"cap": [
+		"62036"
+	]
 }

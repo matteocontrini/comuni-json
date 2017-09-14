@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "G340",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

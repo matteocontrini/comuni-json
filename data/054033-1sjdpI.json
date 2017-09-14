@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "F685",
-	"cap": "06014"
+	"cap": [
+		"06014"
+	]
 }

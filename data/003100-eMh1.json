@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "F317",
-	"cap": "28015"
+	"cap": [
+		"28015"
+	]
 }

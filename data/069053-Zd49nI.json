@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "F535",
-	"cap": "66040"
+	"cap": [
+		"66040"
+	]
 }

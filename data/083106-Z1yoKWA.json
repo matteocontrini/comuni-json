@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "M210",
-	"cap": "98050"
+	"cap": [
+		"98050"
+	]
 }

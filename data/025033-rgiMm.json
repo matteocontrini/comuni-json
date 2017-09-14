@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "E708",
-	"cap": "32040"
+	"cap": [
+		"32040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "H433",
-	"cap": "80030"
+	"cap": [
+		"80030"
+	]
 }

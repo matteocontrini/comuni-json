@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F044",
-	"cap": "63061"
+	"cap": [
+		"63061"
+	]
 }

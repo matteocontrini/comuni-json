@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "M294",
-	"cap": "84092"
+	"cap": [
+		"84092"
+	]
 }

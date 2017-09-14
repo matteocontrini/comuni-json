@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L556",
-	"cap": "13855"
+	"cap": [
+		"13855"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "E145",
-	"cap": "35010"
+	"cap": [
+		"35010"
+	]
 }

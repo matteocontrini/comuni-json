@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "D738",
-	"cap": "66022"
+	"cap": [
+		"66022"
+	]
 }

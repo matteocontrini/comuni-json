@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "B937",
-	"cap": "23831"
+	"cap": [
+		"23831"
+	]
 }

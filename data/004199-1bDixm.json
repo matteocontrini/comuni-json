@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H695",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

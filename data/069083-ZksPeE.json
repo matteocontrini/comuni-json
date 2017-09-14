@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "I148",
-	"cap": "66050"
+	"cap": [
+		"66050"
+	]
 }

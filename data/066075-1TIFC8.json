@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "H007",
-	"cap": "67035"
+	"cap": [
+		"67035"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SU",
 	"codiceCatastale": "A681",
-	"cap": "09021"
+	"cap": [
+		"09021"
+	]
 }

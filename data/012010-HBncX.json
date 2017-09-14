@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "A728",
-	"cap": "21039"
+	"cap": [
+		"21039"
+	]
 }

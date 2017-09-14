@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "C995",
-	"cap": "16040"
+	"cap": [
+		"16040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "D236",
-	"cap": "88842"
+	"cap": [
+		"88842"
+	]
 }

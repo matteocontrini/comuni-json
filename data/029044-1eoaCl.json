@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "H996",
-	"cap": "45030"
+	"cap": [
+		"45030"
+	]
 }

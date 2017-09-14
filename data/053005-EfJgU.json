@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "C147",
-	"cap": "58034"
+	"cap": [
+		"58034"
+	]
 }

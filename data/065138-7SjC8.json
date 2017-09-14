@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I486",
-	"cap": "84010"
+	"cap": [
+		"84010"
+	]
 }

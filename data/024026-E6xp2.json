@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "C037",
-	"cap": "36022"
+	"cap": [
+		"36022"
+	]
 }

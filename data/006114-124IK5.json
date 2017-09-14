@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "F965",
-	"cap": "15067"
+	"cap": [
+		"15067"
+	]
 }

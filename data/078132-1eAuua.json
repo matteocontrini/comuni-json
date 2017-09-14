@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "C717",
-	"cap": "87020"
+	"cap": [
+		"87020"
+	]
 }

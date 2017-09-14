@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A005",
-	"cap": "23821"
+	"cap": [
+		"23821"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B501",
-	"cap": "20857"
+	"cap": [
+		"20857"
+	]
 }

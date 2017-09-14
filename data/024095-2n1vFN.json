@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I353",
-	"cap": "36014"
+	"cap": [
+		"36014"
+	]
 }

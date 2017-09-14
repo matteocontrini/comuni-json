@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H479",
-	"cap": "98059"
+	"cap": [
+		"98059"
+	]
 }

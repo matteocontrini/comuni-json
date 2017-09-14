@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "L435",
-	"cap": "86029"
+	"cap": [
+		"86029"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "F202",
-	"cap": "16018"
+	"cap": [
+		"16018"
+	]
 }

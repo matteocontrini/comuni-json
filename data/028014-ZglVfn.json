@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "B106",
-	"cap": "35024"
+	"cap": [
+		"35024"
+	]
 }

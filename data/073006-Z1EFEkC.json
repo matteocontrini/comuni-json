@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "D754",
-	"cap": "74022"
+	"cap": [
+		"74022"
+	]
 }

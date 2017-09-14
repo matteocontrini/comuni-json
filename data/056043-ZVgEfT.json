@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "G571",
-	"cap": "01010"
+	"cap": [
+		"01010"
+	]
 }

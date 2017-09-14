@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F925",
-	"cap": "10076"
+	"cap": [
+		"10076"
+	]
 }

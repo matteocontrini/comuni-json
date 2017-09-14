@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "B221",
-	"cap": "14046"
+	"cap": [
+		"14046"
+	]
 }

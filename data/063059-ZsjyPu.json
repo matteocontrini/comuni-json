@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "G902",
-	"cap": "80055"
+	"cap": [
+		"80055"
+	]
 }

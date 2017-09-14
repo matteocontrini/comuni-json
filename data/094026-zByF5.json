@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "E779",
-	"cap": "86096"
+	"cap": [
+		"86096"
+	]
 }

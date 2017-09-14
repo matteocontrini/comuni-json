@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "F601",
-	"cap": "86075"
+	"cap": [
+		"86075"
+	]
 }

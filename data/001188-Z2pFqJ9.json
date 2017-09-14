@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G505",
-	"cap": "10070"
+	"cap": [
+		"10070"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "H243",
-	"cap": "80056"
+	"cap": [
+		"80056"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "I439",
-	"cap": "38011"
+	"cap": [
+		"38011"
+	]
 }

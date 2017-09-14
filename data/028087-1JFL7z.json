@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "I799",
-	"cap": "35047"
+	"cap": [
+		"35047"
+	]
 }

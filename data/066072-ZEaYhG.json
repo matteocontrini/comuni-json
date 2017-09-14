@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "G726",
-	"cap": "67017"
+	"cap": [
+		"67017"
+	]
 }

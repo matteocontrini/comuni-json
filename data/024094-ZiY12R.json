@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "I117",
-	"cap": "36070"
+	"cap": [
+		"36070"
+	]
 }

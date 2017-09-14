@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B165",
-	"cap": "38021"
+	"cap": [
+		"38021"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "E078",
-	"cap": "46044"
+	"cap": [
+		"46044"
+	]
 }

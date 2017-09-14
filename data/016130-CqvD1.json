@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "E770",
-	"cap": "24069"
+	"cap": [
+		"24069"
+	]
 }

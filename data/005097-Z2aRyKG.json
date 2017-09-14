@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "H811",
-	"cap": "14015"
+	"cap": [
+		"14015"
+	]
 }

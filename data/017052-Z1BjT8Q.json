@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C618",
-	"cap": "25032"
+	"cap": [
+		"25032"
+	]
 }

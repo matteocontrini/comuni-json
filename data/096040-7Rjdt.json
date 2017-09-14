@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "F992",
-	"cap": "13897"
+	"cap": [
+		"13897"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "B524",
-	"cap": "35011"
+	"cap": [
+		"35011"
+	]
 }

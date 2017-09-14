@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "F831",
-	"cap": "64025"
+	"cap": [
+		"64025"
+	]
 }

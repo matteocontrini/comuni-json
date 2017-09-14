@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "C976",
-	"cap": "83040"
+	"cap": [
+		"83040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "F669",
-	"cap": "12066"
+	"cap": [
+		"12066"
+	]
 }

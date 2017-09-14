@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "A661",
-	"cap": "25070"
+	"cap": [
+		"25070"
+	]
 }

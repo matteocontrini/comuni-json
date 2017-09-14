@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "G257",
-	"cap": "86037"
+	"cap": [
+		"86037"
+	]
 }

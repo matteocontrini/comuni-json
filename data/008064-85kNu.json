@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "L693",
-	"cap": "18020"
+	"cap": [
+		"18020"
+	]
 }

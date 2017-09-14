@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "E070",
-	"cap": "19020"
+	"cap": [
+		"19020"
+	]
 }

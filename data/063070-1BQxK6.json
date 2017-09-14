@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I151",
-	"cap": "80040"
+	"cap": [
+		"80040"
+	]
 }

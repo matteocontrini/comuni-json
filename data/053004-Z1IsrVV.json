@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "C085",
-	"cap": "58033"
+	"cap": [
+		"58033"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "B686",
-	"cap": "26010"
+	"cap": [
+		"26010"
+	]
 }

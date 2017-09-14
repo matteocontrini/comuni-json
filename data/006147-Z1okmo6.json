@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "H414",
-	"cap": "15078"
+	"cap": [
+		"15078"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "H921",
-	"cap": "47842"
+	"cap": [
+		"47842"
+	]
 }

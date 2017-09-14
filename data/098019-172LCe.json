@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "C816",
-	"cap": "26845"
+	"cap": [
+		"26845"
+	]
 }

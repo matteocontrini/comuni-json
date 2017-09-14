@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "E772",
-	"cap": "42045"
+	"cap": [
+		"42045"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "F648",
-	"cap": "50025"
+	"cap": [
+		"50025"
+	]
 }

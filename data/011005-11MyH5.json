@@ -19,5 +19,7 @@
 	},
 	"sigla": "SP",
 	"codiceCatastale": "A961",
-	"cap": "19011"
+	"cap": [
+		"19011"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "B319",
-	"cap": "88833"
+	"cap": [
+		"88833"
+	]
 }

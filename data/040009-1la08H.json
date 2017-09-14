@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "C777",
-	"cap": "47012"
+	"cap": [
+		"47012"
+	]
 }

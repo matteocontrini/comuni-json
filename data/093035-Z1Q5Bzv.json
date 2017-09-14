@@ -19,5 +19,7 @@
 	},
 	"sigla": "PN",
 	"codiceCatastale": "H010",
-	"cap": "33076"
+	"cap": [
+		"33076"
+	]
 }

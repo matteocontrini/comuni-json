@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I849",
-	"cap": "26015"
+	"cap": [
+		"26015"
+	]
 }

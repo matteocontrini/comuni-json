@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C125",
-	"cap": "84048"
+	"cap": [
+		"84048"
+	]
 }

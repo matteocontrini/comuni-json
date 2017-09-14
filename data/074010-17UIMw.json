@@ -19,5 +19,7 @@
 	},
 	"sigla": "BR",
 	"codiceCatastale": "F152",
-	"cap": "72023"
+	"cap": [
+		"72023"
+	]
 }

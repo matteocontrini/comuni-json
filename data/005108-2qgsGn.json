@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "L168",
-	"cap": "14016"
+	"cap": [
+		"14016"
+	]
 }

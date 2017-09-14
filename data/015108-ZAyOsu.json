@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "E094",
-	"cap": "20064"
+	"cap": [
+		"20064"
+	]
 }

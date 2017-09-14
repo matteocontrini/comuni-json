@@ -19,5 +19,7 @@
 	},
 	"sigla": "MC",
 	"codiceCatastale": "I651",
-	"cap": "62020"
+	"cap": [
+		"62020"
+	]
 }

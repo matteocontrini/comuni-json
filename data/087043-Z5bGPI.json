@@ -19,5 +19,7 @@
 	},
 	"sigla": "CT",
 	"codiceCatastale": "I035",
-	"cap": "95040"
+	"cap": [
+		"95040"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "D538",
-	"cap": "05034"
+	"cap": [
+		"05034"
+	]
 }

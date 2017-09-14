@@ -19,5 +19,7 @@
 	},
 	"sigla": "SI",
 	"codiceCatastale": "L303",
-	"cap": "53049"
+	"cap": [
+		"53049"
+	]
 }

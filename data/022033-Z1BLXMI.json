@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B400",
-	"cap": "38022"
+	"cap": [
+		"38022"
+	]
 }

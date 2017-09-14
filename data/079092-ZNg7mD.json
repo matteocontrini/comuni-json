@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "G439",
-	"cap": "88050"
+	"cap": [
+		"88050"
+	]
 }

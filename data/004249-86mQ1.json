@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "M063",
-	"cap": "12070"
+	"cap": [
+		"12070"
+	]
 }

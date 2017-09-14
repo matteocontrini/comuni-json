@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "A852",
-	"cap": "57020"
+	"cap": [
+		"57020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "A258",
-	"cap": "02012"
+	"cap": [
+		"02012"
+	]
 }

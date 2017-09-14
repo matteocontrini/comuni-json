@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "A351",
-	"cap": "92021"
+	"cap": [
+		"92021"
+	]
 }

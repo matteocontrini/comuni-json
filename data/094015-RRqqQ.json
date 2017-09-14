@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "C620",
-	"cap": "86097"
+	"cap": [
+		"86097"
+	]
 }

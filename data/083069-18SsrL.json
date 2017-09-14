@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "H151",
-	"cap": "98067"
+	"cap": [
+		"98067"
+	]
 }

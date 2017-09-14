@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "E535",
-	"cap": "02016"
+	"cap": [
+		"02016"
+	]
 }

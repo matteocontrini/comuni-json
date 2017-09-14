@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "F836",
-	"cap": "39010"
+	"cap": [
+		"39010"
+	]
 }

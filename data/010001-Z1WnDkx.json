@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "A388",
-	"cap": "16011"
+	"cap": [
+		"16011"
+	]
 }

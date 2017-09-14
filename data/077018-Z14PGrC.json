@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "A942",
-	"cap": "75020"
+	"cap": [
+		"75020"
+	]
 }

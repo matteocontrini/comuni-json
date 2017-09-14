@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "L946",
-	"cap": "54028"
+	"cap": [
+		"54028"
+	]
 }

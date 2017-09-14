@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "F711",
-	"cap": "21040"
+	"cap": [
+		"21040"
+	]
 }

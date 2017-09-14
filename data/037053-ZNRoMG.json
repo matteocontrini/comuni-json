@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "G467",
-	"cap": "40017"
+	"cap": [
+		"40017"
+	]
 }

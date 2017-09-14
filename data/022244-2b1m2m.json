@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M358",
-	"cap": "38094"
+	"cap": [
+		"38094"
+	]
 }

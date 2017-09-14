@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "B578",
-	"cap": "45034"
+	"cap": [
+		"45034"
+	]
 }

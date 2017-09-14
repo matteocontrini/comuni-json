@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "D414",
-	"cap": "85033"
+	"cap": [
+		"85033"
+	]
 }

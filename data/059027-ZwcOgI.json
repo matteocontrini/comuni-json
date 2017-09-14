@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "I634",
-	"cap": "04013"
+	"cap": [
+		"04013"
+	]
 }

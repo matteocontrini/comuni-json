@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "B360",
-	"cap": "38028"
+	"cap": [
+		"38028"
+	]
 }

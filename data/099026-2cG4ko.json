@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "I201",
-	"cap": "47866"
+	"cap": [
+		"47866"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "B564",
-	"cap": "35010"
+	"cap": [
+		"35010"
+	]
 }

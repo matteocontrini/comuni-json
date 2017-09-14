@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "A113",
-	"cap": "12010"
+	"cap": [
+		"12010"
+	]
 }

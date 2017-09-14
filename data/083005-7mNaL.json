@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "A638",
-	"cap": "98051"
+	"cap": [
+		"98051"
+	]
 }

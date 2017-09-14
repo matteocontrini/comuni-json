@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "G947",
-	"cap": "42028"
+	"cap": [
+		"42028"
+	]
 }

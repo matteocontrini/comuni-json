@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "E651",
-	"cap": "26855"
+	"cap": [
+		"26855"
+	]
 }

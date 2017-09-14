@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "D118",
-	"cap": "37010"
+	"cap": [
+		"37010"
+	]
 }

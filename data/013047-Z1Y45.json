@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "B785",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

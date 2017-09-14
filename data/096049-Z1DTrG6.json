@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "G980",
-	"cap": "13899"
+	"cap": [
+		"13899"
+	]
 }

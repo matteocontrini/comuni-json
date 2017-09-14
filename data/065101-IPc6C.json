@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G939",
-	"cap": "84026"
+	"cap": [
+		"84026"
+	]
 }

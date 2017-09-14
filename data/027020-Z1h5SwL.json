@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "E936",
-	"cap": "30020"
+	"cap": [
+		"30020"
+	]
 }

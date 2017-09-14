@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E178",
-	"cap": "38055"
+	"cap": [
+		"38055"
+	]
 }

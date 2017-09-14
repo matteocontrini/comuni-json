@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "F544",
-	"cap": "90040"
+	"cap": [
+		"90040"
+	]
 }

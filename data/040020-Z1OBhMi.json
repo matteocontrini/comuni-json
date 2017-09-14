@@ -19,5 +19,7 @@
 	},
 	"sigla": "FC",
 	"codiceCatastale": "F139",
-	"cap": "47025"
+	"cap": [
+		"47025"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C848",
-	"cap": "31014"
+	"cap": [
+		"31014"
+	]
 }

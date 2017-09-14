@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "F797",
-	"cap": "20835"
+	"cap": [
+		"20835"
+	]
 }

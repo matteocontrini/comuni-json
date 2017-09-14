@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "E409",
-	"cap": "85042"
+	"cap": [
+		"85042"
+	]
 }

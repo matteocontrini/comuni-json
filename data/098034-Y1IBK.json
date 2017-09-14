@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "E840",
-	"cap": "26825"
+	"cap": [
+		"26825"
+	]
 }

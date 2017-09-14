@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "D010",
-	"cap": "85012"
+	"cap": [
+		"85012"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "E858",
-	"cap": "23864"
+	"cap": [
+		"23864"
+	]
 }

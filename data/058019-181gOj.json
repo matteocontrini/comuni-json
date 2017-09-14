@@ -19,5 +19,7 @@
 	},
 	"sigla": "RM",
 	"codiceCatastale": "B687",
-	"cap": "00030"
+	"cap": [
+		"00030"
+	]
 }

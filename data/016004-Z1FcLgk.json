@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "A163",
-	"cap": "24021"
+	"cap": [
+		"24021"
+	]
 }

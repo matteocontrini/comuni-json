@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "B203",
-	"cap": "39051"
+	"cap": [
+		"39051"
+	]
 }

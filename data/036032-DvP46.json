@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "G789",
-	"cap": "41040"
+	"cap": [
+		"41040"
+	]
 }

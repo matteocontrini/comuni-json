@@ -19,5 +19,7 @@
 	},
 	"sigla": "AR",
 	"codiceCatastale": "D649",
-	"cap": "52045"
+	"cap": [
+		"52045"
+	]
 }

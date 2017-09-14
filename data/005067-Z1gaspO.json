@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F323",
-	"cap": "14013"
+	"cap": [
+		"14013"
+	]
 }

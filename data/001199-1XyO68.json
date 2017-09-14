@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "G826",
-	"cap": "10085"
+	"cap": [
+		"10085"
+	]
 }

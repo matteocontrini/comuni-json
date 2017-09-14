@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "B444",
-	"cap": "82018"
+	"cap": [
+		"82018"
+	]
 }

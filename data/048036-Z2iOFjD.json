@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "H286",
-	"cap": "50067"
+	"cap": [
+		"50067"
+	]
 }

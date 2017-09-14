@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "L131",
-	"cap": "90049"
+	"cap": [
+		"90049"
+	]
 }

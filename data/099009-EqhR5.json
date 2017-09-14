@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "F523",
-	"cap": "47837"
+	"cap": [
+		"47837"
+	]
 }

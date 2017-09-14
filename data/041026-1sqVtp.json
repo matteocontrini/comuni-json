@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F136",
-	"cap": "61013"
+	"cap": [
+		"61013"
+	]
 }

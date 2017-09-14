@@ -19,5 +19,7 @@
 	},
 	"sigla": "PG",
 	"codiceCatastale": "D279",
-	"cap": "06053"
+	"cap": [
+		"06053"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "E413",
-	"cap": "56030"
+	"cap": [
+		"56030"
+	]
 }

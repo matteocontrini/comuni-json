@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F533",
-	"cap": "61025"
+	"cap": [
+		"61025"
+	]
 }

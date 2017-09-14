@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "A577",
-	"cap": "01022"
+	"cap": [
+		"01022"
+	]
 }

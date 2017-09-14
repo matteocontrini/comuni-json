@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "D360",
-	"cap": "40060"
+	"cap": [
+		"40060"
+	]
 }

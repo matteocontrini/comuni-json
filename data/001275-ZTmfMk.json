@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L277",
-	"cap": "10066"
+	"cap": [
+		"10066"
+	]
 }

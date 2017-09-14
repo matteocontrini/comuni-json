@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "H717",
-	"cap": "25087"
+	"cap": [
+		"25087"
+	]
 }

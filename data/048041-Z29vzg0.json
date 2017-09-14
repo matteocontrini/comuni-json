@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "B962",
-	"cap": "50018"
+	"cap": [
+		"50018"
+	]
 }

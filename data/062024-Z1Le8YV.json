@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "C719",
-	"cap": "82020"
+	"cap": [
+		"82020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "L420",
-	"cap": "13038"
+	"cap": [
+		"13038"
+	]
 }

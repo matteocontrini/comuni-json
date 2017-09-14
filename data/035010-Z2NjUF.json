@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "B502",
-	"cap": "42040"
+	"cap": [
+		"42040"
+	]
 }

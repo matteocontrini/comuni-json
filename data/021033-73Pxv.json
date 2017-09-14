@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D821",
-	"cap": "39040"
+	"cap": [
+		"39040"
+	]
 }

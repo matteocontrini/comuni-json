@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "H117",
-	"cap": "30020"
+	"cap": [
+		"30020"
+	]
 }

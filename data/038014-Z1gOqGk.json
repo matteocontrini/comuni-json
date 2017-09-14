@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "F156",
-	"cap": "44026"
+	"cap": [
+		"44026"
+	]
 }

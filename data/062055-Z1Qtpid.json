@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "H087",
-	"cap": "82030"
+	"cap": [
+		"82030"
+	]
 }

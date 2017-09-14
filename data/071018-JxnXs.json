@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "C429",
-	"cap": "71035"
+	"cap": [
+		"71035"
+	]
 }

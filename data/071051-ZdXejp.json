@@ -19,5 +19,7 @@
 	},
 	"sigla": "FG",
 	"codiceCatastale": "I158",
-	"cap": "71016"
+	"cap": [
+		"71016"
+	]
 }

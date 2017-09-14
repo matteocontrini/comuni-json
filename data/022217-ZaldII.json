@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "L893",
-	"cap": "38039"
+	"cap": [
+		"38039"
+	]
 }

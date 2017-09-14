@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "F474",
-	"cap": "61024"
+	"cap": [
+		"61024"
+	]
 }

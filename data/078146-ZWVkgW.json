@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "L124",
-	"cap": "87010"
+	"cap": [
+		"87010"
+	]
 }

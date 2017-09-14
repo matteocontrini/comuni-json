@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "G195",
-	"cap": "29026"
+	"cap": [
+		"29026"
+	]
 }

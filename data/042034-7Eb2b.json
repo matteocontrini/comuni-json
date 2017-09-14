@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "G157",
-	"cap": "60027"
+	"cap": [
+		"60027"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "A374",
-	"cap": "37040"
+	"cap": [
+		"37040"
+	]
 }

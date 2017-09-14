@@ -19,5 +19,7 @@
 	},
 	"sigla": "PZ",
 	"codiceCatastale": "I610",
-	"cap": "85038"
+	"cap": [
+		"85038"
+	]
 }

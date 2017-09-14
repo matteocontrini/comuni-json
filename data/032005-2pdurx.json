@@ -19,5 +19,7 @@
 	},
 	"sigla": "TS",
 	"codiceCatastale": "I715",
-	"cap": "34010"
+	"cap": [
+		"34010"
+	]
 }

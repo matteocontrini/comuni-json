@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "A616",
-	"cap": "86011"
+	"cap": [
+		"86011"
+	]
 }

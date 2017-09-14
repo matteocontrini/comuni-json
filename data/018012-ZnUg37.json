@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "A718",
-	"cap": "27020"
+	"cap": [
+		"27020"
+	]
 }

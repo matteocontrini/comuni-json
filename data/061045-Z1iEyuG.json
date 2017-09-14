@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "E570",
-	"cap": "81040"
+	"cap": [
+		"81040"
+	]
 }

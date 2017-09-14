@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "I348",
-	"cap": "64027"
+	"cap": [
+		"64027"
+	]
 }

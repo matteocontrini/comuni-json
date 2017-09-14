@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "B227",
-	"cap": "80031"
+	"cap": [
+		"80031"
+	]
 }

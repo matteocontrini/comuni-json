@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "A338",
-	"cap": "18035"
+	"cap": [
+		"18035"
+	]
 }

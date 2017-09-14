@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E951",
-	"cap": "22066"
+	"cap": [
+		"22066"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "H336",
-	"cap": "27055"
+	"cap": [
+		"27055"
+	]
 }

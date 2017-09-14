@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "G193",
-	"cap": "15038"
+	"cap": [
+		"15038"
+	]
 }

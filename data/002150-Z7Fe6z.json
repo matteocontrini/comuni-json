@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "L451",
-	"cap": "13049"
+	"cap": [
+		"13049"
+	]
 }

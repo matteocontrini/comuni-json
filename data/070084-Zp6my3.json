@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "M057",
-	"cap": "86019"
+	"cap": [
+		"86019"
+	]
 }

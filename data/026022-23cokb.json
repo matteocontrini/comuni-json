@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "C992",
-	"cap": "31016"
+	"cap": [
+		"31016"
+	]
 }

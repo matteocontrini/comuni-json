@@ -19,5 +19,7 @@
 	},
 	"sigla": "RO",
 	"codiceCatastale": "G782",
-	"cap": "45038"
+	"cap": [
+		"45038"
+	]
 }

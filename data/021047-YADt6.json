@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "E938",
-	"cap": "39030"
+	"cap": [
+		"39030"
+	]
 }

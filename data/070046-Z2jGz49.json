@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "F576",
-	"cap": "86036"
+	"cap": [
+		"86036"
+	]
 }

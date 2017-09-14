@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "D615",
-	"cap": "84084"
+	"cap": [
+		"84084"
+	]
 }

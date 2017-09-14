@@ -19,5 +19,7 @@
 	},
 	"sigla": "VV",
 	"codiceCatastale": "B169",
-	"cap": "89817"
+	"cap": [
+		"89817"
+	]
 }

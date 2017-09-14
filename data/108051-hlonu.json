@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "B289",
-	"cap": "20874"
+	"cap": [
+		"20874"
+	]
 }

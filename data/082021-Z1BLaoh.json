@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "B780",
-	"cap": "90044"
+	"cap": [
+		"90044"
+	]
 }

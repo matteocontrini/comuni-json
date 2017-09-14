@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I906",
-	"cap": "26020"
+	"cap": [
+		"26020"
+	]
 }

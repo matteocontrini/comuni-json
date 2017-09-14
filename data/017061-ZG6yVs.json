@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "C948",
-	"cap": "25062"
+	"cap": [
+		"25062"
+	]
 }

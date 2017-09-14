@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "E692",
-	"cap": "31037"
+	"cap": [
+		"31037"
+	]
 }

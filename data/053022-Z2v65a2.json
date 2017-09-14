@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "I187",
-	"cap": "58037"
+	"cap": [
+		"58037"
+	]
 }

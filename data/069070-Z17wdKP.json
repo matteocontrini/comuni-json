@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "H098",
-	"cap": "66040"
+	"cap": [
+		"66040"
+	]
 }

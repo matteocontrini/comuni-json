@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "L075",
-	"cap": "13811"
+	"cap": [
+		"13811"
+	]
 }

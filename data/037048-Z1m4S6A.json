@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "G643",
-	"cap": "40066"
+	"cap": [
+		"40066"
+	]
 }

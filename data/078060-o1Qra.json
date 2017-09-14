@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "E185",
-	"cap": "87020"
+	"cap": [
+		"87020"
+	]
 }

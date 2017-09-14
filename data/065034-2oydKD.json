@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "C259",
-	"cap": "84083"
+	"cap": [
+		"84083"
+	]
 }

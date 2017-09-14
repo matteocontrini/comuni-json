@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "G379",
-	"cap": "09090"
+	"cap": [
+		"09090"
+	]
 }

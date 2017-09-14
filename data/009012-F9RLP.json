@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "A999",
-	"cap": "17052"
+	"cap": [
+		"17052"
+	]
 }

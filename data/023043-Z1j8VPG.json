@@ -19,5 +19,7 @@
 	},
 	"sigla": "VR",
 	"codiceCatastale": "E502",
-	"cap": "37017"
+	"cap": [
+		"37017"
+	]
 }

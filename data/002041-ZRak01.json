@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "C548",
-	"cap": "13025"
+	"cap": [
+		"13025"
+	]
 }

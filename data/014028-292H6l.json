@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "D456",
-	"cap": "23020"
+	"cap": [
+		"23020"
+	]
 }

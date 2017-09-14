@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "F706",
-	"cap": "40036"
+	"cap": [
+		"40036"
+	]
 }

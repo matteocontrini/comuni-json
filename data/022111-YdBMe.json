@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E866",
-	"cap": "38013"
+	"cap": [
+		"38013"
+	]
 }

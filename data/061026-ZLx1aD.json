@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "C211",
-	"cap": "81020"
+	"cap": [
+		"81020"
+	]
 }

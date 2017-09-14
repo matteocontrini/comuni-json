@@ -19,5 +19,7 @@
 	},
 	"sigla": "PO",
 	"codiceCatastale": "L537",
-	"cap": "59021"
+	"cap": [
+		"59021"
+	]
 }

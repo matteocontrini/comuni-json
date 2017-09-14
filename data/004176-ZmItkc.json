@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "H068",
-	"cap": "12040"
+	"cap": [
+		"12040"
+	]
 }

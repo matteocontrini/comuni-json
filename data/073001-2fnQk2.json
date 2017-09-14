@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "A514",
-	"cap": "74020"
+	"cap": [
+		"74020"
+	]
 }

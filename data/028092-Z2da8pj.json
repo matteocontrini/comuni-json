@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "L270",
-	"cap": "35038"
+	"cap": [
+		"35038"
+	]
 }

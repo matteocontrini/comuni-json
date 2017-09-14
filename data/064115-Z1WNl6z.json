@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L616",
-	"cap": "83050"
+	"cap": [
+		"83050"
+	]
 }

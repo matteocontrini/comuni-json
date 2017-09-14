@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "G318",
-	"cap": "82011"
+	"cap": [
+		"82011"
+	]
 }

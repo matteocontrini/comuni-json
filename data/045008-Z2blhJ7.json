@@ -19,5 +19,7 @@
 	},
 	"sigla": "MS",
 	"codiceCatastale": "D735",
-	"cap": "54035"
+	"cap": [
+		"54035"
+	]
 }

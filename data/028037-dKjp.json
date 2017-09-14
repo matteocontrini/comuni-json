@@ -19,5 +19,7 @@
 	},
 	"sigla": "PD",
 	"codiceCatastale": "D442",
-	"cap": "35042"
+	"cap": [
+		"35042"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "D870",
-	"cap": "01035"
+	"cap": [
+		"01035"
+	]
 }

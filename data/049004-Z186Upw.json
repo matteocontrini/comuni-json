@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "B669",
-	"cap": "57031"
+	"cap": [
+		"57031"
+	]
 }

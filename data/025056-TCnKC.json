@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I866",
-	"cap": "32037"
+	"cap": [
+		"32037"
+	]
 }

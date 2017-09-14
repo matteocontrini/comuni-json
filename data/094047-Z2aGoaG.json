@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "B466",
-	"cap": "86095"
+	"cap": [
+		"86095"
+	]
 }

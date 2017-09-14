@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "F266",
-	"cap": "33015"
+	"cap": [
+		"33015"
+	]
 }

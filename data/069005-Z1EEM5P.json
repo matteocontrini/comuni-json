@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "A485",
-	"cap": "66041"
+	"cap": [
+		"66041"
+	]
 }

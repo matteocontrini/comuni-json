@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "F254",
-	"cap": "14050"
+	"cap": [
+		"14050"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AG",
 	"codiceCatastale": "A089",
-	"cap": "92100"
+	"cap": [
+		"92100"
+	]
 }

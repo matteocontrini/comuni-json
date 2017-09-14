@@ -19,5 +19,7 @@
 	},
 	"sigla": "VT",
 	"codiceCatastale": "C765",
-	"cap": "01033"
+	"cap": [
+		"01033"
+	]
 }

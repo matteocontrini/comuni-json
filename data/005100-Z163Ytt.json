@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I017",
-	"cap": "14050"
+	"cap": [
+		"14050"
+	]
 }

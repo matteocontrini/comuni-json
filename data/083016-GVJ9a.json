@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "C347",
-	"cap": "98053"
+	"cap": [
+		"98053"
+	]
 }

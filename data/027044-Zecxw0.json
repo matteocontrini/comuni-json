@@ -19,5 +19,7 @@
 	},
 	"sigla": "VE",
 	"codiceCatastale": "M308",
-	"cap": "30013"
+	"cap": [
+		"30013"
+	]
 }

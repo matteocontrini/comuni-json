@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "E213",
-	"cap": "75010"
+	"cap": [
+		"75010"
+	]
 }

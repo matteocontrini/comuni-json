@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "E753",
-	"cap": "22075"
+	"cap": [
+		"22075"
+	]
 }

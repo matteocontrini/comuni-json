@@ -19,5 +19,7 @@
 	},
 	"sigla": "MI",
 	"codiceCatastale": "F968",
-	"cap": "20082"
+	"cap": [
+		"20082"
+	]
 }

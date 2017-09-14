@@ -19,5 +19,7 @@
 	},
 	"sigla": "CA",
 	"codiceCatastale": "F383",
-	"cap": "09042"
+	"cap": [
+		"09042"
+	]
 }

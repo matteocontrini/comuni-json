@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C393",
-	"cap": "38073"
+	"cap": [
+		"38073"
+	]
 }

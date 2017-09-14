@@ -19,5 +19,7 @@
 	},
 	"sigla": "IS",
 	"codiceCatastale": "G497",
-	"cap": "86080"
+	"cap": [
+		"86080"
+	]
 }

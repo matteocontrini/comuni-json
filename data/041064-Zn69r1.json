@@ -19,5 +19,7 @@
 	},
 	"sigla": "PU",
 	"codiceCatastale": "L078",
-	"cap": "61020"
+	"cap": [
+		"61020"
+	]
 }

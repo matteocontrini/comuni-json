@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "M368",
-	"cap": "47854"
+	"cap": [
+		"47854"
+	]
 }

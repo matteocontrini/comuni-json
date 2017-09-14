@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "C839",
-	"cap": "23823"
+	"cap": [
+		"23823"
+	]
 }

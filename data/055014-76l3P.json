@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "E045",
-	"cap": "05024"
+	"cap": [
+		"05024"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "I088",
-	"cap": "32040"
+	"cap": [
+		"32040"
+	]
 }

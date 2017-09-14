@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "A312",
-	"cap": "14010"
+	"cap": [
+		"14010"
+	]
 }

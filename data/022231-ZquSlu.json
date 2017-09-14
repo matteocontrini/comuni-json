@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "M345",
-	"cap": "38078"
+	"cap": [
+		"38078"
+	]
 }

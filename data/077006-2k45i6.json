@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "C888",
-	"cap": "75021"
+	"cap": [
+		"75021"
+	]
 }

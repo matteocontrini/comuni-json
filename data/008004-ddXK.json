@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "A418",
-	"cap": "18026"
+	"cap": [
+		"18026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "G015",
-	"cap": "07026"
+	"cap": [
+		"07026"
+	]
 }

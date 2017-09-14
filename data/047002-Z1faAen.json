@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "A071",
-	"cap": "51031"
+	"cap": [
+		"51031"
+	]
 }

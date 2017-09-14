@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "F258",
-	"cap": "97015"
+	"cap": [
+		"97015"
+	]
 }

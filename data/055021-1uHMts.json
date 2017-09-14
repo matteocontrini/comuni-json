@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "F543",
-	"cap": "05017"
+	"cap": [
+		"05017"
+	]
 }

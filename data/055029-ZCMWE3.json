@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "H857",
-	"cap": "05029"
+	"cap": [
+		"05029"
+	]
 }

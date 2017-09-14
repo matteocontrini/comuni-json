@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "C588",
-	"cap": "87022"
+	"cap": [
+		"87022"
+	]
 }

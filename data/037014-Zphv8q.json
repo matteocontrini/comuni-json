@@ -19,5 +19,7 @@
 	},
 	"sigla": "BO",
 	"codiceCatastale": "C086",
-	"cap": "40022"
+	"cap": [
+		"40022"
+	]
 }

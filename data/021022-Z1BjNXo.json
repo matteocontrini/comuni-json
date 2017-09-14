@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "C652",
-	"cap": "39043"
+	"cap": [
+		"39043"
+	]
 }

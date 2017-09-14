@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "G186",
-	"cap": "46035"
+	"cap": [
+		"46035"
+	]
 }

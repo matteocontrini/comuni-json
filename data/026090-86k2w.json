@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "L856",
-	"cap": "31020"
+	"cap": [
+		"31020"
+	]
 }

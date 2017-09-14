@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "I820",
-	"cap": "80049"
+	"cap": [
+		"80049"
+	]
 }

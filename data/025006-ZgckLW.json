@@ -19,5 +19,7 @@
 	},
 	"sigla": "BL",
 	"codiceCatastale": "A757",
-	"cap": "32100"
+	"cap": [
+		"32100"
+	]
 }

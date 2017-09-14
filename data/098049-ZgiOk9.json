@@ -19,5 +19,7 @@
 	},
 	"sigla": "LO",
 	"codiceCatastale": "I140",
-	"cap": "26865"
+	"cap": [
+		"26865"
+	]
 }

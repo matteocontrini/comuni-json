@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "D221",
-	"cap": "24035"
+	"cap": [
+		"24035"
+	]
 }

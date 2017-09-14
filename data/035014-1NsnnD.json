@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "C141",
-	"cap": "42014"
+	"cap": [
+		"42014"
+	]
 }

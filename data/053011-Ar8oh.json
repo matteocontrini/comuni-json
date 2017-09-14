@@ -19,5 +19,7 @@
 	},
 	"sigla": "GR",
 	"codiceCatastale": "E202",
-	"cap": "58100"
+	"cap": [
+		"58100"
+	]
 }

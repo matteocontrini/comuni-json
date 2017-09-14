@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "I324",
-	"cap": "63811"
+	"cap": [
+		"63811"
+	]
 }

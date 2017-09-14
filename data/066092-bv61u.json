@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "I389",
-	"cap": "67050"
+	"cap": [
+		"67050"
+	]
 }

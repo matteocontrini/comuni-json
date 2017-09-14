@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G890",
-	"cap": "18024"
+	"cap": [
+		"18024"
+	]
 }

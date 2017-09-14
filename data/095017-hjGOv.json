@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "B281",
-	"cap": "09082"
+	"cap": [
+		"09082"
+	]
 }

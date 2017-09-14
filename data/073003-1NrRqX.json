@@ -19,5 +19,7 @@
 	},
 	"sigla": "TA",
 	"codiceCatastale": "C136",
-	"cap": "74011"
+	"cap": [
+		"74011"
+	]
 }

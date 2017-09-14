@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "E762",
-	"cap": "36046"
+	"cap": [
+		"36046"
+	]
 }

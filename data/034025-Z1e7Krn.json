@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "F914",
-	"cap": "43015"
+	"cap": [
+		"43015"
+	]
 }

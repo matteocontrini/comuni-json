@@ -19,5 +19,7 @@
 	},
 	"sigla": "CZ",
 	"codiceCatastale": "D257",
-	"cap": "88060"
+	"cap": [
+		"88060"
+	]
 }

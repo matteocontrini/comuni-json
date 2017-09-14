@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "L570",
-	"cap": "15048"
+	"cap": [
+		"15048"
+	]
 }

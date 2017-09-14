@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "B395",
-	"cap": "24054"
+	"cap": [
+		"24054"
+	]
 }

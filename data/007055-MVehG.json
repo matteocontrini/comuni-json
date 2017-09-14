@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "H262",
-	"cap": "11010"
+	"cap": [
+		"11010"
+	]
 }

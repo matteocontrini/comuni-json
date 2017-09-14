@@ -19,5 +19,7 @@
 	},
 	"sigla": "LT",
 	"codiceCatastale": "H413",
-	"cap": "04010"
+	"cap": [
+		"04010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "C494",
-	"cap": "33020"
+	"cap": [
+		"33020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "C712",
-	"cap": "38050"
+	"cap": [
+		"38050"
+	]
 }

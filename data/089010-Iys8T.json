@@ -19,5 +19,7 @@
 	},
 	"sigla": "SR",
 	"codiceCatastale": "D768",
-	"cap": "96015"
+	"cap": [
+		"96015"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PR",
 	"codiceCatastale": "L346",
-	"cap": "43029"
+	"cap": [
+		"43029"
+	]
 }

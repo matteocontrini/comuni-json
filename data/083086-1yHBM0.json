@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I220",
-	"cap": "98046"
+	"cap": [
+		"98046"
+	]
 }

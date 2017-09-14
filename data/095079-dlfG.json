@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "B068",
-	"cap": "08013"
+	"cap": [
+		"08013"
+	]
 }

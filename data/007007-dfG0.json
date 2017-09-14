@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "A094",
-	"cap": "11020"
+	"cap": [
+		"11020"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TE",
 	"codiceCatastale": "L103",
-	"cap": "64100"
+	"cap": [
+		"64100"
+	]
 }

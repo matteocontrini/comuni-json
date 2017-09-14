@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "D883",
-	"cap": "73014"
+	"cap": [
+		"73014"
+	]
 }

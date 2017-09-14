@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "H061",
-	"cap": "41048"
+	"cap": [
+		"41048"
+	]
 }

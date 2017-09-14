@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "I312",
-	"cap": "07028"
+	"cap": [
+		"07028"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PI",
 	"codiceCatastale": "B303",
-	"cap": "56032"
+	"cap": [
+		"56032"
+	]
 }

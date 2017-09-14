@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "G113",
-	"cap": "09170"
+	"cap": [
+		"09170"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "D208",
-	"cap": "10082"
+	"cap": [
+		"10082"
+	]
 }

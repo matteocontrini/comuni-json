@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "D946",
-	"cap": "21026"
+	"cap": [
+		"21026"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "I693",
-	"cap": "16039"
+	"cap": [
+		"16039"
+	]
 }

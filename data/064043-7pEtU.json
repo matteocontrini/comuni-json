@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "E487",
-	"cap": "83023"
+	"cap": [
+		"83023"
+	]
 }

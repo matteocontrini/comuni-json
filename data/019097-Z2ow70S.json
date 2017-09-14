@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "I827",
-	"cap": "26029"
+	"cap": [
+		"26029"
+	]
 }

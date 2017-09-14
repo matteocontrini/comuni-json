@@ -19,5 +19,7 @@
 	},
 	"sigla": "GE",
 	"codiceCatastale": "H073",
-	"cap": "16027"
+	"cap": [
+		"16027"
+	]
 }

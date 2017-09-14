@@ -19,5 +19,7 @@
 	},
 	"sigla": "RI",
 	"codiceCatastale": "G513",
-	"cap": "02025"
+	"cap": [
+		"02025"
+	]
 }

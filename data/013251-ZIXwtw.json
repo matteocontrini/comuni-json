@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "M336",
-	"cap": "22041"
+	"cap": [
+		"22041"
+	]
 }

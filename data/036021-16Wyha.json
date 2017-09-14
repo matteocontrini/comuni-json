@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "F087",
-	"cap": "41036"
+	"cap": [
+		"41036"
+	]
 }

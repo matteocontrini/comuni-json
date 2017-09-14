@@ -19,5 +19,7 @@
 	},
 	"sigla": "RC",
 	"codiceCatastale": "C285",
-	"cap": "89041"
+	"cap": [
+		"89041"
+	]
 }

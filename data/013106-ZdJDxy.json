@@ -19,5 +19,7 @@
 	},
 	"sigla": "CO",
 	"codiceCatastale": "D930",
-	"cap": "22010"
+	"cap": [
+		"22010"
+	]
 }

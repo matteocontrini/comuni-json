@@ -19,5 +19,7 @@
 	},
 	"sigla": "CS",
 	"codiceCatastale": "H981",
-	"cap": "87018"
+	"cap": [
+		"87018"
+	]
 }

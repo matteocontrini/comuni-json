@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "B111",
-	"cap": "12042"
+	"cap": [
+		"12042"
+	]
 }

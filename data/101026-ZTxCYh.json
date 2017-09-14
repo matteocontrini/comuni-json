@@ -19,5 +19,7 @@
 	},
 	"sigla": "KR",
 	"codiceCatastale": "L492",
-	"cap": "88823"
+	"cap": [
+		"88823"
+	]
 }

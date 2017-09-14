@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "I213",
-	"cap": "27016"
+	"cap": [
+		"27016"
+	]
 }

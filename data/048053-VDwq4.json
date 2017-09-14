@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "M326",
-	"cap": "50038"
+	"cap": [
+		"50038"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "L238",
-	"cap": "10037"
+	"cap": [
+		"10037"
+	]
 }

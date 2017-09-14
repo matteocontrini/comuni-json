@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "B872",
-	"cap": "81033"
+	"cap": [
+		"81033"
+	]
 }

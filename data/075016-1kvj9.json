@@ -19,5 +19,7 @@
 	},
 	"sigla": "LE",
 	"codiceCatastale": "B936",
-	"cap": "73042"
+	"cap": [
+		"73042"
+	]
 }

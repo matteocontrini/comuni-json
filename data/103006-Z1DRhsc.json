@@ -19,5 +19,7 @@
 	},
 	"sigla": "VB",
 	"codiceCatastale": "A534",
-	"cap": "28861"
+	"cap": [
+		"28861"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PV",
 	"codiceCatastale": "L285",
-	"cap": "27010"
+	"cap": [
+		"27010"
+	]
 }

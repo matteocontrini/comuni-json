@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "G250",
-	"cap": "41046"
+	"cap": [
+		"41046"
+	]
 }

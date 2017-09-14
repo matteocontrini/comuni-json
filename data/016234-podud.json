@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "L795",
-	"cap": "24029"
+	"cap": [
+		"24029"
+	]
 }

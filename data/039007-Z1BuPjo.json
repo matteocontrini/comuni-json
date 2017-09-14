@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "C553",
-	"cap": "48015"
+	"cap": [
+		"48015"
+	]
 }

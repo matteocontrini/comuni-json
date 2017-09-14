@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "E599",
-	"cap": "86022"
+	"cap": [
+		"86022"
+	]
 }

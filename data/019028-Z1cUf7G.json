@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "C435",
-	"cap": "26040"
+	"cap": [
+		"26040"
+	]
 }

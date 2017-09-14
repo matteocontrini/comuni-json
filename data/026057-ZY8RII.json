@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "G645",
-	"cap": "31053"
+	"cap": [
+		"31053"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "A207",
-	"cap": "05011"
+	"cap": [
+		"05011"
+	]
 }

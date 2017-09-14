@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "L164",
-	"cap": "26020"
+	"cap": [
+		"26020"
+	]
 }

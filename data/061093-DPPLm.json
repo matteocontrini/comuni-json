@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "L205",
-	"cap": "81044"
+	"cap": [
+		"81044"
+	]
 }

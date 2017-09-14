@@ -19,5 +19,7 @@
 	},
 	"sigla": "OR",
 	"codiceCatastale": "I605",
-	"cap": "09070"
+	"cap": [
+		"09070"
+	]
 }

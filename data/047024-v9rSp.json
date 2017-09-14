@@ -19,5 +19,7 @@
 	},
 	"sigla": "PT",
 	"codiceCatastale": "M377",
-	"cap": "51028"
+	"cap": [
+		"51028"
+	]
 }

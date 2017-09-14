@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "D810",
-	"cap": "03100"
+	"cap": [
+		"03100"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "VI",
 	"codiceCatastale": "A444",
-	"cap": "36011"
+	"cap": [
+		"36011"
+	]
 }

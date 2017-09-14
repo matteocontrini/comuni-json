@@ -19,5 +19,7 @@
 	},
 	"sigla": "MN",
 	"codiceCatastale": "B612",
-	"cap": "46013"
+	"cap": [
+		"46013"
+	]
 }

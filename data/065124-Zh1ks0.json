@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I032",
-	"cap": "84070"
+	"cap": [
+		"84070"
+	]
 }

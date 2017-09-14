@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "B865",
-	"cap": "66021"
+	"cap": [
+		"66021"
+	]
 }

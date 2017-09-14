@@ -19,5 +19,7 @@
 	},
 	"sigla": "AQ",
 	"codiceCatastale": "C096",
-	"cap": "67031"
+	"cap": [
+		"67031"
+	]
 }

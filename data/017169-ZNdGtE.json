@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "H699",
-	"cap": "25057"
+	"cap": [
+		"25057"
+	]
 }

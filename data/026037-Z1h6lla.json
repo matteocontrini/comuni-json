@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "E893",
-	"cap": "31040"
+	"cap": [
+		"31040"
+	]
 }

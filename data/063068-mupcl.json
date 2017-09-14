@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "H931",
-	"cap": "80047"
+	"cap": [
+		"80047"
+	]
 }

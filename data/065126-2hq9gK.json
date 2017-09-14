@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "I143",
-	"cap": "84030"
+	"cap": [
+		"84030"
+	]
 }

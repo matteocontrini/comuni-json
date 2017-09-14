@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L428",
-	"cap": "07038"
+	"cap": [
+		"07038"
+	]
 }

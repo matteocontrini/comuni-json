@@ -19,5 +19,7 @@
 	},
 	"sigla": "VA",
 	"codiceCatastale": "E496",
-	"cap": "21014"
+	"cap": [
+		"21014"
+	]
 }

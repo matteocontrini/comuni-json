@@ -19,5 +19,7 @@
 	},
 	"sigla": "MT",
 	"codiceCatastale": "M256",
-	"cap": "75020"
+	"cap": [
+		"75020"
+	]
 }

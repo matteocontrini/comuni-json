@@ -19,5 +19,7 @@
 	},
 	"sigla": "BS",
 	"codiceCatastale": "E738",
-	"cap": "25065"
+	"cap": [
+		"25065"
+	]
 }

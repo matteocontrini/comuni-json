@@ -19,5 +19,7 @@
 	},
 	"sigla": "NO",
 	"codiceCatastale": "G134",
-	"cap": "28016"
+	"cap": [
+		"28016"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CE",
 	"codiceCatastale": "H798",
-	"cap": "81036"
+	"cap": [
+		"81036"
+	]
 }

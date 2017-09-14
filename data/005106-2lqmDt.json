@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "I698",
-	"cap": "14020"
+	"cap": [
+		"14020"
+	]
 }

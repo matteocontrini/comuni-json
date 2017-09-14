@@ -19,5 +19,7 @@
 	},
 	"sigla": "CN",
 	"codiceCatastale": "D523",
-	"cap": "12050"
+	"cap": [
+		"12050"
+	]
 }

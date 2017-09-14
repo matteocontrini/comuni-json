@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "A668",
-	"cap": "20825"
+	"cap": [
+		"20825"
+	]
 }

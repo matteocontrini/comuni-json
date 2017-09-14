@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "D424",
-	"cap": "17030"
+	"cap": [
+		"17030"
+	]
 }

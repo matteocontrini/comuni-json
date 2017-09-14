@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "E161",
-	"cap": "83030"
+	"cap": [
+		"83030"
+	]
 }

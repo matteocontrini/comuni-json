@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "B242",
-	"cap": "84021"
+	"cap": [
+		"84021"
+	]
 }

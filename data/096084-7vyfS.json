@@ -19,5 +19,7 @@
 	},
 	"sigla": "BI",
 	"codiceCatastale": "M304",
-	"cap": "13822"
+	"cap": [
+		"13822"
+	]
 }

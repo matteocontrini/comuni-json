@@ -19,5 +19,7 @@
 	},
 	"sigla": "SO",
 	"codiceCatastale": "L175",
-	"cap": "23037"
+	"cap": [
+		"23037"
+	]
 }

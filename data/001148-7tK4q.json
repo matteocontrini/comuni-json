@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "F067",
-	"cap": "10035"
+	"cap": [
+		"10035"
+	]
 }

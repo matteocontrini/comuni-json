@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "E664",
-	"cap": "38040"
+	"cap": [
+		"38040"
+	]
 }

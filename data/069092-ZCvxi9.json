@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "L224",
-	"cap": "66046"
+	"cap": [
+		"66046"
+	]
 }

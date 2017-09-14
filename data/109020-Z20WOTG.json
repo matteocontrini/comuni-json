@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "F549",
-	"cap": "63853"
+	"cap": [
+		"63853"
+	]
 }

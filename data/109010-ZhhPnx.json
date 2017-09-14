@@ -19,5 +19,7 @@
 	},
 	"sigla": "FM",
 	"codiceCatastale": "E807",
-	"cap": "63832"
+	"cap": [
+		"63832"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "A398",
-	"cap": "66010"
+	"cap": [
+		"66010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "LI",
 	"codiceCatastale": "G687",
-	"cap": "57025"
+	"cap": [
+		"57025"
+	]
 }

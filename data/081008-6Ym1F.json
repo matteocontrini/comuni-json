@@ -19,5 +19,7 @@
 	},
 	"sigla": "TP",
 	"codiceCatastale": "D423",
-	"cap": "91016"
+	"cap": [
+		"91016"
+	]
 }

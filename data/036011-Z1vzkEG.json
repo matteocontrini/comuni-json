@@ -19,5 +19,7 @@
 	},
 	"sigla": "MO",
 	"codiceCatastale": "D486",
-	"cap": "41021"
+	"cap": [
+		"41021"
+	]
 }

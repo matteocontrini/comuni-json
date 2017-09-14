@@ -19,5 +19,7 @@
 	},
 	"sigla": "AN",
 	"codiceCatastale": "I461",
-	"cap": "60041"
+	"cap": [
+		"60041"
+	]
 }

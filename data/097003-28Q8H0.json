@@ -19,5 +19,7 @@
 	},
 	"sigla": "LC",
 	"codiceCatastale": "A301",
-	"cap": "23841"
+	"cap": [
+		"23841"
+	]
 }

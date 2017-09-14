@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "E142",
-	"cap": "98036"
+	"cap": [
+		"98036"
+	]
 }

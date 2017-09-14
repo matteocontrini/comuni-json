@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "D392",
-	"cap": "39044"
+	"cap": [
+		"39044"
+	]
 }

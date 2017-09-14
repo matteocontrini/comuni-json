@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "B349",
-	"cap": "31031"
+	"cap": [
+		"31031"
+	]
 }

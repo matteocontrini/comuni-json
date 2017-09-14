@@ -19,5 +19,7 @@
 	},
 	"sigla": "RG",
 	"codiceCatastale": "M088",
-	"cap": "97019"
+	"cap": [
+		"97019"
+	]
 }

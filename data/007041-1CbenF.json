@@ -19,5 +19,7 @@
 	},
 	"sigla": "AO",
 	"codiceCatastale": "E470",
-	"cap": "11016"
+	"cap": [
+		"11016"
+	]
 }

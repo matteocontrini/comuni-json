@@ -19,5 +19,7 @@
 	},
 	"sigla": "BG",
 	"codiceCatastale": "C337",
-	"cap": "24063"
+	"cap": [
+		"24063"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "H390",
-	"cap": "63093"
+	"cap": [
+		"63093"
+	]
 }

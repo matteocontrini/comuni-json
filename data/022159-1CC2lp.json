@@ -19,5 +19,7 @@
 	},
 	"sigla": "TN",
 	"codiceCatastale": "H552",
-	"cap": "38010"
+	"cap": [
+		"38010"
+	]
 }

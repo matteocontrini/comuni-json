@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "M302",
-	"cap": "14026"
+	"cap": [
+		"14026"
+	]
 }

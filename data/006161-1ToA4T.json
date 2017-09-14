@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "I711",
-	"cap": "15079"
+	"cap": [
+		"15079"
+	]
 }

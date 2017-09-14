@@ -19,5 +19,7 @@
 	},
 	"sigla": "NA",
 	"codiceCatastale": "A455",
-	"cap": "80022"
+	"cap": [
+		"80022"
+	]
 }

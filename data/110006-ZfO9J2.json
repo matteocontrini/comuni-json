@@ -19,5 +19,7 @@
 	},
 	"sigla": "BT",
 	"codiceCatastale": "F220",
-	"cap": "76013"
+	"cap": [
+		"76013"
+	]
 }

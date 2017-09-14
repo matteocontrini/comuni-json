@@ -19,5 +19,7 @@
 	},
 	"sigla": "TV",
 	"codiceCatastale": "I578",
-	"cap": "31040"
+	"cap": [
+		"31040"
+	]
 }

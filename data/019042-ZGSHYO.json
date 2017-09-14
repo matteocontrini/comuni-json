@@ -19,5 +19,7 @@
 	},
 	"sigla": "CR",
 	"codiceCatastale": "D370",
-	"cap": "26034"
+	"cap": [
+		"26034"
+	]
 }

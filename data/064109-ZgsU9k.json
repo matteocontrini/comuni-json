@@ -19,5 +19,7 @@
 	},
 	"sigla": "AV",
 	"codiceCatastale": "L214",
-	"cap": "83057"
+	"cap": [
+		"83057"
+	]
 }

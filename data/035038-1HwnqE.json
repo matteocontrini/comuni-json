@@ -19,5 +19,7 @@
 	},
 	"sigla": "RE",
 	"codiceCatastale": "I123",
-	"cap": "42020"
+	"cap": [
+		"42020"
+	]
 }

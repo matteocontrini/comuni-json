@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "G848",
-	"cap": "82027"
+	"cap": [
+		"82027"
+	]
 }

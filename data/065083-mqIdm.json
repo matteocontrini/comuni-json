@@ -19,5 +19,7 @@
 	},
 	"sigla": "SA",
 	"codiceCatastale": "G039",
-	"cap": "84020"
+	"cap": [
+		"84020"
+	]
 }

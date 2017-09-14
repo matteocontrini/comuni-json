@@ -19,5 +19,7 @@
 	},
 	"sigla": "FE",
 	"codiceCatastale": "G768",
-	"cap": "44028"
+	"cap": [
+		"44028"
+	]
 }

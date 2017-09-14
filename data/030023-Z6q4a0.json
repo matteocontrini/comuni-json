@@ -19,5 +19,7 @@
 	},
 	"sigla": "UD",
 	"codiceCatastale": "C556",
-	"cap": "33052"
+	"cap": [
+		"33052"
+	]
 }

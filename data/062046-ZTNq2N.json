@@ -19,5 +19,7 @@
 	},
 	"sigla": "BN",
 	"codiceCatastale": "G243",
-	"cap": "82020"
+	"cap": [
+		"82020"
+	]
 }

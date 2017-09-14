@@ -19,5 +19,7 @@
 	},
 	"sigla": "RA",
 	"codiceCatastale": "E730",
-	"cap": "48022"
+	"cap": [
+		"48022"
+	]
 }

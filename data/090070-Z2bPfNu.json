@@ -19,5 +19,7 @@
 	},
 	"sigla": "SS",
 	"codiceCatastale": "L093",
-	"cap": "07029"
+	"cap": [
+		"07029"
+	]
 }

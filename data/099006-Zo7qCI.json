@@ -19,5 +19,7 @@
 	},
 	"sigla": "RN",
 	"codiceCatastale": "F346",
-	"cap": "47836"
+	"cap": [
+		"47836"
+	]
 }

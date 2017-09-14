@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "G910",
-	"cap": "86045"
+	"cap": [
+		"86045"
+	]
 }

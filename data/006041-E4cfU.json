@@ -19,5 +19,7 @@
 	},
 	"sigla": "AL",
 	"codiceCatastale": "B941",
-	"cap": "15050"
+	"cap": [
+		"15050"
+	]
 }

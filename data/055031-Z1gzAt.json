@@ -19,5 +19,7 @@
 	},
 	"sigla": "TR",
 	"codiceCatastale": "I981",
-	"cap": "05039"
+	"cap": [
+		"05039"
+	]
 }

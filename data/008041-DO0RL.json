@@ -19,5 +19,7 @@
 	},
 	"sigla": "IM",
 	"codiceCatastale": "G607",
-	"cap": "18010"
+	"cap": [
+		"18010"
+	]
 }

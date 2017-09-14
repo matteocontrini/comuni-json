@@ -19,5 +19,7 @@
 	},
 	"sigla": "VC",
 	"codiceCatastale": "L429",
-	"cap": "13039"
+	"cap": [
+		"13039"
+	]
 }

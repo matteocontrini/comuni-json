@@ -19,5 +19,7 @@
 	},
 	"sigla": "PC",
 	"codiceCatastale": "G747",
-	"cap": "29027"
+	"cap": [
+		"29027"
+	]
 }

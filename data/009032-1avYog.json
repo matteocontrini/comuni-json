@@ -19,5 +19,7 @@
 	},
 	"sigla": "SV",
 	"codiceCatastale": "E066",
-	"cap": "17010"
+	"cap": [
+		"17010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "PA",
 	"codiceCatastale": "D977",
-	"cap": "90010"
+	"cap": [
+		"90010"
+	]
 }

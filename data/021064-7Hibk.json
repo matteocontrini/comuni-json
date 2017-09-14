@@ -19,5 +19,7 @@
 	},
 	"sigla": "BZ",
 	"codiceCatastale": "G299",
-	"cap": "39025"
+	"cap": [
+		"39025"
+	]
 }

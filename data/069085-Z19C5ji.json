@@ -19,5 +19,7 @@
 	},
 	"sigla": "CH",
 	"codiceCatastale": "I335",
-	"cap": "66037"
+	"cap": [
+		"66037"
+	]
 }

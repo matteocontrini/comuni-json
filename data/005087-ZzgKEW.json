@@ -19,5 +19,7 @@
 	},
 	"sigla": "AT",
 	"codiceCatastale": "G894",
-	"cap": "14037"
+	"cap": [
+		"14037"
+	]
 }

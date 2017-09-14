@@ -19,5 +19,7 @@
 	},
 	"sigla": "CB",
 	"codiceCatastale": "F055",
-	"cap": "86030"
+	"cap": [
+		"86030"
+	]
 }

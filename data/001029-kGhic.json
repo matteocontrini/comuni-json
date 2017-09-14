@@ -19,5 +19,7 @@
 	},
 	"sigla": "TO",
 	"codiceCatastale": "B003",
-	"cap": "10080"
+	"cap": [
+		"10080"
+	]
 }

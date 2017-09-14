@@ -19,5 +19,7 @@
 	},
 	"sigla": "ME",
 	"codiceCatastale": "I199",
-	"cap": "98076"
+	"cap": [
+		"98076"
+	]
 }

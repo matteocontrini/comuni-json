@@ -19,5 +19,7 @@
 	},
 	"sigla": "FR",
 	"codiceCatastale": "I669",
-	"cap": "03010"
+	"cap": [
+		"03010"
+	]
 }

@@ -19,5 +19,7 @@
 	},
 	"sigla": "FI",
 	"codiceCatastale": "C101",
-	"cap": "50051"
+	"cap": [
+		"50051"
+	]
 }

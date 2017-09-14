@@ -19,5 +19,7 @@
 	},
 	"sigla": "AP",
 	"codiceCatastale": "F591",
-	"cap": "63076"
+	"cap": [
+		"63076"
+	]
 }

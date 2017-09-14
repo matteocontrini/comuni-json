@@ -19,5 +19,7 @@
 	},
 	"sigla": "MB",
 	"codiceCatastale": "H233",
-	"cap": "20838"
+	"cap": [
+		"20838"
+	]
 }
