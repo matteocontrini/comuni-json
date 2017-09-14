@@ -5,7 +5,7 @@ Il file JSON con tutti i 7978 comuni è `comuni.json`.
 
 La lista dei comuni è aggiornata al 2017-05-05. Comprende i [nuovi comuni 2017](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2017/), con relativi [nuovi CAP](https://www.poste.it/cap-aggiornamento-2017.pdf), e le successive modifiche (fusioni e cambio denominazione) avvenute [nel corso del 2017](https://www.istat.it/it/files/2011/01/Riepilogo-novita-2017.pdf), fino al 2017-05-05, con CAP provvisori.
 
-**Attenzione: dal 2017-09-14 il campo CAP è sempre un array**
+**Attenzione: dal 2017-09-14 il campo CAP è sempre un array**.
 
 Vedi anche [Aggiornamenti](#aggiornamenti).
 
