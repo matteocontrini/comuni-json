@@ -1,13 +1,13 @@
 # comuni-json
 Database comuni italiani con informazioni ISTAT e CAP.
 
-Il file JSON con tutti i 7978 comuni è `comuni.json`.
+Il file JSON con tutti i **7960 comuni** è `comuni.json`.
 
-La lista dei comuni è aggiornata al 2017-05-05. Comprende i [nuovi comuni 2017](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2017/), con relativi [nuovi CAP](https://www.poste.it/cap-aggiornamento-2017.pdf), e le successive modifiche (fusioni e cambio denominazione) avvenute [nel corso del 2017](https://www.istat.it/it/files/2011/01/Riepilogo-novita-2017.pdf), fino al 2017-05-05, con CAP provvisori.
+La lista dei comuni è aggiornata al 2018-01-01. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP provvisori (finché Poste Italiane non pubblica l'aggiornamento dei CAP per il 2018). 
 
-**Attenzione: dal 2017-09-14 il campo CAP è sempre un array**.
+Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
 
-Vedi anche [Aggiornamenti](#aggiornamenti).
+**Attenzione: dal 2017-09-14 il campo `cap` è sempre un array**.
 
 * Nome (campo `nome`)
 * Codice ISTAT (campo `codice`)
@@ -146,15 +146,20 @@ Tutti i campi sono di tipo stringa.
 
 ## Fonti
 
-Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](http://www.poste.it/postali/cap.shtml) effettuati in seguito alle fusioni del 2016/2017.
+Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](https://www.poste.it/cap.html) effettuati in seguito alle fusioni del 2016, 2017 e 2018.
 
-L'aggiornamento di questa repository del 17 febbraio 2017 corregge i CAP di qualche decina di comuni, che erano e sono tuttora sbagliati sul sito dell'ANCI.
+L'aggiornamento di questa repository del 2017-02-17 corregge i CAP di qualche decina di comuni, che erano e sono tuttora sbagliati sul sito dell'ANCI.
 
 ## Aggiornamenti
 
-I dati sono aggiornati al 2017-05-05.
-Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](http://www.poste.it/risorse/postali/pdf/cap-aggiornamento-2016-II.pdf) e il [2017-05-08](https://www.poste.it/cap-aggiornamento-2017.pdf). I CAP per i comuni istituiti (per fusione o incorporamento) durante il 2017 (in seguito al 2017-01-01) non sono ancora stati comunicati da Poste Italiane.
+I dati sono aggiornati al 2018-01-01.
 
-L'aggiornamento di questa repository del 17 febbraio introduce un nuovo metodo di generazione del file `comuni.json`, ma non modifica la struttura del file JSON, che è confermata e validata tramite apposito script. Variano invece leggermente i valori di alcuni campi: in particolare quando il nome/codice della provincia/cm è assente, il campo è una stringa vuota anziché il carattere `-`.
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf) e il [2017-05-08](pdf/cap-aggiornamento-2017.pdf).
+
+I CAP per i comuni istituiti (per fusione o incorporamento) durante il 2017 (in seguito al 2017-01-01) non sono ancora stati comunicati da Poste Italiane. La stessa cosa vale per i comuni istituiti nel 2018.
+
+*I [nuovi CAP per la Sardegna](pdf/cap-aggiornamento-2017-II.pdf) (2017) sono stati pubblicati da Poste Italiane ma non sono ancora stati aggiornati in questa repository.*
+
+L'aggiornamento di questa repository del 2017-02-17 introduce un nuovo metodo di generazione del file `comuni.json`, ma non modifica la struttura del file JSON, che è confermata e validata tramite apposito script. Variano invece leggermente i valori di alcuni campi: in particolare quando il nome/codice della provincia/cm è assente, il campo è una stringa vuota anziché il carattere `-`.
 
 A partire dal 2017-09-14 il campo CAP è sempre un array, anche nel caso in cui il comune abbia un solo CAP.
