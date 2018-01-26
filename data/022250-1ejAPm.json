@@ -1,6 +1,6 @@
 {
-	"nome": "Vigo di Fassa",
-	"codice": "022217",
+	"nome": "Sèn Jan di Fassa",
+	"codice": "022250",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,8 +18,9 @@
 		"nome": "Trento"
 	},
 	"sigla": "TN",
-	"codiceCatastale": "L893",
+	"codiceCatastale": "M390",
 	"cap": [
+		"38036",
 		"38039"
 	]
 }

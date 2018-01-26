@@ -1,23 +1,23 @@
 {
 	"nome": "Sappada",
-	"codice": "025052",
+	"codice": "030189",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
 	},
 	"regione": {
-		"codice": "05",
-		"nome": "Veneto"
+		"codice": "06",
+		"nome": "Friuli-Venezia Giulia"
 	},
 	"cm": {
 		"codice": "",
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "025",
-		"nome": "Belluno"
+		"codice": "030",
+		"nome": "Udine"
 	},
-	"sigla": "BL",
+	"sigla": "UD",
 	"codiceCatastale": "I421",
 	"cap": [
 		"32047"

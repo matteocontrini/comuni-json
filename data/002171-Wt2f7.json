@@ -1,6 +1,6 @@
 {
-	"nome": "Rimasco",
-	"codice": "002112",
+	"nome": "Cellio con Breia",
+	"codice": "002171",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,8 +18,9 @@
 		"nome": "Vercelli"
 	},
 	"sigla": "VC",
-	"codiceCatastale": "H292",
+	"codiceCatastale": "M398",
 	"cap": [
-		"13026"
+		"13024",
+		"13020"
 	]
 }

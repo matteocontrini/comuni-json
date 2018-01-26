@@ -1,6 +1,6 @@
 {
-	"nome": "Caminata",
-	"codice": "033009",
+	"nome": "Montescudo-Monte Colombo",
+	"codice": "099029",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -14,12 +14,12 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "033",
-		"nome": "Piacenza"
+		"codice": "099",
+		"nome": "Rimini"
 	},
-	"sigla": "PC",
-	"codiceCatastale": "B479",
+	"sigla": "RN",
+	"codiceCatastale": "M368",
 	"cap": [
-		"29010"
+		"47854"
 	]
 }

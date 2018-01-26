@@ -1,6 +1,6 @@
 {
-	"nome": "Piovera",
-	"codice": "006130",
+	"nome": "Alluvioni Piovera",
+	"codice": "006192",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,7 +18,7 @@
 		"nome": "Alessandria"
 	},
 	"sigla": "AL",
-	"codiceCatastale": "G695",
+	"codiceCatastale": "M397",
 	"cap": [
 		"15040"
 	]

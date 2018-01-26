@@ -1,6 +1,6 @@
 {
-	"nome": "Tremenico",
-	"codice": "097081",
+	"nome": "Centro Valle Intelvi",
+	"codice": "013254",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -14,12 +14,14 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "097",
-		"nome": "Lecco"
+		"codice": "013",
+		"nome": "Como"
 	},
-	"sigla": "LC",
-	"codiceCatastale": "L368",
+	"sigla": "CO",
+	"codiceCatastale": "M394",
 	"cap": [
-		"23836"
+		"22028",
+		"22023",
+		"22022"
 	]
 }

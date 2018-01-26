@@ -1,6 +1,6 @@
 {
-	"nome": "Villa Poma",
-	"codice": "020067",
+	"nome": "Borgo Mantovano",
+	"codice": "020072",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,8 +18,9 @@
 		"nome": "Mantova"
 	},
 	"sigla": "MN",
-	"codiceCatastale": "F804",
+	"codiceCatastale": "M396",
 	"cap": [
+		"46036",
 		"46020"
 	]
 }

@@ -1,6 +1,6 @@
 {
-	"nome": "Rima San Giuseppe",
-	"codice": "002111",
+	"nome": "Alto Sermenza",
+	"codice": "002170",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,7 +18,7 @@
 		"nome": "Vercelli"
 	},
 	"sigla": "VC",
-	"codiceCatastale": "H291",
+	"codiceCatastale": "M389",
 	"cap": [
 		"13026"
 	]

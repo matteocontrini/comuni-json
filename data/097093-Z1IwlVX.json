@@ -1,6 +1,6 @@
 {
-	"nome": "Revere",
-	"codice": "020049",
+	"nome": "Valvarrone",
+	"codice": "097093",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -14,12 +14,14 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "020",
-		"nome": "Mantova"
+		"codice": "097",
+		"nome": "Lecco"
 	},
-	"sigla": "MN",
-	"codiceCatastale": "H248",
+	"sigla": "LC",
+	"codiceCatastale": "M395",
 	"cap": [
-		"46036"
+		"23836",
+		"23822",
+		"23835"
 	]
 }

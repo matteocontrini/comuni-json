@@ -1,6 +1,6 @@
 {
-	"nome": "Alluvioni Cambiò",
-	"codice": "006006",
+	"nome": "Cassano Spinola",
+	"codice": "006191",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,8 +18,8 @@
 		"nome": "Alessandria"
 	},
 	"sigla": "AL",
-	"codiceCatastale": "A211",
+	"codiceCatastale": "M388",
 	"cap": [
-		"15040"
+		"15063"
 	]
 }

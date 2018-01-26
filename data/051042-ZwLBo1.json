@@ -1,6 +1,6 @@
 {
-	"nome": "Rio nell'Elba",
-	"codice": "049016",
+	"nome": "Laterina Pergine Valdarno",
+	"codice": "051042",
 	"zona": {
 		"nome": "Centro",
 		"codice": "3"
@@ -14,12 +14,12 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "049",
-		"nome": "Livorno"
+		"codice": "051",
+		"nome": "Arezzo"
 	},
-	"sigla": "LI",
-	"codiceCatastale": "H297",
+	"sigla": "AR",
+	"codiceCatastale": "M392",
 	"cap": [
-		"57039"
+		"52020"
 	]
 }

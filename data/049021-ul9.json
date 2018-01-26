@@ -1,6 +1,6 @@
 {
-	"nome": "Laterina",
-	"codice": "051019",
+	"nome": "Rio",
+	"codice": "049021",
 	"zona": {
 		"nome": "Centro",
 		"codice": "3"
@@ -14,12 +14,13 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "051",
-		"nome": "Arezzo"
+		"codice": "049",
+		"nome": "Livorno"
 	},
-	"sigla": "AR",
-	"codiceCatastale": "E468",
+	"sigla": "LI",
+	"codiceCatastale": "M391",
 	"cap": [
-		"52020"
+		"57039",
+		"57038"
 	]
 }

@@ -1,6 +1,6 @@
 {
-	"nome": "Casasco d'Intelvi",
-	"codice": "013050",
+	"nome": "Castelgerundo",
+	"codice": "098062",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -14,12 +14,13 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "013",
-		"nome": "Como"
+		"codice": "098",
+		"nome": "Lodi"
 	},
-	"sigla": "CO",
-	"codiceCatastale": "B942",
+	"sigla": "LO",
+	"codiceCatastale": "M393",
 	"cap": [
-		"22022"
+		"26823",
+		"26844"
 	]
 }

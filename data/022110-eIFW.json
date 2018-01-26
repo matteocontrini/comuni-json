@@ -1,6 +1,6 @@
 {
-	"nome": "Pozza di Fassa",
-	"codice": "022145",
+	"nome": "Malé",
+	"codice": "022110",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,8 +18,8 @@
 		"nome": "Trento"
 	},
 	"sigla": "TN",
-	"codiceCatastale": "G950",
+	"codiceCatastale": "E850",
 	"cap": [
-		"38036"
+		"38027"
 	]
 }
