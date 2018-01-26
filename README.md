@@ -152,7 +152,7 @@ L'aggiornamento di questa repository del 2017-02-17 corregge i CAP di qualche de
 
 ## Aggiornamenti
 
-I dati sono aggiornati al 2018-01-01.
+I dati sono aggiornati al 2018-01-01 ([PDF Istat](pdf/istat-2017-2018.pdf)).
 
 Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf) e il [2017-05-08](pdf/cap-aggiornamento-2017.pdf).
 
