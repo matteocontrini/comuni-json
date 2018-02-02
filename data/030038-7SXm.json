@@ -1,6 +1,6 @@
 {
-	"nome": "Fiumicello",
-	"codice": "030038",
+	"nome": "Fiumicello Villa Vicentina",
+	"codice": "030190",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,8 +18,9 @@
 		"nome": "Udine"
 	},
 	"sigla": "UD",
-	"codiceCatastale": "D627",
+	"codiceCatastale": "M399",
 	"cap": [
-		"33050"
+		"33050",
+		"33059"
 	]
 }

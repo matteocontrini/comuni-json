@@ -1,6 +1,6 @@
 {
-	"nome": "Ligosullo",
-	"codice": "030050",
+	"nome": "Treppo Ligosullo",
+	"codice": "030191",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,7 +18,7 @@
 		"nome": "Udine"
 	},
 	"sigla": "UD",
-	"codiceCatastale": "E586",
+	"codiceCatastale": "M400",
 	"cap": [
 		"33020"
 	]
