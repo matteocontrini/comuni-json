@@ -154,11 +154,9 @@ L'aggiornamento di questa repository del 2017-02-17 corregge i CAP di qualche de
 
 I dati sono aggiornati al 2018-02-01 ([PDF Istat](pdf/istat-2017-2018.pdf)).
 
-Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf) e il [2017-05-08](pdf/cap-aggiornamento-2017.pdf).
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [2017-11](pdf/cap-aggiornamento-2017-II.pdf).
 
 I CAP per i comuni istituiti (per fusione o incorporamento) durante il 2017 (in seguito al 2017-01-01) non sono ancora stati comunicati da Poste Italiane. La stessa cosa vale per i comuni istituiti nel 2018.
-
-*I [nuovi CAP per la Sardegna](pdf/cap-aggiornamento-2017-II.pdf) (2017) sono stati pubblicati da Poste Italiane ma non sono ancora stati aggiornati in questa repository.*
 
 L'aggiornamento di questa repository del 2017-02-17 introduce un nuovo metodo di generazione del file `comuni.json`, ma non modifica la struttura del file JSON, che è confermata e validata tramite apposito script. Variano invece leggermente i valori di alcuni campi: in particolare quando il nome/codice della provincia/cm è assente, il campo è una stringa vuota anziché il carattere `-`.
 
