@@ -1,6 +1,6 @@
 {
-	"nome": "Santa Margherita d'Adige",
-	"codice": "028081",
+	"nome": "Borgo Veneto",
+	"codice": "028107",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,8 +18,9 @@
 		"nome": "Padova"
 	},
 	"sigla": "PD",
-	"codiceCatastale": "I226",
+	"codiceCatastale": "M402",
 	"cap": [
-		"35040"
+		"35040",
+		"35046"
 	]
 }

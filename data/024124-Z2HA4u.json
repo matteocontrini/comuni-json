@@ -1,6 +1,6 @@
 {
-	"nome": "Saletto",
-	"codice": "028074",
+	"nome": "Barbarano Mossano",
+	"codice": "024124",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -14,12 +14,13 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "028",
-		"nome": "Padova"
+		"codice": "024",
+		"nome": "Vicenza"
 	},
-	"sigla": "PD",
-	"codiceCatastale": "H705",
+	"sigla": "VI",
+	"codiceCatastale": "M401",
 	"cap": [
-		"35046"
+		"36021",
+		"36024"
 	]
 }
