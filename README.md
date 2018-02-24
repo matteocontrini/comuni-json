@@ -1,9 +1,9 @@
 # comuni-json
 Database comuni italiani con informazioni ISTAT e CAP.
 
-Il file JSON con tutti i **7958 comuni** è `comuni.json`.
+Il file JSON con tutti i **7955 comuni** è `comuni.json`.
 
-La lista dei comuni è aggiornata al 2018-02-01. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP provvisori (finché Poste Italiane non pubblica l'aggiornamento dei CAP per il 2018). 
+La lista dei comuni è aggiornata al 2018-02-17. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP provvisori (finché Poste Italiane non pubblica l'aggiornamento dei CAP per il 2018). 
 
 Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
 
@@ -152,7 +152,7 @@ L'aggiornamento di questa repository del 2017-02-17 corregge i CAP di qualche de
 
 ## Aggiornamenti
 
-I dati sono aggiornati al 2018-02-01 ([PDF Istat](pdf/istat-2017-2018.pdf)).
+I dati sono aggiornati al 2018-02-17 ([PDF Istat](pdf/istat-2017-2018.pdf)).
 
 Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [2017-11](pdf/cap-aggiornamento-2017-II.pdf).
 
