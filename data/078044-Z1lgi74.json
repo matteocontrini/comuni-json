@@ -1,6 +1,6 @@
 {
-	"nome": "Corigliano Calabro",
-	"codice": "078044",
+	"nome": "Corigliano-Rossano",
+	"codice": "078157",
 	"zona": {
 		"nome": "Sud",
 		"codice": "4"
@@ -18,8 +18,9 @@
 		"nome": "Cosenza"
 	},
 	"sigla": "CS",
-	"codiceCatastale": "D005",
+	"codiceCatastale": "M403",
 	"cap": [
-		"87064"
+		"87064",
+		"87067"
 	]
 }
