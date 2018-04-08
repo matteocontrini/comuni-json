@@ -1,9 +1,9 @@
 # comuni-json
 Database comuni italiani con informazioni ISTAT e CAP.
 
-Il file JSON con tutti i **7955 comuni** è `comuni.json`.
+Il file JSON con tutti i **7954 comuni** è `comuni.json`.
 
-La lista dei comuni è aggiornata al 2018-02-17. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP aggiornati al 2018-01-01 (Poste Italiane non ha ancora pubblicato i CAP per i comuni istituiti durante il 2018). 
+La lista dei comuni è aggiornata al 2018-03-31. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP aggiornati al 2018-01-01 (Poste Italiane non ha ancora pubblicato i CAP per i comuni istituiti durante il 2018). 
 
 Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
 
@@ -148,11 +148,9 @@ Tutti i campi sono di tipo stringa.
 
 Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](https://www.poste.it/cap.html) effettuati in seguito alle fusioni del 2016, 2017 e 2018.
 
-L'aggiornamento di questa repository del 2017-02-17 corregge i CAP di qualche decina di comuni, che erano e sono tuttora sbagliati sul sito dell'ANCI.
-
 ## Aggiornamenti
 
-I dati sono aggiornati al 2018-02-17 ([PDF Istat](pdf/istat-2017-2018.pdf)).
+I dati sono aggiornati al 2018-03-31 ([PDF Istat](pdf/istat-2017-2018.pdf)).
 
 Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [2017-11](pdf/cap-aggiornamento-2017-II.pdf), nel mese di [2018-03](pdf/cap-aggiornamento-2018.pdf).
 
