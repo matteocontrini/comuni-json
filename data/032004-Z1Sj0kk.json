@@ -1,6 +1,6 @@
 {
-	"nome": "Fiumicello Villa Vicentina",
-	"codice": "030190",
+	"nome": "San Dorligo della Valle",
+	"codice": "032004",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -14,13 +14,12 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "030",
-		"nome": "Udine"
+		"codice": "032",
+		"nome": "Trieste"
 	},
-	"sigla": "UD",
-	"codiceCatastale": "M399",
+	"sigla": "TS",
+	"codiceCatastale": "D324",
 	"cap": [
-		"33050",
-		"33059"
+		"34018"
 	]
 }

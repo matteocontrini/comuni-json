@@ -1,6 +1,6 @@
 {
-	"nome": "San Dorligo della Valle-Dolina",
-	"codice": "032004",
+	"nome": "Duino Aurisina",
+	"codice": "032001",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,8 +18,8 @@
 		"nome": "Trieste"
 	},
 	"sigla": "TS",
-	"codiceCatastale": "D324",
+	"codiceCatastale": "D383",
 	"cap": [
-		"34018"
+		"34011"
 	]
 }

@@ -1,6 +1,6 @@
 {
-	"nome": "Duino-Aurisina",
-	"codice": "032001",
+	"nome": "Fiumicello Villa Vicentina",
+	"codice": "030190",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -14,12 +14,13 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "032",
-		"nome": "Trieste"
+		"codice": "030",
+		"nome": "Udine"
 	},
-	"sigla": "TS",
-	"codiceCatastale": "D383",
+	"sigla": "UD",
+	"codiceCatastale": "M400",
 	"cap": [
-		"34011"
+		"33050",
+		"33059"
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"nome": "Torre de' Busi",
-	"codice": "097080",
+	"codice": "016215",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -14,10 +14,10 @@
 		"nome": ""
 	},
 	"provincia": {
-		"codice": "097",
-		"nome": "Lecco"
+		"codice": "016",
+		"nome": "Bergamo"
 	},
-	"sigla": "LC",
+	"sigla": "BG",
 	"codiceCatastale": "L257",
 	"cap": [
 		"23806"
