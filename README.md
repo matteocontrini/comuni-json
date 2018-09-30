@@ -7,8 +7,6 @@ La lista dei comuni è aggiornata al 2018-03-31. Comprende i [nuovi comuni 2018]
 
 Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
 
-**Attenzione: dal 2017-09-14 il campo `cap` è sempre un array**.
-
 * Nome (campo `nome`)
 * Codice ISTAT (campo `codice`)
 * Zona/Ripartizione geografica (campo `zona` con sottocampi `nome` e `codice`)
@@ -152,10 +150,6 @@ Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed �
 
 I dati sono aggiornati al 2018-03-31 ([PDF Istat](pdf/istat-2017-2018.pdf)).
 
-Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [2017-11](pdf/cap-aggiornamento-2017-II.pdf), nel mese di [2018-03](pdf/cap-aggiornamento-2018.pdf).
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [novembre 2017](pdf/cap-aggiornamento-2017-II.pdf) e di [marzo 2018](pdf/cap-aggiornamento-2018.pdf).
 
 I CAP per i comuni istituiti (per fusione o incorporamento) a febbraio e maggio 2017 e a febbraio e marzo 2018 non sono ancora stati comunicati da Poste Italiane. Sono invece presenti i nuovi CAP per i comuni istituiti all'inizio del 2017 e all'inizio del 2018.
-
-L'aggiornamento di questa repository del 2017-02-17 introduce un nuovo metodo di generazione del file `comuni.json`, ma non modifica la struttura del file JSON, che è confermata e validata tramite apposito script. Variano invece leggermente i valori di alcuni campi: in particolare quando il nome/codice della provincia/cm è assente, il campo è una stringa vuota anziché il carattere `-`.
-
-A partire dal 2017-09-14 il campo CAP è sempre un array, anche nel caso in cui il comune abbia un solo CAP.
