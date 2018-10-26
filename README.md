@@ -5,6 +5,8 @@ Il file JSON con tutti i **7954 comuni** è `comuni.json`.
 
 La lista dei comuni è aggiornata al 2018-03-31. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP aggiornati al 2018-01-01 (Poste Italiane non ha ancora pubblicato i CAP per i comuni istituiti durante il 2018). 
 
+**Il 2018-10-26 è stato aggiunto il campo `popolazione`.**
+
 Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
 
 * Nome (campo `nome`)
@@ -16,6 +18,7 @@ Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
 * Sigla automobilistica (campo `sigla`)
 * Codice catastale (campo `codiceCatastale`)
 * Codice di Avviamento Postale (campo `cap`). Sia in caso di comuni con CAP singolo che comuni multi-CAP (41 in totale), il campo è un array che specifica tutti i CAP per il comune
+* Popolazione (campo `popolazione`). Il valore si riferisce alla popolazione relativa al censimento 2011
 
 Tutti i campi sono di tipo stringa.
 
@@ -45,7 +48,8 @@ Tutti i campi sono di tipo stringa.
     },
     "sigla": "LO",
     "codiceCatastale": "L125",
-    "cap": ["26827"]
+    "cap": ["26827"],
+	"popolazione": 906
 }
 ```
 
@@ -73,7 +77,8 @@ Tutti i campi sono di tipo stringa.
     },
     "sigla": "TO",
     "codiceCatastale": "A074",
-    "cap": ["10011"]
+    "cap": ["10011"],
+	"popolazione": 2644
 }
 ```
 
@@ -138,7 +143,8 @@ Tutti i campi sono di tipo stringa.
         "10154",
         "10155",
         "10156"
-    ]
+    ],
+	"popolazione": 872367
 }
 ```
 
@@ -153,3 +159,5 @@ I dati sono aggiornati al 2018-03-31 ([PDF Istat](pdf/istat-2017-2018.pdf)).
 Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [novembre 2017](pdf/cap-aggiornamento-2017-II.pdf) e di [marzo 2018](pdf/cap-aggiornamento-2018.pdf).
 
 I CAP per i comuni istituiti (per fusione o incorporamento) a febbraio e maggio 2017 e a febbraio e marzo 2018 non sono ancora stati comunicati da Poste Italiane. Sono invece presenti i nuovi CAP per i comuni istituiti all'inizio del 2017 e all'inizio del 2018.
+
+**Il 2018-10-26 è stato aggiunto il campo `popolazione`.**
