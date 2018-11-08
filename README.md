@@ -49,7 +49,7 @@ Tutti i campi sono di tipo stringa.
     "sigla": "LO",
     "codiceCatastale": "L125",
     "cap": ["26827"],
-	"popolazione": 906
+    "popolazione": 906
 }
 ```
 
@@ -78,7 +78,7 @@ Tutti i campi sono di tipo stringa.
     "sigla": "TO",
     "codiceCatastale": "A074",
     "cap": ["10011"],
-	"popolazione": 2644
+    "popolazione": 2644
 }
 ```
 
@@ -144,7 +144,7 @@ Tutti i campi sono di tipo stringa.
         "10155",
         "10156"
     ],
-	"popolazione": 872367
+    "popolazione": 872367
 }
 ```
 
