@@ -31,20 +31,6 @@
 			},
 			"required": ["nome", "codice"]
 		},
-		"cm": {
-			"type": "object",
-			"properties": {
-				"nome": {
-					"type": "string",
-					"pattern": "(^[A-Z]{1})|(^$)"
-				},
-				"codice": {
-					"type": "string",
-					"pattern": "(^2[0-9]{2}|3[0-9]{2}$)|(^$)"
-				}
-			},
-			"required": ["nome", "codice"]
-		},
 		"provincia": {
 			"type": "object",
 			"properties": {
@@ -72,7 +58,6 @@
 		},
 		"zona": { "$ref": "#/definitions/zona" },
 		"regione": { "$ref": "#/definitions/regione" },
-		"cm": { "$ref": "#/definitions/cm" },
 		"provincia": { "$ref": "#/definitions/provincia" },
 		"sigla": {
 			"type": "string",
@@ -80,7 +65,7 @@
 		},
 		"codiceCatastale": {
 			"type": "string",
-			"pattern": "^[A-Z]{1}[0-9]{3}$"
+			"pattern": "(^[A-Z]{1}[0-9]{3}$)|(^$)"
 		},
 		"cap": {
 			"type": "array",
@@ -94,5 +79,5 @@
 			"minimum": 1
 		}
 	},
-	"required": ["nome", "codice", "zona", "regione", "cm", "provincia", "sigla", "codiceCatastale", "cap", "popolazione"]
+	"required": ["nome", "codice", "zona", "regione", "provincia", "sigla", "codiceCatastale", "cap", "popolazione"]
 }
