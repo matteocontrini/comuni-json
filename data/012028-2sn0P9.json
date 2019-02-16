@@ -1,6 +1,6 @@
 {
-	"nome": "Cadrezzate",
-	"codice": "012028",
+	"nome": "Cadrezzate con Osmate",
+	"codice": "012143",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,10 @@
 		"nome": "Varese"
 	},
 	"sigla": "VA",
-	"codiceCatastale": "B347",
+	"codiceCatastale": "",
 	"cap": [
-		"21020"
+		"21020",
+		"21018"
 	],
 	"popolazione": 1818
 }

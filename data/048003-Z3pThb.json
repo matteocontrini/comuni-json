@@ -1,6 +1,6 @@
 {
-	"nome": "Barberino Val d'Elsa",
-	"codice": "048003",
+	"nome": "Barberino Tavarnelle",
+	"codice": "048054",
 	"zona": {
 		"nome": "Centro",
 		"codice": "3"
@@ -18,9 +18,10 @@
 		"nome": ""
 	},
 	"sigla": "FI",
-	"codiceCatastale": "A633",
+	"codiceCatastale": "M408",
 	"cap": [
-		"50021"
+		"50021",
+		"50028"
 	],
 	"popolazione": 4351
 }

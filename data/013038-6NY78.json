@@ -1,6 +1,6 @@
 {
-	"nome": "Cagno",
-	"codice": "013038",
+	"nome": "Solbiate con Cagno",
+	"codice": "013255",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,7 +18,7 @@
 		"nome": "Como"
 	},
 	"sigla": "CO",
-	"codiceCatastale": "B359",
+	"codiceCatastale": "M412",
 	"cap": [
 		"22070"
 	],

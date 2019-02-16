@@ -1,6 +1,6 @@
 {
-	"nome": "Nave San Rocco",
-	"codice": "022126",
+	"nome": "Terre d'Adige",
+	"codice": "022251",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,7 +18,7 @@
 		"nome": "Trento"
 	},
 	"sigla": "TN",
-	"codiceCatastale": "F853",
+	"codiceCatastale": "M407",
 	"cap": [
 		"38010"
 	],

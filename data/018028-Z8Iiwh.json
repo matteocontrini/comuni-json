@@ -1,6 +1,6 @@
 {
-	"nome": "Canevino",
-	"codice": "018028",
+	"nome": "Colli Verdi",
+	"codice": "018193",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,10 @@
 		"nome": "Pavia"
 	},
 	"sigla": "PV",
-	"codiceCatastale": "B599",
+	"codiceCatastale": "M419",
 	"cap": [
-		"27040"
+		"27040",
+		"27050"
 	],
 	"popolazione": 112
 }

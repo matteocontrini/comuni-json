@@ -1,6 +1,6 @@
 {
-	"nome": "Cavaglio-Spoccia",
-	"codice": "103020",
+	"nome": "Valle Cannobina",
+	"codice": "103079",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,10 @@
 		"nome": "Verbano-Cusio-Ossola"
 	},
 	"sigla": "VB",
-	"codiceCatastale": "C367",
+	"codiceCatastale": "M404",
 	"cap": [
-		"28825"
+		"28825",
+		"28827"
 	],
 	"popolazione": 255
 }

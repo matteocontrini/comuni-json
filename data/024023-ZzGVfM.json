@@ -1,6 +1,6 @@
 {
-	"nome": "Campolongo sul Brenta",
-	"codice": "024023",
+	"nome": "Valbrenta",
+	"codice": "024125",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,7 +18,7 @@
 		"nome": "Vicenza"
 	},
 	"sigla": "VI",
-	"codiceCatastale": "B547",
+	"codiceCatastale": "M426",
 	"cap": [
 		"36020"
 	],

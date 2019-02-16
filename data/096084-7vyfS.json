@@ -1,6 +1,6 @@
 {
-	"nome": "Mosso",
-	"codice": "096084",
+	"nome": "Valdilana",
+	"codice": "096088",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,12 @@
 		"nome": "Biella"
 	},
 	"sigla": "BI",
-	"codiceCatastale": "M304",
+	"codiceCatastale": "M417",
 	"cap": [
-		"13822"
+		"13822",
+		"13825",
+		"13834",
+		"13835"
 	],
 	"popolazione": 1643
 }

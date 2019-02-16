@@ -1,6 +1,6 @@
 {
-	"nome": "Auditore",
-	"codice": "041003",
+	"nome": "Sassocorvaro Auditore",
+	"codice": "041071",
 	"zona": {
 		"nome": "Centro",
 		"codice": "3"
@@ -18,9 +18,10 @@
 		"nome": "Pesaro e Urbino"
 	},
 	"sigla": "PU",
-	"codiceCatastale": "A493",
+	"codiceCatastale": "M413",
 	"cap": [
-		"61020"
+		"61020",
+		"61028"
 	],
 	"popolazione": 1624
 }

@@ -1,6 +1,6 @@
 {
-	"nome": "Formignana",
-	"codice": "038009",
+	"nome": "Tresignana",
+	"codice": "038030",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,9 +18,10 @@
 		"nome": "Ferrara"
 	},
 	"sigla": "FE",
-	"codiceCatastale": "D713",
+	"codiceCatastale": "M409",
 	"cap": [
-		"44035"
+		"44035",
+		"44039"
 	],
 	"popolazione": 2803
 }

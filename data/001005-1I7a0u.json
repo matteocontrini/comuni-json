@@ -1,6 +1,6 @@
 {
-	"nome": "Alice Superiore",
-	"codice": "001005",
+	"nome": "Val di Chy",
+	"codice": "001317",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,10 @@
 		"nome": ""
 	},
 	"sigla": "TO",
-	"codiceCatastale": "A199",
+	"codiceCatastale": "M405",
 	"cap": [
-		"10010"
+		"10010",
+		"10080"
 	],
 	"popolazione": 701
 }

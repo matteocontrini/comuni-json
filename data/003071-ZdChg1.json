@@ -1,6 +1,6 @@
 {
-	"nome": "Gattico",
-	"codice": "003071",
+	"nome": "Gattico-Veruno",
+	"codice": "003166",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,10 @@
 		"nome": "Novara"
 	},
 	"sigla": "NO",
-	"codiceCatastale": "D937",
+	"codiceCatastale": "M416",
 	"cap": [
-		"28013"
+		"28013",
+		"28010"
 	],
 	"popolazione": 3361
 }

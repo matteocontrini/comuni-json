@@ -1,6 +1,6 @@
 {
-	"nome": "Cuccaro Monferrato",
-	"codice": "006064",
+	"nome": "Lu e Cuccaro Monferrato",
+	"codice": "006193",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,7 +18,7 @@
 		"nome": "Alessandria"
 	},
 	"sigla": "AL",
-	"codiceCatastale": "D194",
+	"codiceCatastale": "M420",
 	"cap": [
 		"15040"
 	],

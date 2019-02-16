@@ -1,6 +1,6 @@
 {
-	"nome": "Cerreto Castello",
-	"codice": "096017",
+	"nome": "Quaregna Cerreto",
+	"codice": "096087",
 	"zona": {
 		"nome": "Nord-ovest",
 		"codice": "1"
@@ -18,9 +18,10 @@
 		"nome": "Biella"
 	},
 	"sigla": "BI",
-	"codiceCatastale": "C526",
+	"codiceCatastale": "M414",
 	"cap": [
-		"13852"
+		"13852",
+		"13854"
 	],
 	"popolazione": 628
 }

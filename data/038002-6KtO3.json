@@ -1,6 +1,6 @@
 {
-	"nome": "Berra",
-	"codice": "038002",
+	"nome": "Riva del Po",
+	"codice": "038029",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,9 +18,10 @@
 		"nome": "Ferrara"
 	},
 	"sigla": "FE",
-	"codiceCatastale": "A806",
+	"codiceCatastale": "M410",
 	"cap": [
-		"44033"
+		"44033",
+		"44030"
 	],
 	"popolazione": 5160
 }

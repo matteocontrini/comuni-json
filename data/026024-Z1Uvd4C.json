@@ -1,6 +1,6 @@
 {
-	"nome": "Crespano del Grappa",
-	"codice": "026024",
+	"nome": "Pieve del Grappa",
+	"codice": "026096",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,7 +18,7 @@
 		"nome": "Treviso"
 	},
 	"sigla": "TV",
-	"codiceCatastale": "D157",
+	"codiceCatastale": "M422",
 	"cap": [
 		"31017"
 	],

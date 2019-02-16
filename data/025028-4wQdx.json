@@ -1,6 +1,6 @@
 {
-	"nome": "Lentiai",
-	"codice": "025028",
+	"nome": "Borgo Valbelluna",
+	"codice": "025074",
 	"zona": {
 		"nome": "Nord-est",
 		"codice": "2"
@@ -18,9 +18,11 @@
 		"nome": "Belluno"
 	},
 	"sigla": "BL",
-	"codiceCatastale": "C562",
+	"codiceCatastale": "M421",
 	"cap": [
-		"32020"
+		"32020",
+		"32026",
+		"32028"
 	],
 	"popolazione": 2979
 }
