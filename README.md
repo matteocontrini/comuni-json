@@ -1,30 +1,29 @@
 # comuni-json
 Database comuni italiani con informazioni ISTAT e CAP.
 
-Il file JSON con tutti i **7954 comuni** è `comuni.json`.
+Il file JSON con tutti i **7917 comuni** è [`comuni.json`](https://github.com/matteocontrini/comuni-json/raw/master/comuni.json).
 
-La lista dei comuni è aggiornata al 2018-03-31. Comprende i [nuovi comuni 2018](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2018/), con CAP aggiornati a novembre 2018.
+La lista dei comuni è aggiornata al 15/02/2019. Comprende i [nuovi comuni 2019](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2019/) (fino a febbraio), con CAP aggiornati a novembre 2018. I CAP dei nuovi comuni sono provvisori fino a quando Poste Italiane non li aggiorna.
 
-**Il 2018-10-26 è stato aggiunto il campo `popolazione`.**
+**ATTENZIONE: nell'aggiornamento del 16/02/2019 è stato rimosso il campo `cm` (vedi [#22](https://github.com/matteocontrini/comuni-json/issues/22) per i dettagli), e il campo codice catastale può essere vuoto per i comuni nuovi.**
 
-Vedi [Aggiornamenti](#aggiornamenti) per i dettagli.
+Vedi [Aggiornamenti](#aggiornamenti) per altre informazioni.
 
 * Nome (campo `nome`)
 * Codice ISTAT (campo `codice`)
 * Zona/Ripartizione geografica (campo `zona` con sottocampi `nome` e `codice`)
 * Regione (campo `regione` con sottocampi `nome` e `codice`)
-* Provincia (campo `provincia` con sottocampi `nome` e `codice`) [non contiene dati utili se `cm` è presente]
-* Città metropolitana/CM (campo `cm` con sottocampi `nome` e `codice`)
+* Provincia (campo `provincia` con sottocampi `nome` e `codice`). Contiene il nome e il codice storico della provincia anche in caso di provincia abolita. Vedere la discussione in [#22](https://github.com/matteocontrini/comuni-json/issues/22)
 * Sigla automobilistica (campo `sigla`)
-* Codice catastale (campo `codiceCatastale`)
-* Codice di Avviamento Postale (campo `cap`). Sia in caso di comuni con CAP singolo che comuni multi-CAP (41 in totale), il campo è un array che specifica tutti i CAP per il comune
+* Codice catastale (campo `codiceCatastale`). Può essere vuoto nel caso in cui l'Agenzia delle Entrate non abbia ancora definito il codice
+* Codice di Avviamento Postale (campo `cap`). Sia in caso di comuni con CAP singolo che comuni multi-CAP, il campo è un array che specifica tutti i CAP per il comune
 * Popolazione (campo `popolazione`). Il valore si riferisce alla popolazione relativa al censimento 2011
 
-Tutti i campi sono di tipo stringa.
+Tutti i campi sono di tipo stringa, ad eccezione di `popolazione` che è numerico.
 
 ## Rappresentazioni di esempio
 
-### Provincia presente, città metropolitana assente
+### CAP singolo
 
 ```json
 {
@@ -38,10 +37,6 @@ Tutti i campi sono di tipo stringa.
         "codice": "03",
         "nome": "Lombardia"
     },
-    "cm": {
-        "codice": "",
-        "nome": ""
-    },
     "provincia": {
         "codice": "098",
         "nome": "Lodi"
@@ -50,35 +45,6 @@ Tutti i campi sono di tipo stringa.
     "codiceCatastale": "L125",
     "cap": ["26827"],
     "popolazione": 906
-}
-```
-
-### Provincia assente, città metropolitana presente
-
-```json
-{
-    "nome": "Agliè",
-    "codice": "001001",
-    "zona": {
-        "nome": "Nord-ovest",
-        "codice": "1"
-    },
-    "regione": {
-        "codice": "01",
-        "nome": "Piemonte"
-    },
-    "cm": {
-        "codice": "201",
-        "nome": "Torino"
-    },
-    "provincia": {
-        "codice": "001",
-        "nome": ""
-    },
-    "sigla": "TO",
-    "codiceCatastale": "A074",
-    "cap": ["10011"],
-    "popolazione": 2644
 }
 ```
 
@@ -150,14 +116,16 @@ Tutti i campi sono di tipo stringa.
 
 ## Fonti
 
-Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](https://www.poste.it/cap.html) effettuati in seguito alle fusioni del 2016, 2017 e 2018.
+Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed è integrato con i dati sui CAP pubblicati da [ANCI](http://www.anci.it/) (Associazione Nazionale Comuni Italiani). Sono state effettuate correzioni manuali per aggiungere le zone postali dei comuni multi-CAP ([fonte 1](http://www.nonsolocap.it/docs/codice-di-avviamento-postale/), [fonte 2](http://www.comuni-italiani.it/cap/multicap.html)) e per allinearsi con gli [aggiornamenti dei CAP](https://www.poste.it/cap.html) effettuati in seguito alle fusioni del 2016, 2017, 2018 e 2019.
 
 ## Aggiornamenti
 
-I dati sono aggiornati al 2018-03-31 ([PDF Istat](pdf/istat-2017-2018.pdf)).
+I dati sono aggiornati al 15/02/2019 ([PDF Istat](pdf/istat-2017-2019.pdf)).
 
-Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [2016-04-18](pdf/cap-aggiornamento-2016.pdf), il [2016-11-21](pdf/cap-aggiornamento-2016-II.pdf), il [2017-05-08](pdf/cap-aggiornamento-2017.pdf), nel mese di [novembre 2017](pdf/cap-aggiornamento-2017-II.pdf), [marzo 2018](pdf/cap-aggiornamento-2018.pdf) e novembre 2018 ([1](pdf/cap-aggiornamento-2018-IIa.pdf) e [2](pdf/cap-aggiornamento-2018-IIb.pdf)).
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [18/04/2016](pdf/cap-aggiornamento-2016.pdf), il [21/11/2016](pdf/cap-aggiornamento-2016-II.pdf), l'[08/05/2017](pdf/cap-aggiornamento-2017.pdf), nel mese di [novembre 2017](pdf/cap-aggiornamento-2017-II.pdf), [marzo 2018](pdf/cap-aggiornamento-2018.pdf) e novembre 2018 ([1](pdf/cap-aggiornamento-2018-IIa.pdf) e [2](pdf/cap-aggiornamento-2018-IIb.pdf)).
 
-I CAP per i comuni istituiti (per fusione o incorporamento) a febbraio e maggio 2017 non sono stati comunicati da Poste Italiane. Sono invece presenti i nuovi CAP per i comuni istituiti all'inizio del 2017 e durante il 2018.
+I CAP per i comuni istituiti (per fusione o incorporamento) a febbraio e maggio 2017 non sono stati comunicati da Poste Italiane. Sono invece presenti i nuovi CAP per i comuni istituiti all'inizio del 2017 e durante il 2018. **I CAP per i comuni istituiti a gennaio e febbraio 2019 sono provvisori.**
 
-**Il 2018-10-26 è stato aggiunto il campo `popolazione`.**
+Il 26/10/2018 è stato aggiunto il campo `popolazione`.
+
+**ATTENZIONE: nell'aggiornamento del 16/02/2019 è stato rimosso il campo `cm` (vedi [#22](https://github.com/matteocontrini/comuni-json/issues/22) per i dettagli). Inoltre, il campo `codiceCatastale` può essere vuoto per i comuni di nuova istituzione, in attesa della pubblicazione dei codici da parte dell'Agenzia delle Entrate.**
