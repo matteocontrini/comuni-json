@@ -2,20 +2,16 @@
 	"nome": "Pazzano",
 	"codice": "080058",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "18",
 		"nome": "Calabria"
 	},
-	"cm": {
-		"codice": "280",
-		"nome": "Reggio di Calabria"
-	},
 	"provincia": {
 		"codice": "080",
-		"nome": ""
+		"nome": "Reggio Calabria"
 	},
 	"sigla": "RC",
 	"codiceCatastale": "G394",

@@ -2,20 +2,16 @@
 	"nome": "Quartu Sant'Elena",
 	"codice": "092051",
 	"zona": {
-		"nome": "Isole",
-		"codice": "5"
+		"codice": "5",
+		"nome": "Isole"
 	},
 	"regione": {
 		"codice": "20",
 		"nome": "Sardegna"
 	},
-	"cm": {
-		"codice": "292",
-		"nome": "Cagliari"
-	},
 	"provincia": {
 		"codice": "092",
-		"nome": ""
+		"nome": "Cagliari"
 	},
 	"sigla": "CA",
 	"codiceCatastale": "H118",

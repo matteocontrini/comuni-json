@@ -2,16 +2,12 @@
 	"nome": "Vigarano Mainarda",
 	"codice": "038022",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "08",
 		"nome": "Emilia-Romagna"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "038",

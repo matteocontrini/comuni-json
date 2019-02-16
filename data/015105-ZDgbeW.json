@@ -2,20 +2,16 @@
 	"nome": "Garbagnate Milanese",
 	"codice": "015105",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
 	},
-	"cm": {
-		"codice": "215",
-		"nome": "Milano"
-	},
 	"provincia": {
 		"codice": "015",
-		"nome": ""
+		"nome": "Milano"
 	},
 	"sigla": "MI",
 	"codiceCatastale": "D912",

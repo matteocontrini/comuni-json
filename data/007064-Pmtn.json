@@ -2,16 +2,12 @@
 	"nome": "Saint-Rhémy-en-Bosses",
 	"codice": "007064",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "02",
 		"nome": "Valle d'Aosta/Vallée d'Aoste"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "007",

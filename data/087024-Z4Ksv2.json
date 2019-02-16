@@ -2,20 +2,16 @@
 	"nome": "Mascalucia",
 	"codice": "087024",
 	"zona": {
-		"nome": "Isole",
-		"codice": "5"
+		"codice": "5",
+		"nome": "Isole"
 	},
 	"regione": {
 		"codice": "19",
 		"nome": "Sicilia"
 	},
-	"cm": {
-		"codice": "287",
-		"nome": "Catania"
-	},
 	"provincia": {
 		"codice": "087",
-		"nome": ""
+		"nome": "Catania"
 	},
 	"sigla": "CT",
 	"codiceCatastale": "F005",

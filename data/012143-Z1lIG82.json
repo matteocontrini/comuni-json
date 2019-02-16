@@ -2,16 +2,12 @@
 	"nome": "Cadrezzate con Osmate",
 	"codice": "012143",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "012",
@@ -23,5 +19,5 @@
 		"21020",
 		"21018"
 	],
-	"popolazione": 1818
+	"popolazione": 2590
 }

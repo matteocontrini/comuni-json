@@ -2,16 +2,12 @@
 	"nome": "Merana",
 	"codice": "006093",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "006",

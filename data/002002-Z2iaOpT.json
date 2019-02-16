@@ -2,16 +2,12 @@
 	"nome": "Alagna Valsesia",
 	"codice": "002002",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "002",
@@ -23,5 +19,5 @@
 		"13021",
 		"13020"
 	],
-	"popolazione": 420
+	"popolazione": 671
 }

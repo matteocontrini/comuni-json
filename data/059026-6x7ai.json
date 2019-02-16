@@ -2,16 +2,12 @@
 	"nome": "Santi Cosma e Damiano",
 	"codice": "059026",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "12",
 		"nome": "Lazio"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "059",

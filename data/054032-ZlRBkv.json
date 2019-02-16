@@ -2,16 +2,12 @@
 	"nome": "Monte Santa Maria Tiberina",
 	"codice": "054032",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "10",
 		"nome": "Umbria"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "054",

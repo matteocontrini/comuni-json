@@ -2,16 +2,12 @@
 	"nome": "Sternatia",
 	"codice": "075080",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "16",
 		"nome": "Puglia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "075",

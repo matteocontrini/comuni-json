@@ -2,16 +2,12 @@
 	"nome": "Fiumefreddo Bruzio",
 	"codice": "078055",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "18",
 		"nome": "Calabria"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "078",

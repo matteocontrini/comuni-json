@@ -2,16 +2,12 @@
 	"nome": "Moiano",
 	"codice": "062040",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "15",
 		"nome": "Campania"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "062",

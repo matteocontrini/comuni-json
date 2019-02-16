@@ -1,17 +1,13 @@
 {
-	"nome": "Naturno",
+	"nome": "Naturno/Naturns",
 	"codice": "021056",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "04",
 		"nome": "Trentino-Alto Adige/Südtirol"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "021",

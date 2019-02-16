@@ -2,16 +2,12 @@
 	"nome": "Carbonara al Ticino",
 	"codice": "018030",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "018",

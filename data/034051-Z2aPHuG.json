@@ -2,16 +2,12 @@
 	"nome": "Sorbolo Mezzani",
 	"codice": "034051",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "08",
 		"nome": "Emilia-Romagna"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "034",
@@ -23,5 +19,5 @@
 		"43055",
 		"43058"
 	],
-	"popolazione": 3382
+	"popolazione": 12984
 }

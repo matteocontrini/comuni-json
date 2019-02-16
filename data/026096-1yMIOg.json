@@ -2,16 +2,12 @@
 	"nome": "Pieve del Grappa",
 	"codice": "026096",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "05",
 		"nome": "Veneto"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "026",
@@ -22,5 +18,5 @@
 	"cap": [
 		"31017"
 	],
-	"popolazione": 4713
+	"popolazione": 6882
 }

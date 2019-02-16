@@ -2,16 +2,12 @@
 	"nome": "Sant'Ambrogio sul Garigliano",
 	"codice": "060065",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "12",
 		"nome": "Lazio"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "060",

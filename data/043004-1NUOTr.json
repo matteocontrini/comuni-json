@@ -2,16 +2,12 @@
 	"nome": "Belforte del Chienti",
 	"codice": "043004",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "11",
 		"nome": "Marche"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "043",

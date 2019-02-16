@@ -2,20 +2,16 @@
 	"nome": "San Pietro in Casale",
 	"codice": "037055",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "08",
 		"nome": "Emilia-Romagna"
 	},
-	"cm": {
-		"codice": "237",
-		"nome": "Bologna"
-	},
 	"provincia": {
 		"codice": "037",
-		"nome": ""
+		"nome": "Bologna"
 	},
 	"sigla": "BO",
 	"codiceCatastale": "I110",

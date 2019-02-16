@@ -2,20 +2,16 @@
 	"nome": "Favale di Malvaro",
 	"codice": "010023",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "07",
 		"nome": "Liguria"
 	},
-	"cm": {
-		"codice": "210",
-		"nome": "Genova"
-	},
 	"provincia": {
 		"codice": "010",
-		"nome": ""
+		"nome": "Genova"
 	},
 	"sigla": "GE",
 	"codiceCatastale": "D512",

@@ -2,16 +2,12 @@
 	"nome": "Torre de' Picenardi",
 	"codice": "019107",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "019",
@@ -23,5 +19,5 @@
 		"26038",
 		"26030"
 	],
-	"popolazione": 1769
+	"popolazione": 2249
 }

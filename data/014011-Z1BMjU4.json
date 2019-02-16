@@ -2,16 +2,12 @@
 	"nome": "Caiolo",
 	"codice": "014011",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "014",

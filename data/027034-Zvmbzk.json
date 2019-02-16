@@ -2,20 +2,16 @@
 	"nome": "San Michele al Tagliamento",
 	"codice": "027034",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "05",
 		"nome": "Veneto"
 	},
-	"cm": {
-		"codice": "227",
-		"nome": "Venezia"
-	},
 	"provincia": {
 		"codice": "027",
-		"nome": ""
+		"nome": "Venezia"
 	},
 	"sigla": "VE",
 	"codiceCatastale": "I040",

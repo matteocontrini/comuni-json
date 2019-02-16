@@ -2,20 +2,16 @@
 	"nome": "Corleone",
 	"codice": "082034",
 	"zona": {
-		"nome": "Isole",
-		"codice": "5"
+		"codice": "5",
+		"nome": "Isole"
 	},
 	"regione": {
 		"codice": "19",
 		"nome": "Sicilia"
 	},
-	"cm": {
-		"codice": "282",
-		"nome": "Palermo"
-	},
 	"provincia": {
 		"codice": "082",
-		"nome": ""
+		"nome": "Palermo"
 	},
 	"sigla": "PA",
 	"codiceCatastale": "D009",

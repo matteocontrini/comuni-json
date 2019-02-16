@@ -2,16 +2,12 @@
 	"nome": "Bagni di Lucca",
 	"codice": "046002",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "09",
 		"nome": "Toscana"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "046",

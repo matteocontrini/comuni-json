@@ -2,25 +2,21 @@
 	"nome": "Valchiusa",
 	"codice": "001318",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
 	},
-	"cm": {
-		"codice": "201",
-		"nome": "Torino"
-	},
 	"provincia": {
 		"codice": "001",
-		"nome": ""
+		"nome": "Torino"
 	},
 	"sigla": "TO",
 	"codiceCatastale": "M415",
 	"cap": [
 		"10080"
 	],
-	"popolazione": 93
+	"popolazione": 1106
 }

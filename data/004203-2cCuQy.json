@@ -2,16 +2,12 @@
 	"nome": "Saluzzo",
 	"codice": "004203",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "004",
@@ -23,5 +19,5 @@
 		"12037",
 		"12030"
 	],
-	"popolazione": 16940
+	"popolazione": 17224
 }

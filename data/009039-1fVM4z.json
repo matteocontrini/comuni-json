@@ -2,16 +2,12 @@
 	"nome": "Mioglia",
 	"codice": "009039",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "07",
 		"nome": "Liguria"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "009",

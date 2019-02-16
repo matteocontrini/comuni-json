@@ -2,20 +2,16 @@
 	"nome": "Val di Chy",
 	"codice": "001317",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
 	},
-	"cm": {
-		"codice": "201",
-		"nome": "Torino"
-	},
 	"provincia": {
 		"codice": "001",
-		"nome": ""
+		"nome": "Torino"
 	},
 	"sigla": "TO",
 	"codiceCatastale": "M405",
@@ -23,5 +19,5 @@
 		"10010",
 		"10080"
 	],
-	"popolazione": 701
+	"popolazione": 1289
 }

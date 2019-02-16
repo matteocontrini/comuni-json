@@ -2,16 +2,12 @@
 	"nome": "Montefalcone nel Sannio",
 	"codice": "070043",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "14",
 		"nome": "Molise"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "070",

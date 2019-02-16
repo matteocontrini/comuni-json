@@ -2,16 +2,12 @@
 	"nome": "Gattico-Veruno",
 	"codice": "003166",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "003",
@@ -23,5 +19,5 @@
 		"28013",
 		"28010"
 	],
-	"popolazione": 3361
+	"popolazione": 5205
 }

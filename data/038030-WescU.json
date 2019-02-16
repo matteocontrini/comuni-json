@@ -2,16 +2,12 @@
 	"nome": "Tresignana",
 	"codice": "038030",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "08",
 		"nome": "Emilia-Romagna"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "038",
@@ -23,5 +19,5 @@
 		"44035",
 		"44039"
 	],
-	"popolazione": 2803
+	"popolazione": 7364
 }

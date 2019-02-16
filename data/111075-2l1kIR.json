@@ -2,16 +2,12 @@
 	"nome": "Senorbì",
 	"codice": "111075",
 	"zona": {
-		"nome": "Isole",
-		"codice": "5"
+		"codice": "5",
+		"nome": "Isole"
 	},
 	"regione": {
 		"codice": "20",
 		"nome": "Sardegna"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "111",

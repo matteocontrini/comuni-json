@@ -1,17 +1,13 @@
 {
-	"nome": "Savogna d'Isonzo",
+	"nome": "Savogna d'Isonzo-Sovodnje ob So?i",
 	"codice": "031022",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "06",
 		"nome": "Friuli-Venezia Giulia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "031",

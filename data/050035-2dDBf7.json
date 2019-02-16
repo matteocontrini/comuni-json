@@ -2,16 +2,12 @@
 	"nome": "Santa Maria a Monte",
 	"codice": "050035",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "09",
 		"nome": "Toscana"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "050",

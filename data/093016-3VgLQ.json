@@ -2,16 +2,12 @@
 	"nome": "Clauzetto",
 	"codice": "093016",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "06",
 		"nome": "Friuli-Venezia Giulia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "093",

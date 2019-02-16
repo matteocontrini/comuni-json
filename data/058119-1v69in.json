@@ -2,20 +2,16 @@
 	"nome": "San Cesareo",
 	"codice": "058119",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "12",
 		"nome": "Lazio"
 	},
-	"cm": {
-		"codice": "258",
-		"nome": "Roma"
-	},
 	"provincia": {
 		"codice": "058",
-		"nome": ""
+		"nome": "Roma"
 	},
 	"sigla": "RM",
 	"codiceCatastale": "M295",

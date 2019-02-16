@@ -2,20 +2,16 @@
 	"nome": "Poggiorsini",
 	"codice": "072034",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "16",
 		"nome": "Puglia"
 	},
-	"cm": {
-		"codice": "272",
-		"nome": "Bari"
-	},
 	"provincia": {
 		"codice": "072",
-		"nome": ""
+		"nome": "Bari"
 	},
 	"sigla": "BA",
 	"codiceCatastale": "G769",

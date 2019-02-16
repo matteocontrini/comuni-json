@@ -2,16 +2,12 @@
 	"nome": "Colli a Volturno",
 	"codice": "094017",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "14",
 		"nome": "Molise"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "094",

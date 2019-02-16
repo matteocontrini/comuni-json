@@ -2,16 +2,12 @@
 	"nome": "Piana di Monte Verna",
 	"codice": "061056",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "15",
 		"nome": "Campania"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "061",

@@ -2,20 +2,16 @@
 	"nome": "Imola",
 	"codice": "037032",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "08",
 		"nome": "Emilia-Romagna"
 	},
-	"cm": {
-		"codice": "237",
-		"nome": "Bologna"
-	},
 	"provincia": {
 		"codice": "037",
-		"nome": ""
+		"nome": "Bologna"
 	},
 	"sigla": "BO",
 	"codiceCatastale": "E289",

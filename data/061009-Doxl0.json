@@ -2,16 +2,12 @@
 	"nome": "Caiazzo",
 	"codice": "061009",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "15",
 		"nome": "Campania"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "061",

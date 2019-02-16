@@ -2,16 +2,12 @@
 	"nome": "Bella",
 	"codice": "076012",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "17",
 		"nome": "Basilicata"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "076",

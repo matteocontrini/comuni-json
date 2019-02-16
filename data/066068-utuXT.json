@@ -2,16 +2,12 @@
 	"nome": "Pescasseroli",
 	"codice": "066068",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "13",
 		"nome": "Abruzzo"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "066",

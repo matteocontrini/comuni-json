@@ -1,17 +1,13 @@
 {
-	"nome": "Borgofranco sul Po",
+	"nome": "Borgocarbonara  ",
 	"codice": "020073",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "020",
@@ -22,5 +18,5 @@
 	"cap": [
 		"46020"
 	],
-	"popolazione": 790
+	"popolazione": 2123
 }

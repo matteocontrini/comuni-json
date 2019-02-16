@@ -2,16 +2,12 @@
 	"nome": "Riva del Po",
 	"codice": "038029",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "08",
 		"nome": "Emilia-Romagna"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "038",
@@ -23,5 +19,5 @@
 		"44033",
 		"44030"
 	],
-	"popolazione": 5160
+	"popolazione": 8508
 }

@@ -2,16 +2,12 @@
 	"nome": "Piadena Drizzona",
 	"codice": "019116",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "03",
 		"nome": "Lombardia"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "019",
@@ -22,5 +18,5 @@
 	"cap": [
 		"26034"
 	],
-	"popolazione": 552
+	"popolazione": 4132
 }

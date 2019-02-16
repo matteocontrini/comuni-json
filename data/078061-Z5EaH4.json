@@ -2,16 +2,12 @@
 	"nome": "Guardia Piemontese",
 	"codice": "078061",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "18",
 		"nome": "Calabria"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "078",

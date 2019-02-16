@@ -2,16 +2,12 @@
 	"nome": "Alanno",
 	"codice": "068002",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "13",
 		"nome": "Abruzzo"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "068",

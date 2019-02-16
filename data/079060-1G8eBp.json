@@ -2,16 +2,12 @@
 	"nome": "Gizzeria",
 	"codice": "079060",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "18",
 		"nome": "Calabria"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "079",

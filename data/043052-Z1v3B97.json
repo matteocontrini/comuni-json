@@ -2,16 +2,12 @@
 	"nome": "Serravalle di Chienti",
 	"codice": "043052",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "11",
 		"nome": "Marche"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "043",

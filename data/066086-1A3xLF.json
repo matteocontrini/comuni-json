@@ -2,16 +2,12 @@
 	"nome": "San Benedetto in Perillis",
 	"codice": "066086",
 	"zona": {
-		"nome": "Sud",
-		"codice": "4"
+		"codice": "4",
+		"nome": "Sud"
 	},
 	"regione": {
 		"codice": "13",
 		"nome": "Abruzzo"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "066",

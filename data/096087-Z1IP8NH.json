@@ -2,16 +2,12 @@
 	"nome": "Quaregna Cerreto",
 	"codice": "096087",
 	"zona": {
-		"nome": "Nord-ovest",
-		"codice": "1"
+		"codice": "1",
+		"nome": "Nord-ovest"
 	},
 	"regione": {
 		"codice": "01",
 		"nome": "Piemonte"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "096",
@@ -23,5 +19,5 @@
 		"13852",
 		"13854"
 	],
-	"popolazione": 628
+	"popolazione": 2018
 }

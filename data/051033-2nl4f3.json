@@ -2,16 +2,12 @@
 	"nome": "San Giovanni Valdarno",
 	"codice": "051033",
 	"zona": {
-		"nome": "Centro",
-		"codice": "3"
+		"codice": "3",
+		"nome": "Centro"
 	},
 	"regione": {
 		"codice": "09",
 		"nome": "Toscana"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "051",

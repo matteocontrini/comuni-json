@@ -2,16 +2,12 @@
 	"nome": "Costa di Rovigo",
 	"codice": "029018",
 	"zona": {
-		"nome": "Nord-est",
-		"codice": "2"
+		"codice": "2",
+		"nome": "Nord-est"
 	},
 	"regione": {
 		"codice": "05",
 		"nome": "Veneto"
-	},
-	"cm": {
-		"codice": "",
-		"nome": ""
 	},
 	"provincia": {
 		"codice": "029",
