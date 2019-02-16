@@ -241,3 +241,4 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/node,python,windows,visualstudiocode
 
 scripts-old/
+scripts/**/tmp
