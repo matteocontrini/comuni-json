@@ -1,6 +1,6 @@
 {
-	"nome": "Molvena",
-	"codice": "024059",
+	"nome": "Lusiana Conco",
+	"codice": "024127",
 	"zona": {
 		"codice": "2",
 		"nome": "Nord-est"
@@ -14,9 +14,10 @@
 		"nome": "Vicenza"
 	},
 	"sigla": "VI",
-	"codiceCatastale": "F306",
+	"codiceCatastale": "E762",
 	"cap": [
-		"36060"
+		"36046",
+		"36062"
 	],
-	"popolazione": 2596
+	"popolazione": 2740
 }

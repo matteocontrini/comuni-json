@@ -1,6 +1,6 @@
 {
-	"nome": "Mason Vicentino",
-	"codice": "024058",
+	"nome": "Colceresa",
+	"codice": "024126",
 	"zona": {
 		"codice": "2",
 		"nome": "Nord-est"
@@ -14,9 +14,10 @@
 		"nome": "Vicenza"
 	},
 	"sigla": "VI",
-	"codiceCatastale": "F019",
+	"codiceCatastale": "M426",
 	"cap": [
-		"36064"
+		"36064",
+		"36060"
 	],
 	"popolazione": 3517
 }
