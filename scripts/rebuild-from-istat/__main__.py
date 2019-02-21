@@ -5,7 +5,7 @@ from glob import glob
 
 class Application:
     def run(self):
-        with open('istat20190215.csv', 'r') as file:
+        with open('istat20190220.csv', 'r') as file:
             self._read_file(file)
     
     def _read_file(self, file):
@@ -34,7 +34,7 @@ class Application:
             raise Exception(f'Missing CAP {istat}')
         
         comune = {
-            'nome': row[5],
+            'nome': row[6].strip(),
             'codice': row[4],
             'zona': {
                 'codice': row[8],
