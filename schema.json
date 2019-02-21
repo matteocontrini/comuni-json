@@ -65,7 +65,7 @@
 		},
 		"codiceCatastale": {
 			"type": "string",
-			"pattern": "(^[A-Z]{1}[0-9]{3}$)|(^$)"
+			"pattern": "^[A-Z]{1}[0-9]{3}$"
 		},
 		"cap": {
 			"type": "array",
