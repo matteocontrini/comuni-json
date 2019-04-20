@@ -1,13 +1,15 @@
 # comuni-json
-Database comuni italiani con informazioni ISTAT e CAP.
+**Database non ufficiale dei comuni italiani, con informazioni ISTAT e CAP.**
 
 Il file JSON con tutti i **7915 comuni** è [`comuni.json`](https://github.com/matteocontrini/comuni-json/raw/master/comuni.json).
 
 La lista dei comuni è aggiornata al 20/02/2019. Comprende i [nuovi comuni 2019](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2019/) (gennaio e febbraio), con CAP aggiornati a novembre 2018. I CAP dei nuovi comuni sono provvisori fino a quando Poste Italiane non li aggiorna.
 
-**ATTENZIONE: nell'aggiornamento del 16/02/2019 è stato rimosso il campo `cm` (vedi [#22](https://github.com/matteocontrini/comuni-json/issues/22) per la discussione).**
+**NOTA: la completezza e correttezza dei CAP non può essere garantita** perché Poste Italiane non rilascia pubblicamente la lista completa dei CAP. Ne consegue che **questi dati non sono indicati per usi professionali o che richiedono garanzie di affidabilità** (si consiglia per quei casi di considerare i servizi a pagamento "[Professional](https://business.poste.it/professionisti-imprese/prodotti/cap-professional-dati-toponomastici-localita-italiane.html)" di Poste).
 
-Vedi [Aggiornamenti](#aggiornamenti) per altre informazioni.
+Vedi la sezione [Aggiornamenti](#aggiornamenti) per le ultime modifiche.
+
+## Descrizione campi
 
 * Nome (campo `nome`)
 * Codice ISTAT (campo `codice`)
