@@ -1,6 +1,6 @@
 {
-	"nome": "Presicce",
-	"codice": "075062",
+	"nome": "Presicce-Acquarica",
+	"codice": "075098",
 	"zona": {
 		"codice": "4",
 		"nome": "Sud"
@@ -14,9 +14,10 @@
 		"nome": "Lecce"
 	},
 	"sigla": "LE",
-	"codiceCatastale": "H047",
+	"codiceCatastale": "M428",
 	"cap": [
-		"73054"
+		"73054",
+		"73040"
 	],
-	"popolazione": 5589
+	"popolazione": 10487
 }
