@@ -5,7 +5,7 @@ from glob import glob
 
 class Application:
     def run(self):
-        with open('istat20190220.csv', 'r') as file:
+        with open('istat20190515.csv', 'r') as file:
             self._read_file(file)
     
     def _read_file(self, file):
@@ -20,18 +20,21 @@ class Application:
     def _generate_file(self, row, i):
         istat = row[4]
         files = glob(f'../../data/{istat}-*.json')
-        if len(files) != 1:
-            raise Exception(f"Missing/duplicates for {istat}: {files}")
-        
-        existing_file_path = files[0]
-        # Carica i CAP per questo comune, in modo da non perderlo
-        # quando si rigenera il file JSON
-        with open(existing_file_path, 'r') as existing_file:
-            existing_data = json.load(existing_file)
-            cap_list = existing_data['cap']
-        
-        if (len(cap_list) == 0):
-            raise Exception(f'Missing CAP {istat}')
+        if len(files) > 1:
+            raise Exception(f"Duplicate existing files for {istat}: {files}")
+        elif len(files) == 0:
+            # Nuovo comune. Lo scriviamo da qualche parte per poi sistemare a mano hash e CAP
+            existing_file_path = f"../../data/{istat}.json"
+            cap_list = []
+        else:
+            existing_file_path = files[0]
+            # Carica i CAP per questo comune, in modo da non perderlo
+            # quando si rigenera il file JSON
+            with open(existing_file_path, 'r') as existing_file:
+                cap_list = json.load(existing_file)['cap']
+            
+            if (len(cap_list) == 0):
+                raise Exception(f'Missing CAP {istat}')
         
         comune = {
             'nome': row[6].strip(),
