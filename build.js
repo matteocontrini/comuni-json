@@ -29,9 +29,7 @@ function CheckData(thisData, destArray, destFound, onNew)
 		let newData = JSON.parse(JSON.stringify(thisData));
 		if(onNew) {
 			onNew(newData);
-		} else {
-			newData = JSON.parse(JSON.stringify(thisData));
-		}		
+		} 		
 		destArray.push( newData );
 		destFound[thisData['codice']] = destArray.length-1;
 		return newData;
