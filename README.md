@@ -3,7 +3,7 @@
 
 Il file JSON con tutti i **7914 comuni** è [`comuni.json`](https://github.com/matteocontrini/comuni-json/raw/master/comuni.json).
 
-La lista dei comuni è aggiornata al 15/05/2019. Comprende i [nuovi comuni 2019](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2019/) (gennaio, febbraio e maggio), con CAP aggiornati a novembre 2018. I CAP dei nuovi comuni sono provvisori fino a quando Poste Italiane non li aggiorna.
+La lista dei comuni è aggiornata al 15/05/2019. Comprende i [nuovi comuni 2019](http://www.tuttitalia.it/variazioni-amministrative/nuovi-comuni-2019/) (gennaio, febbraio e maggio), con CAP aggiornati a giugno 2019. I CAP dei nuovi comuni sono provvisori fino a quando Poste Italiane non li aggiorna.
 
 **NOTA: la completezza e correttezza dei CAP non può essere garantita** perché Poste Italiane non rilascia pubblicamente la lista completa dei CAP. Ne consegue che **questi dati non sono indicati per usi professionali o che richiedono garanzie di affidabilità** (si consiglia per quei casi di considerare i servizi a pagamento "[Professional](https://business.poste.it/professionisti-imprese/prodotti/cap-professional-dati-toponomastici-localita-italiane.html)" di Poste).
 
@@ -124,9 +124,9 @@ Il database è basato su [dati ISTAT](http://www.istat.it/it/archivio/6789) ed �
 
 I dati sono aggiornati al 15/05/2019 ([PDF Istat](pdf/istat-2017-2019.pdf)).
 
-Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [18/04/2016](pdf/cap-aggiornamento-2016.pdf), il [21/11/2016](pdf/cap-aggiornamento-2016-II.pdf), l'[08/05/2017](pdf/cap-aggiornamento-2017.pdf), nel mese di [novembre 2017](pdf/cap-aggiornamento-2017-II.pdf), [marzo 2018](pdf/cap-aggiornamento-2018.pdf) e novembre 2018 ([1](pdf/cap-aggiornamento-2018-IIa.pdf) e [2](pdf/cap-aggiornamento-2018-IIb.pdf)).
+Sono state apportate correzioni manuali in seguito agli aggiornamenti dei CAP comunicati da Poste Italiane il [18/04/2016](pdf/cap-aggiornamento-2016.pdf), il [21/11/2016](pdf/cap-aggiornamento-2016-II.pdf), l'[08/05/2017](pdf/cap-aggiornamento-2017.pdf), nel mese di [novembre 2017](pdf/cap-aggiornamento-2017-II.pdf), [marzo 2018](pdf/cap-aggiornamento-2018.pdf), novembre 2018 ([1](pdf/cap-aggiornamento-2018-IIa.pdf) e [2](pdf/cap-aggiornamento-2018-IIb.pdf)) e il [17/06/2019](pdf/cap-aggiornamento-2019.pdf).
 
-I CAP per i comuni istituiti (per fusione o incorporamento) a febbraio e maggio 2017 non sono stati comunicati da Poste Italiane. Sono invece presenti i nuovi CAP per i comuni istituiti all'inizio del 2017 e durante il 2018. **I CAP per i comuni istituiti a gennaio, febbraio e maggio 2019 sono provvisori.**
+I CAP per i comuni istituiti (per fusione o incorporamento) a febbraio e maggio 2017 non sono stati comunicati da Poste Italiane. Sono invece presenti i nuovi CAP per i comuni istituiti all'inizio del 2017 e durante il 2018. **I CAP per i comuni istituiti a maggio 2019 sono provvisori.**
 
 Il 26/10/2018 è stato aggiunto il campo `popolazione`.
 
