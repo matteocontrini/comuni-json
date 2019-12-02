@@ -1,0 +1,29 @@
+name: Build comuni.json
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Build
+        run: |
+          npm run build
+      - name: Commit changes
+        run: |
+          git status
+          git add comuni.json
+          git config --local user.email "matteo@contrini.it"
+          git config --local user.name "Matteo Contrini (GitHub Actions)"
+          git commit -m "Build (GitHub Actions)" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
