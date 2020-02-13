@@ -5,7 +5,7 @@ from glob import glob
 
 class Application:
     def run(self):
-        with open('istat20190515.csv', 'r') as file:
+        with open('istat20200101.csv', 'r') as file:
             self._read_file(file)
     
     def _read_file(self, file):
