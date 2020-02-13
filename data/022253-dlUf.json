@@ -1,6 +1,6 @@
 {
-	"nome": "Cagnò",
-	"codice": "022030",
+	"nome": "Novella",
+	"codice": "022253",
 	"zona": {
 		"codice": "2",
 		"nome": "Nord-est"
@@ -14,9 +14,11 @@
 		"nome": "Trento"
 	},
 	"sigla": "TN",
-	"codiceCatastale": "B360",
+	"codiceCatastale": "M430",
 	"cap": [
-		"38028"
+		"38021",
+		"38028",
+		"38020"
 	],
-	"popolazione": 360
+	"popolazione": 3610
 }

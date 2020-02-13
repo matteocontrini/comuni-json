@@ -1,6 +1,6 @@
 {
-	"nome": "Varena",
-	"codice": "022211",
+	"nome": "Borgo d'Anaunia",
+	"codice": "022252",
 	"zona": {
 		"codice": "2",
 		"nome": "Nord-est"
@@ -14,9 +14,10 @@
 		"nome": "Trento"
 	},
 	"sigla": "TN",
-	"codiceCatastale": "L678",
+	"codiceCatastale": "M429",
 	"cap": [
-		"38030"
+		"38013",
+		"38020"
 	],
-	"popolazione": 845
+	"popolazione": 2490
 }

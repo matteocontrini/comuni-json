@@ -1,6 +1,6 @@
 {
-	"nome": "Cloz",
-	"codice": "022063",
+	"nome": "Ville di Fiemme",
+	"codice": "022254",
 	"zona": {
 		"codice": "2",
 		"nome": "Nord-est"
@@ -14,9 +14,10 @@
 		"nome": "Trento"
 	},
 	"sigla": "TN",
-	"codiceCatastale": "C797",
+	"codiceCatastale": "M431",
 	"cap": [
-		"38020"
+		"38033",
+		"38030"
 	],
-	"popolazione": 729
+	"popolazione": 2596
 }
