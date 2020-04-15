@@ -1,5 +1,6 @@
 {
 	"nome": "Prato",
+	"nomeAlt": "",
 	"codice": "100005",
 	"zona": {
 		"codice": "3",

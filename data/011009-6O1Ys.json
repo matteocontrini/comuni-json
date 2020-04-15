@@ -1,5 +1,6 @@
 {
 	"nome": "Carro",
+	"nomeAlt": "",
 	"codice": "011009",
 	"zona": {
 		"codice": "1",

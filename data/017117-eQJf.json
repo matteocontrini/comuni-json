@@ -1,5 +1,6 @@
 {
 	"nome": "Nave",
+	"nomeAlt": "",
 	"codice": "017117",
 	"zona": {
 		"codice": "1",
