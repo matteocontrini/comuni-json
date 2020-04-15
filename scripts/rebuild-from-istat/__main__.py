@@ -5,7 +5,7 @@ from glob import glob
 
 class Application:
     def run(self):
-        with open('istat20200101.csv', 'r') as file:
+        with open('istat20200101.csv', 'r', encoding="ISO-8859-1") as file:
             self._read_file(file)
     
     def _read_file(self, file):
@@ -38,6 +38,7 @@ class Application:
         
         comune = {
             'nome': row[6].strip(),
+            'nomeAlt': row[7].strip(),
             'codice': row[4],
             'zona': {
                 'codice': row[8],
